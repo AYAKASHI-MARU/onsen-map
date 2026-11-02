@@ -19,6 +19,12 @@
 - `npm run data` データ生成（結果は `research/build-report.md`）
 - `npm run build` 本番ビルド（`dist/` を静的ホスティングに置けば動く）
 
+## 公開
+
+- GitHub: `AYAKASHI-MARU/onsen-map`（公開リポジトリ）。`main` に push すると `.github/workflows/deploy.yml` がビルドして GitHub Pages に公開する。
+- アプリの URL: https://ayakashi-maru.github.io/onsen-map/
+- Google Maps の API キーは、リポジトリの Secrets `VITE_GOOGLE_MAPS_API_KEY` に入れるとビルドに使われる（未設定なら OSRM）。
+
 ## データ調査の進め方
 
 1都道府県（大きい道県は地域分割）を1エージェントに任せ、地方ごとに段階を分けて実行する。
