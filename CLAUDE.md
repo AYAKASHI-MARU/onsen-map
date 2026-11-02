@@ -24,6 +24,7 @@
 - GitHub: `AYAKASHI-MARU/onsen-map`（公開リポジトリ）。`main` に push すると `.github/workflows/deploy.yml` がビルドして GitHub Pages に公開する。
 - アプリの URL: https://ayakashi-maru.github.io/onsen-map/
 - Google Maps の API キーは、リポジトリの Secrets `VITE_GOOGLE_MAPS_API_KEY` に入れるとビルドに使われる（未設定なら OSRM）。
+- **有料サービスは使わない**（ユーザーの指示・2026-11-02）。少しでも料金が発生しうるサービス（Google Cloud・Routes API など）は導入も提案もしない。移動時間は無料の OSRM で計算し、Google マップへはリンク（キー不要）でつなぐ。
 
 ## データ調査の進め方
 
