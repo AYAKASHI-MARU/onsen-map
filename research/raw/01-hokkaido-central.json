@@ -1,0 +1,2002 @@
+{
+  "prefecture": "北海道",
+  "prefCode": "01",
+  "area": "道央",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "湯けむりの丘 つきさむ温泉",
+      "address": "北海道札幌市豊平区月寒東1条20丁目5-40",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "早朝6〜9時は別料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://tsukisamu.jp/",
+      "sources": [
+        "https://tsukisamu.jp/price/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式。浴室サウナの詳細は公式で未確認（サウナイキタイ掲載あり）"
+    },
+    {
+      "name": "ていね温泉 ほのか",
+      "address": "北海道札幌市手稲区富丘2条3丁目2-1",
+      "weekdayAdult": 1450,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "湯着orタオルセット込。深夜1時以降加算（1,500〜2,100円）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://yudokoro-honoka.jp/teine/",
+      "sources": [
+        "https://yudokoro-honoka.jp/teine/fee/"
+      ],
+      "confidence": "high",
+      "notice": "改修のため2026/11/9〜11/19休館予定"
+    },
+    {
+      "name": "えにわ温泉 ほのか",
+      "address": "北海道恵庭市戸磯397-2",
+      "weekdayAdult": 1150,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "湯着orタオルセット込",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://yudokoro-honoka.jp/eniwa/",
+      "sources": [
+        "https://yudokoro-honoka.jp/eniwa/fee/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "苫小牧温泉 ほのか",
+      "address": "北海道苫小牧市糸井124-1",
+      "weekdayAdult": 1150,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "湯着orタオルセット込",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "女湯に瞑想サウナ（セルフロウリュ）",
+      "url": "https://yudokoro-honoka.jp/tomakomai/",
+      "sources": [
+        "https://yudokoro-honoka.jp/tomakomai/fee/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "岩見沢温泉 ほのか",
+      "address": "北海道岩見沢市上幌向南1条1丁目1196-2",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1150,
+      "saunaFee": 0,
+      "priceNote": "湯着・タオル込。深夜1時以降加算（1,500〜1,900円）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "露天にバレルサウナ",
+      "url": "https://yudokoro-honoka.jp/iwamizawa/",
+      "sources": [
+        "https://yudokoro-honoka.jp/iwamizawa/fee/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "やすらぎの湯 北のたまゆら 桑園店",
+      "address": "北海道札幌市中央区北11条西16丁目1-34",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.e-u.jp/souen_main.html",
+      "sources": [
+        "http://www.e-u.jp/souen_main.html",
+        "https://sauna-ikitai.com/search?keyword=たまゆら"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式。サウナはサウナイキタイ・ニフティ掲載のみ"
+    },
+    {
+      "name": "やすらぎの湯 北のたまゆら 東苗穂店",
+      "address": "北海道札幌市東区東苗穂11条2丁目896-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.e-u.jp/higasi_main.html",
+      "sources": [
+        "http://www.e-u.jp/higasi_main.html",
+        "https://onsen.nifty.com/sapporo-onsen/onsen006783/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式。サウナはポータル掲載のみ"
+    },
+    {
+      "name": "やすらぎの湯 北のたまゆら 厚別店",
+      "address": "北海道札幌市厚別区大谷地東7丁目",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.e-u.jp/atubetu_main.html",
+      "sources": [
+        "http://www.e-u.jp/atubetu_main.html"
+      ],
+      "confidence": "medium",
+      "note": "番地は公式に記載なし。サウナはポータル掲載のみ"
+    },
+    {
+      "name": "やすらぎの湯 北のたまゆら 江別店",
+      "address": "北海道江別市野幌屯田町48-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.e-u.jp/ebetu_main.html",
+      "sources": [
+        "http://www.e-u.jp/ebetu_main.html"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル掲載のみ"
+    },
+    {
+      "name": "モエレ天然温泉 たまゆらの杜",
+      "address": "北海道札幌市東区中沼西1条1丁目11-10",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴込。深夜1時以降滞在は別途1,600円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.e-u.jp/mori/",
+      "sources": [
+        "https://www.e-u.jp/mori/guide/",
+        "https://www.e-u.jp/mori/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "機械整備のため2026/11/11・12休業"
+    },
+    {
+      "name": "小樽天然温泉 湯の花 朝里殿",
+      "address": "北海道小樽市新光5丁目12番24号",
+      "weekdayAdult": 980,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "http://www.yunohana.org/asari/",
+      "sources": [
+        "http://www.yunohana.org/asari/ryokin/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "小樽天然温泉 湯の花 手宮殿",
+      "address": "北海道小樽市手宮1丁目5番20号",
+      "weekdayAdult": 980,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yunohana.org/temiya/",
+      "sources": [
+        "http://www.yunohana.org/temiya/ryokin/"
+      ],
+      "confidence": "medium",
+      "note": "サウナ有無はポータル掲載で確認"
+    },
+    {
+      "name": "定山渓温泉 湯の花 定山渓殿",
+      "address": "北海道札幌市南区定山渓温泉東4丁目330番4",
+      "weekdayAdult": 1180,
+      "holidayAdult": 1180,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "http://www.yunohana.org/jyouzankei/",
+      "sources": [
+        "http://www.yunohana.org/jyouzankei/ryokin/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "江別天然温泉 湯の花 江別殿",
+      "address": "北海道江別市野幌美幸町33番地",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yunohana.org/ebetsu/",
+      "sources": [
+        "http://www.yunohana.org/ebetsu/ryokin/"
+      ],
+      "confidence": "medium",
+      "note": "サウナ有無はポータル掲載で確認"
+    },
+    {
+      "name": "里の森 森のゆ",
+      "address": "北海道北広島市西の里511番地1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://satonomori.com/",
+      "sources": [
+        "https://satonomori.com/guide/",
+        "https://satonomori.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "新琴似温泉 壱乃湯",
+      "address": "北海道札幌市北区新琴似2条8丁目8-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "公衆浴場料金（2026/10/1改定）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "女湯は低温サウナ",
+      "url": "http://www.onsen-ichinoyu.com/",
+      "sources": [
+        "http://www.onsen-ichinoyu.com/fee/",
+        "http://www.onsen-ichinoyu.com/spa/"
+      ],
+      "confidence": "medium",
+      "note": "10/1改定後の額はPDFのみで未読。道内銭湯の公式表示550円に合わせた"
+    },
+    {
+      "name": "札幌あいの里温泉 なごみ",
+      "address": "北海道札幌市北区南あいの里5丁目1-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://nagomi-onsen.jp/ainosato/",
+      "sources": [
+        "http://nagomi-onsen.jp/ainosato/",
+        "https://onsen.nifty.com/sapporo-onsen/onsen010012/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル掲載。2026/10/1料金改定告知あり"
+    },
+    {
+      "name": "湯元岩見沢温泉 なごみ",
+      "address": "北海道岩見沢市志文町345-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://nagomi-onsen.jp/iwamizawa/",
+      "sources": [
+        "https://nagomi-onsen.jp/iwamizawa/"
+      ],
+      "confidence": "high",
+      "notice": "12〜3月は22時閉店"
+    },
+    {
+      "name": "恵庭温泉 ラ・フォーレ",
+      "address": "北海道恵庭市恵南4-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "2026/10/1改定",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランドサウナ・低温サウナ、オートロウリュ",
+      "url": "http://www.eniwa-onsen.com/",
+      "sources": [
+        "http://www.eniwa-onsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "元日休業"
+    },
+    {
+      "name": "スカイリゾートスパ プラウブラン",
+      "address": "北海道札幌市中央区北5条西2丁目5番地",
+      "weekdayAdult": 3300,
+      "holidayAdult": 3300,
+      "saunaFee": 0,
+      "priceNote": "18歳以上のみ利用可。サービス料・入湯税込",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "その他"
+      ],
+      "saunaNote": "男性スチーム・女性テルマリウム",
+      "url": "https://www.jrhotels.co.jp/tower/spa/",
+      "sources": [
+        "https://www.jrhotels.co.jp/tower/spa/"
+      ],
+      "confidence": "high",
+      "notice": "JRタワーホテル日航札幌22階。18歳以上限定"
+    },
+    {
+      "name": "天然温泉 ココルクの湯",
+      "address": "北海道江別市大麻元町154番地15",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://nihonkaigo.or.jp/facilities/onsen-kokoruku/",
+      "sources": [
+        "https://nihonkaigo.or.jp/facilities/onsen-kokoruku/"
+      ],
+      "confidence": "medium",
+      "note": "サウナ料金込みかは明記なし",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "湯屋・サーモン",
+      "address": "北海道札幌市西区発寒7条14丁目16番15号",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "オートロウリュはさらに+100円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://yuya-salmon.wixsite.com/sento",
+      "sources": [
+        "https://yuya-salmon.wixsite.com/sento"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4木曜定休（祝日除く）"
+    },
+    {
+      "name": "森林公園温泉 きよら",
+      "address": "北海道札幌市厚別区厚別東4条7丁目",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "公衆浴場料金（2026/10/1改定）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.onsen-kiyora.com/",
+      "sources": [
+        "http://www.onsen-kiyora.com/",
+        "https://www.kita-no-sento.com/8828/",
+        "https://onsen.nifty.com/sapporo-onsen/onsen000084/"
+      ],
+      "confidence": "medium",
+      "notice": "設備改修のため2026/11/25〜27臨時休館",
+      "note": "番地はポータル（厚別東4-7）。サウナはポータル掲載"
+    },
+    {
+      "name": "苗穂駅前温泉 蔵ノ湯",
+      "address": "北海道札幌市中央区北2条東13丁目25-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kuranoyu.com/",
+      "sources": [
+        "https://kuranoyu.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "すすきの天然温泉 湯香郷",
+      "address": "北海道札幌市中央区南7条西3丁目425 ジャスマックプラザ2〜4F",
+      "weekdayAdult": 2750,
+      "holidayAdult": 2750,
+      "saunaFee": 0,
+      "priceNote": "モーニング（平日正午まで）・21時以降は1,980円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温・低温サウナ",
+      "url": "https://www.toukakyo.jp/",
+      "sources": [
+        "https://www.toukakyo.jp/price.php",
+        "https://onsen.nifty.com/sapporo-onsen/onsen000043/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉ホテルリブマックスPREMIUM札幌大通公園",
+      "address": "北海道札幌市中央区南2条西9丁目1-20",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hotel-livemax.com/hokkaido/sapporo_odorikoen/",
+      "sources": [
+        "https://onsen.nifty.com/sapporo-onsen/onsen016798/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り料金はニフティのみ。公式に日帰りの記載なし"
+    },
+    {
+      "name": "ホテルリブマックス札幌中島公園GRANDE",
+      "address": "北海道札幌市中央区南9条西3丁目1-26",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "90分料金。入湯税150円別",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "大浴場は男性専用。オートロウリュ",
+      "url": "https://www.hotel-livemax.com/hokkaido/sapporo_nakajimakoen/",
+      "sources": [
+        "https://onsen.nifty.com/sapporo-onsen/onsen024563/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り料金はニフティのみ"
+    },
+    {
+      "name": "札幌北広島クラッセホテル",
+      "address": "北海道北広島市中の沢316-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kitahiroshima.classe-hotel.com/",
+      "sources": [
+        "https://onsen.nifty.com/sapporo-onsen/onsen010056/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトがSSLエラーで取得できず、ニフティの値"
+    },
+    {
+      "name": "札幌ホテルbyグランベル 温泉スパ&サウナ",
+      "address": "北海道札幌市東区北6条東2丁目2-2",
+      "weekdayAdult": 3300,
+      "holidayAdult": 3300,
+      "saunaFee": 0,
+      "priceNote": "日帰り13:00〜23:00",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://www.granbellhotel.jp/sapporoby/",
+      "sources": [
+        "https://www.granbellhotel.jp/sapporoby/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "tower eleven onsen & sauna",
+      "address": "北海道北広島市Fビレッジ228-1 エスコンフィールド北海道 TOWER 11 3F",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "試合のない日。試合日は4,000円〜（変動）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hkdballpark.com/ticket/onsenandsauna/",
+      "sources": [
+        "https://www.hkdballpark.com/ticket/onsenandsauna/"
+      ],
+      "confidence": "high",
+      "note": "住所はニフティ表記"
+    },
+    {
+      "name": "シャトレーゼ ガトーキングダム サッポロ（温泉）",
+      "address": "北海道札幌市北区東茨戸132番地",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "温泉コース（大浴場のみ）。期間により変動、プール込み1日コースは別料金",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://sapporo.gateauxkingdom.com/",
+      "sources": [
+        "https://sapporo.gateauxkingdom.com/fee/",
+        "https://onsen.nifty.com/sapporo-onsen/onsen000266/"
+      ],
+      "confidence": "medium",
+      "notice": "男性浴場は天井修繕で2026/11/13まで一部閉鎖",
+      "note": "天然温泉・サウナはニフティ掲載"
+    },
+    {
+      "name": "なんぽろ温泉 ハート&ハート",
+      "address": "北海道空知郡南幌町南9線西15番地",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "ホテル棟サウナ＋入浴の料金（120分）。入浴のみ750円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "サウナはホテル棟。オートロウリュ",
+      "url": "https://nanporo-onsen.ambix.biz/",
+      "sources": [
+        "https://nanporo-onsen.ambix.biz/",
+        "https://onsen.nifty.com/sapporo-onsen/onsen006358/"
+      ],
+      "confidence": "high",
+      "notice": "露天風呂の設備点検に伴う休館日あり"
+    },
+    {
+      "name": "定山渓ビューホテル",
+      "address": "北海道札幌市南区定山渓温泉東2丁目",
+      "weekdayAdult": 1500,
+      "holidayAdult": 3000,
+      "saunaFee": 0,
+      "priceNote": "平日は大浴場のみ。土日祝は大浴場のみ不可で大浴場＋プール料金（平日プール込2,500円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.jozankeiview.com/",
+      "sources": [
+        "https://www.jozankeiview.com/dayuse/",
+        "https://www.jozankeiview.com/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り：平日14〜21時、土日祝11〜15時",
+      "note": "番地は公式に記載なし"
+    },
+    {
+      "name": "定山渓温泉 ホテル鹿の湯",
+      "address": "北海道札幌市南区定山渓温泉西3丁目32",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "午後営業料金。午前（6:00〜9:30）は1,000円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "スタジアム型・サークル型（午前午後で男女入替）",
+      "url": "https://shikanoyu.co.jp/shikanoyu/",
+      "sources": [
+        "https://shikanoyu.co.jp/shikanoyu/news/621"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは6:00〜9:30・13:00（月木14:00）〜21:00"
+    },
+    {
+      "name": "湯元 小金湯",
+      "address": "北海道札幌市南区小金湯25",
+      "weekdayAdult": 1270,
+      "holidayAdult": 1270,
+      "saunaFee": 0,
+      "priceNote": "入湯税込・1ドリンク付。湯治料金 平日1,000円/土日祝1,200円あり",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "http://koganeyu.jp/",
+      "sources": [
+        "http://koganeyu.jp/price/",
+        "https://onsen.nifty.com/jouzankei-onsen/onsen008125/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "休日ビルヂング 休日湯",
+      "address": "北海道札幌市南区定山渓温泉西3丁目101番地",
+      "weekdayAdult": 2850,
+      "holidayAdult": 2850,
+      "saunaFee": 0,
+      "priceNote": "休日券（10〜24時・タオル込）。遅割15 2,520円/遅割18 2,300円。12/1から料金改定予定",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://www.kyuujitsu.com/facility/qjitsuu/",
+      "sources": [
+        "https://www.kyuujitsu.com/price/",
+        "https://www.kyuujitsu.com/facility/qjitsuu/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "小樽朝里クラッセホテル",
+      "address": "北海道小樽市朝里川温泉2丁目676",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.classe-hotel.com/",
+      "sources": [
+        "https://onsen.nifty.com/otaru-onsen/onsen000220/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト（classe-hotel.com）がSSLエラーで取得できず"
+    },
+    {
+      "name": "小樽温泉 オスパ",
+      "address": "北海道小樽市築港7-12",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "深夜1時以降 +2,600円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.otaruspa.com/",
+      "sources": [
+        "http://www.otaruspa.com/"
+      ],
+      "confidence": "high",
+      "notice": "水曜は7:50〜13:00入浴不可（清掃）"
+    },
+    {
+      "name": "余市川温泉 宇宙の湯",
+      "address": "北海道余市郡余市町入舟町322番地",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "公衆浴場料金（2026/10/1改定）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://yoichigawa.com/",
+      "sources": [
+        "http://yoichigawa.com/",
+        "https://www.kita-no-sento.com/8828/",
+        "https://onsen.nifty.com/otaru-onsen/onsen007105/"
+      ],
+      "confidence": "medium",
+      "notice": "10:30〜20:00（水曜13:00〜21:00）",
+      "note": "道浴場組合加盟の銭湯。サウナはポータル掲載"
+    },
+    {
+      "name": "神仏湯温泉",
+      "address": "北海道小樽市住ノ江1丁目5-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://shinbutuyu.com/",
+      "sources": [
+        "https://shinbutuyu.com/",
+        "https://www.kita-no-sento.com/8828/"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休"
+    },
+    {
+      "name": "大正湯温泉",
+      "address": "北海道小樽市花園4丁目14-15",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "公衆浴場料金（2026/10/1改定）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.kita-no-sento.com/sento/209/",
+      "sources": [
+        "http://www.kita-no-sento.com/sento/209/",
+        "https://www.kita-no-sento.com/8828/"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休"
+    },
+    {
+      "name": "赤井川カルデラ温泉",
+      "address": "北海道余市郡赤井川村字赤井川71番地2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "2026/4/1改定。村民は400円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://akaigawa-onsen.com/",
+      "sources": [
+        "http://akaigawa-onsen.com/kaitei.html",
+        "https://onsen.nifty.com/otaru-onsen/onsen000098/"
+      ],
+      "confidence": "low",
+      "note": "改定ページが文字化けし、村外600円/村民400円の対応は推定。サウナ料金不明"
+    },
+    {
+      "name": "まっかり温泉（真狩村温泉保養センター）",
+      "address": "北海道虻田郡真狩村字緑岡174-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.vill.makkari.lg.jp/kanko/tomaru_onsen/makkari_onsen/",
+      "sources": [
+        "https://www.vill.makkari.lg.jp/kanko/tomaru_onsen/makkari_onsen/"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休。改修工事のため2026/11/2〜12/21休館"
+    },
+    {
+      "name": "ニセコ昆布温泉 ホテル甘露の森",
+      "address": "北海道虻田郡ニセコ町ニセコ415番地",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "タオルセット込",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "大浴場のサウナ",
+      "url": "https://kanronomori.com/",
+      "sources": [
+        "https://kanronomori.com/onsen.html?id=higaeri"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り：平日11〜21時、土日祝11〜19時。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "日帰り客のサウナ利用は明記なし（大浴場内に設置）"
+    },
+    {
+      "name": "ニセコ温泉郷 いこいの湯宿 いろは",
+      "address": "北海道虻田郡ニセコ町ニセコ477",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式セルフロウリュ",
+      "url": "http://www.niseko-iroha.com/",
+      "sources": [
+        "http://www.niseko-iroha.com/spa/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り12:30〜21:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "日帰り客のサウナ利用は明記なし（大浴場内に設置）"
+    },
+    {
+      "name": "ウェスティンルスツ温泉",
+      "address": "北海道虻田郡留寿都村字泉川133",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://rusutsu.com/onsen-wellness/westin-onsen",
+      "sources": [
+        "https://rusutsu.com/onsen-wellness/westin-onsen"
+      ],
+      "confidence": "high",
+      "notice": "日帰りはホテルフロントで精算"
+    },
+    {
+      "name": "ルスツ温泉 ことぶきの湯",
+      "address": "北海道虻田郡留寿都村字泉川13",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯ドライ・女湯ミスト",
+      "url": "https://rusutsu.com/onsen-wellness/kotobukinoyu",
+      "sources": [
+        "https://rusutsu.com/onsen-wellness/kotobukinoyu"
+      ],
+      "confidence": "high",
+      "notice": "4〜10月はリゾート入場に宿泊または対象チケットが必要"
+    },
+    {
+      "name": "ニセコ駅前温泉 綺羅乃湯",
+      "address": "北海道虻田郡ニセコ町字中央通33番地",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "町民600円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://kiranoyu.com/",
+      "sources": [
+        "https://kiranoyu.com/",
+        "https://onsen.nifty.com/niseko-onsen/onsen000230/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・第4水曜定休",
+      "note": "サウナはポータル掲載。7/1改定（町外800円）"
+    },
+    {
+      "name": "黒松内温泉 ぶなの森",
+      "address": "北海道寿都郡黒松内町字黒松内545",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://bunanosato.jimdosite.com/",
+      "sources": [
+        "https://onsen.nifty.com/niseko-onsen/onsen000054/"
+      ],
+      "confidence": "medium",
+      "note": "公式が403で取得不可。ニフティの値"
+    },
+    {
+      "name": "寿都温泉 ゆべつのゆ",
+      "address": "北海道寿都郡寿都町字湯別町下湯別462",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://yubetsunoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/niseko-onsen/onsen000053/"
+      ],
+      "confidence": "medium",
+      "note": "公式に接続できず。ニフティの値"
+    },
+    {
+      "name": "京極温泉 京極ふれあい交流センター",
+      "address": "北海道虻田郡京極町字川西68",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.town-kyogoku.jp/",
+      "sources": [
+        "https://onsen.nifty.com/niseko-onsen/onsen000050/"
+      ],
+      "confidence": "medium",
+      "note": "町の公式ページ404。ニフティの値"
+    },
+    {
+      "name": "幽泉閣",
+      "address": "北海道磯谷郡蘭越町字昆布町114-5",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.town.rankoshi.hokkaido.jp/yuusenkaku/",
+      "sources": [
+        "https://onsen.nifty.com/niseko-onsen/onsen007404/"
+      ],
+      "confidence": "medium",
+      "note": "公式503で取得不可。ニフティの値"
+    },
+    {
+      "name": "かもえない竜神温泉",
+      "address": "北海道古宇郡神恵内村大字神恵内村2484",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00001530.html",
+      "sources": [
+        "https://www.vill.kamoenai.hokkaido.jp/hotnews/detail/00001530.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休。11〜3月は12時〜20時"
+    },
+    {
+      "name": "いわない温泉 おかえりなさい",
+      "address": "北海道岩内郡岩内町字野束491番地21",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.iwanai-okaeri.com/",
+      "sources": [
+        "https://onsen.nifty.com/shakotan-onsen/onsen000114/",
+        "http://www.iwanai-okaeri.com/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り料金は公式に記載なし（ニフティの値）"
+    },
+    {
+      "name": "岬の湯 しゃこたん",
+      "address": "北海道積丹郡積丹町大字野塚町212-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "ボタニカルサウナ",
+      "url": "https://shakotango.jp/",
+      "sources": [
+        "https://onsen.nifty.com/shakotan-onsen/onsen000243/"
+      ],
+      "confidence": "medium",
+      "notice": "12〜3月は冬季休館",
+      "note": "公式ページ本文取得できず。ニフティの値"
+    },
+    {
+      "name": "ふるびら温泉 しおかぜ",
+      "address": "北海道古平郡古平町大字新地町90-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.furubira.com/",
+      "sources": [
+        "https://onsen.nifty.com/shakotan-onsen/onsen000051/"
+      ],
+      "confidence": "medium",
+      "note": "公式本文取得できず。ニフティの値"
+    },
+    {
+      "name": "登別万世閣",
+      "address": "北海道登別市登別温泉町21番地",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。タオルセット400円別",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "セルフロウリュ",
+      "url": "https://www.noboribetsu-manseikaku.jp/",
+      "sources": [
+        "https://www.noboribetsu-manseikaku.jp/spa/daytrip/",
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen000119/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り7:00〜9:30・13:30〜20:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "日帰り客のサウナ利用は明記なし（大浴場内）"
+    },
+    {
+      "name": "第一滝本館",
+      "address": "北海道登別市登別温泉町55番地",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "2026/8/1改定。登別市民1,920円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://takimotokan.co.jp/",
+      "sources": [
+        "https://takimotokan.co.jp/",
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen000096/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り客のサウナ利用は公式に明記なし（口コミで利用例あり）",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "登別グランドホテル",
+      "address": "北海道登別市登別温泉町154",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "鬼サウナ・清流サウナ・熊サウナ",
+      "url": "https://www.nobogura.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen000136/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り料金はニフティ。日帰り客のサウナ利用は明記なし",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "登別石水亭",
+      "address": "北海道登別市登別温泉町203-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.sekisuitei.com/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen000138/"
+      ],
+      "confidence": "low",
+      "note": "ニフティのみ。日帰り客のサウナ利用は未確認",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "ホテルゆもと登別",
+      "address": "北海道登別市登別温泉町29",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "セルフロウリュ",
+      "url": "http://www.yumoto-noboribetu.com/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen005527/"
+      ],
+      "confidence": "low",
+      "note": "ニフティのみ。日帰り客のサウナ利用は未確認",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "温泉銭湯 夢元さぎり湯",
+      "address": "北海道登別市登別温泉町60番地",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "入浴のみ料金。1日券710円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://sagiriyu-noboribetsu.com/",
+      "sources": [
+        "http://sagiriyu-noboribetsu.com/"
+      ],
+      "confidence": "medium",
+      "note": "サウナ料金込みか不明"
+    },
+    {
+      "name": "リブマックスリゾートウポポイ白老温泉",
+      "address": "北海道白老郡白老町東町4丁目6-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.livemax-resort.com/hokkaido/shiraoionsen/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen024720/",
+        "https://www.livemax-resort.com/hokkaido/shiraoionsen/"
+      ],
+      "confidence": "medium",
+      "notice": "修繕工事のため2026/11/16〜20休館（11/21 15時再開）",
+      "note": "日帰り料金はニフティ"
+    },
+    {
+      "name": "虎杖浜温泉ホテル（ぬくもりの湯）",
+      "address": "北海道白老郡白老町虎杖浜73-5",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "特別日1,500円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://www.kojohama.net/",
+      "sources": [
+        "https://www.kojohama.net/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り9:00〜22:00"
+    },
+    {
+      "name": "虎杖浜温泉 ホテルいずみ（いずみの温泉）",
+      "address": "北海道白老郡白老町字虎杖浜312-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://izumi-kojohama.jp/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen016596/"
+      ],
+      "confidence": "medium",
+      "note": "公式SSLエラーで取得不可"
+    },
+    {
+      "name": "虎杖浜温泉 ホテルオーシャン",
+      "address": "北海道白老郡白老町字竹浦111",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://hotel-ocean.jp/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen008197/"
+      ],
+      "confidence": "low",
+      "note": "公式ドメイン接続不可。ニフティのみ、情報古い可能性"
+    },
+    {
+      "name": "むろらん温泉 ゆらら",
+      "address": "北海道室蘭市絵鞆町4丁目2番17号",
+      "weekdayAdult": 680,
+      "holidayAdult": 680,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.circle-city.ne.jp/yurara/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen009403/"
+      ],
+      "confidence": "medium",
+      "note": "公式SSLエラーで取得不可"
+    },
+    {
+      "name": "洞爺湖万世閣ホテルレイクサイドテラス",
+      "address": "北海道虻田郡洞爺湖町洞爺湖温泉21",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。毎月18日・26日は1,000円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "月の湯オートロウリュ・星の湯セルフロウリュ",
+      "url": "https://www.toyamanseikaku.jp/",
+      "sources": [
+        "https://www.toyamanseikaku.jp/day/",
+        "https://onsen.nifty.com/touya-onsen/onsen000144/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り7:00〜10:00・13:00〜21:00"
+    },
+    {
+      "name": "きたゆざわ 森のソラニワ",
+      "address": "北海道伊達市大滝区北湯沢温泉町300-7",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "かまくらサウナ",
+      "url": "https://www.mori-soraniwa.com/",
+      "sources": [
+        "https://www.mori-soraniwa.com/",
+        "https://onsen.nifty.com/touya-onsen/onsen000275/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ。日帰りでサウナ利用可は公式お知らせ見出しで確認"
+    },
+    {
+      "name": "天然温泉 ゆのみの湯",
+      "address": "北海道苫小牧市字樽前421-4",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://arten-camp.co.jp/spa/index.php",
+      "sources": [
+        "https://arten-camp.co.jp/spa/index.php"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜定休（祝日の場合変更あり）"
+    },
+    {
+      "name": "天然温泉 なごみの湯",
+      "address": "北海道苫小牧市柳町2丁目7-6",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "浴衣・タオル込",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.nagominoyu.co.jp/",
+      "sources": [
+        "http://www.nagominoyu.co.jp/index.html",
+        "https://onsen.nifty.com/tomakomai-onsen/onsen009335/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル掲載。2026/10/10付で臨時休業告知（内容未確認）"
+    },
+    {
+      "name": "新千歳空港温泉",
+      "address": "北海道千歳市美々987-22 新千歳空港国内線旅客ターミナルビル4F",
+      "weekdayAdult": 2600,
+      "holidayAdult": 2600,
+      "saunaFee": 0,
+      "priceNote": "深夜1時以降 +2,000円。朝風呂（5〜8時）1,300円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯オートロウリュ",
+      "url": "https://www.new-chitose-airport-onsen.com/",
+      "sources": [
+        "https://www.new-chitose-airport-onsen.com/price/",
+        "https://onsen.nifty.com/chitose-onsen/onsen009827/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "樹海温泉 ほべつ",
+      "address": "北海道勇払郡むかわ町穂別79-5",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.town.mukawa.lg.jp/5593.htm",
+      "sources": [
+        "http://www.town.mukawa.lg.jp/5593.htm"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休（祝日の場合翌日）。入浴13:00〜21:00"
+    },
+    {
+      "name": "むかわ温泉 四季の湯",
+      "address": "北海道勇払郡むかわ町美幸3丁目3-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.shikinoyakata.com/",
+      "sources": [
+        "http://www.shikinoyakata.com/spa.html",
+        "https://onsen.nifty.com/chitose-onsen/onsen000056/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル掲載"
+    },
+    {
+      "name": "新冠温泉 レ・コードの湯 ホテルヒルズ",
+      "address": "北海道新冠郡新冠町字西泊津16-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男女日替わり",
+      "url": "https://hotelhills.jp/",
+      "sources": [
+        "https://hotelhills.jp/"
+      ],
+      "confidence": "high",
+      "notice": "11月に休館日あり（公式で要確認）"
+    },
+    {
+      "name": "静内温泉",
+      "address": "北海道日高郡新ひだか町静内浦和106番地",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://shizunai-onsen.jp/",
+      "sources": [
+        "http://shizunai-onsen.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "みついし昆布温泉 蔵三",
+      "address": "北海道日高郡新ひだか町三石鳧舞162",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://kurazou.ambix.biz/",
+      "sources": [
+        "https://onsen.nifty.com/hidaka-hokkaido-onsen/onsen009988/"
+      ],
+      "confidence": "medium",
+      "note": "公式SSLエラー。泉質は冷鉱泉"
+    },
+    {
+      "name": "門別温泉 とねっこの湯",
+      "address": "北海道沙流郡日高町富浜223-140",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.town.hidaka.hokkaido.jp/site/tonekko/",
+      "sources": [
+        "https://onsen.nifty.com/hidaka-hokkaido-onsen/onsen000030/"
+      ],
+      "confidence": "medium",
+      "note": "町公式ページ本文取得できず"
+    },
+    {
+      "name": "ホテルアポイ山荘",
+      "address": "北海道様似郡様似町字平宇479-7",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.apoi-sanso.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/hidaka-hokkaido-onsen/onsen019553/"
+      ],
+      "confidence": "medium",
+      "note": "公式404。ニフティの値"
+    },
+    {
+      "name": "ふとみ銘泉 万葉の湯",
+      "address": "北海道石狩郡当別町太美町1695",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "入湯税別。深夜1時以降 +1,500円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "朝風呂（6:00〜8:30）はサウナ不可",
+      "url": "https://www.manyo.co.jp/futomi/",
+      "sources": [
+        "https://manyo.co.jp/futomi/price/",
+        "https://onsen.nifty.com/ishikari-onsen/onsen000159/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "石狩温泉 番屋の湯",
+      "address": "北海道石狩市弁天町51-2",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://banya-no-yu.com/",
+      "sources": [
+        "https://banya-no-yu.com/price/",
+        "https://onsen.nifty.com/ishikari-onsen/onsen008131/"
+      ],
+      "confidence": "medium",
+      "notice": "現金のみ",
+      "note": "サウナはポータル掲載"
+    },
+    {
+      "name": "浜益温泉（石狩市浜益保養センター）",
+      "address": "北海道石狩市浜益区実田93-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://ishikari-shakyo.org/care-center/hamamasu-onsen/",
+      "sources": [
+        "https://onsen.nifty.com/ishikari-onsen/onsen000048/"
+      ],
+      "confidence": "medium",
+      "note": "公式は証明書エラーで取得不可"
+    },
+    {
+      "name": "青の洞窟温泉 ピパの湯 ゆ〜りん館",
+      "address": "北海道美唄市東明町3区",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yu-rinkan.com/",
+      "sources": [
+        "https://onsen.nifty.com/yuubari-onsen/onsen005564/"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金記載なし。ニフティの値。番地なし住所"
+    },
+    {
+      "name": "ながぬま温泉",
+      "address": "北海道夕張郡長沼町東6線北4番地",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "町民700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温・低温サウナ",
+      "url": "https://www.naganuma-onsen.com/",
+      "sources": [
+        "https://onsen.nifty.com/yuubari-onsen/onsen000158/",
+        "https://www.naganuma-onsen.com/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "ユンニの湯",
+      "address": "北海道夕張郡由仁町伏見122",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yunni-spa.com/",
+      "sources": [
+        "https://onsen.nifty.com/yuubari-onsen/onsen004931/"
+      ],
+      "confidence": "medium",
+      "note": "公式本文取得できず。ニフティの値"
+    },
+    {
+      "name": "くりやま温泉 ホテルパラダイスヒルズ",
+      "address": "北海道夕張郡栗山町湯地91番地",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオルセット+400円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://hotel-parahill.com/",
+      "sources": [
+        "https://hotel-parahill.com/",
+        "https://onsen.nifty.com/yuubari-onsen/onsen004980/"
+      ],
+      "confidence": "medium",
+      "notice": "休館日あり（公式カレンダー参照）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "日帰り客のサウナ利用は公式に明記なし"
+    },
+    {
+      "name": "月形温泉ホテル ゆりかご",
+      "address": "北海道樺戸郡月形町81番地10",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "町民600円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://tsukigataonsen-hotel.com/",
+      "sources": [
+        "https://tsukigataonsen-hotel.com/",
+        "https://onsen.nifty.com/yuubari-onsen/onsen000042/"
+      ],
+      "confidence": "medium",
+      "notice": "第3火曜休館（祝日の場合翌日）",
+      "note": "サウナはポータル掲載"
+    },
+    {
+      "name": "三笠天然温泉 太古の湯",
+      "address": "北海道三笠市岡山1042-20",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル付は平日900円/土日祝1,000円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.clh-kk.com/taikonoyu/",
+      "sources": [
+        "https://www.clh-kk.com/taikonoyu/price",
+        "https://onsen.nifty.com/yuubari-onsen/onsen010064/"
+      ],
+      "confidence": "medium",
+      "note": "料金表は2022/10/1版表記で、2025/10/1改定告知あり。最新額未確認"
+    },
+    {
+      "name": "滝川ふれ愛の里",
+      "address": "北海道滝川市西滝川76-1",
+      "weekdayAdult": 630,
+      "holidayAdult": 630,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://takikawa-fureainosato.jp/",
+      "sources": [
+        "https://takikawa-fureainosato.jp/",
+        "https://onsen.nifty.com/asahikawa-onsen/onsen000041/"
+      ],
+      "confidence": "high",
+      "notice": "設備点検のため2026/11/2〜8休館"
+    },
+    {
+      "name": "えべおつ温泉",
+      "address": "北海道滝川市江部乙町西12丁目8-22",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "深夜（22時〜翌8時、木曜除く）1,200円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://onsen.secumaint.com/",
+      "sources": [
+        "http://onsen.secumaint.com",
+        "https://onsen.nifty.com/asahikawa-onsen/onsen013764/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜の日帰りは15:00〜21:30",
+      "note": "サウナはポータル掲載"
+    },
+    {
+      "name": "アグリ工房 まあぶ",
+      "address": "北海道深川市音江町字音江600番地",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://agri-studio-maabu.com/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen010500/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ。泉質は冷鉱泉"
+    },
+    {
+      "name": "秩父別温泉 ちっぷ・ゆう&ゆ",
+      "address": "北海道雨竜郡秩父別町2085",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "毎月10日・25日は250円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.chipsk.jp/yuuyu/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen000221/"
+      ],
+      "confidence": "medium",
+      "note": "公式SSLエラー。ニフティの値"
+    },
+    {
+      "name": "ほろしん温泉 ほたる館",
+      "address": "北海道雨竜郡沼田町字幌新377",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "北投石の岩盤浴ミストサウナ",
+      "url": "http://www.horosin-onsen.com/",
+      "sources": [
+        "http://www.horosin-onsen.com/",
+        "https://onsen.nifty.com/asahikawa-onsen/onsen010161/"
+      ],
+      "confidence": "low",
+      "note": "料金はニフティ。サウナは岩盤浴型ミストで判断に迷う"
+    },
+    {
+      "name": "北竜温泉（サンフラワーパークホテル）",
+      "address": "北海道雨竜郡北竜町字板谷163番地の2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://sunflower-park.com/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen000222/",
+        "https://sunflower-park.com/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ。10/30設備不具合で臨時休業、10/31営業再開案内"
+    },
+    {
+      "name": "歌志内 チロルの湯",
+      "address": "北海道歌志内市字中村78-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.tirolnoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen006785/"
+      ],
+      "confidence": "medium",
+      "note": "公式SSLエラー。ニフティの値"
+    },
+    {
+      "name": "おふろcafe 星遊館（芦別温泉スターライトホテル）",
+      "address": "北海道芦別市旭町油谷1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "120分料金・タオルなし（フリータイム・タオル付 平日1,300円/土日祝1,500円）",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "その他"
+      ],
+      "saunaNote": "バレルサウナあり。女性塩サウナ故障告知あり",
+      "url": "https://ofurocafe-seiyukan.com/",
+      "sources": [
+        "https://ofurocafe-seiyukan.com/",
+        "https://onsen.nifty.com/furano-onsen/onsen000160/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り6:00〜22:00",
+      "note": "料金表は画像PDFで読めず、ニフティの値。泉質は含硫黄冷鉱泉"
+    },
+    {
+      "name": "上砂川岳温泉 パンケの湯",
+      "address": "北海道空知郡上砂川町字上砂川65番地106",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.pankenoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/furano-onsen/onsen010384/"
+      ],
+      "confidence": "medium",
+      "note": "公式に接続できず。ニフティの値"
+    },
+    {
+      "name": "エルム高原温泉 ゆったり",
+      "address": "北海道赤平市幌岡町377-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://akabira.net/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen000070/"
+      ],
+      "confidence": "medium",
+      "note": "ニフティの値。泉質は冷鉱泉"
+    },
+    {
+      "name": "ログホテル メープルロッジ",
+      "address": "北海道岩見沢市毛陽町183番地2",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "フィンランドサウナ",
+      "url": "https://www.maplelodge.or.jp/",
+      "sources": [
+        "https://onsen.nifty.com/yuubari-onsen/onsen006639/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り料金・サウナはニフティ（料金表に日帰り料金ありとの記載）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "湯の郷 絢ほのか 札幌清田",
+      "reason": "公式に天然温泉の記載なし（薬湯・炭酸泉）"
+    },
+    {
+      "name": "湯処 ほのか（北広島）",
+      "reason": "公式に天然温泉の記載なし（高濃度炭酸泉）"
+    },
+    {
+      "name": "竹山高原温泉",
+      "reason": "2025年10月に営業終了の告知（55年間ありがとうございました）"
+    },
+    {
+      "name": "湯処 花ゆづき",
+      "reason": "天然温泉ではない（高濃度炭酸泉）"
+    },
+    {
+      "name": "こうしんの湯",
+      "reason": "公式に天然温泉の記載なし"
+    },
+    {
+      "name": "こみちの湯 ほのか（女性専用）",
+      "reason": "公式に天然温泉の記載なし"
+    },
+    {
+      "name": "ぬくもりの宿 ふる川",
+      "reason": "2026年10月・11月は日帰り入浴中止（再開時期未告知）"
+    },
+    {
+      "name": "定山渓 鶴雅リゾートスパ 森の謌",
+      "reason": "入浴のみの日帰り不可（食事・エステとのセットのみ）"
+    },
+    {
+      "name": "定山渓グランドホテル瑞苑",
+      "reason": "閉館"
+    },
+    {
+      "name": "定山渓ホテル",
+      "reason": "休業中（ニフティに2025年7月現在休業中と掲載。公式未確認）"
+    },
+    {
+      "name": "ルスツリゾート サウスウイング大浴場",
+      "reason": "天然温泉ではない（伏流水）"
+    },
+    {
+      "name": "くっちゃん温泉 ホテルようてい",
+      "reason": "閉館"
+    },
+    {
+      "name": "ニセコひらふ温泉 ぽぽろの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "神恵内温泉 リフレッシュプラザ・温泉998",
+      "reason": "閉館"
+    },
+    {
+      "name": "グリーンパーク いわない",
+      "reason": "閉館"
+    },
+    {
+      "name": "白老温泉ホテル",
+      "reason": "閉館"
+    },
+    {
+      "name": "ゆとりろ洞爺湖",
+      "reason": "サウナは宿泊者のみ"
+    },
+    {
+      "name": "千歳乃湯 えん",
+      "reason": "公式に天然温泉の記載なし"
+    },
+    {
+      "name": "ぬくもりの湯（安平町）",
+      "reason": "天然温泉か確認できず（口コミで温泉ではないとの記述）"
+    },
+    {
+      "name": "勇舞湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "沙流川温泉 ひだか高原荘",
+      "reason": "常設サウナなし（週末イベントのアロマサウナのみ）"
+    },
+    {
+      "name": "しんしのつ温泉 たっぷの湯",
+      "reason": "大規模改修のため2026/10/1〜2027/12/31長期休館"
+    },
+    {
+      "name": "中小屋温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "新十津川温泉 グリーンパークしんとつかわ",
+      "reason": "2026/8に営業終了（閉館）を告知。日帰りは延長営業中だが終了日不明のため保留"
+    },
+    {
+      "name": "ゆうばり温泉 ユーパロの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 岩見沢 ゆらら",
+      "reason": "閉館"
+    },
+    {
+      "name": "湯めごこち 南郷の湯",
+      "reason": "公式に天然温泉・サウナの記載なし（料金550円は確認）"
+    },
+    {
+      "name": "札幌市内の一般銭湯（円山温泉・琴似温泉・神宮温泉など）",
+      "reason": "北海道浴場組合の掲載で天然温泉の記載なし（名称のみ温泉）"
+    },
+    {
+      "name": "室蘭 松の湯",
+      "reason": "公式（浴場組合）に天然温泉の記載なし"
+    },
+    {
+      "name": "定山渓万世閣ホテルミリオーネ",
+      "reason": "日帰り入浴でのサウナ利用を確認できず（個室サウナは別料金予約制）"
+    }
+  ],
+  "notes": "道央（石狩・空知・後志・胆振・日高）をニフティ温泉のサウナ絞り込み一覧（札幌・定山渓・小樽・ニセコ・積丹・登別・洞爺・苫小牧・千歳・日高・夕張・石狩・富良野/旭川エリア内の空知分）を起点に確認。北海道の銭湯統制料金は2026/10/1から大人550円（北海道浴場組合 kita-no-sento.com/8828/）。ニフティの銭湯ページは一律に「天然温泉」タグが付くため、浴場組合・公式で温泉の記載がある銭湯のみ収録。ホテル・旅館で日帰り客のサウナ利用が明記されていない施設は、大浴場内にサウナがあるものに限り medium/low で収録（note に記載）。未確認・取りこぼし候補: 定山渓第一寶亭留翠山亭、湯元ニセコプリンスホテルひらふ亭（公式接続不可）、洞爺サンパレス・洞爺観光ホテル・ホテルグランドトーヤ・北海ホテル・北湯沢ホロホロ山荘（日帰りサウナ・料金未確認）、天然豊浦温泉しおさい・伊達温泉（2026年料金改定後の額未確認）、こぶしの湯あつま、びらとり温泉ゆから（料金の食い違い）、宮の森楽々温泉・おふろぱーく登別（公式がInstagramのみ）、丸駒温泉・休暇村支笏湖（日帰りサウナ未確認）、アパホテル&リゾート札幌・ちょい寝ホテル札幌手稲（日帰り料金未確認）、ワン・ニセコ・リゾート・タワーズ、いわない高原ホテル、雨竜いきいき館、妹背牛温泉ペペル、余市・倶知安・伊達・壮瞥の小規模施設。公式サイトがSSL/接続エラーの施設はニフティの値で medium。"
+}

@@ -1,0 +1,1147 @@
+{
+  "prefecture": "福島県",
+  "prefCode": "07",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "ひばり温泉",
+      "address": "福島県須賀川市滑川字関ノ上22-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "90分料金（2時間800円/850円・1日1,200円/1,300円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "女湯にミストサウナ。男湯にバレルサウナあり",
+      "url": "https://www.hibari-land.jp/",
+      "sources": [
+        "https://www.hibari-land.jp/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 極楽湯 福島郡山店",
+      "address": "福島県郡山市八山田西五丁目130",
+      "weekdayAdult": 770,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯にオートロウリュ",
+      "url": "https://koriyama.gokurakuyu.jp/",
+      "sources": [
+        "https://koriyama.gokurakuyu.jp/guide/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "日帰り温泉 富士の湯",
+      "address": "福島県会津若松市駅前町2-13",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 250,
+      "priceNote": "サウナは平日250円・土日祝350円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュサウナ（オプション）",
+      "url": "https://fujinoyu.jp/",
+      "sources": [
+        "https://fujinoyu.jp/charge/index.html",
+        "https://onsen.nifty.com/aiduwakamatsu-onsen/onsen008900/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉つるしの湯",
+      "address": "福島県相馬郡新地町駅前1丁目2番地",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hotelgradoshinchi.com/tsurushinoyu",
+      "sources": [
+        "https://www.hotelgradoshinchi.com/tsurushinoyu"
+      ],
+      "confidence": "medium",
+      "notice": "不定休",
+      "note": "公式ページにサウナの記載なし。サウナはサウナイキタイ・ニフティ温泉の掲載による"
+    },
+    {
+      "name": "御とめ湯り",
+      "address": "福島県福島市土湯温泉町見付32-1",
+      "weekdayAdult": 1725,
+      "holidayAdult": 1945,
+      "saunaFee": 0,
+      "priceNote": "非会員料金（会員1,175円/1,395円・登録無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://otomeyuri-spa.com/",
+      "sources": [
+        "https://otomeyuri-spa.com/information/index.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "新田川温泉はらまちユッサ",
+      "address": "福島県南相馬市原町区深野字荒戸沢15",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "熱気浴サウナとソルティサウナ（日替わりで男女入替）",
+      "url": "https://yussa.jp/",
+      "sources": [
+        "https://yussa.jp/spa/",
+        "https://onsen.nifty.com/souma-onsen/onsen000847/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜定休",
+      "note": "2026/2に入泉料改定の告知あり（画像のみ）。料金はニフティ温泉の掲載値"
+    },
+    {
+      "name": "そうま温泉 天宝の湯",
+      "address": "福島県相馬市小泉字高池270",
+      "weekdayAdult": 890,
+      "holidayAdult": 890,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://tenpou.main.jp/",
+      "sources": [
+        "http://tenpou.main.jp/hotspa"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3火曜定休（祝日の場合は翌日）"
+    },
+    {
+      "name": "天神岬温泉 しおかぜ荘",
+      "address": "福島県双葉郡楢葉町大字北田字上ノ原27-29",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://naraha-tenjin.net/enjoy/hot-spring",
+      "sources": [
+        "http://naraha-tenjin.net/enjoy/hot-spring"
+      ],
+      "confidence": "medium",
+      "notice": "木曜は15:30から営業",
+      "note": "公式ページにサウナの記載なし。サウナはサウナイキタイ・ニフティ温泉の掲載による"
+    },
+    {
+      "name": "喜多の郷 蔵の湯",
+      "address": "福島県喜多方市松山町鳥見山字三町歩5598-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "17時以降300円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.furusatosinkou.co.jp/spring/",
+      "sources": [
+        "https://onsen.nifty.com/kitakata-onsen/onsen000816/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第1水曜定休",
+      "note": "公式ページが文字化けで読めず、料金はニフティ温泉の掲載値（公式でも500円/300円の記載を確認）"
+    },
+    {
+      "name": "スパリゾートハワイアンズ",
+      "address": "福島県いわき市常磐藤原町蕨平50",
+      "weekdayAdult": 3570,
+      "holidayAdult": 4120,
+      "saunaFee": 0,
+      "priceNote": "15時以降3,060円・18時以降2,860円（平日）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "温泉大浴場パレス（男女別）にサウナ。水着エリアにミストサウナ・ドームサウナ",
+      "url": "https://www.hawaiians.co.jp/",
+      "sources": [
+        "http://www.hawaiians.co.jp/sys/calendar/prices"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "バーデン温泉",
+      "address": "福島県郡山市安積町成田字島河原1-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "90分料金（2時間800円・4時間1,000円・1日1,200円）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://hotel-baden.com/hotspring/",
+      "sources": [
+        "https://hotel-baden.com/hotspring/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 時の湯",
+      "address": "福島県いわき市葉山2丁目25-1",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1280,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュサウナ",
+      "url": "https://tokinoyu.jp/",
+      "sources": [
+        "https://tokinoyu.jp/info/",
+        "https://tokinoyu.jp/ofuro/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "山口温泉きらら289",
+      "address": "福島県南会津郡南会津町山口字橋尻1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円別",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "山桜の湯にドライサウナ、リンドウの湯にロウリュ式サウナ（奇数日・偶数日で男女入替）",
+      "url": "https://www.kirara289.jp/",
+      "sources": [
+        "https://www.kirara289.jp/spa/price/",
+        "https://www.kirara289.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "月曜は10:30〜13:30の短縮営業"
+    },
+    {
+      "name": "郡山温泉",
+      "address": "福島県郡山市大槻町字西勝の木38-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "2時間料金",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.koriyamaonsen.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kouriyama-onsen/onsen010034/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは証明書エラーで読めず"
+    },
+    {
+      "name": "ふれあいランド高郷",
+      "address": "福島県喜多方市高郷町揚津字袖山甲3054-9",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "17時以降300円",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://www.frtspa.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kitakata-onsen/onsen000804/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休（祝日の場合は翌日）"
+    },
+    {
+      "name": "スカイピアあだたら 空の湯",
+      "address": "福島県二本松市上葉木坂2-3",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.michinoeki-adachi.jp/skypia/",
+      "sources": [
+        "http://www.michinoeki-adachi.jp/skypia/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第1水曜休館",
+      "note": "公式ページにサウナの記載なし。サウナはサウナイキタイ・ニフティ温泉の掲載による"
+    },
+    {
+      "name": "ふくしま県民の森 フォレストパークあだたら",
+      "address": "福島県安達郡大玉村玉井字長久保68",
+      "weekdayAdult": 810,
+      "holidayAdult": 810,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "低温サウナ",
+      "url": "https://www.fpadatara.com/",
+      "sources": [
+        "https://www.fpadatara.com/guide/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3火曜休業、第2・第4火曜は15時から"
+    },
+    {
+      "name": "並木温泉 ゆの郷",
+      "address": "福島県郡山市並木3-5-14",
+      "weekdayAdult": 660,
+      "holidayAdult": 660,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.kanko-koriyama.gr.jp/tourism/detail5-1-408.html",
+      "sources": [
+        "https://onsen.nifty.com/kouriyama-onsen/onsen017003/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休"
+    },
+    {
+      "name": "湯の田温泉 さぎり荘",
+      "address": "福島県東白川郡鮫川村大字赤坂東野字広畑199-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "17時以降500円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.vill.samegawa.fukushima.jp/page/page000591.html",
+      "sources": [
+        "https://onsen.nifty.com/iwaki-onsen/onsen016643/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休"
+    },
+    {
+      "name": "しらかわ温泉 弁天荘",
+      "address": "福島県白河市大信下新城字桑ノ木田131",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.fukulabo.net/shop/shop.shtml?s=9981",
+      "sources": [
+        "https://onsen.nifty.com/shirakawashuuhen-onsen/onsen016644/"
+      ],
+      "confidence": "medium",
+      "notice": "不定休"
+    },
+    {
+      "name": "慶びの空間 きがる湯",
+      "address": "福島県田村郡三春町富沢新舘243",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "3時間以内（3時間以上1,100円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/miharu-fukushima-onsen/onsen019470/",
+      "sources": [
+        "https://onsen.nifty.com/miharu-fukushima-onsen/onsen019470/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトなし。ニフティ温泉の掲載値"
+    },
+    {
+      "name": "中島村総合福祉センター ふれあいの郷",
+      "address": "福島県西白河郡中島村大字滑津字二ツ山65-3",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.vill-nakajima.jp/page/page000264.html",
+      "sources": [
+        "https://www.vill-nakajima.jp/page/page000264.html"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休",
+      "note": "公式に温泉の記載なし。天然温泉（アルカリ性単純温泉）はニフティ温泉の掲載による"
+    },
+    {
+      "name": "いわせ温泉",
+      "address": "福島県須賀川市畑田字諏訪入56",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "市外料金・1回券3時間（1日券900円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ひのき風呂にドライサウナ、岩風呂にミストサウナ",
+      "url": "https://www.city.sukagawa.fukushima.jp/shisetsu/1004390/1004374/1001607.html",
+      "sources": [
+        "https://www.city.sukagawa.fukushima.jp/shisetsu/1004390/1004374/1001607.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は火曜）"
+    },
+    {
+      "name": "スパホテルあぶくま",
+      "address": "福島県西白河郡西郷村大字真船字川谷1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "3時間料金（朝プラン9-16時/夜プラン13-21:30時 各1,200円）",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "よもぎ座浴サウナあり",
+      "url": "https://spahotel-abukuma.jp/",
+      "sources": [
+        "https://spahotel-abukuma.jp/price/price.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "勿来温泉 関の湯",
+      "address": "福島県いわき市勿来町関田須賀1-4",
+      "weekdayAdult": 2040,
+      "holidayAdult": 2040,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル付",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://sekinoyu-spa.com/",
+      "sources": [
+        "https://onsen.nifty.com/iwaki-onsen/onsen006077/",
+        "https://rurubu.jp/andmore/spot/80005318"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金記載なし。ニフティ温泉・るるぶで一致"
+    },
+    {
+      "name": "湯遊ランドはなわ",
+      "address": "福島県東白川郡塙町大字湯岐字立石21",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": null,
+      "priceNote": "17時以降550円。遠赤外線低温サウナは別料金1,800円",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://yuyu-land.com/",
+      "sources": [
+        "https://yuyu-land.com/higaeri.htm"
+      ],
+      "confidence": "medium",
+      "note": "浴場内の高温サウナが入浴料に含まれるかは公式に記載なし"
+    },
+    {
+      "name": "東舘温泉 ユーパル矢祭",
+      "address": "福島県東白川郡矢祭町東館字蔵屋敷108-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "17時以降500円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.naf.co.jp/yuparu/",
+      "sources": [
+        "https://onsen.nifty.com/shirakawashuuhen-onsen/onsen000807/"
+      ],
+      "confidence": "medium",
+      "notice": "月・金曜は15時から営業",
+      "note": "公式サイトは証明書エラーで読めず"
+    },
+    {
+      "name": "泉崎さつき温泉 こがねの湯",
+      "address": "福島県西白河郡泉崎村大字泉崎字笹立山12",
+      "weekdayAdult": 540,
+      "holidayAdult": 540,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.izumizaki-cv.com/",
+      "sources": [
+        "https://onsen.nifty.com/shirakawashuuhen-onsen/onsen007885/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは証明書エラーで読めず"
+    },
+    {
+      "name": "西会津町温泉健康保養センター ロータスイン",
+      "address": "福島県耶麻郡西会津町登世島字下小島187",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.lotosinn.com/",
+      "sources": [
+        "https://onsen.nifty.com/nishiaidu-onsen/onsen000857/",
+        "https://www.lotosinn.com/news/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第4月曜休館（祝日の場合は翌日）",
+      "note": "2025年秋に温泉再開（公式「温泉再開1周年」告知）。料金はニフティ温泉の掲載値"
+    },
+    {
+      "name": "大江戸温泉物語 あいづ",
+      "address": "福島県会津若松市神指町大字北四合字東神指77-1",
+      "weekdayAdult": 780,
+      "holidayAdult": 840,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,040円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/aizu/",
+      "sources": [
+        "https://www.ooedoonsen.jp/aizu/day_trip/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "いわきゆったり館",
+      "address": "福島県いわき市常磐湯本町上浅貝22-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナは水着エリア",
+      "url": "http://www.yuttarikan.ecnet.jp/",
+      "sources": [
+        "https://onsen.nifty.com/iwaki-onsen/onsen000961/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3月曜休館",
+      "note": "公式サイトは証明書エラーで読めず"
+    },
+    {
+      "name": "郡山ユラックス熱海",
+      "address": "福島県郡山市熱海町熱海2丁目148-2",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "1回利用券（1日利用券1,000円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yracs.jp/",
+      "sources": [
+        "https://www.yracs.jp/charge",
+        "https://www.yracs.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1火曜休館",
+      "note": "2026/7/20に健康温泉リニューアル再開"
+    },
+    {
+      "name": "なりた温泉",
+      "address": "福島県郡山市安積町成田字車川原27",
+      "weekdayAdult": 780,
+      "holidayAdult": 780,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（4時間1,100円・1日1,500円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://narita-onsen.com/onsen/index.html",
+      "sources": [
+        "https://onsen.nifty.com/kouriyama-onsen/onsen008743/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは証明書エラーで読めず"
+    },
+    {
+      "name": "きつねうち温泉",
+      "address": "福島県白河市東釜子字狐内47",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "17時以降550円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://kitsune.life.coocan.jp/",
+      "sources": [
+        "https://onsen.nifty.com/shirakawashuuhen-onsen/onsen000835/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休（祝日の場合は翌日）"
+    },
+    {
+      "name": "ホテルフロンティアいわき",
+      "address": "福島県いわき市平大工町10-6",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "タオルなし",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://hpdsp.jp/hotelfrontieriwaki/",
+      "sources": [
+        "https://onsen.nifty.com/iwaki-onsen/onsen012550/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "ルネサンス棚倉",
+      "address": "福島県東白川郡棚倉町大字関口字一本松43-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライとミストを曜日で男女入替",
+      "url": "https://hotel-renaissance-tanagura.com/",
+      "sources": [
+        "https://hotel-renaissance-tanagura.com/landing/public-bath"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休"
+    },
+    {
+      "name": "さくらの里双葉 ふたばの湯 祐",
+      "address": "福島県双葉郡双葉町大字中野字堂ノ前27",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/iwaki-onsen/onsen018091/",
+      "sources": [
+        "https://onsen.nifty.com/iwaki-onsen/onsen018091/"
+      ],
+      "confidence": "medium",
+      "notice": "14:00〜21:00営業",
+      "note": "公式サイト見つからず。ニフティ温泉の掲載値"
+    },
+    {
+      "name": "小名浜オーシャンホテル＆ゴルフクラブ 照島温泉",
+      "address": "福島県いわき市泉町下川字大畑17",
+      "weekdayAdult": 1580,
+      "holidayAdult": 1580,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.accordiahotel.com/onahama/",
+      "sources": [
+        "https://www.accordiahotel.com/onahama/hot-spring"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "いわき湯本 izumiya",
+      "address": "福島県いわき市常磐湯本町吹谷80",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "サウナ付き浴場の料金（サウナなしの小浴場700円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "大浴場・小浴場は日替わりで男女入替",
+      "url": "https://iy1238.com/",
+      "sources": [
+        "https://iy1238.com/day-use-onsen/271/",
+        "https://onsen.nifty.com/iwaki-onsen/onsen009623/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は15:00〜21:00"
+    },
+    {
+      "name": "エンゼルフォレスト白河高原 羽鳥湖温泉 彩光の湯",
+      "address": "福島県岩瀬郡天栄村大字羽鳥字高戸屋39",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "森のサウナは別料金",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ang-sk.com/",
+      "sources": [
+        "https://www.ang-sk.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "平日11〜15時は清掃のため入浴不可。2026/11/30〜12/3全館休業"
+    },
+    {
+      "name": "ホテル華の湯",
+      "address": "福島県郡山市熱海町熱海5-8-60",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "GW・お盆・年末年始は料金変動",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hotelhananoyu.jp/",
+      "sources": [
+        "https://www.hotelhananoyu.jp/daytrip.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式日帰りページにサウナの記載なし"
+    },
+    {
+      "name": "新鶴温泉 んだ",
+      "address": "福島県大沼郡会津美里町鶴野辺字上長尾2347-40",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://niitsuru-onsen.co.jp/",
+      "sources": [
+        "https://niitsuru-onsen.co.jp/hot_spring/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1木曜定休"
+    },
+    {
+      "name": "会津本郷温泉 湯陶里",
+      "address": "福島県大沼郡会津美里町六日町甲4106-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://hongo-onsen.com/",
+      "sources": [
+        "https://onsen.nifty.com/aiduwakamatsu-onsen/onsen000838/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休（祝日の場合は翌日）"
+    },
+    {
+      "name": "あゆり温泉",
+      "address": "福島県西白河郡矢吹町八幡町442",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "露天風呂にバレルサウナ（男女各1）",
+      "url": "https://www.town.yabuki.fukushima.jp/page/page000137.html",
+      "sources": [
+        "https://www.town.yabuki.fukushima.jp/page/page000137.html"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休"
+    },
+    {
+      "name": "鹿狼の湯",
+      "address": "福島県相馬郡新地町杉目字飯樋50",
+      "weekdayAdult": 660,
+      "holidayAdult": 660,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.shinchi-town.jp/soshiki/3/yado-karounoyu.html",
+      "sources": [
+        "https://www.shinchi-town.jp/soshiki/3/yado-karounoyu.html",
+        "https://onsen.nifty.com/souma-onsen/onsen016882/"
+      ],
+      "confidence": "low",
+      "note": "町の公式ページ660円、ニフティ温泉770円で食い違い。町ページにサウナの記載なし"
+    },
+    {
+      "name": "道の駅ならは Jヴィレッジ湯遊ならは",
+      "address": "福島県双葉郡楢葉町大字山田岡字大堤入22-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://michinoeki-naraha.jp/detail/2067/index.html",
+      "sources": [
+        "https://michinoeki-naraha.jp/detail/2067/index.html",
+        "https://onsen.nifty.com/iwaki-onsen/onsen009128/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ温泉の掲載値"
+    },
+    {
+      "name": "大江戸温泉物語 東山グランドホテル",
+      "address": "福島県会津若松市東山町大字湯本字上湯本5",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,650円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/higashiyama/",
+      "sources": [
+        "https://www.ooedoonsen.jp/higashiyama/day_trip/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。日帰りは7〜10時・15〜24時"
+    },
+    {
+      "name": "休暇村裏磐梯",
+      "address": "福島県耶麻郡北塩原村大字桧原字小野川原1092",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.qkamura.or.jp/bandai/",
+      "sources": [
+        "https://www.qkamura.or.jp/bandai/oneday/",
+        "https://www.qkamura.or.jp/bandai/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は12:30〜15:00（受付14:30まで）。繁忙期等は休止あり"
+    },
+    {
+      "name": "磐梯名湯リゾート ボナリの森",
+      "address": "福島県耶麻郡猪苗代町大字蚕養字沼尻山甲2855-550",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.meito-bonari.com/",
+      "sources": [
+        "https://www.meito-bonari.com/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。日帰りは11:00〜15:00"
+    },
+    {
+      "name": "摺上亭 大鳥",
+      "address": "福島県福島市飯坂町中ノ内24-3",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男湯・女湯ともにサウナ",
+      "url": "https://www.surikamiteiohtori.com/",
+      "sources": [
+        "https://www.surikamiteiohtori.com/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。日帰り受付11:00〜14:00"
+    },
+    {
+      "name": "ながめの館 光雲閣",
+      "address": "福島県二本松市岳温泉1-85",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.kounkaku.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/nihonmatsu-onsen/onsen006507/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金はニフティ温泉の掲載値。公式に2026/9「日帰り入浴お食事セット料金改定」告知あり（入浴のみ料金は未確認）"
+    },
+    {
+      "name": "あだたら温泉 ホテルパラダイスヒルズ",
+      "address": "福島県二本松市岳温泉1-274-3",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://parahill-nihonmatsu.com/",
+      "sources": [
+        "https://onsen.nifty.com/nihonmatsu-onsen/onsen010189/",
+        "https://parahill-nihonmatsu.com/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "2025/9/25日帰り再開（公式）。料金はニフティ温泉の掲載値"
+    },
+    {
+      "name": "土湯温泉 福うさぎ",
+      "address": "福島県福島市土湯温泉町字八郎畑3-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.fuku-usagi.net/",
+      "sources": [
+        "https://onsen.nifty.com/fukushima-onsen/onsen000894/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式サイトは証明書エラーで読めず。ニフティ温泉の掲載値"
+    },
+    {
+      "name": "Sauna & Spa Green 愛宕山温泉",
+      "address": "福島県須賀川市愛宕山59-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": null,
+      "priceNote": "1日プラン（60分プラン900円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "屋外サウナ（バレル・テント）",
+      "url": "http://green-hill-park.com/",
+      "sources": [
+        "https://onsen.nifty.com/kouriyama-onsen/onsen018060/"
+      ],
+      "confidence": "low",
+      "notice": "月曜定休",
+      "note": "公式サイトは証明書エラーで読めず。サウナが入館料に含まれるか不明"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "北投の湯 いわき健康センター",
+      "reason": "公式に天然温泉の記載なし（薬湯・炭酸泉等）"
+    },
+    {
+      "name": "割烹温泉 観音湯",
+      "reason": "2026/10/1に立ち寄り湯料金改定、改定後の料金を確認できず"
+    },
+    {
+      "name": "ホタルの森公園 ホタルの館ふれあいの湯",
+      "reason": "薬石（トロン）使用の浴場で天然温泉か確認できず"
+    },
+    {
+      "name": "三春の里 田園生活館 里の湯",
+      "reason": "沸かし湯との情報があり天然温泉か確認できず"
+    },
+    {
+      "name": "只見保養センター ひとっぷろまち湯",
+      "reason": "公式に「沸かし湯」と記載"
+    },
+    {
+      "name": "磐梯の湯 ドーミーインEXPRESS郡山",
+      "reason": "大浴場は人工炭酸泉"
+    },
+    {
+      "name": "陽日の郷 あづま館",
+      "reason": "サウナは予約制テントサウナのみ"
+    },
+    {
+      "name": "母畑温泉 八幡屋",
+      "reason": "日帰り入浴料金・日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "いいざか花ももの湯（飯坂ホテル聚楽）",
+      "reason": "日帰り入浴終了"
+    },
+    {
+      "name": "月光温泉クアハイム",
+      "reason": "サウナ休止中（サウナイキタイ掲載）"
+    },
+    {
+      "name": "太平洋健康センター いわき蟹洗温泉",
+      "reason": "休館中"
+    },
+    {
+      "name": "いわき新舞子ハイツ",
+      "reason": "サウナ利用停止中との情報"
+    },
+    {
+      "name": "ほっと大熊",
+      "reason": "天然温泉か確認できず"
+    },
+    {
+      "name": "四季の宿 天瑞",
+      "reason": "浴場が人工温泉との記載"
+    },
+    {
+      "name": "季の郷 湯ら里／日帰り温泉 むら湯",
+      "reason": "公式にサウナの記載なし・天然温泉か不明"
+    },
+    {
+      "name": "野地温泉ホテル",
+      "reason": "日帰りは個室休憩プランのみ、サウナ確認できず"
+    },
+    {
+      "name": "カプセルホテル リフレ いわき駅前店",
+      "reason": "男性専用、天然温泉か確認できず"
+    },
+    {
+      "name": "萩姫の湯 栄楽館",
+      "reason": "入浴のみの日帰り料金を公式で確認できず"
+    },
+    {
+      "name": "ホテルリステル猪苗代 クアハウス&プールC's",
+      "reason": "番地まで住所を確認できず（大人2,500円・水着エリアにサウナ/ミストサウナ）"
+    },
+    {
+      "name": "郡山三穂田温泉 やすらぎの宿",
+      "reason": "休業・短縮営業との情報があり料金確認できず"
+    },
+    {
+      "name": "天然温泉 極楽湯 福島店",
+      "reason": "閉館"
+    },
+    {
+      "name": "極楽湯 福島いわき店",
+      "reason": "閉館"
+    },
+    {
+      "name": "糸桜里の湯ばんげ",
+      "reason": "閉館"
+    },
+    {
+      "name": "スパアルツおおるり",
+      "reason": "閉館"
+    },
+    {
+      "name": "東洋健康センター",
+      "reason": "閉館"
+    },
+    {
+      "name": "東日本健康ランド カッパ王国",
+      "reason": "閉館"
+    },
+    {
+      "name": "のんびり温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "温泉天国さくら湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "スーパー銭湯郡山天然温泉長寿の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "リフレ富岡",
+      "reason": "閉館"
+    },
+    {
+      "name": "大越温泉健康ランド",
+      "reason": "閉館"
+    },
+    {
+      "name": "新鶴温泉健康センター",
+      "reason": "閉館"
+    },
+    {
+      "name": "いつでもサウナ（飯坂温泉）",
+      "reason": "2026/12/1オープン予定（基準日時点で未開業）"
+    }
+  ],
+  "notes": "サウナイキタイ（242件）とニフティ温泉サウナ絞り込み（146件）から日帰り可の施設を洗い出し。公営・日帰り施設はほぼ確認済み。芦ノ牧・東山・磐梯熱海・飯坂・穴原・岳・裏磐梯の旅館ホテル（大川荘・丸峰・瀧の湯・新風月・東鳳・吉川屋・向瀧・花の瀬・磐梯山温泉ホテル等）は日帰りサウナ利用・料金を未確認で未収録。サウナ種類不明は「その他」。スーパー銭湯遊湯ランド（郡山）・かわうちの湯・裏磐梯温泉センター・會津鶴我・山水荘は公式情報が得られず未収録。"
+}

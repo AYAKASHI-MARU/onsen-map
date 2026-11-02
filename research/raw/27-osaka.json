@@ -1,0 +1,1174 @@
+{
+  "prefecture": "大阪府",
+  "prefCode": "27",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然温泉 なにわの湯",
+      "address": "大阪府大阪市北区長柄西1-7-31",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "スチームは男湯、塩は女湯",
+      "url": "https://naniwanoyu.com/",
+      "sources": [
+        "https://naniwanoyu.com/hours/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "うめきた温泉 蓮 Wellbeing Park",
+      "address": "大阪府大阪市北区大深町5-54",
+      "weekdayAdult": 3190,
+      "holidayAdult": 3740,
+      "saunaFee": 0,
+      "priceNote": "ベーシックプラン（タオル・館内着込み）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯Wロウリュサウナ、女湯フィンランド式",
+      "url": "https://umekita-onsen.jp/",
+      "sources": [
+        "https://umekita-onsen.jp/information"
+      ],
+      "confidence": "high",
+      "notice": "12歳未満は入館不可",
+      "note": "グラングリーン大阪 南館3・4階"
+    },
+    {
+      "name": "天然温泉 延羽の湯 鶴橋",
+      "address": "大阪府大阪市東成区玉津3-13-41",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "塩サウナは女湯",
+      "url": "https://www.nobuta123.co.jp/nobehatsuruhashi/",
+      "sources": [
+        "https://www.nobuta123.co.jp/nobehatsuruhashi/price/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然露天温泉 スパスミノエ",
+      "address": "大阪府大阪市住之江区泉1-1-82",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可",
+        "ミスト",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://spasuminoe.jp/",
+      "sources": [
+        "https://spasuminoe.jp/guide/",
+        "https://spasuminoe.jp/bath/",
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen003198/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/9・10はメンテナンス休館",
+      "note": "公式料金表は平日/土日祝の区別が不明瞭でニフティで補完"
+    },
+    {
+      "name": "上方温泉 一休",
+      "address": "大阪府大阪市此花区酉島5-9-31",
+      "weekdayAdult": 750,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.onsen19.com/",
+      "sources": [
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen006324/"
+      ],
+      "confidence": "medium",
+      "notice": "第3火曜休館",
+      "note": "公式サイトに料金掲載なし"
+    },
+    {
+      "name": "天然温泉 ひなたの湯 大阪ユニバーサルベイサイド",
+      "address": "大阪府大阪市此花区春日出南3-2-27",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "7〜17時料金（17〜24時は平日1,100円・土日祝1,400円）",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hinatanoyu.com/osaka-universal-bayside/",
+      "sources": [
+        "https://www.hinatanoyu.com/osaka-universal-bayside/information"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 ひなたの湯 新大阪店",
+      "address": "大阪府大阪市淀川区三国本町1-6-15",
+      "weekdayAdult": 880,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から価格改定（新料金は未確認）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hinatanoyu.com/shinosaka/",
+      "sources": [
+        "https://www.hinatanoyu.com/shinosaka/information/",
+        "https://www.hinatanoyu.com/news/3703/"
+      ],
+      "confidence": "high",
+      "notice": "2026/12/2・3はメンテナンス休館",
+      "note": "ドルチェヴィータ新大阪9F"
+    },
+    {
+      "name": "空庭温泉 OSAKA BAY TOWER",
+      "address": "大阪府大阪市港区弁天1-2-3",
+      "weekdayAdult": 2310,
+      "holidayAdult": 3630,
+      "saunaFee": 0,
+      "priceNote": "変動料金制（2,310〜3,630円）。17時以降1,980円〜。入湯税150円別",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "女湯のミストサウナは当面休止",
+      "url": "https://solaniwa.com/",
+      "sources": [
+        "https://solaniwa.com/price/",
+        "https://solaniwa.com/explore/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "月1回水曜休館（2026/11/11、12/9）"
+    },
+    {
+      "name": "SPAWORLD HOTEL&RESORT",
+      "address": "大阪府大阪市浪速区恵美須東3-4-24",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "プールなし料金（プール込みは平日2,000円・土日祝2,700円）。0〜5時は深夜割増1,300円＋入湯税150円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.spaworld.co.jp/",
+      "sources": [
+        "https://www.spaworld.co.jp/info/ryokin/",
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen003159/"
+      ],
+      "confidence": "high",
+      "note": "サウナの種類は詳細未確認（ラコニクム＝ドライ新設）"
+    },
+    {
+      "name": "鶴見緑地湯元 水春",
+      "address": "大阪府大阪市鶴見区緑地公園1-37",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "瞑想サウナは男湯",
+      "url": "https://suisyun.jp/tsurumi/",
+      "sources": [
+        "https://suisyun.jp/tsurumi/fee/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 こうわの湯",
+      "address": "大阪府大阪市大正区千島1-23-85",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.kouwanoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen012287/",
+        "https://news.allabout.co.jp/articles/o/130996/"
+      ],
+      "confidence": "medium",
+      "note": "2026年4月改定で900円（公式サイトで料金未確認）"
+    },
+    {
+      "name": "天然温泉 JOY大正",
+      "address": "大阪府大阪市大正区平尾4-23-6",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 250,
+      "priceNote": "サウナセット850円（入浴料込み）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ucme8.crayonsite.net/",
+      "sources": [
+        "https://ucme8.crayonsite.net/"
+      ],
+      "confidence": "high",
+      "notice": "土曜定休"
+    },
+    {
+      "name": "天然温泉 満月",
+      "address": "大阪府大阪市東淀川区小松1-12-29",
+      "weekdayAdult": 820,
+      "holidayAdult": 920,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "http://www.onsen-mangetsu.jp/",
+      "sources": [
+        "http://www.onsen-mangetsu.jp/price/",
+        "http://www.onsen-mangetsu.jp/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 不動の湯",
+      "address": "大阪府大阪市城東区天王田13-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://fudouyu.com/",
+      "sources": [
+        "https://fudouyu.com/price/",
+        "https://fudouyu.com/about/"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "ふれ愛温泉矢田",
+      "address": "大阪府大阪市東住吉区矢田6-3-16",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 100,
+      "priceNote": "サウナ料金は貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://yata-jinken.com/jinken/onsen.html",
+      "sources": [
+        "http://yata-jinken.com/jinken/onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "第4火曜定休"
+    },
+    {
+      "name": "湯元「花乃井」スーパーホテル大阪天然温泉",
+      "address": "大阪府大阪市西区江戸堀3-6-35",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "平日11〜18時料金（平日18時以降1,500円）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.superhotel.co.jp/osakaspa/osakaspa.html",
+      "sources": [
+        "https://www.superhotel.co.jp/osakaspa/osakaspa.html",
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen003194/"
+      ],
+      "confidence": "medium",
+      "note": "外来利用可は公式で確認、料金はニフティ"
+    },
+    {
+      "name": "神州温泉 あるごの湯",
+      "address": "大阪府豊中市神州町1-16",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "塩",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "http://www.algo7.jp/spa/",
+      "sources": [
+        "http://www.algo7.jp/spa/guide.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "SPA&SAUNA水春 服部緑地",
+      "address": "大阪府豊中市服部緑地1-68",
+      "weekdayAdult": 1540,
+      "holidayAdult": 1980,
+      "saunaFee": 0,
+      "priceNote": "90分コース（フリータイム平日1,980円・土日祝2,420円）。土日祝・特定日料金。入湯税75円別",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://suisyun.jp/hattori-ryokuchi/",
+      "sources": [
+        "https://suisyun.jp/hattori-ryokuchi/fee/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen024821/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 万博おゆば",
+      "address": "大阪府吹田市千里万博公園11-11",
+      "weekdayAdult": 950,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://oyuba.com/banpaku/",
+      "sources": [
+        "https://oyuba.com/banpaku/?p=5338"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "箕面湯元 水春",
+      "address": "大阪府箕面市船場東3-13-11",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "塩",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://suisyun.jp/mino/",
+      "sources": [
+        "https://suisyun.jp/mino/fee/"
+      ],
+      "confidence": "high",
+      "note": "ビーバーワールド箕面船場店2F"
+    },
+    {
+      "name": "東香里湯元 水春",
+      "address": "大阪府寝屋川市寝屋北町2-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "塩",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "瞑想サウナは男湯",
+      "url": "https://suisyun.jp/neyagawa/",
+      "sources": [
+        "https://suisyun.jp/neyagawa/fee/",
+        "https://suisyun.jp/neyagawa/"
+      ],
+      "confidence": "high",
+      "notice": "リニューアルのため2026/11/13から12月下旬（予定）まで休館"
+    },
+    {
+      "name": "美人湯 祥風苑",
+      "address": "大阪府高槻市塚脇4-20-3",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.syofuen.co.jp/",
+      "sources": [
+        "http://www.syofuen.co.jp/ryokin.htm",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen003197/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "湯快のゆ 寝屋川店",
+      "address": "大阪府寝屋川市池田中町32-22",
+      "weekdayAdult": 980,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "入湯税75円込み",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://yukainoyu.jp/neyagawa/",
+      "sources": [
+        "http://yukainoyu.jp/neyagawa/price/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen007519/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "極楽湯 枚方店",
+      "address": "大阪府枚方市招提田近3-8-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュは男湯",
+      "url": "https://www.gokurakuyu.com/hirakata/hirakata.html",
+      "sources": [
+        "https://www.gokurakuyu.com/hirakata/hirakata.html",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen003201/"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜定休"
+    },
+    {
+      "name": "極楽湯 東大阪店",
+      "address": "大阪府東大阪市長田西3-5-17",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.gokurakuyu.com/higashiosaka/higashiosaka.html",
+      "sources": [
+        "https://www.gokurakuyu.com/higashiosaka/higashiosaka.html",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen003192/"
+      ],
+      "confidence": "high",
+      "notice": "第3木曜定休"
+    },
+    {
+      "name": "ユーバスROYAL高井田店",
+      "address": "大阪府東大阪市高井田本通5-2-20",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュは男湯、ソルトサウナは女湯",
+      "url": "https://yu-bath.com/t-bath/",
+      "sources": [
+        "https://yu-bath.com/t-bath/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 延羽の湯 本店 羽曳野",
+      "address": "大阪府羽曳野市広瀬186-3",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.nobuta123.co.jp/nobehahabikino/",
+      "sources": [
+        "https://www.nobuta123.co.jp/nobehahabikino/price/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "新マネキ温泉",
+      "address": "大阪府松原市天美南5-17-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 100,
+      "priceNote": "大人は高校生以上（中学生400円）。サウナ料金はバスタオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://shinmaneki1126.wordpress.com/",
+      "sources": [
+        "https://shinmaneki1126.wordpress.com/%e3%81%94%e5%88%a9%e7%94%a8%e6%a1%88%e5%86%85/",
+        "https://onsen.nifty.com/kawauchi-onsen/onsen003207/"
+      ],
+      "confidence": "high",
+      "notice": "火・水曜定休"
+    },
+    {
+      "name": "太子温泉",
+      "address": "大阪府南河内郡太子町山田1131",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://taishi-onsen.com/",
+      "sources": [
+        "https://taishi-onsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "火・水曜定休"
+    },
+    {
+      "name": "天然温泉 河内おゆば",
+      "address": "大阪府河内長野市上原西町15-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://oyuba.com/kawachi/",
+      "sources": [
+        "https://oyuba.com/kawachi/",
+        "https://onsen.nifty.com/kawauchi-onsen/onsen003191/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "蔵前温泉 さらさのゆ",
+      "address": "大阪府堺市北区蔵前町1-3-5",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.sarasanoyu.com/",
+      "sources": [
+        "https://www.sarasanoyu.com/service",
+        "https://www.sarasanoyu.com/ofuro"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ユーバスeco 堺上野芝店",
+      "address": "大阪府堺市西区神野町3-6-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュは男湯",
+      "url": "https://yu-bath.com/s-bath/",
+      "sources": [
+        "https://yu-bath.com/s-bath/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 清児の湯",
+      "address": "大阪府貝塚市清児583",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "その他"
+      ],
+      "saunaNote": "クールサウナあり",
+      "url": "https://www.eonet.ne.jp/~setiyu/",
+      "sources": [
+        "https://www.eonet.ne.jp/~setiyu/price.html",
+        "https://www.eonet.ne.jp/~setiyu/menu.html"
+      ],
+      "confidence": "medium",
+      "note": "料金表にサウナ料金の記載なし（込みと判断）"
+    },
+    {
+      "name": "天然温泉 虹の湯 二色の浜店",
+      "address": "大阪府貝塚市澤890-15",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://nijinoyu.jp/nishikinohama/",
+      "sources": [
+        "https://onsen.nifty.com/sennan-onsen/onsen003215/"
+      ],
+      "confidence": "medium",
+      "note": "公式の料金は画像のため未読"
+    },
+    {
+      "name": "積善温泉 美笹のゆ",
+      "address": "大阪府貝塚市橋本991-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://www.misasanoyu.com/",
+      "sources": [
+        "https://www.misasanoyu.com/service",
+        "https://www.misasanoyu.com/ofuro"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 泉州の湯 関西空港",
+      "address": "大阪府泉佐野市りんくう往来北1-23",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "ドライは男湯、ミストは女湯",
+      "url": "https://senshu-onsen.com/spa/",
+      "sources": [
+        "https://senshu-onsen.com/spa/",
+        "https://senshu-onsen.com/spa/mineral-mist"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 平野台の湯 安庵",
+      "address": "大阪府阪南市鳥取中632-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yasuda-kousan.com/hiranodai-an.html",
+      "sources": [
+        "http://www.yasuda-kousan.com/hiranodai-an.html",
+        "https://onsen.nifty.com/sennan-onsen/onsen008316/"
+      ],
+      "confidence": "medium",
+      "notice": "奇数月の第3水曜定休",
+      "note": "サウナの有無はニフティのみで確認"
+    },
+    {
+      "name": "天然温泉 テルメ龍宮",
+      "address": "大阪府大阪市港区港晴2-3-35",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナは別料金（金額未確認）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%E9%BE%8D%E5%AE%AE%E6%B8%A9%E6%B3%89/",
+      "sources": [
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen003161/",
+        "https://osaka268.com/sento/%E9%BE%8D%E5%AE%AE%E6%B8%A9%E6%B3%89/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "天然温泉かけながし 野里の湯",
+      "address": "大阪府大阪市西淀川区野里2-22-30",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "サウナは貸しタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%E5%A4%A9%E7%84%B6%E6%B8%A9%E6%B3%89%E3%80%80%E9%87%8E%E9%87%8C%E3%81%AE%E6%B9%AF/",
+      "sources": [
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen011699/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜・第3水曜定休",
+      "note": "料金はニフティ（出典は施設のX投稿）。府の上限600円より低い"
+    },
+    {
+      "name": "湯処 あべの橋",
+      "address": "大阪府大阪市阿倍野区阿倍野筋1-7-25",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 300,
+      "priceNote": "乾式サウナは貸しバスタオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://yudokoro-abenobashi.com/",
+      "sources": [
+        "https://yudokoro-abenobashi.com/",
+        "https://onsen.nifty.com/oosakashinai-onsen/onsen006292/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜・第3水曜定休",
+      "note": "天然温泉は運び湯。料金はニフティ"
+    },
+    {
+      "name": "箕輪の里温泉",
+      "address": "大阪府東大阪市古箕輪1-14-24",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "冷凍サウナあり",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen003190/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトなし。サウナ料金未確認"
+    },
+    {
+      "name": "極楽湯 茨木店",
+      "address": "大阪府茨木市田中町18-18",
+      "weekdayAdult": 900,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "ロイヤル料金（サウナ・露天なしの公衆入浴600円あり）",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.gokurakuyu.ne.jp/gokurakuyu/tempo/ibaraki/",
+      "sources": [
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen003212/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトが停止中（2026/10）でニフティのみ"
+    },
+    {
+      "name": "彩都天然温泉 すみれの湯",
+      "address": "大阪府茨木市清水1-30-7",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://sumireno-yu.com/",
+      "sources": [
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen008137/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトがメンテナンス中で未確認"
+    },
+    {
+      "name": "高槻天然温泉 天神の湯",
+      "address": "大阪府高槻市高槻町16-5",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.workhotel.jp/tenjin/",
+      "sources": [
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen010389/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト応答なし（503）"
+    },
+    {
+      "name": "大江戸温泉物語 箕面温泉スパーガーデン",
+      "address": "大阪府箕面市温泉町1-1",
+      "weekdayAdult": 2420,
+      "holidayAdult": 2860,
+      "saunaFee": 0,
+      "priceNote": "17時までのデイ入館（繁忙期3,190円、17時以降2,090円）。入湯税別",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/minoh-spa/",
+      "sources": [
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen024924/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは自動取得不可"
+    },
+    {
+      "name": "花園温泉 sauna kukka",
+      "address": "大阪府東大阪市新町17-33",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "水着着用の男女共用サウナフロア（private sauna oma）は別料金",
+      "url": "https://sauna-kukka.jp/",
+      "sources": [
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen018104/"
+      ],
+      "confidence": "medium",
+      "note": "公式の料金は画像。天然温泉（炭酸水素塩泉）はニフティ記載"
+    },
+    {
+      "name": "天然温泉 華の湯",
+      "address": "大阪府羽曳野市野453",
+      "weekdayAdult": 830,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://site.wepage.com/hananoyu",
+      "sources": [
+        "https://onsen.nifty.com/kawauchi-onsen/onsen007745/",
+        "https://news.allabout.co.jp/articles/o/112084/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "S・P・A refre（スパ リフレ）",
+      "address": "大阪府堺市南区美木多上903-6",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "その他"
+      ],
+      "saunaNote": "高温・中温アロマ・低温ミストの3種",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen003200/"
+      ],
+      "confidence": "low",
+      "note": "公式サイト消滅（410）。2026年9月の口コミで営業確認。2024年口コミでは700円"
+    },
+    {
+      "name": "八尾グランドホテル",
+      "address": "大阪府八尾市八尾木北5-101",
+      "weekdayAdult": 2600,
+      "holidayAdult": 2600,
+      "saunaFee": 0,
+      "priceNote": "一般料金（タオル・浴衣付き）。17時以降1,300円、深夜1時以降+1,500円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yaogrand.com/",
+      "sources": [
+        "https://yaogrand.com/day_trip",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen003181/"
+      ],
+      "confidence": "medium",
+      "note": "サウナの有無はニフティで確認"
+    },
+    {
+      "name": "ホテル阪神大阪 スパ&サウナ",
+      "address": "大阪府大阪市福島区福島5-6-16",
+      "weekdayAdult": 2750,
+      "holidayAdult": 2750,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円別",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "女性用スパ「テフ」",
+      "url": "https://www.hankyu-hotel.com/hotel/hs/hanshin/contents/spa/spa_total_top_page",
+      "sources": [
+        "https://www.hankyu-hotel.com/hotel/hs/hanshin/contents/spa/spa_total_top_page"
+      ],
+      "confidence": "medium",
+      "notice": "男性用「阪神サウナ」は一時休業中",
+      "note": "男性側の休業期間は未確認"
+    },
+    {
+      "name": "泉南温泉 SORAの湯",
+      "address": "大阪府泉南市りんくう南浜2-201",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://sora-rinku.com/soranoyu/",
+      "sources": [
+        "https://sora-rinku.com/soranoyu/",
+        "https://onsen.nifty.com/sennan-onsen/onsen016684/"
+      ],
+      "confidence": "medium",
+      "notice": "月・木曜休館（祝日は営業）。日帰りは10〜19時",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "天然温泉 だんぢり湯",
+      "address": "大阪府岸和田市八幡町4-57",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "レギュラー入浴600円（ロイヤル入浴850円あり）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.danjiriyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/sennan-onsen/onsen003211/",
+        "https://news.allabout.co.jp/articles/o/116038/"
+      ],
+      "confidence": "low",
+      "note": "公式料金は画像。サウナがどちらの区分で使えるか未確認"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "八尾温泉 喜多の湯",
+      "reason": "人工温泉（公式で温泉成分配合のお湯と明記）"
+    },
+    {
+      "name": "なにわ健康ランド 湯〜トピア",
+      "reason": "天然温泉の記載なし（延寿湯温泉は薬湯）"
+    },
+    {
+      "name": "楽天風呂 祥福乃湯",
+      "reason": "天然温泉と確認できず（炭酸泉・酸素泉）"
+    },
+    {
+      "name": "泉の湯（枚方）",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "湯快のゆ 門真店",
+      "reason": "天然温泉と確認できず（超炭酸風呂等）"
+    },
+    {
+      "name": "湯源郷 太平のゆ なんば店・忠岡店",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "源気温泉 八尾おゆば",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "湯あそびひろば ぽんぽこ温泉",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "極楽湯 堺泉北店",
+      "reason": "天然温泉か確認できず（泉質表記が炭酸泉のみ、公式サイト停止中）"
+    },
+    {
+      "name": "狭山郷温泉 虹の湯 大阪狭山店",
+      "reason": "リニューアルのため2026/9/1〜2027年1月中（予定）長期休館"
+    },
+    {
+      "name": "かいづか いぶき温泉",
+      "reason": "サウナは貸切のバレル・テントサウナのみ"
+    },
+    {
+      "name": "牛滝温泉 四季まつり",
+      "reason": "大浴場にサウナなし（公式）"
+    },
+    {
+      "name": "伏尾温泉 不死王閣",
+      "reason": "日帰りは食事付きプランのみ（温泉のみ料金・サウナ未確認）"
+    },
+    {
+      "name": "天見温泉 南天苑",
+      "reason": "食事利用者のみ入浴可・サウナなし"
+    },
+    {
+      "name": "大江戸温泉物語Premium 箕面観光ホテル",
+      "reason": "日帰りはバイキング付きプランのみ（隣接のスパーガーデンを収録）"
+    },
+    {
+      "name": "TAC タック桃山",
+      "reason": "フィットネスクラブのビジター利用"
+    },
+    {
+      "name": "コナミスポーツクラブ茨木",
+      "reason": "フィットネスクラブ内の施設（一般日帰り料金を公式で確認できず）"
+    },
+    {
+      "name": "関空温泉ホテルガーデンパレス",
+      "reason": "日帰りは予約制の貸切利用のみ"
+    },
+    {
+      "name": "松葉温泉 滝の湯",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "犬鳴山温泉 み奈美亭・不動口館・山乃湯",
+      "reason": "サウナなし（確認できず）"
+    },
+    {
+      "name": "料理旅館 奥水間温泉",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "ワールド牧場 天然温泉一乃湯",
+      "reason": "サウナを確認できず"
+    },
+    {
+      "name": "亀の井ホテル 富田林",
+      "reason": "日帰り客が使えるサウナを確認できず"
+    },
+    {
+      "name": "能勢温泉・山空海温泉",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "志宜野けごん温泉（華厳温泉）",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "くつろぎの湯 HOS小阪フィットネスクラブ内",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "ドーミーイン・御宿野乃 大阪市内各店",
+      "reason": "宿泊者専用"
+    },
+    {
+      "name": "トキワ温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "松原天然温泉 You・ゆ〜",
+      "reason": "閉館"
+    },
+    {
+      "name": "湧出天然温泉 くつろぎの郷 湯楽",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 ゆの蔵",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 畷の里温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "スパ リゾートリバティ",
+      "reason": "閉館"
+    },
+    {
+      "name": "サウナ&カプセル天然温泉スパディオ",
+      "reason": "閉館（建て替え）"
+    },
+    {
+      "name": "天然温泉 千寿の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "ケイエスビー弥生の里温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "源気温泉 藤井寺おゆば",
+      "reason": "閉館"
+    },
+    {
+      "name": "りんくうの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "極楽湯 吹田店",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "大阪府全域。ニフティ温泉の大阪府掲載施設（約1,860件）のうちホテル以外の約730件の詳細ページで「天然温泉・泉質」表記を機械抽出して候補化し、公式サイトで料金・サウナを確認。銭湯は府の上限600円（2025/4〜）だが施設ごとの実額を採用。天然温泉表記のない銭湯（ラジウム鉱石・人工炭酸泉等）は除外。ホテルの日帰り利用（シティプラザ大阪、ホテル京阪ユニバーサル・タワー、リブマックス梅田各店、スーパーホテル堺マリティマ等）は日帰り可否・料金を確認できず未収録。極楽湯（茨木）・すみれの湯・天神の湯は公式サイト停止中でポータル値。"
+}

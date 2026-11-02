@@ -1,0 +1,791 @@
+{
+  "prefecture": "福岡県",
+  "prefCode": "40",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "みなと温泉 波葉の湯",
+      "address": "福岡県福岡市博多区築港本町13-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1250,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女とも高温サウナ（熱香房）",
+      "url": "https://namiha.jp/",
+      "sources": [
+        "https://namiha.jp/info",
+        "https://namiha.jp/shisetsu/spa"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（年数回の設備点検休業あり。2026/11/17・18は休館）"
+    },
+    {
+      "name": "八百治博多ホテル 博多天然温泉 八百治の湯",
+      "address": "福岡県福岡市博多区博多駅前4-9-2",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女それぞれの浴室にサウナ",
+      "url": "https://www.yaoji.co.jp/",
+      "sources": [
+        "https://www.yaoji.co.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は6:30〜9:30・12:00〜24:00"
+    },
+    {
+      "name": "筑紫野温泉Amandi",
+      "address": "福岡県筑紫野市原田832-1",
+      "weekdayAdult": 880,
+      "holidayAdult": 990,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "和風風呂・バリ風風呂（毎週月曜に男女入替）とも赤外線サウナと塩サウナ",
+      "url": "https://www.amandi.jp/",
+      "sources": [
+        "https://www.amandi.jp/fee.html",
+        "https://onsen.nifty.com/dazaifu-onsen/onsen004101/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "源泉野天風呂 那珂川清滝",
+      "address": "福岡県那珂川市南面里326",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "入湯税70円別。ハイシーズン1,900円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "男女とも遠赤外線サウナ・塩サウナ",
+      "url": "https://www.nakagawaseiryu.jp/",
+      "sources": [
+        "https://www.nakagawaseiryu.jp/price.html",
+        "https://www.nakagawaseiryu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "筑紫野 天拝の郷",
+      "address": "福岡県筑紫野市天拝坂2-4-3",
+      "weekdayAdult": 1090,
+      "holidayAdult": 1090,
+      "saunaFee": 0,
+      "priceNote": "大人（18〜64歳）料金。13〜17歳890円、65歳以上990円。大型連休等は特別料金",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "塩"
+      ],
+      "saunaNote": "男性はセルフロウリュサウナ・ドライサウナ、女性はオートロウリュサウナ・塩サウナ",
+      "url": "https://tenpainosato.com/",
+      "sources": [
+        "https://tenpainosato.com/tenpaibath/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2火曜休館"
+    },
+    {
+      "name": "ルートイン グランティア太宰府 日帰り天然温泉 みかさの湯",
+      "address": "福岡県太宰府市連歌屋3-8-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女別にサウナ",
+      "url": "https://www.hotel-grantia.co.jp/dazaifu/spa/",
+      "sources": [
+        "https://www.hotel-grantia.co.jp/dazaifu/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは10:00〜22:00（受付21:30まで）"
+    },
+    {
+      "name": "本城天然温泉 おとぎの杜",
+      "address": "福岡県北九州市八幡西区御開1-19-1",
+      "weekdayAdult": 990,
+      "holidayAdult": 1090,
+      "saunaFee": 0,
+      "priceNote": "2026年12月から入浴料金改定予定",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女とも遠赤サウナ（ロウリュイベントあり）・塩サウナ",
+      "url": "https://otogi-mori.com/",
+      "sources": [
+        "https://otogi-mori.com/usecharge",
+        "https://otogi-mori.com/8884",
+        "https://onsen.nifty.com/kitakyuushuushishuuhen-onsen/onsen006035/"
+      ],
+      "confidence": "high",
+      "note": "改定後の金額は画像のみで未確認"
+    },
+    {
+      "name": "天然温泉コロナの湯 小倉店",
+      "address": "福岡県北九州市小倉北区西港町27-5",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "湿式高温サウナ。天然溶岩サウナ「健美効炉」は別料金",
+      "url": "https://www.korona.co.jp/onsen/kok/",
+      "sources": [
+        "https://www.korona.co.jp/onsen/basic/kok/598",
+        "https://onsen.nifty.com/kitakyuushuushishuuhen-onsen/onsen009472/"
+      ],
+      "confidence": "high",
+      "notice": "4か月に1度メンテナンス休館あり"
+    },
+    {
+      "name": "水巻天然温泉 いちょうの湯",
+      "address": "福岡県遠賀郡水巻町頃末南3-23-2",
+      "weekdayAdult": 880,
+      "holidayAdult": 990,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "塩",
+        "ミスト"
+      ],
+      "saunaNote": "オートロウリュサウナ・塩サウナ・ミストサウナ",
+      "url": "https://ichonoyu.com/",
+      "sources": [
+        "https://ichonoyu.com/guide/",
+        "https://ichonoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休館"
+    },
+    {
+      "name": "宗像王丸 天然温泉 やまつばさ",
+      "address": "福岡県宗像市王丸474",
+      "weekdayAdult": 1470,
+      "holidayAdult": 1670,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "スチーム"
+      ],
+      "saunaNote": "高温オートロウリュサウナ、温泉ナノスチームサウナ（男性大浴場）",
+      "url": "https://www.yamatsubasa.jp/",
+      "sources": [
+        "https://www.yamatsubasa.jp/price/",
+        "https://www.yamatsubasa.jp/"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜定休（3月・8月は無休）"
+    },
+    {
+      "name": "メルキュール福岡宗像リゾート＆スパ 玄海さつき温泉",
+      "address": "福岡県宗像市田野1303",
+      "weekdayAdult": 1500,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "入湯税50円込",
+      "saunaTypes": [],
+      "saunaNote": "温泉施設の2階にサウナ",
+      "url": "https://mercure-fukuokamunakata-resortandspa.jp/",
+      "sources": [
+        "https://mercure-fukuokamunakata-resortandspa.jp/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴15:00〜22:00（受付21:00まで）。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "二丈温泉 きららの湯",
+      "address": "福岡県糸島市二丈深江1-20-1",
+      "weekdayAdult": 890,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライサウナとミストサウナを奇数日・偶数日で男女入替",
+      "url": "https://kiraranoyu.jp/",
+      "sources": [
+        "https://kiraranoyu.jp/guide",
+        "https://kiraranoyu.jp/bath"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜定休"
+    },
+    {
+      "name": "源泉掛け流し温泉 久留米 游心の湯",
+      "address": "福岡県久留米市本山1-7-10",
+      "weekdayAdult": 890,
+      "holidayAdult": 990,
+      "saunaFee": 0,
+      "priceNote": "2026/12/5から入浴料金改定予定",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "塩"
+      ],
+      "saunaNote": "フィンランド式サウナ（ロウリュイベントあり）・塩サウナ",
+      "url": "https://yushin-yu.com/",
+      "sources": [
+        "https://yushin-yu.com/usecharge",
+        "https://yushin-yu.com/information/3962",
+        "https://onsen.nifty.com/kurume-onsen/onsen004076/"
+      ],
+      "confidence": "high",
+      "note": "改定後の金額は未掲載"
+    },
+    {
+      "name": "湯の坂久留米温泉",
+      "address": "福岡県久留米市野中町湯の坂1235",
+      "weekdayAdult": 880,
+      "holidayAdult": 930,
+      "saunaFee": 0,
+      "priceNote": "3時間料金（1日入館 平日1,600円/土日祝1,800円）。入湯税込",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女ともオートロウリュサウナ",
+      "url": "https://kurume-onsen.com/",
+      "sources": [
+        "https://kurume-onsen.com/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "グリーンリッチホテル久留米 天然温泉 有馬六ツ門の湯",
+      "address": "福岡県久留米市日吉町18-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "タオルセット込1,300円",
+      "saunaTypes": [],
+      "saunaNote": "大浴場に男女別サウナ",
+      "url": "https://greenrichhotels.jp/kurume/",
+      "sources": [
+        "https://greenrichhotels.jp/kurume/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は15時から。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "くつろぎの森 グリーンピア八女",
+      "address": "福岡県八女市黒木町木屋10905",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "2つの大浴場（日替わりで男女入替）とも高温サウナ",
+      "url": "https://greenpia-yame.com/",
+      "sources": [
+        "https://greenpia-yame.com/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴10:00〜22:00（受付21:00まで）"
+    },
+    {
+      "name": "八女市健康増進施設 べんがら村",
+      "address": "福岡県八女市宮野100",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "平日20時以降400円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.bengalamura.com/",
+      "sources": [
+        "https://onsen.nifty.com/chikugo-onsen/onsen004061/",
+        "https://www.bengalamura.com/custom.html"
+      ],
+      "confidence": "medium",
+      "note": "公式は「天然温泉&サウナ」のページ名のみ確認、料金はニフティ温泉"
+    },
+    {
+      "name": "亀の井ホテル 柳川",
+      "address": "福岡県柳川市弥四郎町10-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "1階露天風呂にサウナ併設（日帰り昼の部で利用可）",
+      "url": "https://kamenoi-hotels.com/yanagawa/",
+      "sources": [
+        "https://kamenoi-hotels.com/yanagawa/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは昼の部11:00〜15:00（1階露天・サウナは12:00〜）、夜の部18:00〜21:00。火曜は昼の部休止"
+    },
+    {
+      "name": "柳川温泉 南風",
+      "address": "福岡県柳川市上宮永町6-3",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナあり",
+      "url": "https://www.city.yanagawa.fukuoka.jp/kanko/onsen/onsen_haenkaze.html",
+      "sources": [
+        "https://www.city.yanagawa.fukuoka.jp/kanko/onsen/onsen_haenkaze.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は翌日）",
+      "note": "柳川総合保健福祉センター水の郷内。住所はニフティ温泉による"
+    },
+    {
+      "name": "大牟田天然温泉 最高の湯",
+      "address": "福岡県大牟田市新勝立町6-37",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "複数のサウナ（ロウリュ・熱波イベントあり）",
+      "url": "https://saikonoyu.com/",
+      "sources": [
+        "https://saikonoyu.com/access/",
+        "https://saikonoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "2026年12月から毎週水曜定休（それまでは第2・4水曜）"
+    },
+    {
+      "name": "アクアス",
+      "address": "福岡県三潴郡大木町八町牟田538-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.aqus.jp/",
+      "sources": [
+        "http://www.aqus.jp/index.shtml",
+        "https://onsen.nifty.com/yanagawa-onsen/onsen004059/"
+      ],
+      "confidence": "high",
+      "notice": "主に月曜休館"
+    },
+    {
+      "name": "カルナパーク花立山温泉",
+      "address": "福岡県朝倉郡筑前町上高場795",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温・低温サウナ（ニフティ温泉）",
+      "url": "https://www.hanatateyama.jp/net/",
+      "sources": [
+        "https://www.hanatateyama.jp/net/price/",
+        "https://www.hanatateyama.jp/net/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は営業）"
+    },
+    {
+      "name": "原鶴温泉 ビューホテル平成",
+      "address": "福岡県朝倉市杷木志波203-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "入湯税70円別",
+      "saunaTypes": [],
+      "saunaNote": "展望露天風呂「裸美絵」の男女それぞれにサウナ",
+      "url": "https://www.viewhotelheisei.com/",
+      "sources": [
+        "https://www.viewhotelheisei.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは平日12:00〜、休前日・休日10:30〜（受付15:00まで、16:00まで）"
+    },
+    {
+      "name": "原鶴温泉 泰泉閣",
+      "address": "福岡県朝倉市杷木志波20",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女の浴場（日替わり入替）にサウナ各1",
+      "url": "https://taisenkaku.co.jp/",
+      "sources": [
+        "https://taisenkaku.co.jp/onsen/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り受付は月火14:00〜20:00、水〜日11:00〜20:00。不定休のため要電話確認。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "脇田温泉 楠水閣 湯乃禅の里",
+      "address": "福岡県宮若市脇田507",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "男女とも遠赤外線サウナ「釜風呂」",
+      "url": "http://www.nansuikaku.com/related/yunozen.html",
+      "sources": [
+        "http://www.nansuikaku.com/related/yunozen.html"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休"
+    },
+    {
+      "name": "ルートイン グランティア福岡宮若 脇田温泉 健康ランドわかみや",
+      "address": "福岡県宮若市脇田778-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "TV付きサウナ",
+      "url": "https://www.hotel-grantia.co.jp/wakamiya/spa/",
+      "sources": [
+        "https://www.hotel-grantia.co.jp/wakamiya/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り10:00〜23:00"
+    },
+    {
+      "name": "赤村ふるさとセンター 源じいの森温泉",
+      "address": "福岡県田川郡赤村大字赤5251-3",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "村外（一般）料金",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナと水風呂（別に予約制プライベートサウナあり）",
+      "url": "https://www.genjii.com/",
+      "sources": [
+        "https://www.genjii.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "第3木曜休館"
+    },
+    {
+      "name": "ほうじょう温泉 ふじ湯の里",
+      "address": "福岡県田川郡福智町弁城1300-1",
+      "weekdayAdult": 720,
+      "holidayAdult": 720,
+      "saunaFee": 0,
+      "priceNote": "町外料金",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "2つの大浴場とも遠赤外線サウナ",
+      "url": "https://fujiyunosato.com/",
+      "sources": [
+        "https://fujiyunosato.com/priceguide/",
+        "https://onsen.nifty.com/chikuhou-onsen/onsen004054/"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜定休（祝日の場合は翌日）"
+    },
+    {
+      "name": "天然温泉さくら館",
+      "address": "福岡県田川郡大任町今任原1339",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "町外料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.town.oto.fukuoka.jp/dynamic/hpkiji/pub/Detail.aspx?c_id=3&id=306",
+      "sources": [
+        "http://www.town.oto.fukuoka.jp/dynamic/hpkiji/pub/Detail.aspx?c_id=3&id=306"
+      ],
+      "confidence": "high",
+      "note": "町ページ更新2025/3。住所はニフティ温泉による"
+    },
+    {
+      "name": "天狗の湯",
+      "address": "福岡県豊前市八屋1725-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "2026/10/1改定後の料金",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライサウナ・ミストサウナ（ニフティ温泉）",
+      "url": "http://www.city.buzen.lg.jp/kanko/tomaru/tengu.html",
+      "sources": [
+        "http://www.city.buzen.lg.jp/kanko/tomaru/tengu.html",
+        "https://onsen.nifty.com/kitakyuushuushishuuhen-onsen/onsen004037/"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜定休"
+    },
+    {
+      "name": "求菩提温泉 卜仙の郷",
+      "address": "福岡県豊前市大字篠瀬57-2",
+      "weekdayAdult": null,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女別の大浴場にサウナ",
+      "url": "https://www.city.buzen.lg.jp/kanko/tomaru/bokusen.html",
+      "sources": [
+        "https://www.city.buzen.lg.jp/kanko/tomaru/bokusen.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は土日（一部祝日）のみ11:00〜20:00。食事・宿泊は休止中"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "照葉スパリゾート",
+      "reason": "公式サイトに天然温泉の記載なし（炭酸泉等の温浴施設）"
+    },
+    {
+      "name": "照葉スパリゾート 門司店",
+      "reason": "公式サイトに天然温泉の記載なし（炭酸泉等の温浴施設）"
+    },
+    {
+      "name": "ふくの湯 早良店",
+      "reason": "公式の浴槽案内は人工温泉・炭酸泉等で天然温泉の記載なし"
+    },
+    {
+      "name": "ふくの湯 花畑店",
+      "reason": "公式の浴槽案内は人工温泉・炭酸泉等で天然温泉の記載なし"
+    },
+    {
+      "name": "ふくの湯 春日店",
+      "reason": "公式の浴槽案内は白湯・炭酸風呂等で天然温泉の記載なし"
+    },
+    {
+      "name": "新宮温泉 ふくの湯",
+      "reason": "公式の浴槽案内は白湯・炭酸泉等で天然温泉の記載なし"
+    },
+    {
+      "name": "ヒナタの杜 小戸の湯どころ",
+      "reason": "公式サイトに天然温泉の記載なし（高濃度炭酸泉・白湯）"
+    },
+    {
+      "name": "筑紫の湯",
+      "reason": "公式サイトに天然温泉の記載なし（炭酸美泡風呂・水素風呂）"
+    },
+    {
+      "name": "カンデオホテルズ福岡天神",
+      "reason": "公式サイトに天然温泉の記載なし"
+    },
+    {
+      "name": "THE BLOSSOM HAKATA Premier",
+      "reason": "公式サイトに天然温泉・日帰り料金の記載なし"
+    },
+    {
+      "name": "博多温泉旅館 富士の苑",
+      "reason": "サウナなし（公式FAQ）"
+    },
+    {
+      "name": "博多温泉 元祖元湯",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "休暇村志賀島 天然温泉 金印の湯",
+      "reason": "サウナなし（ポータル・口コミ）"
+    },
+    {
+      "name": "二日市温泉 大丸別荘",
+      "reason": "公式の温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "若杉の湯",
+      "reason": "公式サイトに天然温泉の記載なし"
+    },
+    {
+      "name": "都久志の湯",
+      "reason": "公式サイトが接続不可で営業状況・料金を確認できず"
+    },
+    {
+      "name": "Nayuta FURO & SAUNA THE VANISH",
+      "reason": "公式サイトに天然温泉の記載なし"
+    },
+    {
+      "name": "薬王寺温泉 偕楽荘",
+      "reason": "公式サイトに天然温泉の記載なし（薬湯・白湯）、料金も食い違い"
+    },
+    {
+      "name": "須恵町社会福祉センター ほたるの湯",
+      "reason": "渇水対策のため休業中"
+    },
+    {
+      "name": "志免町総合福祉施設 シーメイトの湯",
+      "reason": "サウナなし・2026/10/3から休業中"
+    },
+    {
+      "name": "大野城市いこいの里",
+      "reason": "公式サイトに天然温泉の記載なし"
+    },
+    {
+      "name": "小郡市 あすてらす 満天の湯",
+      "reason": "サウナの有無を確認できず"
+    },
+    {
+      "name": "スーパー銭湯 四季の華（小倉南・ひびきの校・下上津役）",
+      "reason": "光明石の人工温泉"
+    },
+    {
+      "name": "パビリオ 日明の湯・曽根の湯",
+      "reason": "公式サイトに天然温泉の記載なし（湯の華使用）"
+    },
+    {
+      "name": "華の湯 片野店",
+      "reason": "公式サイトに天然温泉の記載なし"
+    },
+    {
+      "name": "八幡天然温泉シーサイドスパ",
+      "reason": "公式の泉質欄が「なし」"
+    },
+    {
+      "name": "亀の井ホテル 玄界灘",
+      "reason": "公式の温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "遠賀川温泉",
+      "reason": "公式サイト接続不可。サウナの有無・現行料金を確認できず"
+    },
+    {
+      "name": "寺迫ラジウム温泉",
+      "reason": "公式情報がなく料金を確認できず"
+    },
+    {
+      "name": "河内純天然水 美人の湯",
+      "reason": "予約制の貸切風呂のみ"
+    },
+    {
+      "name": "福岡日帰りの旅 まむしの湯",
+      "reason": "公式に温泉（泉質）の記載なし（冷泉・天然水の沸かし湯）"
+    },
+    {
+      "name": "伊都の湯どころ",
+      "reason": "公式は「天然水の大浴場」で天然温泉の記載なし"
+    },
+    {
+      "name": "喜八荘 きはちの湯",
+      "reason": "天然温泉ではない（FFC水）"
+    },
+    {
+      "name": "玄竹温泉 鷹取の湯",
+      "reason": "サウナの有無・現行料金を確認できず"
+    },
+    {
+      "name": "ホテルグランスパ アベニュー",
+      "reason": "公式に日帰り料金の記載なし（サウナは男性浴場のみ）"
+    },
+    {
+      "name": "筑後川温泉 旅館とよとみ",
+      "reason": "公式の温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "甘木観光ホテル 甘木館",
+      "reason": "湧水利用で天然温泉の記載なし"
+    },
+    {
+      "name": "清乃屋",
+      "reason": "サウナは貸切家族湯のみ"
+    },
+    {
+      "name": "湯あそびひろば 嘉穂の湯",
+      "reason": "公式サイトに天然温泉の記載なし"
+    },
+    {
+      "name": "湯の蔵（飯塚市）",
+      "reason": "公式情報がなく天然温泉・料金を確認できず"
+    },
+    {
+      "name": "湯の迫温泉 大平樂",
+      "reason": "2026/3/25から当面休館（再開日未定）"
+    },
+    {
+      "name": "天然温泉 日王の湯",
+      "reason": "休館中"
+    },
+    {
+      "name": "柿下温泉",
+      "reason": "休業中"
+    },
+    {
+      "name": "博多 由布院・武雄温泉 万葉の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "博多の森 湯処 月の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "楽天の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "久山温泉 ホテル夢家",
+      "reason": "閉館"
+    },
+    {
+      "name": "河内天然温泉 あじさいの湯",
+      "reason": "閉館（2018年末で営業休止）"
+    },
+    {
+      "name": "パビリオ 陣原の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 筑豊の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 バーパス",
+      "reason": "閉館"
+    },
+    {
+      "name": "筑前大島温泉 さざなみ館",
+      "reason": "閉館"
+    },
+    {
+      "name": "ウォーターワールド浮羽の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "大川昇開橋温泉",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "ニフティ温泉の福岡県サウナあり・日帰り施設一覧（104件）を起点に公式サイトで確認。ニフティの「天然温泉」タグは不正確な例が多く（ふくの湯・照葉等）、公式で天然温泉と確認できない施設は除外した。二日市温泉の共同浴場（博多湯・御前湯）、船小屋・星野・原鶴の一部旅館などサウナ表示のない施設は対象外。サウナ専門店（Giraffe・SAUNA OOO・TOTOPA等）は天然温泉でないため対象外。おとぎの杜・游心の湯は2026/12に料金改定予定（金額未確認）。"
+}

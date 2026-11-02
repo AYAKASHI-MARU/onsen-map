@@ -1,0 +1,1465 @@
+{
+  "prefecture": "神奈川県",
+  "prefCode": "14",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "横浜天然温泉 SPA EAS",
+      "address": "神奈川県横浜市西区北幸2-2-1 ハマボールビルディング5・6階",
+      "weekdayAdult": 4400,
+      "holidayAdult": 5200,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。16歳以上のみ入館可。キャッシュレスのみ",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "浴室内サウナのほか男女共用の映像演出サウナ（アウフグース）あり",
+      "url": "https://spa-eas.com/",
+      "sources": [
+        "https://spa-eas.com/price/"
+      ],
+      "confidence": "high",
+      "note": "2026年7月リノベーションオープン"
+    },
+    {
+      "name": "天然温泉 満天の湯",
+      "address": "神奈川県横浜市保土ケ谷区上星川3-1-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日1,200円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "タワーサウナ（オートロウリュ）、スチーム塩サウナは男性のみ",
+      "url": "https://mantennoyu.com/",
+      "sources": [
+        "https://mantennoyu.com/ofuro/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen006655/"
+      ],
+      "confidence": "high",
+      "note": "毎月第3火曜休。2026/10/22〜11/16露天エリア閉鎖"
+    },
+    {
+      "name": "黒湯天然温泉 みうら湯 弘明寺店",
+      "address": "神奈川県横浜市南区中里1-25-1",
+      "weekdayAdult": 980,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "遠赤外線タワーサウナ、ミストサウナ（しっとり湯側・男女週替わり）",
+      "url": "https://www.miurayu.com/",
+      "sources": [
+        "https://www.miurayu.com/fee/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen005785/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "横濱スパヒルズ 竜泉寺の湯",
+      "address": "神奈川県横浜市旭区白根8-8",
+      "weekdayAdult": 980,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（6〜9時入場）平日880円・土日祝980円",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性:メディサウナ等、女性:ソルトサウナ等。バズーカロウリュ・オートロウリュ黄土サウナ",
+      "url": "https://tsurugamine.ryusenjinoyu.com/",
+      "sources": [
+        "https://tsurugamine.ryusenjinoyu.com/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen011489/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "湘南RESORT SPA 竜泉寺の湯 湘南茅ヶ崎店",
+      "address": "神奈川県茅ヶ崎市中島1339-1",
+      "weekdayAdult": 980,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（6〜9時）平日880円・土日祝980円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性:バズーカロウリュサウナ、女性:ロウリュサウナ",
+      "url": "https://ryusenjinoyu.com/chigasaki/",
+      "sources": [
+        "https://ryusenjinoyu.com/chigasaki/price/",
+        "https://onsen.nifty.com/shounan-onsen/onsen009500/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "横浜みなとみらい 万葉倶楽部",
+      "address": "神奈川県横浜市中区新港2-7-1",
+      "weekdayAdult": 3500,
+      "holidayAdult": 3500,
+      "saunaFee": 0,
+      "priceNote": "入湯税100円別。館内着・タオル込み。深夜3時以降は深夜料金別途",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性:超高温・ハーブスチーム・ドライ（自動ロウリュ）、女性:塩・ハーブスチーム・ドライ",
+      "url": "https://www.manyo.co.jp/mm21/",
+      "sources": [
+        "https://manyo.co.jp/mm21/price/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen006590/"
+      ],
+      "confidence": "high",
+      "note": "熱海・湯河原温泉の運び湯"
+    },
+    {
+      "name": "センター南温泉 湯もみの里",
+      "address": "神奈川県横浜市都筑区茅ヶ崎南4-3-1",
+      "weekdayAdult": 1290,
+      "holidayAdult": 1540,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日1,540円。中学生から入館可",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ（遠赤外線）、塩サウナは男湯のみ",
+      "url": "https://www.yumominosato.jp/",
+      "sources": [
+        "https://www.yumominosato.jp/times_price/index.html",
+        "https://onsen.nifty.com/yokohama-onsen/onsen016170/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "ゆめみ処 おふろの王様 瀬谷店",
+      "address": "神奈川県横浜市瀬谷区目黒町24-6",
+      "weekdayAdult": 850,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ousama2603.com/shop/seya/",
+      "sources": [
+        "https://www.ousama2603.com/shop/seya/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen007510/"
+      ],
+      "confidence": "high",
+      "note": "黒湯温泉（ナトリウム-炭酸水素塩泉）"
+    },
+    {
+      "name": "天然温泉 すすき野湯けむりの里",
+      "address": "神奈川県横浜市青葉区すすき野3-2-7",
+      "weekdayAdult": 850,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "その他"
+      ],
+      "saunaNote": "サウナ（種類未記載）、女性のみ漢方薬草蒸風呂",
+      "url": "https://www.yukemurinosato.com/susukino/",
+      "sources": [
+        "https://www.yukemurinosato.com/susukino/info/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen005912/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "横浜青葉温泉 喜楽里別邸",
+      "address": "神奈川県横浜市青葉区奈良4-5-1",
+      "weekdayAdult": 1250,
+      "holidayAdult": 1450,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1より平日1,280円・土休日1,480円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュサウナ",
+      "url": "https://www.yurakirari.com/aoba/",
+      "sources": [
+        "https://www.yurakirari.com/aoba/fee/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen018532/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "横須賀温泉 湯楽の里",
+      "address": "神奈川県横須賀市馬堀海岸4-1-23",
+      "weekdayAdult": 1230,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ・塩サウナ",
+      "url": "https://www.yurakirari.com/yura/yokosuka/",
+      "sources": [
+        "https://www.yurakirari.com/yura/yokosuka/price.html",
+        "https://onsen.nifty.com/yokosuka-onsen/onsen009819/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "相模・下九沢温泉 湯楽の里",
+      "address": "神奈川県相模原市緑区下九沢2385-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "遠赤外線サウナ、塩サウナは女性露天のみ",
+      "url": "https://www.yurakirari.com/sagamihara/",
+      "sources": [
+        "https://www.yurakirari.com/sagamihara/fee/",
+        "https://onsen.nifty.com/sagamihara-onsen/onsen006406/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "溝口温泉 喜楽里",
+      "address": "神奈川県川崎市高津区千年1068-1",
+      "weekdayAdult": 1080,
+      "holidayAdult": 1230,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1より平日1,100円・土休日1,250円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "遠赤外線タワーサウナ、塩サウナ（オートロウリュ）",
+      "url": "https://www.yurakirari.com/kirari/mizonokuchi/",
+      "sources": [
+        "https://www.yurakirari.com/kirari/mizonokuchi/fee.html",
+        "https://onsen.nifty.com/kawasaki-onsen/onsen007460/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "極楽湯 横浜芹が谷店",
+      "address": "神奈川県横浜市港南区芹が谷5-54-8",
+      "weekdayAdult": 1070,
+      "holidayAdult": 1210,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性:オートロウリュサウナ、女性:遠赤外線タワーサウナ",
+      "url": "https://www.gokurakuyu.ne.jp/tempo/serigaya/",
+      "sources": [
+        "https://onsen.nifty.com/yokohama-onsen/onsen006944/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは調査時停止中（ニフティ温泉で確認）"
+    },
+    {
+      "name": "綱島源泉 湯けむりの庄",
+      "address": "神奈川県横浜市港北区樽町3-7-61",
+      "weekdayAdult": 1540,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "土日祝は入湯税100円別。館内着・タオル込み",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "フィンランド式サウナ、塩スチームサウナ",
+      "url": "https://www.yukemurinosato.com/tsunashima/",
+      "sources": [
+        "https://www.yukemurinosato.com/tsunashima/info/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen012186/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "宮前平源泉 湯けむりの庄",
+      "address": "神奈川県川崎市宮前区宮前平2-13-3",
+      "weekdayAdult": 1540,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "土日祝は入湯税150円別。館内着・タオル込み",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式サウナ（ロウリュ）、スチーム塩サウナは女性のみ",
+      "url": "https://www.yukemurinosato.com/miyamaedaira/",
+      "sources": [
+        "https://www.yukemurinosato.com/miyamaedaira/info/",
+        "https://onsen.nifty.com/kawasaki-onsen/onsen007934/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "縄文天然温泉 志楽の湯",
+      "address": "神奈川県川崎市幸区塚越4-314-1",
+      "weekdayAdult": 1170,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "5歳未満入館不可",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯:ドライサウナ、女湯:ミストサウナ（海底洞窟蒸し風呂）",
+      "url": "https://www.shiraku.jp/",
+      "sources": [
+        "https://www.shiraku.jp/access/",
+        "https://onsen.nifty.com/kawasaki-onsen/onsen006458/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "おふろの王様 海老名店",
+      "address": "神奈川県海老名市柏ケ谷3-6-8",
+      "weekdayAdult": 900,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "ドライサウナ、男湯:薬草スチームサウナ、女湯:塩サウナ",
+      "url": "https://www.ousama2603.com/ebina/",
+      "sources": [
+        "https://www.ousama2603.com/ebina/",
+        "https://onsen.nifty.com/ebina-onsen/onsen006424/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "SpaLibur yokohama（スパリブール ヨコハマ）",
+      "address": "神奈川県横浜市鶴見区獅子ケ谷2-39-18",
+      "weekdayAdult": 1520,
+      "holidayAdult": 1750,
+      "saunaFee": 0,
+      "priceNote": "大人は中学生〜59歳。翌2時を超える滞在は深夜料金880円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://www.libur.co.jp/",
+      "sources": [
+        "https://www.libur.co.jp/price/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen007118/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "野天湯元 湯快爽快 ちがさき",
+      "address": "神奈川県茅ヶ崎市茅ヶ崎3-2-75",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "22時以降入館は平日780円・土日祝880円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩",
+        "ミスト"
+      ],
+      "saunaNote": "遠赤外線サウナ、塩サウナ、ミストサウナは女性のみ",
+      "url": "https://www.yukaisoukai.com/chi/",
+      "sources": [
+        "https://www.yukaisoukai.com/chi/events/event/weekday-price/",
+        "https://www.yukaisoukai.com/chi/events/event/holiday-price/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "野天湯元 湯快爽快 ざま",
+      "address": "神奈川県座間市広野台1-48-25",
+      "weekdayAdult": 900,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "22時以降入館は平日800円・土日祝880円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yukaisoukai.com/zam/",
+      "sources": [
+        "https://www.yukaisoukai.com/zam/blog/2026/06/12081/",
+        "https://onsen.nifty.com/sagamihara-onsen/onsen006929/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "野天湯元 湯快爽快 たや",
+      "address": "神奈川県横浜市栄区田谷町146-3",
+      "weekdayAdult": 980,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温サウナ、低温サウナ（オートロウリュ）、洞窟塩ミストサウナ",
+      "url": "https://www.yukaisoukai.com/tay/",
+      "sources": [
+        "https://www.yukaisoukai.com/tay/events/event/weekday-price-2/",
+        "https://www.yukaisoukai.com/tay/events/event/holiday-price-2/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "湘南台温泉 らく",
+      "address": "神奈川県藤沢市湘南台2-7-5",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル込み。23時以降滞在は延長2,000円。夜間ひとっ風呂70分700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "屋上にサウナ（種類は口コミ情報）",
+      "url": "https://shonandaionsen-raku.jp/",
+      "sources": [
+        "https://shonandaionsen-raku.jp/about/",
+        "https://onsen.nifty.com/shounan-onsen/onsen012187/"
+      ],
+      "confidence": "high",
+      "note": "奥湯河原温泉の運び湯"
+    },
+    {
+      "name": "湘南天然温泉 湯乃蔵ガーデン",
+      "address": "神奈川県平塚市大原3-50",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1150,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温加湿サウナ（自動ロウリュ）",
+      "url": "https://www.yunokura.com/",
+      "sources": [
+        "https://www.yunokura.com/price/"
+      ],
+      "confidence": "high",
+      "note": "毎月第3木曜休"
+    },
+    {
+      "name": "江の島アイランドスパ",
+      "address": "神奈川県藤沢市江の島2-1-6",
+      "weekdayAdult": 3100,
+      "holidayAdult": 3100,
+      "saunaFee": 0,
+      "priceNote": "温泉＆プール（10〜3月料金、4〜9月3,600円）。特定日4,100円。入湯税150円別。温泉3時間1,800円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "富士海湯（男女別浴場）に高温サウナ",
+      "url": "https://www.enospa.jp/",
+      "sources": [
+        "https://www.enospa.jp/price-2-2",
+        "https://www.enospa.jp/"
+      ],
+      "confidence": "high",
+      "note": "2027/1/12〜3月下旬は館内修繕で温泉・プール休止予定"
+    },
+    {
+      "name": "朝日湯源泉 ゆいる",
+      "address": "神奈川県川崎市川崎区鋼管通3-1-2",
+      "weekdayAdult": 2780,
+      "holidayAdult": 3300,
+      "saunaFee": 0,
+      "priceNote": "一般コース5時間の料金。入湯税150円別。平日1時間1,540円、Free平日3,630円・土日祝4,250円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女とも高温（オートロウリュ）・中温（アウフグース）の2種",
+      "url": "https://yuiru.net/",
+      "sources": [
+        "https://yuiru.net/price",
+        "https://onsen.nifty.com/yokohama-onsen/onsen016755/"
+      ],
+      "confidence": "high",
+      "note": "小学生未満入館不可"
+    },
+    {
+      "name": "横浜天然温泉 くさつ",
+      "address": "神奈川県横浜市南区井土ケ谷上町21-29",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 300,
+      "priceNote": "入浴+サウナ（貸バスタオル付）平日870円・土日祝920円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/kusatsu/",
+      "sources": [
+        "https://k-o-i.jp/koten/kusatsu/",
+        "https://k-o-i.jp/news/20260301/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen006989/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。毎週月曜休（祝日営業）"
+    },
+    {
+      "name": "中島館",
+      "address": "神奈川県横浜市南区中島町4-75",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ別料金（金額未確認）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/nakajimakan/",
+      "sources": [
+        "https://k-o-i.jp/koten/nakajimakan/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。毎週金曜休"
+    },
+    {
+      "name": "横浜温泉 黄金湯",
+      "address": "神奈川県横浜市保土ケ谷区仏向町245-1",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線ドライサウナ、男女曜日替わり",
+      "url": "https://k-o-i.jp/koten/koganeyu/",
+      "sources": [
+        "https://k-o-i.jp/koten/koganeyu/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。毎週金曜休"
+    },
+    {
+      "name": "葛の湯",
+      "address": "神奈川県横浜市泉区中田南5-1-16",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kuzunoyu.wixsite.com/kuzunoyu",
+      "sources": [
+        "https://k-o-i.jp/koten/kuzunoyu/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。毎週木曜休"
+    },
+    {
+      "name": "利世館",
+      "address": "神奈川県横浜市中区伊勢佐木町5-127",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/riseikan/",
+      "sources": [
+        "https://k-o-i.jp/koten/riseikan/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯"
+    },
+    {
+      "name": "鷲の湯",
+      "address": "神奈川県横浜市神奈川区七島町151",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.washinoyu.com/",
+      "sources": [
+        "https://k-o-i.jp/koten/washinoyu/",
+        "http://www.washinoyu.com/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。不定休"
+    },
+    {
+      "name": "日吉湯",
+      "address": "神奈川県横浜市港北区日吉本町4-15-9",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 350,
+      "priceNote": "サウナ（入浴料込み）920円、手ぶらサウナ1,070円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/hiyoshiyu/",
+      "sources": [
+        "https://k-o-i.jp/koten/hiyoshiyu/"
+      ],
+      "confidence": "high",
+      "note": "銭湯。水曜休"
+    },
+    {
+      "name": "冨士の湯（矢向温泉）",
+      "address": "神奈川県横浜市鶴見区矢向3-28-12",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "浴場は男女日替わり",
+      "url": "https://k-o-i.jp/koten/fujinoyu-3/",
+      "sources": [
+        "https://k-o-i.jp/koten/fujinoyu-3/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。木曜休（祝日営業）"
+    },
+    {
+      "name": "矢向湯",
+      "address": "神奈川県横浜市鶴見区矢向5-3-19",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/yakouyu/",
+      "sources": [
+        "https://k-o-i.jp/koten/yakouyu/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。不定休"
+    },
+    {
+      "name": "朝日湯",
+      "address": "神奈川県横浜市鶴見区生麦3-6-24",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/asahiyu-2/",
+      "sources": [
+        "https://k-o-i.jp/koten/asahiyu-2/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。5・15・25日休"
+    },
+    {
+      "name": "たちばな温泉 たちばな湯",
+      "address": "神奈川県川崎市高津区子母口403-1",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/tachibanaonsen/",
+      "sources": [
+        "https://k-o-i.jp/koten/tachibanaonsen/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯（黒湯）。毎週水曜休"
+    },
+    {
+      "name": "千年温泉",
+      "address": "神奈川県川崎市高津区千年新町20-4",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "公式にサウナ（入浴料込み）800円の記載あり、改定反映か未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://chitose-onsen.com/",
+      "sources": [
+        "https://chitose-onsen.com/",
+        "https://k-o-i.jp/koten/sennenonsen/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯（黒湯）。毎週金曜休"
+    },
+    {
+      "name": "かまぶろ温泉",
+      "address": "神奈川県川崎市川崎区藤崎4-7-3",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 250,
+      "priceNote": "サウナ付き820円（バスタオル・タオル付）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kamaburoyu.com/",
+      "sources": [
+        "https://kamaburoyu.com/information.html"
+      ],
+      "confidence": "high",
+      "note": "銭湯。金曜・第2木曜休"
+    },
+    {
+      "name": "政の湯",
+      "address": "神奈川県川崎市川崎区南町2-4",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/masanoyu-kawa/",
+      "sources": [
+        "https://k-o-i.jp/koten/masanoyu-kawa/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。6・16・26日休"
+    },
+    {
+      "name": "日の出おふろセンター",
+      "address": "神奈川県川崎市川崎区昭和2-5-12",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 640,
+      "priceNote": "男性ドライサウナは手ぶらサウナコース+640円。スチームサウナは無料",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://k-o-i.jp/koten/hinodeofuro/",
+      "sources": [
+        "https://k-o-i.jp/koten/hinodeofuro/",
+        "https://k-o-i.jp/news/20260301/"
+      ],
+      "confidence": "medium",
+      "note": "銭湯。不定休"
+    },
+    {
+      "name": "天然温泉 湯花楽 厚木店",
+      "address": "神奈川県厚木市林5-8-12",
+      "weekdayAdult": 1738,
+      "holidayAdult": 1848,
+      "saunaFee": 0,
+      "priceNote": "1日ゆったりコース（サウナ可）。平日割1,518円実施中。ひとっ風呂（サウナ不可）平日1,188円・土日祝1,375円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "露天フィンランドサウナ（オートロウリュ）、麦飯石ミストサウナ、男女共用麦飯石サウナ（サウナ着）",
+      "url": "https://www.yukaraku.com/atsugi/",
+      "sources": [
+        "https://www.yukaraku.com/atsugi/charge/",
+        "https://onsen.nifty.com/atsugi-onsen/onsen005688/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "名水はだの富士見の湯",
+      "address": "神奈川県秦野市曽屋4553-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "秦野市内在住割引あり",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女ともドライサウナ",
+      "url": "https://www.hadanofujiminoyu.jp/",
+      "sources": [
+        "https://www.hadanofujiminoyu.jp/",
+        "https://onsen.nifty.com/tanzawa-onsen/onsen012766/"
+      ],
+      "confidence": "high",
+      "note": "毎月第2水曜休"
+    },
+    {
+      "name": "はだの・湯河原温泉 万葉の湯",
+      "address": "神奈川県秦野市河原町2-54",
+      "weekdayAdult": 2380,
+      "holidayAdult": 2380,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円別。館内着・タオル込み。深夜3時以降+1,980円",
+      "saunaTypes": [
+        "その他",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性:黄土サウナ、女性:塩サウナ",
+      "url": "https://www.manyo.co.jp/hadano/",
+      "sources": [
+        "https://www.manyo.co.jp/hadano/price",
+        "https://onsen.nifty.com/tanzawa-onsen/onsen005733/"
+      ],
+      "confidence": "high",
+      "note": "湯河原温泉の運び湯"
+    },
+    {
+      "name": "鶴巻温泉 弘法の里湯",
+      "address": "神奈川県秦野市鶴巻北3-1-2",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "平日1日1,000円（2時間800円）、土日祝は2時間1,000円・延長1時間200円。中学生以下半額",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "里湯:ドライ、山湯:スチーム（男女日替わり）",
+      "url": "https://www.city.hadano.kanagawa.jp/kanko/onsen/2674.html",
+      "sources": [
+        "https://www.city.hadano.kanagawa.jp/kanko/onsen/2674.html"
+      ],
+      "confidence": "high",
+      "note": "月曜休（祝日は翌平日）"
+    },
+    {
+      "name": "モダン湯治 おんりーゆー",
+      "address": "神奈川県南足柄市広町1520-1",
+      "weekdayAdult": 2420,
+      "holidayAdult": 2530,
+      "saunaFee": 0,
+      "priceNote": "17時以降入館は割安料金あり",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女内湯にヴィヒタサウナ、男性露天にルスカサウナ、女性露天にバレルサウナ",
+      "url": "https://www.ashigara-only-you.com/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/111367/",
+        "https://onsen.nifty.com/odawara-onsen/onsen007952/",
+        "https://www.ashigara-only-you.com/page-2473/"
+      ],
+      "confidence": "medium",
+      "note": "公式料金表は画像のためポータルで確認"
+    },
+    {
+      "name": "小田原お堀端 万葉の湯",
+      "address": "神奈川県小田原市栄町1-5-14",
+      "weekdayAdult": 2950,
+      "holidayAdult": 2950,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル込み。深夜3時以降+2,200円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "竹炭サウナ（オートロウリュ）",
+      "url": "https://www.manyo.co.jp/odawara/",
+      "sources": [
+        "https://www.manyo.co.jp/odawara/price",
+        "https://onsen.nifty.com/odawara-onsen/onsen001583/"
+      ],
+      "confidence": "high",
+      "note": "湯河原温泉の運び湯"
+    },
+    {
+      "name": "天然温泉 小田原コロナの湯",
+      "address": "神奈川県小田原市前川219-4",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "深夜1時以降は深夜料金別途",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "ロッキーサウナ、低温蒸気サウナは女湯のみ。溶岩サウナ（フォーレスト）は別料金",
+      "url": "https://www.korona.co.jp/onsen/odw/",
+      "sources": [
+        "https://www.korona.co.jp/onsen/basic/odw/301",
+        "https://onsen.nifty.com/odawara-onsen/onsen005582/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "箱根湯本温泉 天成園",
+      "address": "神奈川県足柄下郡箱根町湯本682",
+      "weekdayAdult": 2730,
+      "holidayAdult": 2730,
+      "saunaFee": 0,
+      "priceNote": "入湯税50円別。深夜24時以降+1,650円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.tenseien.co.jp/",
+      "sources": [
+        "https://www.tenseien.co.jp/price/",
+        "https://onsen.nifty.com/hakone-onsen/onsen001574/"
+      ],
+      "confidence": "high",
+      "note": "2027/1/27〜29は休館予定"
+    },
+    {
+      "name": "絶景日帰り温泉 龍宮殿本館",
+      "address": "神奈川県足柄下郡箱根町元箱根139",
+      "weekdayAdult": 2300,
+      "holidayAdult": 2600,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。中高生含む",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男性:フィンランドサウナ、女性:スチームサウナ",
+      "url": "https://www.princehotels.co.jp/ryuguden/honkan/",
+      "sources": [
+        "https://www.princehotels.co.jp/ryuguden/honkan_jikan_ryokin",
+        "https://onsen.nifty.com/hakone-onsen/onsen011887/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "湯の里おかだ",
+      "address": "神奈川県足柄下郡箱根町湯本茶屋191",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "早朝（6〜9時）1,000円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "毎正時オートロウリュ",
+      "url": "https://yunosato-y.jp/",
+      "sources": [
+        "https://yunosato-y.jp/",
+        "https://onsen.nifty.com/hakone-onsen/onsen001525/"
+      ],
+      "confidence": "high",
+      "note": "2026/12/1〜2休館"
+    },
+    {
+      "name": "天山湯治郷",
+      "address": "神奈川県足柄下郡箱根町湯本茶屋208",
+      "weekdayAdult": 1450,
+      "holidayAdult": 1450,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。現金のみ",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男湯:窯風呂（スチーム）、女湯:源泉蒸し湯・ドライサウナ",
+      "url": "https://tenzan.jp/tenzan/",
+      "sources": [
+        "https://tenzan.jp/tenzan/"
+      ],
+      "confidence": "high",
+      "note": "12月中旬に5日程度休館"
+    },
+    {
+      "name": "箱根小涌園ユネッサン 元湯 森の湯",
+      "address": "神奈川県足柄下郡箱根町二ノ平1297",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "変動料金制（日程により1,500〜1,800円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "森の湯の男女浴場にサウナ。水着エリアにもフィンランドサウナ",
+      "url": "https://www.yunessun.com/",
+      "sources": [
+        "https://www.yunessun.com/service/price/",
+        "https://onsen.nifty.com/hakone-onsen/onsen001538/"
+      ],
+      "confidence": "low",
+      "note": "日程別料金の曜日対応を確認できず"
+    },
+    {
+      "name": "いやしの湯",
+      "address": "神奈川県相模原市緑区青根807-2",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "18時以降（3時間）850円",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類未記載）",
+      "url": "https://www.iyashinoyu.org/onsen.html",
+      "sources": [
+        "https://www.iyashinoyu.org/onsen.html",
+        "https://onsen.nifty.com/sagamihara-onsen/onsen006497/"
+      ],
+      "confidence": "high",
+      "note": "火曜休（祝日は翌日）"
+    },
+    {
+      "name": "藤野やまなみ温泉",
+      "address": "神奈川県相模原市緑区牧野4225-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "平日17時以降は夜間割引あり",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "ドライサウナ・ロウリュサウナ（内湯ごと）",
+      "url": "https://yamanami-onsen.jp/",
+      "sources": [
+        "https://kanagawa-kankou.or.jp/spot/1218",
+        "https://onsen.nifty.com/sagamihara-onsen/onsen001501/"
+      ],
+      "confidence": "medium",
+      "note": "水曜休（祝日除く）。公式サイトは取得不可"
+    },
+    {
+      "name": "七沢荘",
+      "address": "神奈川県厚木市七沢1826",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "入館から2時間。シーズン料金1,900円",
+      "saunaTypes": [],
+      "saunaNote": "約5人用サウナ（種類未記載）。2026/9/29付で女性サウナ使用中止の告知あり",
+      "url": "https://www.nanasawasou.jp/",
+      "sources": [
+        "https://www.nanasawasou.jp/hotspring/day_trip.html"
+      ],
+      "confidence": "high",
+      "note": "旅館の日帰り入浴"
+    },
+    {
+      "name": "稲村ヶ崎温泉",
+      "address": "神奈川県鎌倉市稲村ガ崎1-16-13",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "入浴料1,250円+設備利用料350円。繁忙期は特別料金の場合あり",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類未記載）",
+      "url": "https://www.inamuragasaki-onsen.jp/",
+      "sources": [
+        "https://www.inamuragasaki-onsen.jp/",
+        "https://onsen.nifty.com/kamakura-onsen/onsen006493/"
+      ],
+      "confidence": "high",
+      "note": "炭酸水素塩冷鉱泉（黒湯）"
+    },
+    {
+      "name": "ヨコヤマ・ユーランド鶴見",
+      "address": "神奈川県横浜市鶴見区下末吉2-21-21",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日1,500円。平日17時以降ナイト1,100円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "黄土サウナ",
+      "url": "https://www.yu-land.com/",
+      "sources": [
+        "https://www.yu-land.com/fee/",
+        "https://onsen.nifty.com/yokohama-onsen/onsen001576/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "ヨコヤマ・ユーランド緑 八朔の湯",
+      "address": "神奈川県横浜市緑区西八朔町1201-1",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "高校生以上の料金。19時以降ナイト料金（2026/6/1改定で平日800円・土日900円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類未確認）",
+      "url": "https://www.yu-land.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/yokohama-onsen/onsen001531/",
+        "https://www.yu-land.co.jp/s9-schedule/kakaku2026.pdf"
+      ],
+      "confidence": "medium",
+      "note": "通常料金は公式で確認できず"
+    },
+    {
+      "name": "ゆとろ嵯峨沢の湯",
+      "address": "神奈川県足柄下郡湯河原町吉浜1191",
+      "weekdayAdult": 1518,
+      "holidayAdult": 1518,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "フィンランドサウナ（口コミ情報）。浴場は男女日替わり",
+      "url": "http://www.yutoro.co.jp/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/115218/",
+        "https://onsen.nifty.com/yugawara-onsen/onsen001524/"
+      ],
+      "confidence": "low",
+      "note": "料金はポータル間で食い違いあり（1,255円税別の掲載も）。木曜休"
+    },
+    {
+      "name": "佐野天然温泉 湯処 のぼり雲",
+      "address": "神奈川県横須賀市佐野町4-5",
+      "weekdayAdult": 1150,
+      "holidayAdult": 1250,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類未確認）",
+      "url": "http://www.noborigumo.jp/",
+      "sources": [
+        "https://onsen.nifty.com/yokosuka-onsen/onsen001627/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは取得不可"
+    },
+    {
+      "name": "さがみ湖温泉 うるり",
+      "address": "神奈川県相模原市緑区若柳1634",
+      "weekdayAdult": 950,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "土日祝・繁忙期1,100円",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類未確認）",
+      "url": "https://www.sagamiko-resort.jp/spa/",
+      "sources": [
+        "https://onsen.nifty.com/sagamihara-onsen/onsen010803/"
+      ],
+      "confidence": "medium",
+      "note": "さがみ湖MORI MORI内"
+    },
+    {
+      "name": "かくれ湯の里 信玄館",
+      "address": "神奈川県足柄上郡山北町中川577-6",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "利用は2時間まで。8/10〜20・年末年始は1,200円",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ（種類未確認）",
+      "url": "http://www.shingenkan.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/tanzawa-onsen/onsen001587/"
+      ],
+      "confidence": "medium",
+      "note": "旅館の日帰り入浴。公式サイトは取得不可"
+    },
+    {
+      "name": "港北天然温泉 ゆったりCOco",
+      "address": "神奈川県横浜市都筑区中川中央2-7-1 港北みなも3階",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "平日フリータイム。土日祝は5時間制、超過1時間ごと200円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式ドライサウナ（オートロウリュ）、カルダリウム",
+      "url": "https://www.sportsoasis.co.jp/coco/",
+      "sources": [
+        "https://onsen.nifty.com/yokohama-onsen/onsen007713/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは調査時503。毎月第1水曜休。2026/11/4〜12/2露天一部閉鎖"
+    },
+    {
+      "name": "ヒルトン小田原リゾート＆スパ 天然温泉大浴場",
+      "address": "神奈川県小田原市根府川583-1",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "入湯税100円別。外来9:00〜21:00。バーデゾーン（水着）は別料金",
+      "saunaTypes": [],
+      "saunaNote": "大浴場内に男女それぞれサウナ（種類未記載）",
+      "url": "https://odawara.hiltonjapan.co.jp/spa/natural-spa",
+      "sources": [
+        "https://odawara.hiltonjapan.co.jp/spa/natural-spa",
+        "https://onsen.nifty.com/odawara-onsen/onsen001578/"
+      ],
+      "confidence": "high",
+      "note": "2027年1月に法定点検で休館予定あり"
+    },
+    {
+      "name": "箱根湯寮",
+      "address": "神奈川県足柄下郡箱根町塔之澤4",
+      "weekdayAdult": 1700,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "土休日・特定日2,000円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "大浴場内サウナ（ロウリュ）",
+      "url": "https://www.hakoneyuryo.jp/",
+      "sources": [
+        "https://hakoneyuryo.jp/assets/file/brochure.pdf",
+        "https://onsen.nifty.com/hakone-onsen/onsen010807/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは調査時503（公式パンフレットの検索結果で確認）"
+    },
+    {
+      "name": "箱根 ゆとわ",
+      "address": "神奈川県足柄下郡箱根町強羅1300-27",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "日帰りは最終入館16時・17時退館",
+      "saunaTypes": [],
+      "saunaNote": "男湯の大浴場にサウナ（女湯は記載なし）",
+      "url": "https://www.hakoneyutowa-hotel.jp/",
+      "sources": [
+        "https://www.hakoneyutowa-hotel.jp/onsen/day-use/"
+      ],
+      "confidence": "high",
+      "note": "ホテルの日帰り温泉"
+    },
+    {
+      "name": "新横浜フジビューホテル 新横浜天然温泉",
+      "address": "神奈川県横浜市港北区新横浜2-3-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男性:フィンランドサウナ、女性:スチームサウナ",
+      "url": "https://www.fujiview-hotel.jp/spa/index.php",
+      "sources": [
+        "https://onsen.nifty.com/yokohama-onsen/onsen007747/",
+        "https://www.fujiview-hotel.jp/spa/index.php"
+      ],
+      "confidence": "medium",
+      "note": "毎月最終月曜休。2026/12/7〜15臨時休業"
+    },
+    {
+      "name": "みやかみの湯",
+      "address": "神奈川県足柄下郡湯河原町宮上42",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "年末年始の一部は休日料金",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "泥パックスチームサウナ",
+      "url": "https://miyakaminoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/yugawara-onsen/onsen016470/",
+        "https://miyakaminoyu.jp/"
+      ],
+      "confidence": "medium",
+      "note": "公式に入浴料の記載なし（ポータルで確認）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "RAKU SPA 鶴見",
+      "reason": "人工温泉（炭酸泉・硫黄泉とも人工）"
+    },
+    {
+      "name": "岩盤温熱おふろの王様 高座渋谷駅前店",
+      "reason": "人工温泉"
+    },
+    {
+      "name": "おふろの王様 町田店（相模原市南区）",
+      "reason": "2026/9/24〜12月中旬リニューアル工事で休館中"
+    },
+    {
+      "name": "OYUGIWA 海老名",
+      "reason": "天然温泉と確認できず（ポータルで非天然温泉の記載）"
+    },
+    {
+      "name": "ととのいの郷 秦野湯花楽",
+      "reason": "人工温泉（再現名湯・人工炭酸泉）"
+    },
+    {
+      "name": "ファンタジーサウナ＆スパ おふろの国",
+      "reason": "天然温泉ではない（炭酸泉）"
+    },
+    {
+      "name": "湘南喜彩 湯乃市 柄沢店",
+      "reason": "公式に天然温泉の記載なし（高濃度炭酸泉の銭湯）"
+    },
+    {
+      "name": "別所の湯（清川村）",
+      "reason": "温泉ではない（伏流水の沸かし湯と公式明記）"
+    },
+    {
+      "name": "大磯プリンスホテル THERMAL SPA S.WAVE",
+      "reason": "サウナは水着着用の男女共用スパフロアのみ（日帰りは別料金・平日限定プラン）で、温泉浴場にサウナなし"
+    },
+    {
+      "name": "恵びす温泉",
+      "reason": "ラドン温泉（浴場組合で天然温泉の表示なし）"
+    },
+    {
+      "name": "天成園 小田原駅別館",
+      "reason": "日帰り入浴料金の常設なし（デイユースプランのみ）"
+    },
+    {
+      "name": "ソレイユの丘 海と夕日の湯",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "海辺の湯 久里浜店",
+      "reason": "天然温泉・現行料金を公式で確認できず"
+    },
+    {
+      "name": "しずの湯（座間市）",
+      "reason": "天然温泉と確認できず（男性専用）"
+    },
+    {
+      "name": "上郷・森の家",
+      "reason": "日帰り入浴・サウナの現状を確認できず"
+    },
+    {
+      "name": "山北町健康福祉センター さくらふれあいの郷",
+      "reason": "天然温泉か確認できず（人工温泉との情報あり）"
+    },
+    {
+      "name": "ホテルグリーンプラザ箱根",
+      "reason": "サウナ休止中との掲載（現状未確認）"
+    },
+    {
+      "name": "横浜ロイヤルパークホテル LANDMARK SPA",
+      "reason": "休業中"
+    },
+    {
+      "name": "箱根ハイランドホテル",
+      "reason": "休業中"
+    },
+    {
+      "name": "湯楽の里 横浜瀬谷店",
+      "reason": "閉館"
+    },
+    {
+      "name": "シーサイド・スパ八景島",
+      "reason": "閉館"
+    },
+    {
+      "name": "箱根てのゆ",
+      "reason": "閉館"
+    },
+    {
+      "name": "戸塚温泉 ラジャの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "湘南ひらつか太古の湯 グリーンサウナ",
+      "reason": "閉館"
+    },
+    {
+      "name": "湯乃泉 相模健康センター",
+      "reason": "閉館"
+    },
+    {
+      "name": "能見堂赤井温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "弥次喜多の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "寒川乃お湯屋",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "ニフティ温泉の神奈川県サウナ施設一覧（221件）と神奈川県浴場組合サイトの天然温泉×サウナ銭湯一覧を起点に調査。銭湯の大人料金は2026/3/1改定の570円（浴場組合告知）を採用し、サウナ別料金が確認できない銭湯はsaunaFee=nullでmedium。未調査・取りこぼしの可能性: 箱根・湯河原の旅館ホテルの日帰り入浴（一の湯、季の湯 雪月花、湯本富士屋ホテル、箱根花紋、ザ・プリンス箱根芦ノ湖、箱根ホテル小涌園、伊東園ホテル箱根湯本、強羅花壇、四季倶楽部、グリーンパル湯河原、ホテルあかね、湯河原温泉ちとせ、湯河原惣湯など）はサウナの日帰り利用可否・料金を確認しきれず未収録。ドーミーイン等のビジネスホテル・カプセルは日帰り温泉料金未確認のため未収録。本牧ゆあそび館・亀遊舘・ねぎしの湯 大盛舘・橘湯・今井湯・松葉浴場は浴場組合サイトで天然温泉の表示がなく未収録。"
+}

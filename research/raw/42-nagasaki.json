@@ -1,0 +1,911 @@
+{
+  "prefecture": "長崎県",
+  "prefCode": "42",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "ONSEN & SAUNA YUKULU",
+      "address": "長崎県長崎市幸町7-1",
+      "weekdayAdult": 970,
+      "holidayAdult": 970,
+      "saunaFee": 0,
+      "priceNote": "90分料金（フリータイム1,970円）・入湯税30円別",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女共用のプレミアムサウナ（アウフグース・セルフロウリュ）",
+      "url": "https://www.nagasakistadiumcity.com/yukulu/",
+      "sources": [
+        "https://www.nagasakistadiumcity.com/yukulu/"
+      ],
+      "confidence": "high",
+      "notice": "長崎スタジアムシティ サウス6〜7F",
+      "note": "タオル・館内着・プレミアムサウナエリアは入館料に含む"
+    },
+    {
+      "name": "稲佐山温泉ふくの湯 長崎店",
+      "address": "長崎県長崎市岩見町451-23",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "入湯税30円別",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://www.fukunoyu.com/nagasaki/",
+      "sources": [
+        "https://www.fukunoyu.com/nagasaki/fee/",
+        "https://www.fukunoyu.com/nagasaki/bath/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/9〜11/12は店休日",
+      "note": ""
+    },
+    {
+      "name": "長崎温泉 Ark Land Spa",
+      "address": "長崎県長崎市伊王島町1丁目3278-3",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "水着エリア（スパテーマパーク）は+200円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.islandnagasaki.jp/arklandspa/",
+      "sources": [
+        "https://www.islandnagasaki.jp/spa/hotspring/",
+        "https://news.allabout.co.jp/articles/o/128657/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "料金は公式。大浴場のサウナは公式に記載なく、AllAbout（2026/9）とサウナイキタイ（男93℃/女79℃）で確認"
+    },
+    {
+      "name": "天然温泉 YUYU SPA",
+      "address": "長崎県長崎市伊王島町1丁目3277-7",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.islandnagasaki.jp/spa/yuyu-spa/",
+      "sources": [
+        "https://www.islandnagasaki.jp/spa/yuyu-spa/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "i+Land nagasaki内。料金は公式。サウナは公式に記載なく、サウナイキタイ（男100℃/女98℃）・ニフティで確認"
+    },
+    {
+      "name": "稲佐山温泉 ホテルAmandi",
+      "address": "長崎県長崎市曙町39-38",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "入湯税30円別",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://inasayama-amandi.jp/",
+      "sources": [
+        "https://inasayama-amandi.jp/info_nyuyoku.html",
+        "https://inasayama-amandi.jp/news20260401.html"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/1〜2027/4/20（予定）改修工事のため全館休業",
+      "note": "公式に朝風呂はサウナ営業なしとの記載。サウナ種類は不明（サウナイキタイ 男85℃/女87℃）"
+    },
+    {
+      "name": "道の尾温泉",
+      "address": "長崎県西彼杵郡長与町高田郷284",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "券売機購入は750円",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://michinoo-onsen.jp/",
+      "sources": [
+        "https://michinoo-onsen.jp/%e6%96%99%e9%87%91%e8%a1%a8/",
+        "https://michinoo-onsen.jp/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "天然温泉大村ゆの華",
+      "address": "長崎県大村市森園町663-3",
+      "weekdayAdult": 820,
+      "holidayAdult": 820,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "http://www.sunspa.jp/spa/",
+      "sources": [
+        "https://onsen.nifty.com/oomura-onsen/onsen004193/",
+        "https://iko-yo.net/facilities/23025"
+      ],
+      "confidence": "medium",
+      "notice": "不定休（年3回）",
+      "note": "公式サイトは証明書エラーで取得できず。料金・サウナはニフティ・いこーよ"
+    },
+    {
+      "name": "川棚大崎温泉 しおさいの湯",
+      "address": "長崎県東彼杵郡川棚町小串郷272",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://shiosai.kankou-kawatana.jp/",
+      "sources": [
+        "https://shiosai.kankou-kawatana.jp/2026/04/11/%e5%85%a5%e6%b5%b4%e6%96%99%e3%80%90%e6%96%99%e9%87%91%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b44%e6%9c%881%e6%97%a5%e3%82%88%e3%82%8a/",
+        "https://shiosai.kankou-kawatana.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2水曜休館",
+      "note": "2026/4/1改定後の料金。サウナ種類はニフティ。ニフティ住所は小串郷237"
+    },
+    {
+      "name": "ハウステンボス温泉",
+      "address": "長崎県佐世保市ハウステンボス町6-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.huistenbosch.co.jp/hot-spring/",
+      "sources": [
+        "https://www.huistenbosch.co.jp/hot-spring/service",
+        "https://www.huistenbosch.co.jp/hot-spring/news/3427.html"
+      ],
+      "confidence": "high",
+      "notice": "16:00〜24:00（第3水曜は18:00〜）。2026/11/18定期メンテナンス",
+      "note": "旧・黄金と水素の湯"
+    },
+    {
+      "name": "世知原温泉くにみの湯 山暖簾",
+      "address": "長崎県佐世保市世知原町上野原316",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.yamanoren.co.jp/",
+      "sources": [
+        "https://www.yamanoren.co.jp/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り10:30〜17:30。11/11・12/9は全館メンテナンス休館",
+      "note": "2026/2/11からサウナ再開（公式）。種類は不明"
+    },
+    {
+      "name": "ホテルローレライ 天然温泉 南風の湯",
+      "address": "長崎県佐世保市南風崎町449",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://lorelei.co.jp/hotspring/",
+      "sources": [
+        "https://lorelei.co.jp/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り8:00〜22:00（受付21:00まで）",
+      "note": ""
+    },
+    {
+      "name": "ザ パラダイスガーデン サセボ",
+      "address": "長崎県佐世保市崎岡町853-12",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯は高温サウナ、女湯はミストサウナ",
+      "url": "http://www.paradise-g.jp/",
+      "sources": [
+        "http://www.paradise-g.jp/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは平日17:00〜、土日祝12:00〜（24:00まで）",
+      "note": ""
+    },
+    {
+      "name": "大江戸温泉物語Premium 西海橋",
+      "address": "長崎県佐世保市針尾東町2523-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,800円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/saikaibashi/",
+      "sources": [
+        "https://www.ooedoonsen.jp/saikaibashi/day_trip/",
+        "https://onsen.nifty.com/sasebo-onsen/onsen004172/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは7:00〜10:00・15:00〜24:00（受付22:00まで）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナはニフティ・サウナイキタイ（男92℃/女90℃）"
+    },
+    {
+      "name": "ホテルフラッグス佐世保九十九島 the BEKKAN",
+      "address": "長崎県佐世保市鹿子前町1129",
+      "weekdayAdult": 2500,
+      "holidayAdult": 3500,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（1時間 平日1,500円/土日祝2,500円、延長30分800円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://gardenterracehotels.com/sasebo/bekkan/",
+      "sources": [
+        "https://gardenterracehotels.com/sasebo/bekkan/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り14:00〜21:00（最終入店19:30）。宿泊者優先のため利用できない場合あり",
+      "note": "99 ONSEN（天然温泉大浴場・サウナ）"
+    },
+    {
+      "name": "鹿町温泉 やすらぎ館",
+      "address": "長崎県佐世保市鹿町町土肥ノ浦169-2",
+      "weekdayAdult": 660,
+      "holidayAdult": 660,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "浴室ごとにドライかミストのどちらか（週替わりで男女交代）",
+      "url": "https://shikamachi-onsen.jp/",
+      "sources": [
+        "https://shikamachi-onsen.jp/usageguide/",
+        "https://shikamachi-onsen.jp/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "はさみ温泉 湯治楼",
+      "address": "長崎県東彼杵郡波佐見町長野郷558-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.373nodenen.com/spa",
+      "sources": [
+        "https://www.373nodenen.com/spa"
+      ],
+      "confidence": "high",
+      "notice": "2026年10月から木曜定休",
+      "note": "源泉名はざみ温泉（炭酸水素塩泉）に炭酸ガスを加えた高濃度炭酸泉"
+    },
+    {
+      "name": "エコスパ佐世保",
+      "address": "長崎県佐世保市大塔町1036-1",
+      "weekdayAdult": 660,
+      "holidayAdult": 660,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ（サウナイキタイ）",
+      "url": "https://ecospa-sasebo.jp/",
+      "sources": [
+        "https://ecospa-sasebo.jp/guide/",
+        "https://sauna-ikitai.com/nagasaki?page=5"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第1月曜休館",
+      "note": "公式で料金・源泉かけ流し天然温泉を確認。サウナは公式に記載なく（男女別の採暖室の記載のみ）、サウナイキタイ・ニフティで確認"
+    },
+    {
+      "name": "弓張の丘ホテル 弓張温泉 彩海",
+      "address": "長崎県佐世保市鵜渡越町510",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "12/31・1/1は1,600円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yumihari.com/",
+      "sources": [
+        "https://yumihari.com/facilities/shisetsu/",
+        "https://sauna-ikitai.com/nagasaki?page=3"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り12:30〜19:00（受付18:00まで）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナは公式に記載なし（サウナイキタイ 男86℃/女90℃、ニフティ口コミ）"
+    },
+    {
+      "name": "ホテルオークラJRハウステンボス 琴乃湯",
+      "address": "長崎県佐世保市ハウステンボス町10",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://okura.com/ja/japan/nagasaki/hotel-okura-jr-huis-ten-bosch/",
+      "sources": [
+        "https://onsen.nifty.com/sasebo-onsen/onsen007111/",
+        "https://sauna-ikitai.com/nagasaki?page=3"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは6:00〜9:30・15:00〜24:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式で日帰り料金を確認できず。料金・サウナはニフティ・サウナイキタイ（1,600円〜）"
+    },
+    {
+      "name": "平戸たびら温泉 サムソンホテル",
+      "address": "長崎県平戸市田平町野田免210-6",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://samson-hotel.jp/",
+      "sources": [
+        "https://samson-hotel.jp/spa"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り11:00〜23:00（水曜は15:00〜）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式の温泉ページに日帰り料金と大浴場のサウナを掲載（サウナイキタイも1,000円〜で掲載）"
+    },
+    {
+      "name": "大江戸温泉物語 ホテル蘭風",
+      "address": "長崎県平戸市川内町55",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,200円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/ranpu/",
+      "sources": [
+        "https://www.ooedoonsen.jp/ranpu/day_trip/",
+        "https://onsen.nifty.com/hirado-onsen/onsen004159/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは7:00〜10:00・15:00〜24:00（受付22:00まで）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナはニフティ・サウナイキタイ（男90℃/女90℃）"
+    },
+    {
+      "name": "いいもり月の丘温泉",
+      "address": "長崎県諫早市飯盛町平古場279",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "入湯税20円込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tsukinooka.isahaya-skk.jp/",
+      "sources": [
+        "https://tsukinooka.isahaya-skk.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3水曜・年末年始休館",
+      "note": "男子サウナは2026/9/30使用再開"
+    },
+    {
+      "name": "みずほ温泉 千年の湯",
+      "address": "長崎県雲仙市瑞穂町西郷辛621-6",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "18時以降300円",
+      "saunaTypes": [],
+      "saunaNote": "桧風呂・岩風呂の両方にあり（週替わりで男女交代）",
+      "url": "https://www.city.unzen.nagasaki.jp/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/129504/",
+        "https://rurubu.jp/andmore/spot/80039728"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休",
+      "note": "市の公式ページ（kiji0034314）は404。AllAbout（2026/9、市公式参照）。住所はるるぶ（ニフティは621-8）"
+    },
+    {
+      "name": "味処湯処 よしちょう",
+      "address": "長崎県雲仙市小浜町北本町905-32",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.yoshicho-obamaonsen.com/",
+      "sources": [
+        "https://www.yoshicho-obamaonsen.com/",
+        "https://sauna-ikitai.com/nagasaki?page=3"
+      ],
+      "confidence": "medium",
+      "notice": "第2・第4水曜定休",
+      "note": "入浴料は公式。サウナは公式に記載なく、サウナイキタイ（男81℃/女88℃、500円〜）・ニフティ口コミ。サウナ料金不明"
+    },
+    {
+      "name": "大江戸温泉物語 雲仙東洋館",
+      "address": "長崎県雲仙市小浜町雲仙128",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,200円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/unzen-toyokan/",
+      "sources": [
+        "https://www.ooedoonsen.jp/unzen-toyokan/day_trip/",
+        "https://onsen.nifty.com/unzen-onsen/onsen016323/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは7:00〜10:00・15:00〜24:00（受付22:00まで）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナはニフティ・サウナイキタイ（男86℃/女88℃）"
+    },
+    {
+      "name": "蒸気家",
+      "address": "長崎県雲仙市小浜町北本町14-7",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "大浴場に温泉蒸気の蒸し風呂",
+      "url": "https://jyo-kiya.com/",
+      "sources": [
+        "https://jyo-kiya.com/"
+      ],
+      "confidence": "high",
+      "notice": "11/1は団体貸切、11/3は休館",
+      "note": ""
+    },
+    {
+      "name": "リフレッシュセンターおばま",
+      "address": "長崎県雲仙市小浜町南本町24-23",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "プール・サウナ利用込み",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.city.unzen.nagasaki.jp/kiji003196/index.html",
+      "sources": [
+        "https://www.city.unzen.nagasaki.jp/kiji003196/index.html",
+        "https://onsen.nifty.com/unzen-onsen/onsen004189/"
+      ],
+      "confidence": "medium",
+      "notice": "日曜・祝日は18:00まで",
+      "note": "市公式（2023/5更新）で小浜温泉の湯・遠赤外線サウナを確認。料金はニフティ（公式はPDF）"
+    },
+    {
+      "name": "雲仙小浜温泉 寿楽",
+      "address": "長崎県雲仙市小浜町北本町942-8",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://juraku-obama.com/",
+      "sources": [
+        "https://juraku-obama.com/page1",
+        "https://juraku-obama.com/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り13:00〜21:00（受付20:00まで）",
+      "note": "2026/1/1からの料金。公式に日帰り客もサウナ利用可と明記"
+    },
+    {
+      "name": "海辺の宿 つたや旅館",
+      "address": "長崎県雲仙市小浜町北本町907",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女とも温泉熱の低温サウナ（70℃）",
+      "url": "http://tsutaya-ryokan.com/",
+      "sources": [
+        "http://tsutaya-ryokan.com/onsen/",
+        "https://rurubu.jp/andmore/spot/80039705"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り12:00〜21:00（受付20:00まで）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "サウナは公式。日帰り料金はるるぶ"
+    },
+    {
+      "name": "島原温泉 ホテル南風楼",
+      "address": "長崎県島原市弁天町2-7331-1",
+      "weekdayAdult": 1300,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "特定日も2,000円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.nampuro.com/",
+      "sources": [
+        "https://www.nampuro.com/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "連休期間の15:00〜18:00は日帰り不可。11:00〜12:00清掃",
+      "note": ""
+    },
+    {
+      "name": "HOTELシーサイド島原",
+      "address": "長崎県島原市新湊1-38-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.seaside-shimabara.com/",
+      "sources": [
+        "https://www.seaside-shimabara.com/onsen/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式の温泉ページに日帰り料金と、本館湯治処・新館展望風呂のサウナを掲載"
+    },
+    {
+      "name": "原城温泉 真砂",
+      "address": "長崎県南島原市南有馬町丁133",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "18時以降500円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.harajoumasago.jp/",
+      "sources": [
+        "http://www.harajoumasago.jp/onsen.php"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式の温泉ページに日帰り料金と大浴場のサウナを掲載"
+    },
+    {
+      "name": "島原温泉 ゆとろぎの湯",
+      "address": "長崎県島原市堀町171-3",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.shimabara.lg.jp/page2888.html",
+      "sources": [
+        "https://www.city.shimabara.lg.jp/page2888.html"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休",
+      "note": ""
+    },
+    {
+      "name": "島原市有明福祉センター 美人の湯",
+      "address": "長崎県島原市有明町大三東戊1352-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内320円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://shimabara-shakyo.or.jp/",
+      "sources": [
+        "https://shimabara-shakyo.or.jp/有明温泉美人の湯/"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休",
+      "note": "住所はニフティ"
+    },
+    {
+      "name": "南島原市布津保健福祉センター 湯楽里",
+      "address": "長崎県南島原市布津町乙470",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "18時以降割引あり",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.minamishimabara.lg.jp/kiji0034230/index.html",
+      "sources": [
+        "https://www.city.minamishimabara.lg.jp/kiji0034230/index.html",
+        "https://sauna-ikitai.com/nagasaki?page=5"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "料金は市公式（2019更新）。サウナは公式に記載なく、ニフティ・サウナイキタイ（男90℃/女80℃）"
+    },
+    {
+      "name": "富江温泉センター たっしゃかランド",
+      "address": "長崎県五島市富江町松尾662-2",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://goto.nagasaki-tabinet.com/spot/668",
+      "sources": [
+        "https://goto.nagasaki-tabinet.com/spot/668",
+        "https://onsen.nifty.com/gotou-onsen/onsen004152/"
+      ],
+      "confidence": "high",
+      "notice": "水曜・1/1休館（夏休み期間は無休）。露天風呂は故障中",
+      "note": "観光協会サイトで料金・サウナを確認"
+    },
+    {
+      "name": "峰温泉 ほたるの湯",
+      "address": "長崎県対馬市峰町三根65",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ（サウナイキタイ）",
+      "url": "https://www.city.tsushima.nagasaki.jp/gyousei/soshiki/nakatsushima/chiikisinkou/notice/5837.html",
+      "sources": [
+        "https://www.city.tsushima.nagasaki.jp/gyousei/soshiki/nakatsushima/chiikisinkou/notice/5837.html",
+        "https://onsen.nifty.com/tsushima-onsen/onsen004198/"
+      ],
+      "confidence": "medium",
+      "notice": "火・金曜定休",
+      "note": "料金は市公式（2024/5、営業再開の案内）。サウナはニフティ・サウナイキタイ（男84℃）。住所はニフティ"
+    },
+    {
+      "name": "上対馬温泉 渚の湯",
+      "address": "長崎県対馬市上対馬町西泊1217-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://nagisanoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/tsushima-onsen/onsen004194/",
+        "https://sauna-ikitai.com/nagasaki?page=5"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休",
+      "note": "公式サイトは証明書エラーで取得できず。料金・サウナはニフティ・サウナイキタイ（男90℃/女90℃、600円〜）"
+    },
+    {
+      "name": "湯多里ランドつしま",
+      "address": "長崎県対馬市美津島町鶏知乙1168-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=56691",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=56691",
+        "https://sauna-ikitai.com/nagasaki?page=6"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイト未確認。料金はゆるーと・サウナイキタイ（800円〜）、ドライサウナ2室はサウナイキタイ"
+    },
+    {
+      "name": "対馬グランドホテル",
+      "address": "長崎県対馬市美津島町鶏知甲41-10",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ（サウナイキタイ）",
+      "url": "http://tsushima-grandhotel.com/",
+      "sources": [
+        "https://onsen.nifty.com/tsushima-onsen/onsen010155/",
+        "https://sauna-ikitai.com/nagasaki?page=5"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り10:00〜20:00（月曜は15:00〜）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式に日帰り料金の記載なし。料金・サウナはニフティ・サウナイキタイ（1,000円〜）"
+    },
+    {
+      "name": "奥壱岐の千年湯 平山旅館",
+      "address": "長崎県壱岐市勝本町立石西触77",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "蒸し風呂",
+      "url": "https://iki.co.jp/",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80039618",
+        "https://onsen.nifty.com/iki-onsen/onsen007235/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは8:00〜17:00・19:00〜21:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式に日帰りの記載なし。料金・蒸し風呂はるるぶ・ニフティ（サウナイキタイは600円〜で食い違い）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "天然炭酸温泉 のもん湯",
+      "reason": "サウナ当面休止（ニフティ）、公式にもサウナの記載なし"
+    },
+    {
+      "name": "長崎市健康づくりセンター 阿池姫の湯",
+      "reason": "光明石温泉（人工温泉）"
+    },
+    {
+      "name": "カンデオホテルズ長崎新地中華街",
+      "reason": "天然温泉の記載なし"
+    },
+    {
+      "name": "龍神温泉 かやぜの湯",
+      "reason": "公式にサウナの記載なし"
+    },
+    {
+      "name": "喜道庵",
+      "reason": "サウナを確認できず"
+    },
+    {
+      "name": "民芸モダンの宿 雲仙福田屋",
+      "reason": "日帰りは貸切風呂のみ（大浴場サウナは宿泊者向け）"
+    },
+    {
+      "name": "Rest House 森のしらべ",
+      "reason": "日帰り入浴は貸切風呂、サウナは予約制の貸切テントサウナのみ"
+    },
+    {
+      "name": "国際観光ホテル 旗松亭",
+      "reason": "サウナ工事中・休止の情報あり、公式で確認できず"
+    },
+    {
+      "name": "西彼保健福祉センター 遊湯館",
+      "reason": "設備工事のため2027/1/31（予定）まで臨時休館"
+    },
+    {
+      "name": "遊学の里くにみ",
+      "reason": "天然温泉を確認できず（薬草湯・鉱石湯）"
+    },
+    {
+      "name": "のんのこ温水センター",
+      "reason": "ごみ焼却余熱利用施設で天然温泉を確認できず"
+    },
+    {
+      "name": "五島列島リゾートホテル マルゲリータ",
+      "reason": "沸かし湯（ニフティ掲載に「温泉ではなく沸かし湯」）"
+    },
+    {
+      "name": "奈良尾温泉センター",
+      "reason": "閉鎖（ホテルマルゲリータへ移行との情報）"
+    },
+    {
+      "name": "五島コンカナ王国 鬼岳温泉",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "荒川温泉",
+      "reason": "休館中（2027年夏リニューアルオープン予定）"
+    },
+    {
+      "name": "長崎あぐりの丘高原ホテル",
+      "reason": "人工のトロン温泉"
+    },
+    {
+      "name": "大瀬戸社会福祉センター",
+      "reason": "サウナの記載なし"
+    },
+    {
+      "name": "長崎サウナかめやま",
+      "reason": "天然温泉を確認できず（サウナ専門施設）"
+    },
+    {
+      "name": "ベストパワーランド御湯神指し",
+      "reason": "公式サイトを取得できず、天然温泉・入浴料を確認できず"
+    },
+    {
+      "name": "雲仙みかどホテル",
+      "reason": "大浴場のサウナ・日帰り料金を確認できず（みかどサウナは別施設）"
+    },
+    {
+      "name": "高崎湯",
+      "reason": "天然温泉・サウナ料金を確認できず"
+    },
+    {
+      "name": "国民宿舎くじゃく荘",
+      "reason": "日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "平戸海上ホテル",
+      "reason": "サウナを確認できず"
+    },
+    {
+      "name": "国民宿舎壱岐島荘",
+      "reason": "サウナを確認できず"
+    },
+    {
+      "name": "極楽湯 長崎店",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "ゆりの温泉",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "天然温泉&ホットヨガ 諫早もとの湯",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "伊佐早温泉",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "大村温泉 幸楽の湯",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "雲仙スパハウス",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "湯治のお宿 雲仙富貴屋",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "口之津温泉 しらはま",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "野母崎炭酸温泉Alega軍艦島",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "ホテル万松楼 弁天の湯",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "休暇村雲仙",
+      "reason": "閉館（ニフティ）"
+    }
+  ],
+  "notes": "ニフティ温泉（長崎県サウナ・日帰り一覧）とサウナイキタイ長崎県一覧（144件）を突き合わせて候補を洗い出し、公式・自治体サイトで確認。大江戸温泉物語（西海橋・雲仙東洋館・蘭風）は公式ページの取得が不完全でサウナを公式で確認できず。未確認・取りこぼしの可能性: 九十九島シーサイドテラスホテル&スパ花みずき、雲仙九州ホテル・東園・宮崎旅館・旅亭半水盧・ゆやど雲仙新湯・青雲荘（日帰りでのサウナ利用不明）、壱岐ステラコート太安閣、諫早市のぞみ会館・小長井健康センター・いこいの村長崎（天然温泉か未確認）、松浦・西海・新上五島・小値賀の宿泊施設。稲佐山温泉ホテルAmandiは基準日は営業中だが2026/11/1から改修休業。"
+}

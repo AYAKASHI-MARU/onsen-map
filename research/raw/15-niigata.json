@@ -1,0 +1,1260 @@
+{
+  "prefecture": "新潟県",
+  "prefCode": "15",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "サウナと天然温泉 じょんのび館",
+      "address": "新潟県新潟市西蒲区福井4067",
+      "weekdayAdult": 880,
+      "holidayAdult": 880,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "2つの湯殿を日替わりで男女入替（ドライ＋スチーム／ドライ＋森のサウナ・オートロウリュ）",
+      "url": "http://jonnobi.com/",
+      "sources": [
+        "https://niigata-kankou.or.jp/spot/detail_11596.html",
+        "https://news.allabout.co.jp/articles/o/120311/"
+      ],
+      "confidence": "high",
+      "note": "第1・第3水曜休"
+    },
+    {
+      "name": "新潟市小須戸温泉健康センター 花の湯館",
+      "address": "新潟県新潟市秋葉区天ケ沢498-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "洋風風呂・和風風呂の両方にサウナ",
+      "url": "http://www.hananoyukan.com/",
+      "sources": [
+        "http://www.hananoyukan.com/",
+        "https://onsen.nifty.com/niigata-onsen/onsen001712/"
+      ],
+      "confidence": "high",
+      "note": "毎月第2水曜休"
+    },
+    {
+      "name": "弥彦桜井郷温泉 さくらの湯",
+      "address": "新潟県西蒲原郡弥彦村大字麓1970",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "2026/4/1改定",
+      "saunaTypes": [],
+      "saunaNote": "内湯にサウナ（種類の記載なし）",
+      "url": "http://www.hotel-juraku.co.jp/sakura/",
+      "sources": [
+        "http://www.hotel-juraku.co.jp/sakura/",
+        "https://www.hotel-juraku.co.jp/sakura/ryoukin.htm"
+      ],
+      "confidence": "high",
+      "note": "2026/8/18から毎週火曜定休"
+    },
+    {
+      "name": "カーブドッチ ヴィネスパ",
+      "address": "新潟県新潟市西蒲区角田浜1661",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "繁忙日2,000円",
+      "saunaTypes": [],
+      "saunaNote": "男女各浴室にサウナ・水風呂（種類の記載なし）",
+      "url": "https://www.docci.com/vinespa/",
+      "sources": [
+        "https://www.docci.com/vinespa/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "秋葉温泉 花水",
+      "address": "新潟県新潟市秋葉区草水町1-4-5",
+      "weekdayAdult": 960,
+      "holidayAdult": 960,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "男性ドライ、女性遠赤外線",
+      "url": "http://www.casui.jp/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/128998/?page=2",
+        "https://niigata-kankou.or.jp/spot/detail_44496.html"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト接続不可。観光協会ページは910円表記（旧料金とみられる）"
+    },
+    {
+      "name": "八木ヶ鼻温泉 いい湯らてい",
+      "address": "新潟県三条市南五百川16-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "スチーム"
+      ],
+      "saunaNote": "2浴室日替わり男女入替（ナノミスト・ロッキー／ウォーターセレモニー・スチーム）",
+      "url": "https://www.iiyuratei.com/",
+      "sources": [
+        "https://onsen.nifty.com/sanjou-onsen/onsen001745/",
+        "https://news.allabout.co.jp/articles/o/114794/?page=2"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト接続不可（証明書エラー）。第3水曜休"
+    },
+    {
+      "name": "越後妻有交流館 明石の湯",
+      "address": "新潟県十日町市本町六の一丁目71-2",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "ドライ・スチームを日替わり男女入替",
+      "url": "https://www.echigo-tsumari.jp/travelinformation/akashinoyu/",
+      "sources": [
+        "https://onsen.nifty.com/tookamachi-onsen/onsen006584/",
+        "https://niigata-kankou.or.jp/spot/detail_11420.html"
+      ],
+      "confidence": "high",
+      "note": "火・水曜休（祝日営業）"
+    },
+    {
+      "name": "じょんのび温泉 楽寿の湯",
+      "address": "新潟県柏崎市高柳町高尾10-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://www.jon-nobi.com/onsen",
+      "sources": [
+        "https://www.jon-nobi.com/onsen"
+      ],
+      "confidence": "high",
+      "note": "高柳町じょんのび村内"
+    },
+    {
+      "name": "まつだい芝峠温泉 雲海",
+      "address": "新潟県十日町市蓬平11-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女内湯にサウナ（種類の記載なし）",
+      "url": "https://shibatouge.com/",
+      "sources": [
+        "https://shibatouge.com/spa/index.html"
+      ],
+      "confidence": "high",
+      "note": "水曜定休"
+    },
+    {
+      "name": "大江戸温泉物語Premium 汐美荘",
+      "address": "新潟県村上市瀬波温泉2-9-36",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1350,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,550円",
+      "saunaTypes": [],
+      "saunaNote": "露天風呂にサウナ併設（女性大浴場「夕映え」はサウナなし）",
+      "url": "https://www.ooedoonsen.jp/shiomiso/",
+      "sources": [
+        "https://www.ooedoonsen.jp/shiomiso/day_trip/",
+        "https://onsen.nifty.com/senami-onsen/onsen005412/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り7:00〜10:00、15:00〜24:00"
+    },
+    {
+      "name": "旬食・ゆ処・宿 喜芳",
+      "address": "新潟県長岡市上岩井6964",
+      "weekdayAdult": 870,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（テレビ付）",
+      "url": "https://www.kihou.jp/",
+      "sources": [
+        "https://www.kihou.jp/guide_higaeri/",
+        "https://www.kihou.jp/yu/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然ハツカ石温泉 石打ユングパルナス",
+      "address": "新潟県南魚沼市石打土堂946",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "観光協会ページは900円表記",
+      "saunaTypes": [
+        "塩"
+      ],
+      "saunaNote": "大浴場に塩サウナ",
+      "url": "http://www.yungparunas.com/",
+      "sources": [
+        "https://onsen.nifty.com/okutadami-onsen/onsen001698/",
+        "https://niigata-kankou.or.jp/spot/detail_11398.html"
+      ],
+      "confidence": "low",
+      "note": "公式サイト接続不可。料金が情報源で食い違い"
+    },
+    {
+      "name": "ひすいの湯",
+      "address": "新潟県糸魚川市大野298-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "昼料金（〜16時）。16時以降800円",
+      "saunaTypes": [],
+      "saunaNote": "浴場にサウナ（種類・別料金かの記載なし）",
+      "url": "https://hisuinoyu.com/",
+      "sources": [
+        "https://hisuinoyu.com/",
+        "https://hisuinoyu.com/facility/"
+      ],
+      "confidence": "medium",
+      "note": "口コミにサウナ別料金との記載あり（未確認）"
+    },
+    {
+      "name": "アルペンブリックスパ 日帰り温泉",
+      "address": "新潟県妙高市池の平温泉2452",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "2026年12月中旬（スキー場オープン日）から大人900円に改定予定",
+      "saunaTypes": [],
+      "saunaNote": "サウナ・水風呂あり（種類の記載なし）",
+      "url": "https://www.alpenblick-resort.com/spa",
+      "sources": [
+        "https://www.alpenblick-resort.com/spa",
+        "https://alpenblick-resort.com/daytriponsen/spa-price-26"
+      ],
+      "confidence": "high",
+      "note": "4月〜12月中旬は火曜定休"
+    },
+    {
+      "name": "野天風呂 七福の湯 上越店",
+      "address": "新潟県上越市富岡3468",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女各2室（高温サウナで毎日ロウリュ、スチームサウナ）",
+      "url": "http://www.shichifukunoyu.jp/joetsu/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/114790/?page=2",
+        "https://onsen.nifty.com/jouetsu-onsen/onsen006575/",
+        "https://niigata-kankou.or.jp/spot/detail_44532.html"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト接続不可。観光協会ページは旧料金（700/800円）表記"
+    },
+    {
+      "name": "加茂七谷温泉 美人の湯",
+      "address": "新潟県加茂市宮寄上13-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "平日17時以降700円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライ・ミストを毎週日曜男女入替、露天にハニカムサウナ（ドライ）",
+      "url": "https://www.bijinnoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/sanjou-onsen/onsen001781/",
+        "https://www.bijinnoyu.jp/sauna/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式で確認できずポータル値。第2・第4水曜休"
+    },
+    {
+      "name": "ごまどう湯っ多里館",
+      "address": "新潟県南蒲原郡田上町大字田上丙3673-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "17時以降600円",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "ソルティサウナ・高温サウナ（毎週土曜男女入替）",
+      "url": "https://gomado-yuttarikan.jp/",
+      "sources": [
+        "https://gomado-yuttarikan.jp/",
+        "https://gomado-yuttarikan.jp/sauna/"
+      ],
+      "confidence": "high",
+      "note": "毎月第2火曜休"
+    },
+    {
+      "name": "安田温泉 やすらぎ",
+      "address": "新潟県阿賀野市保田6075-3",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオル付1,100円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://yasudaonsen.com/",
+      "sources": [
+        "https://yasudaonsen.com/information/",
+        "https://onsen.nifty.com/niitsu-onsen/onsen001796/"
+      ],
+      "confidence": "high",
+      "note": "第2水曜休"
+    },
+    {
+      "name": "桂の関温泉 ゆ〜む",
+      "address": "新潟県岩船郡関川村上関1285",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "村外料金（村民等500円）",
+      "saunaTypes": [],
+      "saunaNote": "男女各浴場にサウナ",
+      "url": "https://www.sekikawamura.org/yu-mu",
+      "sources": [
+        "https://www.sekikawamura.org/yu-mu"
+      ],
+      "confidence": "high",
+      "note": "第3水曜休"
+    },
+    {
+      "name": "村松さくらんど温泉",
+      "address": "新潟県五泉市上木越甲423-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "17時30分以降500円",
+      "saunaTypes": [],
+      "saunaNote": "サウナ完備（種類の記載なし）",
+      "url": "https://sakurand.com/",
+      "sources": [
+        "https://sakurand.com/"
+      ],
+      "confidence": "high",
+      "note": "第2木曜休"
+    },
+    {
+      "name": "津南駅前温泉 リバーサイド津南",
+      "address": "新潟県中魚沼郡津南町大字外丸丁1921-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線低温サウナ",
+      "url": "https://www.town.tsunan.niigata.jp/soshiki/somu/riverside.html",
+      "sources": [
+        "https://onsen.nifty.com/tsunan-onsen/onsen001728/",
+        "https://www.town.tsunan.niigata.jp/soshiki/somu/riverside.html"
+      ],
+      "confidence": "medium",
+      "note": "14時〜20時30分、月曜休。料金はポータル・2026年口コミ値"
+    },
+    {
+      "name": "三国街道・二居宿 宿場の湯",
+      "address": "新潟県南魚沼郡湯沢町三国537",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円込み",
+      "saunaTypes": [],
+      "saunaNote": "サウナは13時〜20時",
+      "url": "https://sp.yuzawaonsen.com/?page_id=212",
+      "sources": [
+        "https://sp.yuzawaonsen.com/?page_id=212"
+      ],
+      "confidence": "high",
+      "note": "木曜休"
+    },
+    {
+      "name": "天然温泉 麻生の湯",
+      "address": "新潟県長岡市麻生田町南谷2063",
+      "weekdayAdult": 940,
+      "holidayAdult": 940,
+      "saunaFee": 0,
+      "priceNote": "タオルセット付1,080円",
+      "saunaTypes": [],
+      "saunaNote": "室内大浴場にサウナ",
+      "url": "https://asounoyu.com/",
+      "sources": [
+        "https://asounoyu.com/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "ざぶ〜ん",
+      "address": "新潟県北蒲原郡聖籠町大字諏訪山652-3",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町民750円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（リニューアル工事中、種類未確認）",
+      "url": "http://www.zaboon.co.jp/",
+      "sources": [
+        "http://www.zaboon.co.jp/",
+        "https://onsen.nifty.com/shibata-onsen/onsen007141/"
+      ],
+      "confidence": "high",
+      "note": "2026/10/13〜11/7（予定）サウナ改修のため日帰り温泉棟休館。第1・第3火曜休"
+    },
+    {
+      "name": "百花の里 城山温泉",
+      "address": "新潟県新発田市浦1040-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "入館料900円＋燃料調整費100円",
+      "saunaTypes": [],
+      "saunaNote": "サウナ（テレビ付）。浴室は週替わり男女入替",
+      "url": "https://www.shiroyama-onsen.com/",
+      "sources": [
+        "https://www.shiroyama-onsen.com/ご利用料金のご案内",
+        "https://www.shiroyama-onsen.com/城山温泉とは"
+      ],
+      "confidence": "high",
+      "note": "木曜定休"
+    },
+    {
+      "name": "釜ぶたの湯",
+      "address": "新潟県上越市大和5-4",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 320,
+      "priceNote": "温泉＋サウナ800円（2025/7/1からの料金）",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ・低温ソルトサウナ。サウナは大人のみ",
+      "url": "http://hidakk.co.jp/kamabutanoyu/",
+      "sources": [
+        "http://hidakk.co.jp/kamabutanoyu/",
+        "https://news.allabout.co.jp/articles/o/116180/"
+      ],
+      "confidence": "high",
+      "note": "天然温泉の銭湯。上越妙高駅前"
+    },
+    {
+      "name": "門前の湯",
+      "address": "新潟県上越市大字下門前162-1",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 240,
+      "priceNote": "入浴＋サウナ720円",
+      "saunaTypes": [],
+      "saunaNote": "サウナは8時から",
+      "url": "https://www.greens.co.jp/monzen/",
+      "sources": [
+        "https://onsen.nifty.com/jouetsu-onsen/onsen008604/"
+      ],
+      "confidence": "medium",
+      "note": "天然温泉銭湯。公式サイト公開停止中のためポータル値"
+    },
+    {
+      "name": "鵜の浜人魚館",
+      "address": "新潟県上越市大潟区九戸浜241-8",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "大浴場の一方にサウナ（毎日男女入替）",
+      "url": "http://www.ningyokan.jp/",
+      "sources": [
+        "https://niigata-kankou.or.jp/spot/detail_11626.html",
+        "https://onsen.nifty.com/jouetsu-onsen/onsen001640/",
+        "http://www.ningyokan.jp/"
+      ],
+      "confidence": "medium",
+      "note": "公式料金表は画像で確認できず。別サイトに700円表記あり"
+    },
+    {
+      "name": "湯之谷薬師温泉センター ゆーパーク薬師",
+      "address": "新潟県魚沼市七日市新田643-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "http://www.yu-park.net/",
+      "sources": [
+        "https://onsen.nifty.com/okutadami-onsen/onsen001708/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト接続不可。水曜休"
+    },
+    {
+      "name": "寿和温泉",
+      "address": "新潟県魚沼市穴沢12",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "2023年度にサウナ室増設",
+      "url": "https://www.city.uonuma.lg.jp/page/2384.html",
+      "sources": [
+        "https://www.city.uonuma.lg.jp/page/2384.html"
+      ],
+      "confidence": "high",
+      "note": "木曜休。平日12時から"
+    },
+    {
+      "name": "見晴らしの湯 こまみ",
+      "address": "新潟県魚沼市青島2083-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "https://www.sp-koide.org/komami",
+      "sources": [
+        "https://www.sp-koide.org/komami",
+        "https://onsen.nifty.com/okutadami-onsen/onsen001690/"
+      ],
+      "confidence": "medium",
+      "note": "公式にサウナの記載なし。火曜休"
+    },
+    {
+      "name": "ふれあいパーク てまりの湯",
+      "address": "新潟県燕市国上5866-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "17時以降300円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温・低湿度の昭和ストロングスタイル",
+      "url": "https://www.michinoeki-kugami.jp/temarinoyu/",
+      "sources": [
+        "https://www.michinoeki-kugami.jp/temarinoyu/"
+      ],
+      "confidence": "high",
+      "note": "道の駅国上内。第2・4月曜休"
+    },
+    {
+      "name": "湯らりあ・六日町温泉公衆浴場",
+      "address": "新潟県南魚沼市六日町392-3",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 200,
+      "priceNote": "サウナ（入浴料込）680円",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/okutadami-onsen/onsen011108/"
+      ],
+      "confidence": "medium",
+      "note": "源泉かけ流しの公衆浴場"
+    },
+    {
+      "name": "佐渡市新穂健康保養センター 新穂潟上温泉",
+      "address": "新潟県佐渡市新穂潟上1111",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ併設（ポータル情報）",
+      "url": "https://www.visitsado.com/spot/detail0269/",
+      "sources": [
+        "https://www.visitsado.com/spot/detail0269/",
+        "https://onsen.nifty.com/sadogashima-onsen/onsen001718/"
+      ],
+      "confidence": "medium",
+      "note": "水曜休"
+    },
+    {
+      "name": "新樽ヶ橋温泉 クアハウスたいない",
+      "address": "新潟県胎内市下赤谷387-16",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "入浴限定（お風呂・サウナ）料金。全施設利用1,040円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://kurhaus-tainai.com/",
+      "sources": [
+        "https://kurhaus-tainai.com/price/"
+      ],
+      "confidence": "high",
+      "note": "第3水曜休（8月無休）"
+    },
+    {
+      "name": "スノーピーク FIELD SUITE SPA HEADQUARTERS",
+      "address": "新潟県三条市中野原456-1",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "新潟県民1,600円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.snowpeak.co.jp/fieldsuitespa/hq/",
+      "sources": [
+        "https://www.snowpeak.co.jp/fieldsuitespa/hq/spa/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "朝日きれい館",
+      "address": "新潟県村上市猿沢1215",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "温泉・プール料金（温泉のみ500円はサウナ不可）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "水着エリア（バーデゾーン）の遠赤サウナ",
+      "url": "http://www.asahimidori.com/kireikan/",
+      "sources": [
+        "http://www.asahimidori.com/kireikan/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "深層湯温泉 紫雲の郷",
+      "address": "新潟県新発田市藤塚浜966",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "2022年リニューアルのサウナ",
+      "url": "https://shiunjikinen-park.jp/shiunnosato",
+      "sources": [
+        "https://shiunjikinen-park.jp/shiunnosato"
+      ],
+      "confidence": "high",
+      "note": "第3木曜休（8月除く）。露天風呂「紫雲の湯」は利用中止"
+    },
+    {
+      "name": "ミオンなかさと",
+      "address": "新潟県十日町市宮中己4197",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "18時以降700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "フィンランドサウナ",
+      "url": "http://nakasato-mion.com/",
+      "sources": [
+        "http://nakasato-mion.com/spa/index.html"
+      ],
+      "confidence": "high",
+      "note": "木曜定休"
+    },
+    {
+      "name": "神湯とふれあいの里 神湯温泉倶楽部",
+      "address": "新潟県魚沼市清本583",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "日中料金。19時以降800円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "サウナは11時〜21時、浴室は毎週金曜男女入替",
+      "url": "https://www.kamiyuonsen.com/",
+      "sources": [
+        "https://www.kamiyuonsen.com/dayspa/"
+      ],
+      "confidence": "high",
+      "note": "2026/7/1リニューアルオープン。11/18臨時休館"
+    },
+    {
+      "name": "柵口温泉 権現荘",
+      "address": "新潟県糸魚川市田麦平26-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナ",
+      "url": "https://www.maseguchionsen-gongenso.com/",
+      "sources": [
+        "https://onsen.nifty.com/jouetsu-onsen/onsen001654/"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金記載なし。11/16〜11/20全館メンテナンス休館"
+    },
+    {
+      "name": "アクアーレ長岡",
+      "address": "新潟県長岡市新陽2-5-1",
+      "weekdayAdult": 880,
+      "holidayAdult": 880,
+      "saunaFee": 0,
+      "priceNote": "温泉コース（サウナ・内風呂・露天風呂）。フルコース2,000円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "フィンランドサウナ（水着エリア）",
+      "url": "https://www.aquarenagaoka.or.jp/",
+      "sources": [
+        "https://onsen.nifty.com/nagaoka-onsen/onsen001670/",
+        "https://www.timesclub.jp/benefit/shop/spa/detail.jsp?shop=S000001595"
+      ],
+      "confidence": "medium",
+      "note": "青葉温泉使用。月曜休。料金はポータル値（別ポータルに760円表記）"
+    },
+    {
+      "name": "NASPAニューオータニ",
+      "address": "新潟県南魚沼郡湯沢町湯沢2117-9",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女大浴場にサウナ",
+      "url": "http://www.naspa.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/echigoyuzawa-onsen/onsen005277/",
+        "https://sp.jorudan.co.jp/onsen/details/2715/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り9:00〜18:00。公式に日帰り料金の記載なし"
+    },
+    {
+      "name": "くわどり湯ったり村",
+      "address": "新潟県上越市皆口601",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナ（平日は時間限定とのポータル情報）",
+      "url": "https://kuwadori.jp/",
+      "sources": [
+        "https://kuwadori.jp/daytrip",
+        "https://kuwadori.jp/facilities/hotspring"
+      ],
+      "confidence": "high",
+      "note": "火・水曜休。12〜3月は臨時休館の場合あり"
+    },
+    {
+      "name": "ゆったりの郷",
+      "address": "新潟県上越市吉川区長峰100",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "和風側に乾式高温サウナ、ローマ風呂側にミストサウナ（日替わり男女入替）",
+      "url": "https://yuttarinosato.com/",
+      "sources": [
+        "https://yuttarinosato.com/access.html",
+        "https://yuttarinosato.com/onsen.html"
+      ],
+      "confidence": "high",
+      "note": "月曜休"
+    },
+    {
+      "name": "ナステビュウ湯の山",
+      "address": "新潟県十日町市松之山湯山1252-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "17時以降 平日700円・土日祝750円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュサウナ試験開催あり（男女別時間）",
+      "url": "https://yunoyama.jp/",
+      "sources": [
+        "https://niigata-kankou.or.jp/spot/detail_43126.html",
+        "https://onsen.nifty.com/tookamachi-onsen/onsen001736/"
+      ],
+      "confidence": "high",
+      "note": "2026/4/11営業再開。12/15〜18臨時休館"
+    },
+    {
+      "name": "佐渡シーサイドリゾート＆スパ（旧 あかどまり城が浜温泉 サンライズ城が浜）",
+      "address": "新潟県佐渡市三川2915",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ・水風呂",
+      "url": "http://www.akadomari.com/",
+      "sources": [
+        "http://www.akadomari.com/",
+        "https://onsen.nifty.com/sadogashima-onsen/onsen001786/"
+      ],
+      "confidence": "low",
+      "note": "2026/7に名称変更。日帰り料金はポータルの旧情報"
+    },
+    {
+      "name": "さわたコミュニティセンター ビューさわた",
+      "address": "新潟県佐渡市中原244-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ・水風呂あり（ポータル情報）",
+      "url": "https://viewsawata.wixsite.com/my-site-1",
+      "sources": [
+        "https://viewsawata.wixsite.com/my-site-1",
+        "https://onsen.nifty.com/sadogashima-onsen/onsen018713/"
+      ],
+      "confidence": "medium",
+      "note": "佐和田温泉。月曜休"
+    },
+    {
+      "name": "ロッテアライリゾート 星空温泉",
+      "address": "新潟県妙高市両善寺1966",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男性ドライ、女性ミスト",
+      "url": "https://www.lottehotel.com/arai-resort/ja/wellness/hoshizora-onsen",
+      "sources": [
+        "https://www.lottehotel.com/arai-resort/ja/wellness/hoshizora-onsen"
+      ],
+      "confidence": "high",
+      "note": "日帰り 平日13時〜・土日祝11時〜"
+    },
+    {
+      "name": "ロイヤル胎内パークホテル",
+      "address": "新潟県胎内市夏井1191-3",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "一般料金（胎内市民600円）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "浴場に遠赤外線サウナ",
+      "url": "https://royal-tainai.jp/spa/",
+      "sources": [
+        "https://royal-tainai.jp/spa/"
+      ],
+      "confidence": "high",
+      "note": "日帰り11:00〜14:30"
+    },
+    {
+      "name": "越後のお宿 いなもと",
+      "address": "新潟県南魚沼郡湯沢町湯沢2497",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女大浴場に対流式ドライサウナ（15時〜）",
+      "url": "http://www.oyadoinamoto.jp/",
+      "sources": [
+        "https://www.oyadoinamoto.jp/onsen/"
+      ],
+      "confidence": "medium",
+      "note": "日帰りは大浴場のみ・受付12時〜17時。サウナ利用可否の明記なし",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "湯沢東映ホテル",
+      "address": "新潟県南魚沼郡湯沢町大字湯沢3459",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "フェイスタオル付",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男性ドライ、女性アロマミスト（15時〜）",
+      "url": "https://www.toeihotel-yuzawa.com/",
+      "sources": [
+        "https://www.toeihotel-yuzawa.com/hot_spring/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り13時〜21時（冬季は時間変更）。サウナ利用可否の明記なし",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "リブマックスリゾート越後湯沢",
+      "address": "新潟県南魚沼郡湯沢町湯沢330",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "セルフロウリュサウナ",
+      "url": "https://www.livemax-resort.com/niigata/echigoyuzawa/",
+      "sources": [
+        "https://www.livemax-resort.com/niigata/echigoyuzawa/daytrip/"
+      ],
+      "confidence": "high",
+      "note": "日帰り8:00〜10:00、15:00〜21:00"
+    },
+    {
+      "name": "越後湯沢温泉 和みのお宿 滝乃湯",
+      "address": "新潟県南魚沼郡湯沢町大字湯沢345-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女各1室",
+      "url": "https://www.yuzawa-takinoyu.com/",
+      "sources": [
+        "https://www.yuzawa-takinoyu.com/page2"
+      ],
+      "confidence": "medium",
+      "note": "日帰りは1時間ごとの事前予約制。平日13〜18時・土日祝13〜16時"
+    },
+    {
+      "name": "四季の宿 みのや",
+      "address": "新潟県西蒲原郡弥彦村大字弥彦2927-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "各大浴場にサウナ",
+      "url": "https://www.minoya.net/",
+      "sources": [
+        "https://www.minoya.net/spa/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り11:30〜15:00。日帰り客のサウナ利用の明記なし",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "長岡かまぶろ温泉",
+      "address": "新潟県長岡市十日町972-2",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "登り窯風の低温サウナ「かまぶろ」（男女大浴場の隣）",
+      "url": "http://www.kamaburo.com/",
+      "sources": [
+        "https://onsen.nifty.com/nagaoka-onsen/onsen001757/",
+        "http://www.kamaburo.com/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式で確認できずポータル値"
+    },
+    {
+      "name": "寺宝温泉",
+      "address": "新潟県長岡市寺宝町82",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "http://eigyou.0258.jp/~jihou/",
+      "sources": [
+        "https://onsen.nifty.com/nagaoka-onsen/onsen006294/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト接続不可。不定休"
+    },
+    {
+      "name": "田ノ浦温泉 海華亭 かわい",
+      "address": "新潟県新潟市西蒲区間瀬7077",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ（殿方大浴場）",
+      "url": "https://www.kaikatei-kawai.com/",
+      "sources": [
+        "https://kaikatei-kawai.com/%e6%b8%a9%e6%b3%89%e3%83%bb%e3%82%b5%e3%82%a6%e3%83%8a/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り11:00〜15:00。日帰り客のサウナ利用の明記なし",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "ニューグリーンピア津南",
+      "address": "新潟県中魚沼郡津南町秋成12300",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "別サイトでは各館500円・両館共通800円の表記",
+      "saunaTypes": [],
+      "saunaNote": "男女大浴場にサウナ（日帰り利用可）",
+      "url": "https://new-greenpia.com/",
+      "sources": [
+        "https://new-greenpia.com/higaeri/",
+        "https://niigata-kankou.or.jp/spot/detail_10709.html"
+      ],
+      "confidence": "low",
+      "note": "公式に日帰り料金の記載なし。料金が情報源で食い違い"
+    },
+    {
+      "name": "金井温泉 金北の里",
+      "address": "新潟県佐渡市中興乙2822-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "500円表記の情報源もあり",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "サウナ・井戸水の水風呂",
+      "url": "",
+      "sources": [
+        "https://www.yukoyuko.net/onsen/spot/h0001280"
+      ],
+      "confidence": "low",
+      "note": "公式サイト未確認。料金が情報源で食い違い。月曜休"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "極楽湯 女池店",
+      "reason": "天然温泉ではない（人工温泉）"
+    },
+    {
+      "name": "極楽湯 槇尾店",
+      "reason": "天然温泉と確認できず（店名に天然温泉表記なし・公式サイト停止中）"
+    },
+    {
+      "name": "極楽湯 松崎店",
+      "reason": "天然温泉と確認できず（店名に天然温泉表記なし・公式サイト停止中）"
+    },
+    {
+      "name": "多宝温泉 だいろの湯",
+      "reason": "2025/9/17から設備メンテナンスのため臨時休業中（再開日未定）"
+    },
+    {
+      "name": "SPA&LOUNGE 長潟",
+      "reason": "人工温泉"
+    },
+    {
+      "name": "ぴあパーク とうりんぼ（桃の湯）",
+      "reason": "温泉ではない（ホワイトイオンバス・炭酸泉）"
+    },
+    {
+      "name": "旬彩の庄 坂戸城",
+      "reason": "2026/10/14から給湯配管故障で日帰り入浴休止中"
+    },
+    {
+      "name": "蓬平温泉 和泉屋",
+      "reason": "日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "みつけ健幸の湯 ほっとぴあ",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "リップス スーパー銭湯 越後長岡ゆらいや",
+      "reason": "天然温泉の記載なし（露天は人工温泉）"
+    },
+    {
+      "name": "アクアパークにいがた",
+      "reason": "天然温泉ではない（トロン温泉）"
+    },
+    {
+      "name": "上越リゾートセンター くるみ家族園",
+      "reason": "天然温泉・料金を確認できず"
+    },
+    {
+      "name": "うみてらす名立（名立の湯 ゆらら）",
+      "reason": "天然温泉と確認できず（公式は人工温泉の記載）"
+    },
+    {
+      "name": "えちご川口温泉",
+      "reason": "サウナは予約制個室（岩盤浴併設）のみで浴場設備としてのサウナを確認できず"
+    },
+    {
+      "name": "エコトピア寿",
+      "reason": "天然温泉ではない（ごみ焼却余熱の沸かし湯）"
+    },
+    {
+      "name": "ゆの駅 ゆんぐアネックス",
+      "reason": "天然温泉と確認できず（ラジウム鉱石泉）"
+    },
+    {
+      "name": "神立 神の湯",
+      "reason": "冬季のみ営業（2026/12/18〜）で基準日は営業期間外"
+    },
+    {
+      "name": "スパ舞子温泉（舞子日帰りスキーセンター）",
+      "reason": "冬季営業（2026/12/19オープン予定）・サウナ未確認"
+    },
+    {
+      "name": "いいでの湯（新発田）",
+      "reason": "天然温泉と確認できず"
+    },
+    {
+      "name": "ホテル太閤",
+      "reason": "日帰り温泉休業中（2026/4/1〜12/11）"
+    },
+    {
+      "name": "休暇村 妙高",
+      "reason": "日帰り客が使う展望風呂のサウナを確認できず"
+    },
+    {
+      "name": "神の宮温泉 かわら亭",
+      "reason": "日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "月岡温泉 湯あそび宿 曙",
+      "reason": "日帰り入浴はサウナ利用不可"
+    },
+    {
+      "name": "ホテル飛鳥",
+      "reason": "入浴のみ料金・日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "ホテル小柳",
+      "reason": "入浴のみ料金・日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "ホテル国富アネックス",
+      "reason": "日帰り入浴料とサウナ料金（2,000円）の関係が不明"
+    },
+    {
+      "name": "松之山温泉 Ponshu Hotel 睡夢",
+      "reason": "公式サイト接続不可で日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "寺泊きんぱちの湯",
+      "reason": "天然温泉ではない（海洋深層水）"
+    },
+    {
+      "name": "道の駅 ちぢみの里おぢや（日帰り温泉）",
+      "reason": "閉館（観光協会ページに閉館表示）"
+    },
+    {
+      "name": "大観荘せなみの湯",
+      "reason": "日帰りは食事付きプランのみで入浴のみ料金を確認できず"
+    },
+    {
+      "name": "新潟県立柏崎アクアパーク",
+      "reason": "天然温泉の記載なし"
+    },
+    {
+      "name": "Hostel Perch",
+      "reason": "天然温泉の記載なし（サウナ主体の宿）"
+    },
+    {
+      "name": "赤倉観光ホテル",
+      "reason": "日帰りは食事付きプランのみ（温泉入浴のみ不可）"
+    },
+    {
+      "name": "湯之谷交流センター ユピオ",
+      "reason": "閉館（2023年8月以降営業なしとの情報）"
+    },
+    {
+      "name": "越後長岡ゆらいや 華の湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "天然温泉 上越の湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "ゆきだるま温泉 雪の湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "霧ヶ岳温泉 ゆあみ",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "保養施設 ひなた荘",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "健康増進センター ワイドブルーあいかわ",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "メイワサンピア なごみの湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "ホンマ健康ランド",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "ホテルスポーリア湯沢",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "ホテル高橋館（月岡温泉）",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "ネイチャーリングホテル米本陣",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "ハーバルスパ＆ホテル 元気人",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    }
+  ],
+  "notes": "ニフティ温泉のサウナ絞り込み（新潟県159件）とサウナイキタイ新潟市・佐渡市一覧を基に、日帰り施設を優先して確認。ホテル・旅館は日帰り料金とサウナ利用を公式で確認できたもの中心（湯沢・月岡・瀬波・赤倉・岩室の高級旅館の多くは食事付きプランのみ等で未収録・未確認）。未確認: 赤倉ホテル、高原ホテル対山、アパリゾート上越妙高、ホテルグリーンプラザ上越、ほてる木の芽坂、ベルナティオ、よもやま舘、かもめ荘、ホテル大佐渡、畑野温泉松泉閣、星乃湯（佐渡）、松ヶ峯温泉ひばり荘、長岡温泉湯元館、桂温泉ほか。神の湯（冬季のみ）は基準日営業期間外として除外、ざぶ〜ん（10/13〜11/7休館・再開予定あり）は短期休館として収録。新潟県の銭湯料金は480円（2025/7/1〜）として扱った。"
+}

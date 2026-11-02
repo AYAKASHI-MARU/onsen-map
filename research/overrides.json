@@ -1,0 +1,372 @@
+{
+  "tower eleven onsen & sauna": {
+    "lat": 42.990148,
+    "lng": 141.549799,
+    "source": "nominatim:エスコンフィールドHOKKAIDO（TOWER 11 は球場建物内。北広島市Fビレッジ）"
+  },
+  "青の洞窟温泉 ピパの湯 ゆ〜りん館": {
+    "lat": 43.343436,
+    "lng": 141.893309,
+    "source": "nominatim:ピパの湯;ゆ〜りん館 public_bath（公式 https://www.yu-rinkan.com/access/ の地図と一致）"
+  },
+  "月形温泉ホテル ゆりかご": {
+    "lat": 43.341412,
+    "lng": 141.679533,
+    "source": "https://tsukigataonsen-hotel.com/facility（Googleマップ埋め込み「月形温泉 ゆりかご」）"
+  },
+  "ログホテル メープルロッジ": {
+    "lat": 43.155626,
+    "lng": 141.931909,
+    "source": "nominatim:メープルロッジ hotel（岩見沢市毛陽町）"
+  },
+  "ホテル恵風「湯ったり館 とどぽっくる」": {
+    "lat": 41.814336,
+    "lng": 141.180695,
+    "source": "nominatim:ホテル恵風（公式 http://www.todohokke.jp/access/ の地図と一致）"
+  },
+  "函館市戸井ウォーターパーク ふれあい湯遊館（マルゼン温泉 美人の湯）": {
+    "lat": 41.729562,
+    "lng": 141.031787,
+    "source": "nominatim:ふれあい湯遊館 public_bath（函館市原木町）"
+  },
+  "日向温泉（日向保養センター）": {
+    "lat": 44.266584,
+    "lng": 142.342469,
+    "source": "nominatim:日向温泉 public_bath（士別市日向スキー場の隣）"
+  },
+  "旭岳温泉 ホテルベアモンテ": {
+    "lat": 43.650802,
+    "lng": 142.799107,
+    "source": "nominatim:旭岳温泉 ホテルベアモンテ hotel（東川町）"
+  },
+  "つがる市車力ウェルネスセンター しゃりき温泉": {
+    "lat": 40.94789,
+    "lng": 140.35879,
+    "source": "nominatim:ウェルネスセンター しゃりき温泉 public_bath（公式 https://sr-onsen.com/ の地図と一致）"
+  },
+  "グリーンパークもりのいずみ": {
+    "lat": 40.549006,
+    "lng": 140.271966,
+    "source": "https://www.mori-no-izumi.com/access/（Googleマップリンク「グリーンパーク もりのいずみ」の地点座標）"
+  },
+  "天台の湯（稲庭交流センター）": {
+    "lat": 40.198199,
+    "lng": 141.090771,
+    "source": "nominatim:天台の湯 public_bath（公式 https://tendainoyu.co.jp/access の地図と一致）"
+  },
+  "しゃくなげの湯っこ 五葉温泉": {
+    "lat": 39.162379,
+    "lng": 141.715135,
+    "source": "nominatim:しゃくなげの湯っこ;五葉温泉 public_bath（大船渡市日頃市町）"
+  },
+  "秋田市雄和ふるさと温泉ユアシス": {
+    "lat": 39.515658,
+    "lng": 140.217818,
+    "source": "nominatim:ユアシス hotel（秋田市雄和神ケ村）"
+  },
+  "は～とぽ～と大内 ぽぽろっこ": {
+    "lat": 39.44348,
+    "lng": 140.090433,
+    "source": "nominatim:ぽぽろっこ public_bath（由利本荘市岩谷町西越）"
+  },
+  "天然温泉つるしの湯": {
+    "lat": 37.880138,
+    "lng": 140.924705,
+    "source": "https://www.hotelgradoshinchi.com/access（ホテルグラード新地の公式サイト記載の座標）"
+  },
+  "里美温泉保養センター ぬく森の湯": {
+    "lat": 36.741722,
+    "lng": 140.493167,
+    "source": "http://nukumori.satomiful.jp/（公式トップのGoogleマップ埋め込みのピン 36°44'30.2\"N 140°29'35.4\"E）"
+  },
+  "スノーピーク鹿沼キャンプフィールド&スパ": {
+    "lat": 36.540972,
+    "lng": 139.677006,
+    "source": "https://www.snowpeak.co.jp/locations/kanuma/（Googleマップ埋め込み）"
+  },
+  "四季の彩りに風薫る足尾の宿 かじか": {
+    "lat": 36.655331,
+    "lng": 139.407321,
+    "source": "https://ashio-kajika.jp/（Googleマップ埋め込み）"
+  },
+  "天然温泉 七福の湯 前橋店": {
+    "lat": 36.368513,
+    "lng": 139.103691,
+    "source": "http://www.shichifukunoyu.jp/maebashi/map（Googleマップ埋め込み）"
+  },
+  "湯の道 利久 前橋南インター店": {
+    "lat": 36.333366,
+    "lng": 139.097161,
+    "source": "https://www.yunomichi-rikyu.com/maebashiminami/（Googleマップ埋め込み）"
+  },
+  "日帰り温泉旅館 伊勢崎ゆま〜る": {
+    "lat": 36.336382,
+    "lng": 139.187208,
+    "source": "https://yumarl.com/access/（Googleマップ埋め込み）"
+  },
+  "久屋原温泉（ソナタリュー）": {
+    "lat": 36.66646,
+    "lng": 139.103533,
+    "source": "nominatim:久野原温泉（addr:群馬県沼田市久屋原町327-4。公式 https://sonatarue.com/access/ の地図と一致）"
+  },
+  "高崎中尾温泉 天神の湯": {
+    "lat": 36.372233,
+    "lng": 139.023705,
+    "source": "nominatim:天神の湯 public_bath（公式 http://www.tenjinnoyu.com/access.html の地図と一致）"
+  },
+  "竜泉寺の湯 八王子みなみ野店": {
+    "lat": 35.640709,
+    "lng": 139.333006,
+    "source": "https://hachioji.ryusenjinoyu.com/access（Googleマップ埋め込み）"
+  },
+  "まました温泉": {
+    "lat": 34.362149,
+    "lng": 139.243442,
+    "source": "https://niijima-info.jp/spot/2366/（新島村観光案内所のGoogleマップ埋め込み「間々下温泉」。海岸線から約50m沖で、50m東は新島村13363）"
+  },
+  "アルペンブリックスパ 日帰り温泉": {
+    "lat": 36.869069,
+    "lng": 138.168346,
+    "source": "https://alpenblick-resort.com/access（公式の地図リンク（cid=ホテル アルペンブリック）の座標）"
+  },
+  "天然温泉 麻生の湯": {
+    "lat": 37.458561,
+    "lng": 138.903654,
+    "source": "https://asounoyu.com/（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "浅の川温泉 湯楽": {
+    "lat": 36.492359,
+    "lng": 136.760788,
+    "source": "https://www.yuraku-onsen.jp/access.html（Googleマップ埋め込み）"
+  },
+  "バードハミング鳥越（弘法の湯）": {
+    "lat": 36.37154,
+    "lng": 136.608855,
+    "source": "nominatim:バードハミング鳥越 public_bath（公式 https://hakusan-spa2.com/?page_id=18 の地図と一致）"
+  },
+  "里山健康学校 せせらぎの郷": {
+    "lat": 36.332099,
+    "lng": 136.485242,
+    "source": "nominatim:せせらぎの郷 public_bath（公式 https://www.k-seseragi.com/ の地図と一致）"
+  },
+  "ひょっこり温泉 島の湯": {
+    "lat": 37.119211,
+    "lng": 136.996842,
+    "source": "nominatim:ひょっこり温泉;島の湯 public_bath（公式 http://user.notojima.jp/shimanoyu/access.html の地図と一致）"
+  },
+  "健康増進センター アスロン": {
+    "lat": 37.055528,
+    "lng": 136.896146,
+    "source": "nominatim:健康増進センター;アスロン public_bath（七尾市高田町。公式地図と約400m）"
+  },
+  "ねぶた温泉 海游 能登の庄": {
+    "lat": 37.399718,
+    "lng": 136.940461,
+    "source": "nominatim:ねぶた温泉 ねぶた茶屋（輪島市大野町。公式 https://www.notonosho.co.jp/access/ の埋め込みと緯度が一致）"
+  },
+  "天然温泉 加賀ゆめのゆ": {
+    "lat": 36.32465,
+    "lng": 136.411,
+    "source": "gsi:石川県加賀市箱宮町ル１番地"
+  },
+  "大江戸温泉物語Premium よしのや依緑園": {
+    "lat": 36.243513,
+    "lng": 136.372506,
+    "source": "nominatim:よしのや依緑園 hotel（加賀市山中温泉南町）"
+  },
+  "越前水仙の里温泉 波の華": {
+    "lat": 36.037497,
+    "lng": 136.010087,
+    "source": "nominatim:越前水仙の里;波の華温泉 public_bath（福井市蒲生町）"
+  },
+  "健康の森温泉（生きがい交流センター）": {
+    "lat": 36.01565,
+    "lng": 136.140124,
+    "source": "nominatim:健康の森温泉;生きがい交流センター public_bath（福井市真栗町）"
+  },
+  "かわだ温泉 ラポーゼかわだ": {
+    "lat": 35.947934,
+    "lng": 136.300829,
+    "source": "nominatim:ラポーゼかわだ hot_spring（鯖江市上河内町）"
+  },
+  "富士眺望の湯 ゆらり": {
+    "lat": 35.476309,
+    "lng": 138.691563,
+    "source": "https://www.fuji-yurari.jp/access.html（公式ページの構造化データ geo）"
+  },
+  "スパティオ小淵沢 延命の湯": {
+    "lat": 35.878693,
+    "lng": 138.318434,
+    "source": "nominatim:延命の湯 public_bath（スパティオ小淵沢内、北杜市小淵沢町）"
+  },
+  "多摩源流 小菅の湯": {
+    "lat": 35.75375,
+    "lng": 138.950222,
+    "source": "http://kosugenoyu.jp/access/（公式のGoogleマップ埋め込みのピン 35°45'13.5\"N 138°57'00.8\"E）"
+  },
+  "権堂温泉テルメDOME": {
+    "lat": 36.651834,
+    "lng": 138.18731,
+    "source": "https://gondo-onsen.com/access/（Googleマップ埋め込み）"
+  },
+  "裾花峡天然温泉宿 うるおい館": {
+    "lat": 36.654085,
+    "lng": 138.174148,
+    "source": "https://uruoikan.com/access/（Googleマップ埋め込み）"
+  },
+  "星野温泉 トンボの湯": {
+    "lat": 36.362729,
+    "lng": 138.588888,
+    "source": "nominatim:星野温泉;トンボの湯 public_bath（軽井沢町長倉）"
+  },
+  "立ち寄りの湯 軽井沢千ヶ滝温泉": {
+    "lat": 36.365643,
+    "lng": 138.583842,
+    "source": "nominatim:軽井沢千ケ滝温泉（浴槽施設） public_bath（軽井沢町長倉）"
+  },
+  "南相木温泉 滝見の湯": {
+    "lat": 36.016805,
+    "lng": 138.566144,
+    "source": "nominatim:南相木温泉;滝見の湯 public_bath（公式 http://takiminoyu.com/facility/ の地図と一致）"
+  },
+  "ローゼンハイム白馬": {
+    "lat": 36.69843,
+    "lng": 137.841983,
+    "source": "https://www.rosen-h.com/access/（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "信州平谷温泉 ひまわりの湯": {
+    "lat": 35.323528,
+    "lng": 137.631099,
+    "source": "https://hiraya-himawarinoyu.com/access.php（Googleマップ埋め込み）"
+  },
+  "うるぎ温泉 こまどりの湯": {
+    "lat": 35.276358,
+    "lng": 137.709634,
+    "source": "https://www.urugi.jp/top/introduction_sightseeing/hot_spring/komadorinoyu/（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "天然温泉 大垣コロナの湯": {
+    "lat": 35.36714,
+    "lng": 136.629613,
+    "source": "https://www.korona.co.jp/onsen/ogk/（公式ページのGoogleマップリンク「天然温泉 コロナの湯 大垣店」の地点座標）"
+  },
+  "リブマックスリゾート飛騨高山 臥龍の郷": {
+    "lat": 36.095697,
+    "lng": 137.255794,
+    "source": "https://www.livemax-resort.com/gifu/hidatakayama/access/（Googleマップ埋め込み）"
+  },
+  "榊原温泉 湯の瀬": {
+    "lat": 34.702816,
+    "lng": 136.375273,
+    "source": "https://sakakibaraonsen.com/（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "松阪温泉 GURUSPA": {
+    "lat": 34.593808,
+    "lng": 136.52612,
+    "source": "https://guru-spa.jp/guide/（公式ページの地図スクリプトの店舗座標）"
+  },
+  "永源寺温泉 八風の湯": {
+    "lat": 35.076562,
+    "lng": 136.312823,
+    "source": "https://happuno-yu.com/eigenji/access/（Googleマップ埋め込み）"
+  },
+  "あやべ温泉 二王の湯": {
+    "lat": 35.377531,
+    "lng": 135.43466,
+    "source": "https://www.ayabeonsen.com/access/（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "針テラスの天然温泉 はり温泉らんど": {
+    "lat": 34.609239,
+    "lng": 135.963473,
+    "source": "nominatim:はり温泉ランド public_bath（addr:奈良市針町361。公式 http://hari1126.com/ の地図と一致）"
+  },
+  "大江戸温泉物語Premium 白浜彩朝楽": {
+    "lat": 33.681696,
+    "lng": 135.359008,
+    "source": "nominatim:湯快リゾート 南紀白浜温泉 白浜彩朝楽 hotel（白浜町）"
+  },
+  "天然温泉 桂浜温泉館": {
+    "lat": 34.101952,
+    "lng": 132.512413,
+    "source": "nominatim:桂浜温泉館 public_bath（公式 https://icou-kurahashi.com/company の地図と一致）"
+  },
+  "桜花の郷 ラ・フォーレ庄原": {
+    "lat": 34.851694,
+    "lng": 133.031838,
+    "source": "https://oukanosato.jp/access/（公式の地図リンク（cid=桜花の郷 ラ・フォーレ庄原）の座標）"
+  },
+  "かもだ岬温泉保養施設": {
+    "lat": 33.831654,
+    "lng": 134.724325,
+    "source": "http://wwwd.pikara.ne.jp/kamodamisaki/（Googleマップ埋め込み）"
+  },
+  "三十六温泉 由良里の湯": {
+    "lat": 34.284014,
+    "lng": 134.095968,
+    "source": "https://yurarinoyu.jp/（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "リブマックスリゾート観音寺": {
+    "lat": 34.108716,
+    "lng": 133.690446,
+    "source": "https://www.livemax-resort.com/kagawa/kanonji/access/（Googleマップ埋め込み）"
+  },
+  "オリーブ温泉満天の湯": {
+    "lat": 34.475426,
+    "lng": 134.181946,
+    "source": "gsi:香川県土庄町甲１３６０番地"
+  },
+  "南道後温泉 ていれぎの湯": {
+    "lat": 33.78051,
+    "lng": 132.818401,
+    "source": "nominatim:南道後温泉;ていれぎの湯 public_bath（公式 https://teiregi.jp/access/ の地図と一致）"
+  },
+  "天然温泉 泉都乃湯": {
+    "lat": 33.271727,
+    "lng": 129.875442,
+    "source": "https://www.central-imari.jp/access/（セントラルホテル伊万里（泉都乃湯は館内・同住所）のGoogleマップ埋め込み）"
+  },
+  "熊の川温泉 鵆の湯": {
+    "lat": 33.364028,
+    "lng": 130.240571,
+    "source": "nominatim:熊の川温泉;ちどりの湯 public_bath（佐賀市富士町）"
+  },
+  "宇土市健康福祉館 あじさいの湯": {
+    "lat": 32.689272,
+    "lng": 130.598304,
+    "source": "nominatim:宇土市健康福祉館;あじさいの湯 public_bath（宇土市網津町）"
+  },
+  "牛深温泉センター やすらぎの湯": {
+    "lat": 32.247253,
+    "lng": 130.053908,
+    "source": "nominatim:天草市牛深温泉センター やすらぎの湯 public_bath（天草市久玉町）"
+  },
+  "ひょうたん温泉": {
+    "lat": 33.314431,
+    "lng": 131.47932,
+    "source": "https://www.hyotan-onsen.com/access/index.html（公式ページのGoogleマップリンクの地点座標）"
+  },
+  "湯けむりの里 東屋": {
+    "lat": 33.317918,
+    "lng": 131.476894,
+    "source": "nominatim:東屋 hotel（公式 https://gloria-g.com/azumaya/access/ の地図 ll=33.31796,131.477058 と一致）"
+  },
+  "絶景の宿 さくら亭": {
+    "lat": 33.318812,
+    "lng": 131.475085,
+    "source": "nominatim:さくら亭 hotel（別府市鉄輪。公式 https://gloria-g.com/sakuratei/access/ の地図と一致）"
+  },
+  "さくらじま白浜温泉センター": {
+    "lat": 31.625924,
+    "lng": 130.661972,
+    "source": "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/kenkosoumu/shisetsu/kenko/sakurajimashirahama.html（鹿児島市ページのGoogleマップリンクの地点座標）"
+  },
+  "桜島マグマ温泉（国民宿舎レインボー桜島）": {
+    "lat": 31.591554,
+    "lng": 130.596054,
+    "source": "nominatim:桜島マグマ温泉 public_bath（鹿児島市桜島横山町）"
+  },
+  "高城の湯 山桜桃": {
+    "lat": 31.915605,
+    "lng": 130.256741,
+    "source": "https://takinoyu-yusura.com/reservation/（Googleマップ埋め込み）"
+  }
+}

@@ -1,0 +1,901 @@
+{
+  "prefecture": "岐阜県",
+  "prefCode": "21",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "湯どころ みのり",
+      "address": "岐阜県羽島郡岐南町下印食2-60-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（6〜9時）平日750円/土日祝850円。岩盤&サウナLeLuは別料金",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温サウナ。男性はフィンランドサウナ（セルフロウリュ）、女性は足湯スチームサウナ",
+      "url": "https://yudocoro-minori.com/",
+      "sources": [
+        "https://yudocoro-minori.com/price/",
+        "https://yudocoro-minori.com/sauna/"
+      ],
+      "confidence": "high",
+      "note": "いけだゆげ温泉（ナトリウム-炭酸水素塩泉）"
+    },
+    {
+      "name": "ぎなん温泉",
+      "address": "岐阜県羽島郡岐南町上印食9丁目59-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ginanonsen.jp/",
+      "sources": [
+        "https://www.ginanonsen.jp/guide"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "武芸川温泉",
+      "address": "岐阜県関市武芸川町八幡1558-7",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴込み",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "黄土を使った遠赤外線サウナ",
+      "url": "https://www.mugegawa.jp/",
+      "sources": [
+        "https://www.mugegawa.jp/",
+        "https://www.mugegawa.jp/natural_hot_spring"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ぬくい温泉",
+      "address": "岐阜県本巣市政田字下西浦1953番地",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴込み",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "サウナ・ミストサウナ",
+      "url": "https://www.nukuinoyu.jp/",
+      "sources": [
+        "https://www.nukuinoyu.jp/",
+        "https://www.nukuinoyu.jp/natural_hot_spring"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "とき温泉 KAMABA",
+      "address": "岐阜県土岐市土岐津町土岐口1372番地の1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.kamaba-onsen.jp/",
+      "sources": [
+        "https://www.kamaba-onsen.jp/guide",
+        "https://www.kamaba-onsen.jp/facility/yudokoro"
+      ],
+      "confidence": "high",
+      "note": "イオンモール土岐敷地内"
+    },
+    {
+      "name": "長良川温泉 岐阜グランドホテル",
+      "address": "岐阜県岐阜市長良648番地",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "13:30〜17:00の料金（6:00〜10:00は1,000円）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線のドライ式中温サウナ",
+      "url": "https://www.gifugrandhotel.co.jp/",
+      "sources": [
+        "https://www.gifugrandhotel.co.jp/hotspring/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "長良川清流ホテル",
+      "address": "岐阜県岐阜市長良志段見東山537-3",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女各1。茶サウナ",
+      "url": "https://nagaragawahotel.com/",
+      "sources": [
+        "https://nagaragawahotel.com/facility/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り温泉は休館日あり（公式の営業スケジュール参照）",
+      "note": "いけだゆげ温泉の運び湯"
+    },
+    {
+      "name": "大垣天然温泉 湯の城",
+      "address": "岐阜県大垣市外野2丁目16番",
+      "weekdayAdult": 750,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴（癒の城）は別料金",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "浴場内高温サウナでロウリュウイベントあり",
+      "url": "https://www.p-castle.co.jp/yunoshiroogaki/",
+      "sources": [
+        "https://www.p-castle.co.jp/yunoshiroogaki/information",
+        "https://www.p-castle.co.jp/yunoshiroogaki/sauna-rouryu"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 大垣コロナの湯",
+      "address": "岐阜県大垣市三塚町字西沼523-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "アウフグースイベントあり",
+      "url": "https://www.korona.co.jp/onsen/ogk/",
+      "sources": [
+        "https://www.korona.co.jp/onsen/basic/ogk/488"
+      ],
+      "confidence": "high",
+      "note": "イオンタウン大垣内"
+    },
+    {
+      "name": "池田温泉 新館",
+      "address": "岐阜県揖斐郡池田町片山1970-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ikedaonsen.jp/",
+      "sources": [
+        "https://www.ikedaonsen.jp/guide/"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜休館（祝日は営業）"
+    },
+    {
+      "name": "南濃温泉 水晶の湯",
+      "address": "岐阜県海津市南濃町羽沢1623-3",
+      "weekdayAdult": 650,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み。海津市民は平日550円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男女入れ替え制",
+      "url": "https://www.suisho-no-yu.com/",
+      "sources": [
+        "https://www.suisho-no-yu.com/",
+        "https://suisho-no-yu.com/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "海津温泉 宙舟の湯",
+      "address": "岐阜県海津市海津町福江560-1",
+      "weekdayAdult": 580,
+      "holidayAdult": 580,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "内湯サウナ（北館・南館とも）、露天に箱サウナ",
+      "url": "https://kaizuonsen.com/",
+      "sources": [
+        "https://kaizuonsen.com/",
+        "https://kaizuonsen.com/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "養老温泉 ゆせんの里",
+      "address": "岐阜県養老郡養老町押越1522-1",
+      "weekdayAdult": 880,
+      "holidayAdult": 990,
+      "saunaFee": 0,
+      "priceNote": "本館「みのり乃湯」基本入浴料。朝風呂（8〜10時入館）平日770円/土日祝880円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "みのり乃湯に約90℃のサウナ。汗蒸幕は温熱療法館",
+      "url": "https://yusennosato.com/",
+      "sources": [
+        "https://onsen.nifty.com/oogaki-onsen/onsen002486/",
+        "https://yusennosato.com/hotspring"
+      ],
+      "confidence": "low",
+      "note": "公式に料金の記載なし。ニフティの値。ジョルダン（2025年3月更新）は1,530円で食い違い"
+    },
+    {
+      "name": "根尾川谷汲温泉",
+      "address": "岐阜県揖斐郡揖斐川町谷汲長瀬450-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "プール利用込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tanigumionsen.com/",
+      "sources": [
+        "https://tanigumionsen.com/price/",
+        "https://tanigumionsen.com/facility/"
+      ],
+      "confidence": "high",
+      "notice": "毎週火曜休館",
+      "note": "2026/9/1に800円へ改定済み"
+    },
+    {
+      "name": "おおの温泉",
+      "address": "岐阜県揖斐郡大野町相羽120-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "プール等の利用込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onoonsen.com/",
+      "sources": [
+        "https://onoonsen.com/price/",
+        "https://onoonsen.com/facility/"
+      ],
+      "confidence": "high",
+      "notice": "毎週金曜休館",
+      "note": "2026/9/1に800円へ改定済み"
+    },
+    {
+      "name": "いび川温泉 藤橋の湯",
+      "address": "岐阜県揖斐郡揖斐川町東横山207番地",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://m-fujihashi.com/spa/",
+      "sources": [
+        "https://m-fujihashi.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "毎週木曜休業（祝日の場合は翌日）"
+    },
+    {
+      "name": "美人の湯かかみがはら",
+      "address": "岐阜県各務原市蘇原申子町1丁目1",
+      "weekdayAdult": 900,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "80〜100℃の高温サウナ",
+      "url": "https://bizin-yu.co.jp/",
+      "sources": [
+        "https://bizin-yu.co.jp/guide/price/",
+        "https://bizin-yu.co.jp/service/spa/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/24は臨時休業",
+      "note": "美人の湯しろとりの運び湯。燃料調整金100円は9/1から廃止"
+    },
+    {
+      "name": "上之保温泉 ほほえみの湯",
+      "address": "岐阜県関市上之保477",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "露天風呂にテントサウナ",
+      "url": "https://www.city.seki.lg.jp/kanko/0000000760.html",
+      "sources": [
+        "https://www.city.seki.lg.jp/kanko/0000000760.html"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜定休（祝日の場合は翌日）"
+    },
+    {
+      "name": "天然温泉 三峰",
+      "address": "岐阜県可児市大森1748-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.mitsumine-onsen.com/",
+      "sources": [
+        "https://www.mitsumine-onsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜定休"
+    },
+    {
+      "name": "湯の華アイランド",
+      "address": "岐阜県可児市土田大脇4800-1",
+      "weekdayAdult": 880,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "高温乾式サウナ・湿式薬草塩サウナ",
+      "url": "https://www.spa-yunohana.com/spa/",
+      "sources": [
+        "https://onsen.nifty.com/minokamo-onsen/onsen008372/",
+        "https://www.spa-yunohana.com/spa/about.html"
+      ],
+      "confidence": "medium",
+      "notice": "2026/11/9〜11/13はメンテナンス休館",
+      "note": "公式の料金表は画像PDFで読めず。料金はニフティ"
+    },
+    {
+      "name": "天光の湯",
+      "address": "岐阜県多治見市大畑町6-105-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "アウトドアサウナ「曼荼羅」・貸切「離宮」は別料金",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "内湯オートロウリュサウナ、露天にセルフロウリュサウナ、薬草スチームサウナ",
+      "url": "https://tenko-spa.jp/",
+      "sources": [
+        "https://tenko-spa.jp/guide/",
+        "https://tenko-spa.jp/"
+      ],
+      "confidence": "high",
+      "note": "天然ラドン温泉"
+    },
+    {
+      "name": "バーデンパークSOGI",
+      "address": "岐阜県土岐市曽木町1300番地の1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "お風呂のみ。プール・ジム込みの総合利用は1,600円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.badenpark.net/",
+      "sources": [
+        "https://www.badenpark.net/guide/index.html",
+        "https://www.badenpark.net/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3木曜休館",
+      "note": "2026/10/1料金改定後の値"
+    },
+    {
+      "name": "土岐よりみち温泉",
+      "address": "岐阜県土岐市土岐ヶ丘4-5-3",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.yorimichi-onsen.jp/",
+      "sources": [
+        "https://onsen.nifty.com/tajimi-onsen/onsen011729/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3火曜定休",
+      "note": "テラスゲート土岐内。公式サイトはメンテナンス中で料金はニフティの値"
+    },
+    {
+      "name": "くしはら温泉 ささゆりの湯",
+      "address": "岐阜県恵那市串原3135番地2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://sasayurinoyu.jp/",
+      "sources": [
+        "https://sasayurinoyu.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜休館（祝日は営業）"
+    },
+    {
+      "name": "大江戸温泉物語Premium 恵那峡",
+      "address": "岐阜県恵那市大井町2709-399",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/enakyo/",
+      "sources": [
+        "https://www.ooedoonsen.jp/enakyo/day_trip/",
+        "https://yado.knt.co.jp/st/S210123/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式。サウナは旅行サイトの大浴場写真説明で確認"
+    },
+    {
+      "name": "大江戸温泉物語Premium 下呂本館",
+      "address": "岐阜県下呂市幸田1605",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/gero-honkan/",
+      "sources": [
+        "https://www.ooedoonsen.jp/gero-honkan/day_trip/",
+        "https://travel.yahoo.co.jp/00900708/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式。サウナは旅行サイトの施設情報で確認"
+    },
+    {
+      "name": "大江戸温泉物語 下呂別館",
+      "address": "岐阜県下呂市湯之島535",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,200円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/gero-bekkan/",
+      "sources": [
+        "https://www.ooedoonsen.jp/gero-bekkan/day_trip/",
+        "https://4travel.jp/dm_hotel-10666490/tips"
+      ],
+      "confidence": "low",
+      "note": "料金は公式。サウナは口コミとニフティのみで確認"
+    },
+    {
+      "name": "クアリゾート湯舟沢",
+      "address": "岐阜県中津川市神坂280番地",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "ハイシーズン1,100円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://nakatsugawaonsen.com/",
+      "sources": [
+        "https://nakatsugawaonsen.com/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "美輝の里",
+      "address": "岐阜県下呂市馬瀬西村1695",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "19時以降700円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "その他"
+      ],
+      "saunaNote": "ドライ・ミスト・檜の箱むし",
+      "url": "http://www.mikinosato.co.jp/",
+      "sources": [
+        "http://www.mikinosato.co.jp/onsen.php"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "巌立峡 ひめしゃがの湯",
+      "address": "岐阜県下呂市小坂町落合1656",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "薪ペレットストーブのフィンランド式サウナ（ロウリュ）",
+      "url": "https://hime-spa.jp/",
+      "sources": [
+        "https://hime-spa.jp/"
+      ],
+      "confidence": "high",
+      "notice": "12〜3月は冬季営業時間",
+      "note": "8/1から950円に改定済み"
+    },
+    {
+      "name": "飛騨川温泉 しみずの湯",
+      "address": "岐阜県下呂市萩原町四美1426-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "風呂のみ（プール付き900円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.shimizunoyu.com/",
+      "sources": [
+        "https://www.shimizunoyu.com/guide/",
+        "https://www.shimizunoyu.com/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "幸乃湯",
+      "address": "岐阜県下呂市幸田1144",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 180,
+      "priceNote": "サウナ付き680円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://gero-sachinoyu.com/",
+      "sources": [
+        "https://gero-sachinoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎週火曜・第4月曜定休（11月は変更あり）",
+      "note": "下呂温泉の銭湯"
+    },
+    {
+      "name": "下呂温泉 ホテルくさかべアルメリア",
+      "address": "岐阜県下呂市幸田1811",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "最大2時間（12:00〜20:00、最終受付19:00）",
+      "saunaTypes": [],
+      "saunaNote": "日帰り客のサウナ利用は15時から",
+      "url": "http://www.armeria.co.jp/",
+      "sources": [
+        "http://www.armeria.co.jp/day_trip/",
+        "http://www.armeria.co.jp/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "リブマックスリゾート飛騨高山 臥龍の郷",
+      "address": "岐阜県高山市一之宮町5525",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "高山市民900円",
+      "saunaTypes": [],
+      "saunaNote": "サウナマックス（男女大浴場内）",
+      "url": "https://www.livemax-resort.com/gifu/hidatakayama/",
+      "sources": [
+        "https://www.livemax-resort.com/gifu/hidatakayama/daytrip/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ジョイフル朴の木 宿儺の湯",
+      "address": "岐阜県高山市丹生川町久手446-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "高山市民600円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://joyful-hoonoki.com/sukunano-yu/",
+      "sources": [
+        "https://joyful-hoonoki.com/sukunano-yu/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休館。11/25〜12/4はメンテナンスのため臨時休業"
+    },
+    {
+      "name": "高山グリーンホテル",
+      "address": "岐阜県高山市西之一色町2-180",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "昼11:00〜14:00、夕15:00〜22:00",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "本陣大浴殿の男女にドライサウナ（15時〜）",
+      "url": "https://www.takayama-gh.com/",
+      "sources": [
+        "https://www.takayama-gh.com/day/",
+        "https://www.takayama-gh.com/spa/"
+      ],
+      "confidence": "high",
+      "note": "昼の部は時間帯により利用浴場が異なる"
+    },
+    {
+      "name": "飛騨高山天然温泉 ひだまりの湯",
+      "address": "岐阜県高山市冬頭町417",
+      "weekdayAdult": 1150,
+      "holidayAdult": 1150,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://hidamarinoyu.jimdo.com/",
+      "sources": [
+        "https://onsen.nifty.com/hidatakayama-onsen/onsen007795/"
+      ],
+      "confidence": "low",
+      "note": "公式サイトに接続できず。ニフティは1,150円、別記事は1,500円〜で食い違い"
+    },
+    {
+      "name": "しぶきの湯 遊湯館",
+      "address": "岐阜県高山市国府町宇津江964",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み。高山市民620円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "遠赤外線サウナ（乾式）・塩サウナ（湿式）",
+      "url": "https://www.48taki.com/",
+      "sources": [
+        "https://www.48taki.com/service.html"
+      ],
+      "confidence": "high",
+      "notice": "木曜休館（祝日の場合は金曜）"
+    },
+    {
+      "name": "ぬく森の湯 すぱーふる",
+      "address": "岐阜県飛騨市古川町黒内1407",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://spafurukawa.com/",
+      "sources": [
+        "http://spafurukawa.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎週火・水曜休館"
+    },
+    {
+      "name": "流葉温泉 ニュートリノ",
+      "address": "岐阜県飛騨市神岡町伏方150",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内600円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://hida-nagareha.com/spa/",
+      "sources": [
+        "https://hida-nagareha.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "毎週火曜定休（スキー場営業期間中は無休）"
+    },
+    {
+      "name": "白川郷の湯",
+      "address": "岐阜県大野郡白川村荻町337",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯ドライ・女湯ミスト。平日は15時から",
+      "url": "http://www.shirakawagou-onsen.jp/",
+      "sources": [
+        "http://www.shirakawagou-onsen.jp/hotsprings.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "宮川温泉王国 おんり〜湯",
+      "address": "岐阜県飛騨市宮川町杉原116",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "入浴券（まんが図書館込みの共通券900円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.miyagawa.org/",
+      "sources": [
+        "https://onsen.nifty.com/hidatakayama-onsen/onsen002481/"
+      ],
+      "confidence": "medium",
+      "note": "飛騨まんが王国内。公式の温泉ページが取得できず料金はニフティ。大人は高校生以上"
+    },
+    {
+      "name": "美人の湯しろとり かみほの湯",
+      "address": "岐阜県郡上市白鳥町那留焼原32番地",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://kamihonoyu.jp/",
+      "sources": [
+        "https://kamihonoyu.jp/onsen.html"
+      ],
+      "confidence": "high",
+      "note": "2026/10/1改定後の価格"
+    },
+    {
+      "name": "天然温泉 満天の湯",
+      "address": "岐阜県郡上市白鳥町石徹白峠山1-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み。郡上市民650円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://winghills.net/bath/",
+      "sources": [
+        "https://winghills.net/bath/"
+      ],
+      "confidence": "high",
+      "notice": "9/1〜11/23は金土日祝のみ営業（11/3除く）",
+      "note": "ウイングヒルズ白鳥リゾート内"
+    },
+    {
+      "name": "恵那峡温泉ホテル ゆずり葉",
+      "address": "岐阜県恵那市大井町2709",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "17:00〜20:00（最終受付19:00）。12/31〜1/3は1,500円",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナ（男女入替制）",
+      "url": "https://www.ena-yuzuriha.com/",
+      "sources": [
+        "https://www.ena-yuzuriha.com/",
+        "https://www.ena-yuzuriha.com/hotspring/"
+      ],
+      "confidence": "high",
+      "note": "単純弱放射能冷鉱泉"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "六条温泉 喜多の湯",
+      "reason": "人工温泉"
+    },
+    {
+      "name": "アクアリゾート岐阜 ふじの湯",
+      "reason": "天然温泉ではない（ナノ水の浴槽）"
+    },
+    {
+      "name": "池田温泉 本館",
+      "reason": "臨時休業中（2027年4月に指定管理者交代予定、再開日未定）"
+    },
+    {
+      "name": "長良川温泉 十八楼",
+      "reason": "日帰り入浴はあるがサウナなし"
+    },
+    {
+      "name": "各務原温泉 恵みの湯",
+      "reason": "天然温泉の記載なし（天然水の浴槽）"
+    },
+    {
+      "name": "倉知温泉 マーゴの湯",
+      "reason": "公式に天然温泉・泉質の記載がなく確認できず"
+    },
+    {
+      "name": "里山の湯",
+      "reason": "天然温泉の記載なし"
+    },
+    {
+      "name": "八勝閣 みづのを",
+      "reason": "日帰り入浴（平日11:30〜14:00）時にサウナを使えるか確認できず"
+    },
+    {
+      "name": "了山",
+      "reason": "サウナは予約制のプライベートサウナのみ"
+    },
+    {
+      "name": "かすがモリモリ村 リフレッシュ館",
+      "reason": "薬草風呂で天然温泉の記載なし"
+    },
+    {
+      "name": "付知峡倉屋温泉 おんぽいの湯",
+      "reason": "現在サウナを使えるか公式で確認できず"
+    },
+    {
+      "name": "水明館",
+      "reason": "日帰り入浴でのサウナ利用を確認できず"
+    },
+    {
+      "name": "岩寿温泉旅館 岩寿荘",
+      "reason": "日帰りは個室利用プランのみ"
+    },
+    {
+      "name": "稲荷湯",
+      "reason": "天然水の銭湯で天然温泉ではない"
+    },
+    {
+      "name": "ゆぅわ〜くはうす",
+      "reason": "岩清水（地下水）の浴場で天然温泉の記載なし"
+    },
+    {
+      "name": "ひらゆの森",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "ヒルトン高山リゾート",
+      "reason": "日帰り入浴の料金・サウナを公式で確認できず"
+    },
+    {
+      "name": "牧歌の里 温泉牧華",
+      "reason": "冬季営業で基準日は休館中（12月中旬再開予定、日付未確定）"
+    },
+    {
+      "name": "天然 鷲ヶ岳温泉",
+      "reason": "現在は地下水のわかし湯営業"
+    },
+    {
+      "name": "やまと温泉 やすらぎ館",
+      "reason": "公式にサウナの記載なし"
+    },
+    {
+      "name": "うすずみ温泉 四季彩館",
+      "reason": "2023年3月から休業中（再開未定）"
+    },
+    {
+      "name": "下呂温泉 クアガーデン露天風呂",
+      "reason": "サウナなし（箱蒸しのみ）"
+    },
+    {
+      "name": "日本まん真ん中温泉 子宝の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "多治見トロン温泉 天の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 らいんの湯",
+      "reason": "閉店"
+    },
+    {
+      "name": "スーパー銭湯 ユートピア 芥見店",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "ニフティ温泉のサウナ付き施設一覧（124件）を起点に、公式・自治体サイトで確認。天然温泉の記載がない施設（スーパー銭湯の一部・天然水/地下水の浴場）とサウナを確認できないホテル旅館は除外。奥飛騨・下呂の旅館は日帰り入浴とサウナを両方確認できたものが少なく、取りこぼしの可能性あり。ゆせんの里・ひだまりの湯は料金に食い違いがありlow。"
+}

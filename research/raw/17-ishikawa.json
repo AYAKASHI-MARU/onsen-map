@@ -1,0 +1,1099 @@
+{
+  "prefecture": "石川県",
+  "prefCode": "17",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然温泉リラックスパーク テルメ金沢",
+      "address": "石川県金沢市松島町17",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "深夜料金あり（平日1,900円・土日祝2,200円）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温サウナ・低温サウナ。爆風ロウリュあり",
+      "url": "https://www.terume.net/",
+      "sources": [
+        "https://www.terume.net/price/",
+        "https://www.terume.net/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業（大浴場・サウナは6:00〜翌3:00）"
+    },
+    {
+      "name": "金城温泉元湯",
+      "address": "石川県金沢市赤土町ト100-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "サウナ利用は入浴料込み700円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://kinjo-onsen.jp/",
+      "sources": [
+        "https://kinjo-onsen.jp/guide.html",
+        "https://kinjo-onsen.jp/img/article/guide/charge_list_public_bath_202602.JPG"
+      ],
+      "confidence": "high",
+      "notice": "火曜休（祝日の場合は翌日）・元旦休"
+    },
+    {
+      "name": "大桑おんま温泉 楽ちんの湯",
+      "address": "石川県金沢市大桑2丁目115番地",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.rakuchinnoyu.com/",
+      "sources": [
+        "https://www.rakuchinnoyu.com/guide/",
+        "https://www.rakuchinnoyu.com/aboutspa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 金沢ゆめのゆ",
+      "address": "石川県金沢市藤江南3-26",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から平日1,000円・土日祝1,100円。深夜1時以降+1,100円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yumenoyu.net/kanazawa/",
+      "sources": [
+        "https://yumenoyu.net/kanazawa/information",
+        "https://yumenoyu.net/kanazawa/news/news/4892",
+        "https://yumenoyu.net/kanazawa/onsen"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業"
+    },
+    {
+      "name": "天然温泉 湯来楽 内灘店",
+      "address": "石川県河北郡内灘町字千鳥台4-2-1",
+      "weekdayAdult": 920,
+      "holidayAdult": 920,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "熱気風呂（ドライ）と漢方蒸気風呂",
+      "url": "https://yurara-uchinada.jp/",
+      "sources": [
+        "https://yurara-uchinada.jp/guide/",
+        "https://yurara-uchinada.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "6月・11月に各2日間休館"
+    },
+    {
+      "name": "極楽湯 金沢野々市店",
+      "address": "石川県野々市市若松町18-1",
+      "weekdayAdult": 860,
+      "holidayAdult": 960,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線タワーサウナ",
+      "url": "https://www.gokurakuyu.ne.jp/tempo/nonoichi/",
+      "sources": [
+        "https://onsen.nifty.com/kanazawa-onsen/onsen006883/",
+        "https://sauna-ikitai.com/ishikawa/野々市市"
+      ],
+      "confidence": "low",
+      "note": "公式サイトがメンテナンス停止中のためニフティで確認。2026/7のレポート本文とサウナイキタイは830円で食い違いあり"
+    },
+    {
+      "name": "有松温泉元湯 れもん湯",
+      "address": "石川県金沢市有松3丁目11-6",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性120〜130℃・女性100℃前後",
+      "url": "https://lemon-yu.com/",
+      "sources": [
+        "https://lemon-yu.com/",
+        "https://ishikawa1010.com/bath/9/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休（祝日の場合は翌日）",
+      "note": "組合サイトはサウナ150円だが公式は200円"
+    },
+    {
+      "name": "石引温泉 亀の湯",
+      "address": "石川県金沢市石引2丁目15番31号",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "蒸気サウナ（40℃）",
+      "url": "https://ishikawa1010.com/bath/21/",
+      "sources": [
+        "https://ishikawa1010.com/bath/21/",
+        "https://ishikawa1010.com/",
+        "https://sauna-ikitai.com/ishikawa/金沢市?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "月2回金曜休（不定）",
+      "note": "サウナ別料金の記載なし。サウナイキタイ一覧で500円〜のため0とした"
+    },
+    {
+      "name": "大和温泉",
+      "address": "石川県金沢市東山3丁目25番17号",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.instagram.com/yamato_onsen",
+      "sources": [
+        "https://ishikawa1010.com/bath/14/",
+        "https://ishikawa1010.com/",
+        "https://sauna-ikitai.com/ishikawa/金沢市?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "金曜休",
+      "note": "サウナ別料金の記載なし。サウナイキタイ一覧で500円〜のため0とした"
+    },
+    {
+      "name": "浅の川温泉 湯楽",
+      "address": "石川県金沢市東町ロ80番地",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": 0,
+      "priceNote": "平日8〜14時は早割460円",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.yuraku-onsen.jp/",
+      "sources": [
+        "https://www.yuraku-onsen.jp/price.html",
+        "https://www.yuraku-onsen.jp/yuraku.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "今江温泉元湯",
+      "address": "石川県小松市今江町7丁目205番地",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ishikawa1010.com/bath/26/",
+      "sources": [
+        "https://ishikawa1010.com/bath/26/",
+        "https://ishikawa1010.com/",
+        "https://sauna-ikitai.com/ishikawa/小松市"
+      ],
+      "confidence": "medium",
+      "notice": "火曜・第3水曜休",
+      "note": "サウナ別料金の記載なし。サウナイキタイ一覧で500円〜のため0とした"
+    },
+    {
+      "name": "ピュア涌泉寺",
+      "address": "石川県小松市中海町12-38",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.instagram.com/pyuayuusenzi21127/",
+      "sources": [
+        "https://ishikawa1010.com/bath/28/",
+        "https://ishikawa1010.com/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "千代野温泉",
+      "address": "石川県白山市米永町275番地1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ishikawa1010.com/bath/34/",
+      "sources": [
+        "https://ishikawa1010.com/bath/34/",
+        "https://ishikawa1010.com/"
+      ],
+      "confidence": "high",
+      "notice": "火・金曜休"
+    },
+    {
+      "name": "美川温泉元湯ほんだ",
+      "address": "石川県白山市長屋町イ111番地",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://p2222.nsk.ne.jp/mikawaonsen/",
+      "sources": [
+        "http://p2222.nsk.ne.jp/mikawaonsen/serviceindex1001.html",
+        "https://ishikawa1010.com/bath/33/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休（祝日は営業）"
+    },
+    {
+      "name": "美川温泉 安産の湯",
+      "address": "石川県白山市平加町ワ6番地2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yasumaru-onsen.jp/",
+      "sources": [
+        "https://ishikawa1010.com/bath/32/",
+        "https://ishikawa1010.com/",
+        "https://sauna-ikitai.com/ishikawa/白山市"
+      ],
+      "confidence": "medium",
+      "notice": "金曜休",
+      "note": "サウナ別料金の記載なし。サウナイキタイ一覧で500円〜のため0とした"
+    },
+    {
+      "name": "天然温泉 アパスパ金沢中央",
+      "address": "石川県金沢市片町1-5-24",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "1日料金",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.apahotel.com/hotel/hokuriku/ishikawa/kanazawa-chuou/",
+      "sources": [
+        "https://onsen.nifty.com/kanazawa-onsen/onsen001996/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは取得不可（403）。ニフティで確認"
+    },
+    {
+      "name": "源泉掛け流し しあわせの湯",
+      "address": "石川県野々市市横宮町6-3",
+      "weekdayAdult": 780,
+      "holidayAdult": 780,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "黄土サウナ（薬草蒸気）・冷凍サウナ",
+      "url": "http://shiawasenoyu.co.jp/",
+      "sources": [
+        "http://shiawasenoyu.co.jp/eigyou.html",
+        "http://shiawasenoyu.co.jp/ofuro.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3木曜休"
+    },
+    {
+      "name": "松任海浜温泉 おつかりさま",
+      "address": "石川県白山市徳光町2665-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://hakusan-spa2.com/",
+      "sources": [
+        "https://hakusan-spa2.com/?page_id=37",
+        "https://hakusan-spa2.com/?page_id=33"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3木曜休"
+    },
+    {
+      "name": "バードハミング鳥越（弘法の湯）",
+      "address": "石川県白山市上野町ヤ74",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://hakusan-spa2.com/?page_id=18",
+      "sources": [
+        "https://hakusan-spa2.com/?page_id=18",
+        "https://onsen.nifty.com/hakusanshuuhen-onsen/onsen001884/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "はくさん比咩の湯温泉 比咩の湯",
+      "address": "石川県白山市瀬戸辰3-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは「山の湯」のみ（男女日替わり）",
+      "url": "https://www.himenoyu.jp/",
+      "sources": [
+        "https://www.himenoyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "木曜休（祝日は営業）"
+    },
+    {
+      "name": "川北町ふれあい健康センター（ふれあいの湯）",
+      "address": "石川県能美郡川北町字壱ッ屋100",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.town.kawakita.ishikawa.jp/seikatsu2/fureai.html",
+      "sources": [
+        "https://www.town.kawakita.ishikawa.jp/seikatsu2/fureai.html"
+      ],
+      "confidence": "high",
+      "notice": "火曜休・年末年始休"
+    },
+    {
+      "name": "辰口温泉 総湯 里山の湯",
+      "address": "石川県能美市辰口町ヌ3番地1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.city.nomi.ishikawa.jp/www/contents/1001000000790/index.html",
+      "sources": [
+        "https://www.city.nomi.ishikawa.jp/www/contents/1001000000790/index.html"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4水曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "里山健康学校 せせらぎの郷",
+      "address": "石川県小松市瀬領町丁1-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.k-seseragi.com/",
+      "sources": [
+        "https://www.k-seseragi.com/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "ぽかぽからんど 泉龍温泉",
+      "address": "石川県小松市平面町ヘ34-1",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": 200,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.komatsuguide.jp/feature/detail_106.html",
+      "sources": [
+        "https://onsen.nifty.com/komatsu-onsen/onsen007611/",
+        "https://sauna-ikitai.com/ishikawa/小松市"
+      ],
+      "confidence": "medium",
+      "note": "公式相当ページ取得不可（503）。ニフティ490円+サウナ200円、サウナイキタイ690円〜で整合"
+    },
+    {
+      "name": "別所温泉会館",
+      "address": "石川県加賀市別所町1-91",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.tabimati.net/spot/detail_164.html",
+      "sources": [
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen006672/"
+      ],
+      "confidence": "medium",
+      "notice": "年末年始休",
+      "note": "観光協会ページ取得不可（503）。サウナイキタイ一覧は490円〜で食い違い"
+    },
+    {
+      "name": "和倉温泉 総湯",
+      "address": "石川県七尾市和倉町ワ6-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.wakura.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/notohantou-onsen/onsen001887/",
+        "https://rurubu.jp/andmore/spot/80074622",
+        "https://sauna-ikitai.com/ishikawa/七尾市"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金記載なし。定休日はニフティ（毎月25日）とるるぶ（第4木曜）で食い違い"
+    },
+    {
+      "name": "天然温泉 ほっとらんどNANAO",
+      "address": "石川県七尾市旭町イ部24-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "基本コース（タオル・館内着付）。お風呂3時間コース800円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式。水・土・日にロウリュ",
+      "url": "https://www.hotland-n.com/",
+      "sources": [
+        "https://www.hotland-n.com/charge/",
+        "https://www.hotland-n.com/",
+        "https://onsen.nifty.com/notohantou-onsen/onsen001921/"
+      ],
+      "confidence": "high",
+      "notice": "時短営業中（10:00〜22:00）・木曜休"
+    },
+    {
+      "name": "ひょっこり温泉 島の湯",
+      "address": "石川県七尾市能登島佐波町ラ部29-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "http://user.notojima.jp/shimanoyu/top.html",
+      "sources": [
+        "http://user.notojima.jp/shimanoyu/shisetsu.html"
+      ],
+      "confidence": "high",
+      "notice": "金曜休"
+    },
+    {
+      "name": "なかじま猿田彦温泉 いやしの湯",
+      "address": "石川県七尾市中島町小牧ヨ部116",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.nanao-iyashinoyu.com/",
+      "sources": [
+        "https://www.nanao-iyashinoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休・12/31〜1/2休"
+    },
+    {
+      "name": "健康増進センター アスロン",
+      "address": "石川県七尾市高田町ち部10番地",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "温浴ゾーン料金（プールセット1,000円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.nanao-athlon.com/",
+      "sources": [
+        "https://www.nanao-athlon.com/price.html",
+        "https://www.nanao-athlon.com/facility.html"
+      ],
+      "confidence": "high",
+      "notice": "水曜休（祝日の場合は翌日）・12/31〜1/1休"
+    },
+    {
+      "name": "ユーフォリア千里浜",
+      "address": "石川県羽咋市千里浜町タ1番地67",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "http://www.hakui.ne.jp/euphoria/",
+      "sources": [
+        "http://www.hakui.ne.jp/euphoria/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休・1/1休"
+    },
+    {
+      "name": "千里浜なぎさ温泉 里湯ちりはま",
+      "address": "石川県羽咋郡宝達志水町今浜北93",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.hodatsushimizu.jp/kanko/kanko/2/1462.html",
+      "sources": [
+        "https://www.hodatsushimizu.jp/kanko/kanko/2/1462.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休"
+    },
+    {
+      "name": "アクアパーク シ・オン",
+      "address": "石川県羽咋郡志賀町末吉新保向22-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "温泉のみ（温泉＆プール1,000円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "http://www.shi-on.jp/",
+      "sources": [
+        "http://www.shi-on.jp/how_to",
+        "http://www.shi-on.jp/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "とぎ温泉 ますほの湯（志賀町とぎ地域福祉センター）",
+      "address": "石川県羽咋郡志賀町酒見河原1-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://onsen.nifty.com/notohantou-onsen/onsen001888/",
+      "sources": [
+        "https://onsen.nifty.com/notohantou-onsen/onsen001888/",
+        "https://sauna-ikitai.com/ishikawa/志賀町"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休",
+      "note": "公式ページ未発見。料金はニフティ（12〜64歳450円）とサウナイキタイ（450円〜）で一致"
+    },
+    {
+      "name": "ホテルウェルネス能登路（やわらぎ温泉）",
+      "address": "石川県羽咋郡宝達志水町敷浪5号48-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://hmihotelgroup.com/hotelwellness-notoji/",
+      "sources": [
+        "https://hmihotelgroup.com/hotelwellness-notoji/higaeri/index.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴11:00〜21:00（金曜は15:00から）"
+    },
+    {
+      "name": "シーサイドヴィラ渤海（渤海温泉）",
+      "address": "石川県羽咋郡志賀町富来領家町甲の59",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "露天・内湯の両方から出入りできるサウナ",
+      "url": "http://www.bokkai.jp/",
+      "sources": [
+        "http://www.bokkai.jp/facility",
+        "http://www.bokkai.jp/"
+      ],
+      "confidence": "high",
+      "notice": "15:00〜23:00・年中無休。露天風呂は12〜3月休"
+    },
+    {
+      "name": "辰口温泉 たがわ龍泉閣",
+      "address": "石川県能美市辰口町20番地",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "タオル・バスタオル付。タオル持参時1,500円",
+      "saunaTypes": [],
+      "saunaNote": "サウナ付大浴場「天狗浴殿」",
+      "url": "https://www.ryusenkaku.com/",
+      "sources": [
+        "https://www.walkerplus.com/spot/ar0517s82061/price.html",
+        "https://www.walkerplus.com/spot/ar0517s82061/data.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 15:00〜22:00（最終受付21:00）",
+      "note": "公式に日帰り料金の記載なし。ウォーカープラス（2026年8月時点）で確認"
+    },
+    {
+      "name": "ねぶた温泉 海游 能登の庄",
+      "address": "石川県輪島市大野町鶴ヶ池72番地",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.notonosho.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/nebuta-onsen/onsen001967/",
+        "https://news.allabout.co.jp/articles/o/123802/?page=2",
+        "https://www.notonosho.co.jp/"
+      ],
+      "confidence": "low",
+      "notice": "日帰り入浴 12:00〜21:00（団体宿泊等で不可の日あり）",
+      "note": "2024/7に日帰り入浴再開（公式）。料金はニフティ・AllAbout(2026/7)で800円だがサウナイキタイは700円〜、公式の食事プランでは入浴別途700円と記載"
+    },
+    {
+      "name": "天然温泉 加賀ゆめのゆ",
+      "address": "石川県加賀市箱宮町ル1",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "タワーサウナ",
+      "url": "https://yumenoyu.net/kaga/",
+      "sources": [
+        "https://yumenoyu.net/kaga/",
+        "https://yumenoyu.net/kaga/images/top/price2604.png",
+        "https://yumenoyu.net/kaga/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ゆのくに天祥",
+      "address": "石川県加賀市山代温泉19-49-1",
+      "weekdayAdult": null,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "日帰り入浴は土日祝のみ（GWは1,800円）",
+      "saunaTypes": [],
+      "saunaNote": "悠幻の湯殿・九谷の湯処にサウナ",
+      "url": "https://yunokunitensyo.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen001937/",
+        "https://yunokunitensyo.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は土・日・祝のみ（夏季・年末年始除く）11:00〜14:30",
+      "note": "公式は営業日のみ確認。料金はニフティ"
+    },
+    {
+      "name": "ホテルアローレ（加賀の湯）",
+      "address": "石川県加賀市柴山町と5-1",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2200,
+      "saunaFee": 0,
+      "priceNote": "日帰りはアクティビティパスポート（温泉・館内アクティビティ・1ドリンク込み）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "スパゾーンのフィンランドサウナ・スチームサウナ（平日17〜21時）",
+      "url": "https://www.arrowle.co.jp/",
+      "sources": [
+        "https://www.arrowle.co.jp/onedaytrip/",
+        "https://www.arrowle.co.jp/facilities/spa/"
+      ],
+      "confidence": "high",
+      "note": "2026/10/1から日帰りプランをアクティビティパスポートに一本化"
+    },
+    {
+      "name": "大江戸温泉物語 ながやま",
+      "address": "石川県加賀市片山津町ム16",
+      "weekdayAdult": 1020,
+      "holidayAdult": 1020,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,220円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.ooedoonsen.jp/nagayama/",
+      "sources": [
+        "https://www.ooedoonsen.jp/nagayama/day_trip/",
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen001957/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 7:00〜10:00・15:00〜24:00",
+      "note": "料金は公式。サウナ有無はニフティ・サウナイキタイで確認"
+    },
+    {
+      "name": "大江戸温泉物語Premium よしのや依緑園",
+      "address": "石川県加賀市山中温泉南町二の5",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。サウナ専用エリアTOTONOI込みの手ぶらプランは平日2,500円・土日祝3,500円",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "日帰り入浴は地下1階大浴場（ミストサウナ）のみ",
+      "url": "https://www.ooedoonsen.jp/yoshinoyairokuen/",
+      "sources": [
+        "https://www.ooedoonsen.jp/yoshinoyairokuen/day_trip/",
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen009594/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 7:00〜10:00・15:00〜24:00",
+      "note": "大浴場のミストサウナはニフティ記載"
+    },
+    {
+      "name": "大江戸温泉物語Premium 山下家",
+      "address": "石川県加賀市山代温泉18-124",
+      "weekdayAdult": 1240,
+      "holidayAdult": 1790,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,990円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "日帰りは4階大浴場のみ。サウナの種類は未確認",
+      "url": "https://www.ooedoonsen.jp/yamashitaya/",
+      "sources": [
+        "https://www.ooedoonsen.jp/yamashitaya/day_trip/",
+        "https://sauna-ikitai.com/ishikawa/加賀市"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 7:00〜10:00・15:00〜24:00",
+      "note": "料金は公式。サウナ有無はサウナイキタイで確認"
+    },
+    {
+      "name": "大江戸温泉物語Premium 山中グランドホテル",
+      "address": "石川県加賀市山中温泉上野町ルの15-4",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.ooedoonsen.jp/yamanaka-gh/",
+      "sources": [
+        "https://www.ooedoonsen.jp/yamanaka-gh/day_trip/",
+        "https://sauna-ikitai.com/ishikawa/加賀市"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 7:00〜10:00・15:00〜24:00",
+      "note": "料金は公式。サウナ有無はサウナイキタイで確認"
+    },
+    {
+      "name": "大江戸温泉物語 山代彩朝楽",
+      "address": "石川県加賀市山代温泉桔梗ヶ丘2-10-3",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,200円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.ooedoonsen.jp/yamashiro-saichoraku/",
+      "sources": [
+        "https://www.ooedoonsen.jp/yamashiro-saichoraku/day_trip/",
+        "https://sauna-ikitai.com/ishikawa/加賀市"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 7:00〜10:00・15:00〜24:00",
+      "note": "料金は公式。サウナ有無はサウナイキタイで確認"
+    },
+    {
+      "name": "大江戸温泉物語Premium 加賀まるや",
+      "address": "石川県加賀市片山津温泉ア2-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.ooedoonsen.jp/kagamaruya/",
+      "sources": [
+        "https://www.ooedoonsen.jp/kagamaruya/day_trip/",
+        "https://sauna-ikitai.com/ishikawa/加賀市"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 7:00〜10:00・15:00〜24:00",
+      "note": "料金は公式。サウナ有無はサウナイキタイで確認"
+    },
+    {
+      "name": "リブマックスリゾート加賀山代",
+      "address": "石川県加賀市山代温泉温泉通32-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "タオルセット付。タオルなし1,200円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://www.livemax-resort.com/ishikawa/kagayamashiro/",
+      "sources": [
+        "https://www.livemax-resort.com/ishikawa/kagayamashiro/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴 8:00〜11:00・13:00〜24:00"
+    },
+    {
+      "name": "アパホテル＆リゾート 加賀片山津温泉・佳水郷",
+      "address": "石川県加賀市潮津町イ72-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "タオル付",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.apahotel.com/resort/kasuikyo/",
+      "sources": [
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen011076/",
+        "https://sauna-ikitai.com/ishikawa/加賀市"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 14:00〜22:00（退館）",
+      "note": "公式サイト取得不可（403）。ニフティで確認"
+    },
+    {
+      "name": "吉田屋山王閣",
+      "address": "石川県加賀市山代温泉13-1",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "日帰り「サウナ＆入浴」2時間30分（ネット事前予約制）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "1階・3階にサウナ（朝夕で男女交代）",
+      "url": "https://www.sannoukaku.com/",
+      "sources": [
+        "https://www.sannoukaku.com/onsen_day/",
+        "https://www.sannoukaku.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りはネット事前予約制（14:00〜22:30）"
+    },
+    {
+      "name": "山中温泉 湯畑の宿 花つばき",
+      "address": "石川県加賀市山中温泉栢野町ハ36",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "タオル付。現金のみ",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "https://www.hanatsubaki-kaga.co.jp/japanese/",
+      "sources": [
+        "https://www.hanatsubaki-kaga.co.jp/japanese/onsen.html",
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen001970/",
+        "https://sauna-ikitai.com/ishikawa/加賀市?page=3"
+      ],
+      "confidence": "medium",
+      "notice": "立ち寄り湯 15:00〜20:00",
+      "note": "料金・時間は公式。サウナ有無は公式に記載なくポータルで確認"
+    },
+    {
+      "name": "湯の宿 白山菖蒲亭",
+      "address": "石川県加賀市山代温泉桔梗ヶ丘4-34-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナの種類は未確認",
+      "url": "http://www.shoubutei.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kagashuuhen-onsen/onsen005125/",
+        "https://sauna-ikitai.com/ishikawa/加賀市?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 15:00〜18:00",
+      "note": "公式に日帰り料金の記載なし。ニフティとサウナイキタイ（1,500円〜）で一致"
+    },
+    {
+      "name": "満天ノ 辻のや",
+      "address": "石川県小松市湯上町い18",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "タオル貸出付。タオル不要時1,200円",
+      "saunaTypes": [],
+      "saunaNote": "サウナ・水風呂・外気浴",
+      "url": "https://www.mantenno.com/",
+      "sources": [
+        "https://www.mantenno.com/daytrip",
+        "https://www.mantenno.com/spa"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴13:00〜20:00（最終入館19:00）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "湯けむり屋敷 和おんの湯（金沢市）",
+      "reason": "泉質は高濃度炭酸泉で天然温泉の記載なし（人工）"
+    },
+    {
+      "name": "満天の湯 金沢店",
+      "reason": "主浴槽は光明石温泉（人工温泉）で天然温泉なし"
+    },
+    {
+      "name": "満天の湯・道の宿 白山インター店（野々市市）",
+      "reason": "主浴槽は光明石温泉（人工温泉）で天然温泉なし"
+    },
+    {
+      "name": "兼六温泉（金沢市）",
+      "reason": "サウナ（男湯のみ）が4/27から当面中止（組合サイト）"
+    },
+    {
+      "name": "金沢温泉 金石荘",
+      "reason": "組合情報でサウナ設備なし"
+    },
+    {
+      "name": "アパスパ金沢駅前（アパホテル金沢駅前）",
+      "reason": "泉質が沸かし湯で天然温泉ではない"
+    },
+    {
+      "name": "アパスパ小松（アパホテル小松グランド）",
+      "reason": "光明石の人工温泉。2026/2/1から大浴場・サウナ休止（改装休業）"
+    },
+    {
+      "name": "KKRホテル金沢",
+      "reason": "温泉大浴場・サウナは宿泊者限定（日帰り入浴なし）"
+    },
+    {
+      "name": "白山癒しの湯 天領",
+      "reason": "休館中"
+    },
+    {
+      "name": "トリフィート ホテル&ポッド 金沢百万石通",
+      "reason": "天然温泉の記載なし・日帰り料金なし"
+    },
+    {
+      "name": "お花見久兵衛（山中温泉）",
+      "reason": "日帰り客が使えるサウナは貸切有料のプライベートサウナのみ"
+    },
+    {
+      "name": "和倉温泉 加賀屋",
+      "reason": "休業中（能登半島地震）"
+    },
+    {
+      "name": "和倉温泉 あえの風",
+      "reason": "休業中（能登半島地震）"
+    },
+    {
+      "name": "和倉温泉 多田屋",
+      "reason": "休館中（能登半島地震）"
+    },
+    {
+      "name": "和倉温泉 虹と海",
+      "reason": "休業中"
+    },
+    {
+      "name": "輪島温泉 ホテルこうしゅうえん",
+      "reason": "休業中"
+    },
+    {
+      "name": "能登七見健康福祉の郷 なごみ（能登町）",
+      "reason": "休業中"
+    },
+    {
+      "name": "梅の湯（金沢市）",
+      "reason": "休館中"
+    },
+    {
+      "name": "加賀観光ホテル",
+      "reason": "休業中"
+    },
+    {
+      "name": "縄文真脇温泉浴場（能登町）",
+      "reason": "閉館"
+    },
+    {
+      "name": "珠洲鉢ケ崎温泉 元気の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "みろく温泉元湯（金沢市）",
+      "reason": "閉館"
+    },
+    {
+      "name": "志乎・桜の里温泉 古墳の湯（宝達志水町）",
+      "reason": "閉館"
+    },
+    {
+      "name": "ホテルフォレストイン金沢 天空の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "うさみ温泉（小松市）",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉コロナの湯 金沢店",
+      "reason": "閉館"
+    },
+    {
+      "name": "NONOICHI温泉 美人の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "オータム天然温泉しあわせの湯II（金沢市）",
+      "reason": "閉館"
+    },
+    {
+      "name": "かんぽの郷 白山尾口",
+      "reason": "閉館"
+    },
+    {
+      "name": "山中温泉 白雲閣",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "石川県全域を調査。銭湯は県統制料金（大人500円・高校生以上）を組合サイト（ishikawa1010.com）で確認し、温泉・サウナの有無も組合データで判定。閉館・休業の多くはニフティ温泉の表示による。料金未確認のため未収録：白峰温泉総湯（2026年10月に料金改定・金額は画像で未確認）、いきいきランドかが、いこいの村能登半島、休暇村能登千里浜、国民宿舎能登小牧台、のとじ荘、能登うしつ荘、ラブロ恋路、健康ハウス憩、ジョイアクロス（温泉か未確認）。加賀温泉郷の旅館（加賀百万石・雄山閣・季がさね・萬松閣・ダイヤモンド片山津・セレクトグランド加賀山中・森の栖など）や金沢市内ホテル（マンテン駅前・BENJAMIN・スクエア等）は日帰り料金や天然温泉かを確認できず未収録。金沢市は1,000円超の入浴に入湯税100円が課税されるが各施設の料金表に内訳記載なし。サウナの種類は公式に記載のないものを空欄にした。"
+}

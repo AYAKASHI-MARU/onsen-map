@@ -1,0 +1,1852 @@
+{
+  "prefecture": "青森県",
+  "prefCode": "02",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "せせらぎ温泉",
+      "address": "青森県弘前市大字原ケ平字奥野5-5",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "早朝5-8時450円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://seseragionsen.hotstyle.jp/",
+      "sources": [
+        "https://seseragionsen.hotstyle.jp/price/"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "やすらぎ温泉",
+      "address": "青森県弘前市大字石渡字大保55-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "早朝5-8時450円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yasuragionsen.hotstyle.jp/",
+      "sources": [
+        "https://yasuragionsen.hotstyle.jp/price/"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "極楽湯 八戸店",
+      "address": "青森県八戸市沼館4-7-108",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://hachinohe.gokurakuyu.jp/",
+      "sources": [
+        "https://hachinohe.gokurakuyu.jp/guide/",
+        "https://onsen.nifty.com/hachinohe-onsen/onsen009390/"
+      ],
+      "confidence": "high",
+      "notice": "ショッピングモール「ピアドゥ」内"
+    },
+    {
+      "name": "極楽湯 青森店",
+      "address": "青森県青森市東大野2-4-21",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.gokurakuyu.ne.jp/tempo/aomori/",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen007323/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトはメンテナンス停止中のためニフティ温泉で確認"
+    },
+    {
+      "name": "黄金崎不老ふ死温泉",
+      "address": "青森県西津軽郡深浦町大字舮作字下清滝15",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "新館「不老ふ死の湯」（日帰り10:30〜14:00）",
+      "url": "https://www.furofushi.com/",
+      "sources": [
+        "https://www.furofushi.com/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "海辺の露天風呂は悪天候時利用不可。刺青不可"
+    },
+    {
+      "name": "青森まちなかおんせん",
+      "address": "青森県青森市古川1-10-9-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大型サウナ",
+      "url": "https://aomori.atinnhotels.com/onsen.html",
+      "sources": [
+        "https://aomori.atinnhotels.com/onsen"
+      ],
+      "confidence": "high",
+      "note": "青森センターホテル併設"
+    },
+    {
+      "name": "ホテルポニー温泉",
+      "address": "青森県十和田市大字三本木字佐井幅167-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "大浴場（サウナ付）料金。露天風呂（内湯付・別棟）は700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.pony-onsen.com/",
+      "sources": [
+        "https://www.pony-onsen.com/daytrip/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ホテルグランメール山海荘",
+      "address": "青森県西津軽郡鰺ヶ沢町大字舞戸町字鳴戸1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "タオルセット付。朝入浴（8-10時）530円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.hotel-grandmer.com/",
+      "sources": [
+        "https://www.hotel-grandmer.com/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り15:00〜21:00。水・木曜休みの週あり。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "むつグランドホテル 斗南温泉 美人の湯",
+      "address": "青森県むつ市大字田名部字下道4",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.mghotel.jp/",
+      "sources": [
+        "http://www.mghotel.jp/onsen/higaeri/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "HOTEL Jogakura（ホテル城ヶ倉）",
+      "address": "青森県青森市大字荒川字八甲田山中",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.jogakura.com/",
+      "sources": [
+        "https://www.jogakura.com/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り11:30〜15:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "住所番地は要確認（公式は荒川八甲田山中）"
+    },
+    {
+      "name": "ブナの里 白神館",
+      "address": "青森県中津軽郡西目屋村大字田代字神田60-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ12:00〜21:00・人数制限あり",
+      "url": "https://www.shirakamikan.com/",
+      "sources": [
+        "https://www.shirakamikan.com/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り9:00〜21:00。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "鰺ヶ沢温泉 水軍の宿",
+      "address": "青森県西津軽郡鰺ヶ沢町大字舞戸町字下富田26-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ8:00〜21:00（日帰り可）",
+      "url": "https://www.suigunnoyado.com/",
+      "sources": [
+        "https://www.suigunnoyado.com/blog/archives/1608",
+        "https://www.suigunnoyado.com/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "鰐come 鰐の湯",
+      "address": "青森県南津軽郡大鰐町大字大鰐字川辺11-11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "町民400円",
+      "saunaTypes": [],
+      "saunaNote": "低温のアルパインサウナ",
+      "url": "http://www.wanicome.com/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen006282/"
+      ],
+      "confidence": "medium",
+      "notice": "第3木曜休み。大浴場は男女日替わり"
+    },
+    {
+      "name": "天然温泉 かっぱのゆ",
+      "address": "青森県青森市大字横内字神田95-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "早朝5-10時460円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://twitter.com/aomorikappanoyu",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen008295/",
+        "https://www.supersento.com/hokaidotohoku/aomori/kappa.html",
+        "https://yuru-to.net/detail.php?oid=3166"
+      ],
+      "confidence": "medium",
+      "note": "公式（X）は確認できず。2026/6/5更新のポータルで530円"
+    },
+    {
+      "name": "城東温泉 岩木天望の湯",
+      "address": "青森県弘前市城東北3-10-1",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ（女性は岩盤浴）",
+      "url": "https://iwakitenbonoyu.stylefit.jp/",
+      "sources": [
+        "https://iwakitenbonoyu.stylefit.jp/"
+      ],
+      "confidence": "high",
+      "notice": "さくら野百貨店弘前店4階。不定休"
+    },
+    {
+      "name": "大間温泉海峡保養センター",
+      "address": "青森県下北郡大間町大字大間字内山48-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.omaonsen.com/",
+      "sources": [
+        "https://www.omaonsen.com/",
+        "https://onsen.nifty.com/shimokita-onsen/onsen000300/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ほっとプラザ杉の子温泉",
+      "address": "青森県上北郡七戸町字中岫長沢下5-18",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "塩サウナもあり（ポータル情報）",
+      "url": "https://suginokoonsen.com/",
+      "sources": [
+        "https://onsen.nifty.com/misawa-onsen/onsen005689/",
+        "https://suginokoonsen.com/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "三沢空港温泉",
+      "address": "青森県三沢市東岡三沢1-83-90",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.instagram.com/misawa_airport_onsen/",
+      "sources": [
+        "https://onsen.nifty.com/misawa-onsen/onsen007565/",
+        "https://www.supersento.com/hokaidotohoku/aomori/misawa.html",
+        "https://yuru-to.net/detail.php?oid=3195"
+      ],
+      "confidence": "medium",
+      "notice": "メンテナンス休業あり",
+      "note": "2026/8/1の口コミに「組合で値上げしたばかりだが未だに450円」、6/3の口コミも450円。ポータル（ゆる〜と・サウナイキタイ）も450円"
+    },
+    {
+      "name": "花咲温泉",
+      "address": "青森県弘前市大字津賀野字浅田987-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.hanasaki-onsen.com/",
+      "sources": [
+        "https://www.hanasaki-onsen.com/service"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "宝温泉黒石",
+      "address": "青森県黒石市大字浅瀬石字村上311-1",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男湯のみ",
+      "url": "http://www.takara-onsen.com",
+      "sources": [
+        "https://onsen.nifty.com/kuroishi-onsen/onsen009990/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "つくだ温泉 ゆーぽっぽ",
+      "address": "青森県青森市南佃2-3-20",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://yu-poppo.net/",
+      "sources": [
+        "http://yu-poppo.net/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "紅葉の湯",
+      "address": "青森県十和田市大字三本木字千歳森391-4",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.momijinoyu2015.com/",
+      "sources": [
+        "https://www.momijinoyu2015.com/",
+        "https://onsen.nifty.com/towada-onsen/onsen011852/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "天間林温泉",
+      "address": "青森県上北郡七戸町字森ケ沢211-3",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "2025/11時点の料金（口コミ）。2026/6以降は未確認",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/misawa-onsen/onsen009385/",
+        "https://yuru-to.net/detail.php?oid=3174"
+      ],
+      "confidence": "low",
+      "note": "ゆる〜との330円は古い（2024年）。2025/11/23の口コミで大人400円"
+    },
+    {
+      "name": "あすなろ温泉",
+      "address": "青森県青森市大字牛館字松枝6-3",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://takashige-group.jp/asunaro/",
+      "sources": [
+        "https://www.atca.info/spot/spot-2204/",
+        "https://takashige-group.jp/asunaro/"
+      ],
+      "confidence": "high",
+      "note": "公式で青森市牛館と確認（七戸町の住所はニフティ温泉の誤り）。2026/6/1から530円"
+    },
+    {
+      "name": "熊ノ沢温泉",
+      "address": "青森県八戸市大字尻内町字熊ノ沢34-251",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://kumanosawaonsen.com/",
+      "sources": [
+        "http://kumanosawaonsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "点検のため年2〜3日休み"
+    },
+    {
+      "name": "しゃこちゃん温泉",
+      "address": "青森県つがる市木造若緑52",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tsugarushi-shakyo.net/onsenshisetsu.html",
+      "sources": [
+        "https://tsugarushi-shakyo.net/onsenshisetsu.html"
+      ],
+      "confidence": "medium",
+      "notice": "第2・第4火曜休み",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "エルムの湯",
+      "address": "青森県五所川原市大字唐笠柳字藤巻509-17",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://elmnoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/goshogawara-onsen/onsen011365/",
+        "https://yuru-to.net/detail.php?oid=3155"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトに料金掲載なし。ポータル（ゆる〜と）で530円（2026/5時点は480円）"
+    },
+    {
+      "name": "津軽おのえ温泉 日帰り宿 福家",
+      "address": "青森県平川市新屋町道ノ下35-2",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "priceNote": "入浴のみ。2026/6/1の県統制額改定（530円）後の料金は未確認",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://www.fukuya-spa.com/",
+      "sources": [
+        "https://onsen.nifty.com/kuroishi-onsen/onsen010163/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "name": "石神温泉",
+      "address": "青森県むつ市大字北関根字ノ内袖角地342-33",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://simokita.org/onsen/isigami/",
+      "sources": [
+        "https://onsen.nifty.com/mutsu-onsen/onsen007903/",
+        "https://yuru-to.net/detail.php?oid=1863"
+      ],
+      "confidence": "medium",
+      "note": "ポータル（ゆる〜と）で530円。番地はゆる〜とでは342-61だが、ニフティ温泉・下北ナビの342-33を採用"
+    },
+    {
+      "name": "天然温泉 まつのゆ",
+      "address": "青森県上北郡東北町上北北1-32-49",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.town.tohoku.lg.jp/kankou/onsen.html",
+      "sources": [
+        "https://www.town.tohoku.lg.jp/kankou/onsen.html"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "上北さくら温泉",
+      "address": "青森県上北郡東北町上北南4-32-487",
+      "weekdayAdult": 390,
+      "holidayAdult": 390,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.sakuraonsen.com/",
+      "sources": [
+        "https://www.town.tohoku.lg.jp/kankou/onsen.html",
+        "https://yuru-to.net/detail.php?oid=3179"
+      ],
+      "confidence": "medium",
+      "note": "2026/6/28の口コミで390円、ゆる〜とも390円。町ページの360円は古い"
+    },
+    {
+      "name": "大坊温泉 大坊保養センター",
+      "address": "青森県平川市大坊字前田80-3",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "朝風呂5:30-8:00は400円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://daibou-onsen.com/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen007293/"
+      ],
+      "confidence": "medium",
+      "notice": "毎週月曜9-12時は清掃"
+    },
+    {
+      "name": "御所温泉",
+      "address": "青森県弘前市大字五所字野沢41-1",
+      "weekdayAdult": 310,
+      "holidayAdult": 310,
+      "saunaFee": 0,
+      "priceNote": "12〜64歳。65歳以上210円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.city.hirosaki.aomori.jp/gaiyou/shisetsu/soumatyousya.html",
+      "sources": [
+        "http://www.city.hirosaki.aomori.jp/gaiyou/shisetsu/soumatyousya.html"
+      ],
+      "confidence": "medium",
+      "notice": "水曜休み",
+      "note": "相馬やすらぎ館併設。サウナはポータル情報"
+    },
+    {
+      "name": "板柳町ふるさとセンター 青柳館",
+      "address": "青森県北津軽郡板柳町大字福野田字本泉34-6",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.furusato-center.com/spa/",
+      "sources": [
+        "https://www.furusato-center.com/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "おおびらき温泉",
+      "address": "青森県弘前市大開2-9",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "早朝450円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://takashige-group.jp/oobiraki/",
+      "sources": [
+        "https://takashige-group.jp/oobiraki/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "スパハウス ろっかぽっか",
+      "address": "青森県上北郡六ヶ所村大字鷹架字内子内337",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "一般・中学生以上（村民500円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温・低温のドライサウナ（低温は男女入替制）",
+      "url": "https://roccapocca.com/",
+      "sources": [
+        "https://onsen.nifty.com/misawa-onsen/onsen008194/",
+        "https://roccapocca.com/price-plan/",
+        "https://roccapocca.com/equipment/"
+      ],
+      "confidence": "high",
+      "notice": "臨時休館日あり（公式サイト参照）"
+    },
+    {
+      "name": "こやなぎ温泉",
+      "address": "青森県青森市小柳4-1-13",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.atca.info/spot/spot-2039/",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen007757/",
+        "https://yuru-to.net/detail.php?oid=3144"
+      ],
+      "confidence": "medium",
+      "note": "ポータル（ゆる〜と）530円、2026/6/29の口コミでも入浴料530円"
+    },
+    {
+      "name": "さかた温泉",
+      "address": "青森県上北郡七戸町字東上川原20-20",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://aomori-tourism.com/spot/detail_2883.html",
+      "sources": [
+        "https://aomori-tourism.com/spot/detail_2883.html"
+      ],
+      "confidence": "medium",
+      "notice": "11:00〜14:00は清掃のため休み（日曜は通し営業）"
+    },
+    {
+      "name": "新郷温泉館",
+      "address": "青森県三戸郡新郷村大字西越字温泉沢5-4",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "平日は14時から",
+      "url": "http://www.vill.shingo.aomori.jp/sight/onsensyukuhaku/onsenkan/",
+      "sources": [
+        "http://www.vill.shingo.aomori.jp/sight/onsensyukuhaku/onsenkan/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休み"
+    },
+    {
+      "name": "仙寿・鶴亀温泉",
+      "address": "青森県青森市大字安田字近野1-73",
+      "weekdayAdult": 470,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ（男90℃・女80℃）",
+      "url": "https://www.houen-aomori.co.jp/onsen-link/tsurukame/",
+      "sources": [
+        "https://www.houen-aomori.co.jp/onsen-link/tsurukame/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "平畑温泉",
+      "address": "青森県三沢市岡三沢8-83-2",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://kite-misawa.com/misawa/hirahata-onsen/",
+      "sources": [
+        "http://kite-misawa.com/misawa/hirahata-onsen/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "碇ヶ関温泉会館",
+      "address": "青森県平川市碇ヶ関字鯨森8-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "平川市民300円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen010207/"
+      ],
+      "confidence": "medium",
+      "notice": "第3月曜休み"
+    },
+    {
+      "name": "天然温泉 和ノ湯",
+      "address": "青森県青森市浪岡大字杉沢字井の下133-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen010077/",
+        "https://yuru-to.net/detail.php?oid=3182",
+        "https://sauna-ikitai.com/saunas/374"
+      ],
+      "confidence": "medium",
+      "note": "2026/5/28の口コミに「2026/6/10から520円に値上げ」、サウナイキタイも520円〜"
+    },
+    {
+      "name": "太郎温泉",
+      "address": "青森県三沢市深谷2-49-2",
+      "weekdayAdult": 370,
+      "holidayAdult": 370,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://kite-misawa.com/misawa/taro-onsen/",
+      "sources": [
+        "http://kite-misawa.com/misawa/taro-onsen/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "和の湯",
+      "address": "青森県上北郡おいらせ町一川目4-127-115",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "ヒバのサウナ",
+      "url": "http://www.ooyamano-ie.jp/nagominoyu/",
+      "sources": [
+        "http://www.ooyamano-ie.jp/nagominoyu/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2水曜休み"
+    },
+    {
+      "name": "きずなの湯 境関温泉",
+      "address": "青森県弘前市大字境関字亥の宮15-2",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.rtgp.jp/sakaizekionsen/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen007605/",
+        "http://www.rtgp.jp/sakaizekionsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "青森油川 湯ったら温泉",
+      "address": "青森県青森市大字羽白字富田235-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yuttaraonsen.com/",
+      "sources": [
+        "https://yuttaraonsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "露天風呂は配管メンテナンスのため休止中"
+    },
+    {
+      "name": "下風呂温泉 海峡の湯",
+      "address": "青森県下北郡風間浦村大字下風呂字下風呂71-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "村外の高校生以上",
+      "saunaTypes": [],
+      "saunaNote": "ヒバ造りのサウナ",
+      "url": "https://www.yukaimura.com/kaikyonoyu.html",
+      "sources": [
+        "https://www.yukaimura.com/kaikyonoyu.html"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4火曜休み"
+    },
+    {
+      "name": "湯元 岩木温泉",
+      "address": "青森県黒石市袋井2-33-34",
+      "weekdayAdult": 370,
+      "holidayAdult": 370,
+      "saunaFee": 0,
+      "priceNote": "2026/6/1の県統制額改定（530円）後の料金は未確認",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://x.com/iwakionsen",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen010190/",
+        "https://onsen.nifty.com/kuroishi-onsen/onsen024590/",
+        "https://yuru-to.net/detail.php?oid=3217"
+      ],
+      "confidence": "low",
+      "notice": "毎月1日・15日休み",
+      "note": "所在地は黒石市袋井（2023/12/19リニューアル再開、電話0172-52-3658）。弘前市百沢の住所はニフティ温泉の旧掲載の誤り"
+    },
+    {
+      "name": "フラワー温泉 花月苑",
+      "address": "青森県青森市浜館5-3-6",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen007266/",
+        "https://yuru-to.net/detail.php?oid=3150"
+      ],
+      "confidence": "medium",
+      "note": "ポータル（ゆる〜と）で530円。2026/5時点は480円との口コミあり"
+    },
+    {
+      "name": "湯の沢温泉 ちゃぽらっと",
+      "address": "青森県東津軽郡外ヶ浜町字平舘根岸湯ノ沢150",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/higashitsugaru-onsen/onsen000295/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休み"
+    },
+    {
+      "name": "長寿の湯",
+      "address": "青森県八戸市大字沢里字藤子49",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hachinohe-onsen/onsen024800/",
+        "https://yuru-to.net/detail.php?oid=15232"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休み",
+      "note": "ポータル（ゆる〜と）で530円。2026/3時点は480円との口コミあり"
+    },
+    {
+      "name": "天然温泉・お食事処 花の湯",
+      "address": "青森県平川市岩館長田97-1",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "priceNote": "9時以降の料金。6:30〜9:00は450円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "http://www.hanano-yu.net/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen019435/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "温泉みちのく",
+      "address": "青森県八戸市類家1-8-20",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "priceNote": "2026/6/1の県統制額改定（530円）後の料金は未確認",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hachinohe-onsen/onsen018210/"
+      ],
+      "confidence": "low",
+      "notice": "第3水曜休み"
+    },
+    {
+      "name": "るいけ源泉 えんの湯",
+      "address": "青森県八戸市南類家3-1-18",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://twitter.com/ennoyu_ruike",
+      "sources": [
+        "https://onsen.nifty.com/hachinohe-onsen/onsen016563/",
+        "https://yuru-to.net/detail.php?oid=3306"
+      ],
+      "confidence": "medium",
+      "note": "公式（X）は確認できず。ポータル（ゆる〜と）で530円（改定前の上限480円を超えるため6月以降の更新）"
+    },
+    {
+      "name": "みどり温泉",
+      "address": "青森県八戸市柏崎6-17-3",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hachinohe-onsen/onsen024668/",
+        "https://yuru-to.net/detail.php?oid=15239"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休み",
+      "note": "ポータル（ゆる〜と）530円、2026/7/11の口コミでも大人530円"
+    },
+    {
+      "name": "ふくろうの湯",
+      "address": "青森県上北郡七戸町字道ノ上63-3",
+      "weekdayAdult": 380,
+      "holidayAdult": 380,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://toujin-kai.net/ibuki/",
+      "sources": [
+        "https://toujin-kai.net/ibuki/"
+      ],
+      "confidence": "high",
+      "notice": "年1回メンテナンス休業",
+      "note": "メディカルフィットネスいぶき併設"
+    },
+    {
+      "name": "大和温泉",
+      "address": "青森県平川市中佐渡南田1-2",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯サウナ・女湯ミストサウナ",
+      "url": "https://yamatoyu.net/",
+      "sources": [
+        "https://yamatoyu.net/",
+        "https://onsen.nifty.com/hirosaki-onsen/onsen018593/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月1日・15日休み",
+      "note": "料金はポータル（530円・改定後額）"
+    },
+    {
+      "name": "十和田温泉",
+      "address": "青森県十和田市西四番町4-6",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "ロッキーサウナ",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/towada-onsen/onsen017356/",
+        "https://yuru-to.net/detail.php?oid=1857",
+        "https://sauna-ikitai.com/saunas/401"
+      ],
+      "confidence": "medium",
+      "notice": "第3水曜休み",
+      "note": "ゆる〜と・サウナイキタイとも500円（2026/2時点の口コミは480円なので、その後の改定）"
+    },
+    {
+      "name": "三世寺温泉",
+      "address": "青森県弘前市大字三世寺字鳴瀬101",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.imn-seimeikai.or.jp/sanzeji/",
+      "sources": [
+        "https://www.imn-seimeikai.or.jp/sanzeji/"
+      ],
+      "confidence": "high",
+      "notice": "第3金曜休み"
+    },
+    {
+      "name": "せせらぎ温泉（十和田）",
+      "address": "青森県十和田市大字相坂字下前川原188-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/towada-onsen/onsen016869/",
+        "https://yuru-to.net/detail.php?oid=3266"
+      ],
+      "confidence": "medium",
+      "note": "ポータル（ゆる〜と）450円、2026/7/4の口コミでも450円"
+    },
+    {
+      "name": "スパ・ウッド観光ホテル",
+      "address": "青森県むつ市川内町板子塚28",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女週替わりで片方の浴場にサウナ（口コミ情報）",
+      "url": "http://hp.simokita.org/spawood/",
+      "sources": [
+        "http://hp.simokita.org/spawood/resv/price.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "一本木沢温泉",
+      "address": "青森県十和田市大字三本木字一本木沢93-3",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://newss.jp/",
+      "sources": [
+        "https://onsen.nifty.com/towada-onsen/onsen011740/",
+        "http://newss.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "海のしずく",
+      "address": "青森県西津軽郡鰺ヶ沢町大字北浮田町字平野206-23",
+      "weekdayAdult": 370,
+      "holidayAdult": 370,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yu-dokoro-uminoshizuku.jimdofree.com/",
+      "sources": [
+        "https://yu-dokoro-uminoshizuku.jimdofree.com/ご利用料金/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "屏風山温泉",
+      "address": "青森県つがる市木造浦船58-2",
+      "weekdayAdult": 390,
+      "holidayAdult": 390,
+      "saunaFee": 0,
+      "priceNote": "改定後の料金は未確認",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.tsugaru.aomori.jp/soshiki/keizai/kankouburando/kanko/hotel_hotspring/6792.html",
+      "sources": [
+        "https://www.city.tsugaru.aomori.jp/soshiki/keizai/kankouburando/kanko/hotel_hotspring/6792.html",
+        "https://onsen.nifty.com/goshogawara-onsen/onsen011342/",
+        "https://yuru-to.net/detail.php?oid=3153"
+      ],
+      "confidence": "low",
+      "note": "料金は2024年の口コミのみ。ゆる〜とは400円（時期不明）"
+    },
+    {
+      "name": "つがる温泉",
+      "address": "青森県平川市八幡崎松橋20-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "2026/8/1改定後",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tsugaru-onsen.com/",
+      "sources": [
+        "https://tsugaru-onsen.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "つがる市車力ウェルネスセンター しゃりき温泉",
+      "address": "青森県つがる市車力町花林48",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://sr-onsen.com/",
+      "sources": [
+        "https://sr-onsen.com/",
+        "https://onsen.nifty.com/goshogawara-onsen/onsen000291/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休み（祝日の場合翌日）"
+    },
+    {
+      "name": "富士見温泉",
+      "address": "青森県黒石市富士見121",
+      "weekdayAdult": 380,
+      "holidayAdult": 380,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://kuroishi.or.jp/special_member/fujimionsen",
+      "sources": [
+        "https://kuroishi.or.jp/special_member/fujimionsen"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "柳湯",
+      "address": "青森県八戸市湊町柳町24",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "2026/6から500円との口コミあり。改定後の料金は未確認",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hachinohe-onsen/onsen018355/",
+        "https://yuru-to.net/detail.php?oid=3291"
+      ],
+      "confidence": "low",
+      "note": "2026/5/11の口コミに「450円（6月から500円）」。ゆる〜と・サウナイキタイは450円（時期不明）"
+    },
+    {
+      "name": "観光案内休憩施設 大白温泉",
+      "address": "青森県中津軽郡西目屋村大字白沢字白沢口106",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは12:00〜21:00",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen018333/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "沖館温泉",
+      "address": "青森県青森市富田1-16-1",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.atca.info/spot/spot-2199/",
+      "sources": [
+        "https://www.atca.info/spot/spot-2199/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "油川温泉",
+      "address": "青森県青森市油川大浜102",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen017268/",
+        "https://yuru-to.net/detail.php?oid=15023"
+      ],
+      "confidence": "low",
+      "notice": "月曜休み。13:00〜21:00。臨時休業中との情報あり（営業状況は施設にご確認ください）",
+      "note": "ゆる〜とで「臨時休業中」表示（時期・理由不明）、ほかに裏付けなし。ゆる〜と一覧の料金表示は500円"
+    },
+    {
+      "name": "ゆったり温泉",
+      "address": "青森県北津軽郡鶴田町大字木筒字西柳川61-2",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "2026/5時点の料金。2026/6/1の県統制額改定（530円）後の料金は未確認",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/kitatsugaru-onsen/onsen011345/",
+        "https://yuru-to.net/detail.php?oid=3171"
+      ],
+      "confidence": "low",
+      "note": "2026/5/8の口コミ（券売機で大人450円）、ゆる〜と・サウナイキタイも450円。旧値480円は誤り"
+    },
+    {
+      "name": "平川温泉",
+      "address": "青森県南津軽郡田舎館村大字大袋字樋田3",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen011068/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月10・20・30日休み"
+    },
+    {
+      "name": "常盤老人福祉センター ときわ温泉",
+      "address": "青森県南津軽郡藤崎町大字常盤字富田70-1",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.fujisaki-kanko.jp/onsen.html",
+      "sources": [
+        "https://www.fujisaki-kanko.jp/onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月1日休み（日祝の場合は翌日）"
+    },
+    {
+      "name": "喜龍温泉 玉乃湯",
+      "address": "青森県南津軽郡藤崎町大字藤崎字西豊田54-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.fujisaki-kanko.jp/onsen.html",
+      "sources": [
+        "https://www.fujisaki-kanko.jp/onsen.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "はたけのゆっこ",
+      "address": "青森県南津軽郡藤崎町大字藤崎字向根子橋21-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "6:00〜9:00は400円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.fujisaki-kanko.jp/onsen.html",
+      "sources": [
+        "https://www.fujisaki-kanko.jp/onsen.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "フラワー温泉 やえだ",
+      "address": "青森県青森市造道1-9-10",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.atca.info/spot/spot-1998/",
+      "sources": [
+        "https://www.atca.info/spot/spot-1998/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "音次郎温泉",
+      "address": "青森県五所川原市大字石岡字藤巻56-1",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://otozirou.jimdofree.com/",
+      "sources": [
+        "https://onsen.nifty.com/goshogawara-onsen/onsen011366/",
+        "https://otozirou.jimdofree.com/",
+        "https://yuru-to.net/detail.php?oid=3154"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト（更新時期が古い）で大人420円、ゆる〜とも420円"
+    },
+    {
+      "name": "ポパイ温泉",
+      "address": "青森県青森市浪岡大字下十川字扇田189-1",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.atca.info/spot/spot-375/",
+      "sources": [
+        "https://onsen.nifty.com/aomori-onsen/onsen008622/",
+        "https://yuru-to.net/detail.php?oid=1851"
+      ],
+      "confidence": "medium",
+      "note": "ゆる〜と・サウナイキタイとも350円、2026/6/12の口コミでも350円"
+    },
+    {
+      "name": "大福温泉",
+      "address": "青森県青森市浪館前田4-25-31",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.atca.info/spot/spot-1994/",
+      "sources": [
+        "https://sauna-ikitai.com/aomori/%E9%9D%92%E6%A3%AE%E5%B8%82?page=2",
+        "https://www.atca.info/spot/spot-1994/",
+        "https://yuru-to.net/detail.php?oid=15004"
+      ],
+      "confidence": "medium",
+      "note": "ポータル（ゆる〜と）で530円。観光協会ページの400円は古い"
+    },
+    {
+      "name": "徳の湯温泉",
+      "address": "青森県青森市桜川8-5-4",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.atca.info/spot/spot-1921/",
+      "sources": [
+        "https://sauna-ikitai.com/aomori/%E9%9D%92%E6%A3%AE%E5%B8%82?page=2",
+        "https://www.atca.info/spot/spot-1921/",
+        "https://yuru-to.net/detail.php?oid=15010"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休み",
+      "note": "ポータル（ゆる〜と）で530円。2026/3時点は480円との口コミあり"
+    },
+    {
+      "name": "グランドサンピア八戸 さわ里の湯",
+      "address": "青森県八戸市東白山台1-1-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.sunpiahachinohe.jp/",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3310",
+        "https://www.sunpiahachinohe.jp/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "立寄り5:00〜9:00・10:00〜22:00。団体利用等で日帰り不可の日あり",
+      "note": "ニフティ温泉は750円（古い）"
+    },
+    {
+      "name": "五戸まきば温泉",
+      "address": "青森県三戸郡五戸町字苗代沢3",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "時間帯によりサウナ休止あり（9〜15時）",
+      "url": "http://www.town.gonohe.aomori.jp/kankou/annai/016.html",
+      "sources": [
+        "http://www.town.gonohe.aomori.jp/kankou/annai/016.html",
+        "https://yuru-to.net/detail.php?oid=3299",
+        "https://sauna-ikitai.com/saunas/6894"
+      ],
+      "confidence": "medium",
+      "note": "ゆる〜と・サウナイキタイとも530円（2026/5時点は480円との口コミあり）"
+    },
+    {
+      "name": "長寿温泉",
+      "address": "青森県八戸市下長3-21-11",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://choju-onsen.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/hachinohe-onsen/onsen006467/",
+        "http://choju-onsen.co.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "東北温泉",
+      "address": "青森県上北郡東北町字上笹橋21-18",
+      "weekdayAdult": 380,
+      "holidayAdult": 380,
+      "saunaFee": 0,
+      "priceNote": "高校生以上",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.touhoku-onsen.com/",
+      "sources": [
+        "https://www.town.tohoku.lg.jp/kankou/onsen.html",
+        "https://onsen.nifty.com/misawa-onsen/onsen008921/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "三沢市民の森温泉浴場",
+      "address": "青森県三沢市大字三沢字淋代平116-3093",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "市外料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://misawashi-jichikousya.net/onsen_yokujou",
+      "sources": [
+        "http://misawashi-jichikousya.net/onsen_yokujou"
+      ],
+      "confidence": "medium",
+      "notice": "第3月曜休み",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "六ヶ所村老人福祉センター",
+      "address": "青森県上北郡六ヶ所村大字平沼字二階坂92-7",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "村外・15歳以上（村民200円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.rokkasyoshakyo.jp/facility/",
+      "sources": [
+        "https://onsen.nifty.com/misawa-onsen/onsen010016/",
+        "http://www.rokkasyoshakyo.jp/facility/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休み"
+    },
+    {
+      "name": "桂温泉",
+      "address": "青森県三沢市岡三沢1-1-87",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://kite-misawa.com/misawa/katsura-onsen/",
+      "sources": [
+        "https://kite-misawa.com/misawa/katsura-onsen/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "十和田市市民の家",
+      "address": "青森県十和田市大字法量字焼山64-164",
+      "weekdayAdult": 310,
+      "holidayAdult": 310,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.city.towada.lg.jp/docs/2011121200437/",
+      "sources": [
+        "http://www.city.towada.lg.jp/docs/2011121200437/"
+      ],
+      "confidence": "medium",
+      "notice": "第3水曜休み",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "倉石温泉",
+      "address": "青森県三戸郡五戸町大字倉石又重字上川原153",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.town.gonohe.aomori.jp/kankou/annai/018.html",
+      "sources": [
+        "https://www.town.gonohe.aomori.jp/kankou/annai/018.html"
+      ],
+      "confidence": "medium",
+      "notice": "木曜休み",
+      "note": "町ページ更新2024/7"
+    },
+    {
+      "name": "桑畑温泉 湯ん湯ん",
+      "address": "青森県下北郡風間浦村大字易国間字湯ノ上1-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "村外料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.kazamaura.jp/villager/facilities/yunyun/",
+      "sources": [
+        "https://www.kazamaura.jp/villager/facilities/yunyun/"
+      ],
+      "confidence": "medium",
+      "notice": "水・金曜休み",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "白馬龍神温泉",
+      "address": "青森県弘前市大字小栗山字芹沢2-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen007193/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "name": "桜温泉",
+      "address": "青森県弘前市賀田2-10-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.sakuraonsen.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen005799/",
+        "https://www.sakuraonsen.co.jp/charge.html"
+      ],
+      "confidence": "high",
+      "notice": "月1回不定休",
+      "note": "公式の料金改定告知は宿泊料金（2023/12）のもの。日帰り入浴は公式料金ページで450円"
+    },
+    {
+      "name": "アソベの森 いわき荘",
+      "address": "青森県弘前市大字百沢字寺沢28-29",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.iwakisou.or.jp/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen000335/",
+        "https://www.iwakisou.or.jp/spa/",
+        "https://www.iwakisou.or.jp/info/news/2971/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り7:00〜14:00・18:00〜21:00。2026/11/15夜〜11/20朝はメンテナンス休館。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "道の駅いかりがせき 関の庄温泉 御仮屋御殿",
+      "address": "青森県平川市碇ヶ関字碇石13-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://ikarigaseki.com/hot_spring/",
+      "sources": [
+        "https://ikarigaseki.com/hot_spring/"
+      ],
+      "confidence": "medium",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "グリーンパークもりのいずみ",
+      "address": "青森県中津軽郡西目屋村大字村市字稲葉213-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ12:00〜21:00",
+      "url": "https://www.mori-no-izumi.com/",
+      "sources": [
+        "https://onsen.nifty.com/hirosaki-onsen/onsen007308/",
+        "https://www.mori-no-izumi.com/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "じょっぱり温泉",
+      "address": "青森県つがる市柏桑野木田若宮258-2",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tsugarushi-shakyo.net/onsenshisetsu.html",
+      "sources": [
+        "https://tsugarushi-shakyo.net/onsenshisetsu.html"
+      ],
+      "confidence": "medium",
+      "notice": "第1・第3月曜休み（祝日営業）",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "つがる地球村温泉",
+      "address": "青森県つがる市森田町床舞藤山244",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://chikyuumura.co.jp/onsen/",
+      "sources": [
+        "https://onsen.nifty.com/goshogawara-onsen/onsen009712/",
+        "http://chikyuumura.co.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "6:00〜8:00・11:00〜21:00。2026/11/9〜11/11はメンテナンス休館"
+    },
+    {
+      "name": "つがる富士見荘",
+      "address": "青森県北津軽郡鶴田町大字廻堰字大沢71-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.tsugarufujimiso.jp/",
+      "sources": [
+        "https://www.tsugarufujimiso.jp/spa.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り7:30〜20:30",
+      "note": "サウナはポータル情報"
+    },
+    {
+      "name": "中泊町総合福祉健康センター 湯らぱーく",
+      "address": "青森県北津軽郡中泊町大字中里字亀山170-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "高校生以上（町民200円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/kitatsugaru-onsen/onsen018488/",
+        "https://www.supersento.com/hokaidotohoku/aomori/nakadomari.html",
+        "https://yuru-to.net/detail.php?oid=53627"
+      ],
+      "confidence": "medium",
+      "notice": "木曜は19時まで",
+      "note": "町営の福祉施設。ポータル（2026/5/6更新）・ゆる〜と・ジョルダンで400円"
+    },
+    {
+      "name": "平内いきいき健康館 よごしやま温泉",
+      "address": "青森県東津軽郡平内町大字浜子字堀替106-4",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/higashitsugaru-onsen/onsen000308/",
+        "https://yuru-to.net/detail.php?oid=3124"
+      ],
+      "confidence": "medium",
+      "notice": "第2・第4水曜休み",
+      "note": "ポータル（ゆる〜と）で530円。2026/3時点は480円との口コミあり"
+    },
+    {
+      "name": "南田温泉 ホテルアップルランド",
+      "address": "青森県平川市町居南田166-3",
+      "weekdayAdult": 630,
+      "holidayAdult": 630,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3267"
+      ],
+      "confidence": "low",
+      "notice": "立寄り10:30〜14:30。団体利用等で不可の日あり。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "六戸モリランド",
+      "address": "青森県上北郡六戸町大字折茂字鳥喰谷地34-1",
+      "weekdayAdult": 390,
+      "holidayAdult": 390,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/misawa-onsen/onsen008287/",
+        "https://yuru-to.net/detail.php?oid=3245"
+      ],
+      "confidence": "medium",
+      "note": "正式名はアクアセラピ温泉 森ランド。ゆる〜と390円、2026/6/21の口コミでも390円"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "星野リゾート 青森屋",
+      "reason": "日帰り入浴なし（宿泊者のみ）"
+    },
+    {
+      "name": "亀の井ホテル 青森まかど",
+      "reason": "日帰り入浴休止中"
+    },
+    {
+      "name": "元湯猿倉温泉",
+      "reason": "サウナは貸切（22,000円〜）のみで、大浴場にサウナなし"
+    },
+    {
+      "name": "木崎野温泉",
+      "reason": "休業中"
+    },
+    {
+      "name": "蓬田村ふれあいセンター よもぎ温泉",
+      "reason": "源泉ポンプ停止で沸かし湯営業中（天然温泉でない）"
+    },
+    {
+      "name": "にこにこ温泉しうら",
+      "reason": "天然温泉ではない（公式に明記）"
+    },
+    {
+      "name": "野馬の湯 天然ラドン霊泉",
+      "reason": "2026年5月にサウナ休止との口コミがあり、サウナ営業を確認できない"
+    },
+    {
+      "name": "トド湯",
+      "reason": "温泉ではなく真湯の銭湯との情報"
+    },
+    {
+      "name": "藤崎老人福祉センター 西豊田温泉",
+      "reason": "温泉復旧工事のため休館中（再開日未定）"
+    },
+    {
+      "name": "あおもり健康ランド",
+      "reason": "閉館"
+    },
+    {
+      "name": "みちのく温泉（深浦町）",
+      "reason": "日帰り入浴休止中（公式）"
+    },
+    {
+      "name": "ゆ〜さ浅虫・浅虫温泉 松の湯",
+      "reason": "サウナを確認できない"
+    },
+    {
+      "name": "ドーミーイン青森・本八戸・弘前、リッチモンド八戸、テトラ八戸、グローバルビュー八戸、ルートイン三沢、リブマックス本八戸",
+      "reason": "ビジネスホテル（宿泊者向け、日帰り料金の常設を確認できず）"
+    },
+    {
+      "name": "十和田サウナ・りらちる・MINAMIs h・ゆな青ベース・Vihta等",
+      "reason": "貸切/プライベートサウナで温泉浴場のサウナではない"
+    },
+    {
+      "name": "からんころん温泉",
+      "reason": "サウナは貸切（有料）のみで大浴場のサウナを確認できない"
+    },
+    {
+      "name": "福田温泉 癒楽家福泉",
+      "reason": "サウナの有無で情報が食い違い確認できない"
+    },
+    {
+      "name": "バーデハウスふくち",
+      "reason": "公式サイト不通で料金を確認できない"
+    },
+    {
+      "name": "八甲田ホテル・浅虫さくら観光ホテル・奥入瀬森のホテル・稲垣温泉ホテル花月亭・三浦屋・不二やホテル・旅館柳の湯・五所川原温泉ホテル",
+      "reason": "日帰り入浴料金または日帰り客のサウナ利用を確認できない"
+    },
+    {
+      "name": "あづましの里温泉 いい湯だな・柏温泉・稲穂いこいの里・あさひ温泉",
+      "reason": "料金・営業状況を確認できない（あさひ温泉は長期改装休業の情報あり）"
+    },
+    {
+      "name": "界 津軽",
+      "reason": "日帰り入浴なし"
+    },
+    {
+      "name": "りんごの里 こま温泉",
+      "reason": "2025年末頃から改装工事で休業中との情報（ゆる〜と、張り紙）。再開を確認できない"
+    },
+    {
+      "name": "よこはま温泉（横浜町老人福祉センター）",
+      "reason": "2026/5/28から設備修繕のため休業、再開日未確認（長期休館）"
+    }
+  ],
+  "notes": "候補はニフティ温泉（サウナ・エリア一覧）とサウナイキタイ（青森県一覧）から洗い出し。県の公衆浴場統制額は2026/6/1から大人530円（旧480円）。公式で確認できない温泉銭湯は旧料金のままの可能性があり、confidence low とした。八戸市・青森市の銭湯のうちニフティ温泉に温泉として載っていないもの（壽浴場・オールウェイズ・りんごのゆ・松の湯・双葉湯・高砂湯・みさき浴泉・湯ートピア小中野・市の沢浴泉・長生湯・桂木温泉・みちのく浴場・湯楽園など）は天然温泉か確認できず未収録。むつ市の葭の湯・菊の湯、外ヶ浜のよしつねの湯・ぽっぽ湯、十和田の大黒湯、野辺地のタカラの湯、おいらせの下田温泉ゆーらくえん、東北町宝湖館、スパハウスかわむら、新たんぼのゆっこ等も未確認。サウナの種類はポータルに記載がないものが多く空欄が多い。【2026/11/2 再確認】low だった42件を、公式サイト・ゆる〜と（yuru-to.net。銭湯で530円表示は改定前の上限480円を超えるため6月以降の更新と判断）・日付付きの口コミで確認した。七戸町笊田川久保54-1 にも別施設の「あすなろ温泉」（サウナあり、400円との情報）があるが未収録・未確認。SPUR 2026年7月号の八戸の銭湯記事の料金（480円）は改定前の取材とみられ、使っていない。サウナイキタイの施設ページは取得できなかった（一覧ページのみ参照）。"
+}

@@ -1,0 +1,512 @@
+{
+  "prefecture": "島根県",
+  "prefCode": "32",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "出雲駅前温泉 らんぷの湯",
+      "address": "島根県出雲市駅南町1丁目3-3",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "お盆・正月・GWは料金変更",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://ranpu-no-yu.com/",
+      "sources": [
+        "http://ranpu-no-yu.com/price",
+        "http://ranpu-no-yu.com/"
+      ],
+      "confidence": "high",
+      "notice": "第1水曜休館（祝日の場合翌週水曜）"
+    },
+    {
+      "name": "玉造温泉 ゆ～ゆ",
+      "address": "島根県松江市玉湯町玉造255番地",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.tama-yuuyu.com/",
+      "sources": [
+        "http://www.tama-yuuyu.com/userguide/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合翌日）。早朝営業時間はサウナ利用不可"
+    },
+    {
+      "name": "いずも縁結び温泉 ゆらり",
+      "address": "島根県出雲市平田町7178",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "http://yurari-izumo.jp/",
+      "sources": [
+        "http://yurari-izumo.jp/publics/index/22/",
+        "http://yurari-izumo.jp/publics/index/17/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "おろち湯ったり館",
+      "address": "島根県雲南市木次町木次952-4",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://unnan-ud.com/orochi/",
+      "sources": [
+        "https://unnan-ud.com/orochi/",
+        "https://onsen.nifty.com/izumoshuuhen-onsen/onsen003601/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜休館",
+      "note": "料金は公式。サウナの有無はニフティ温泉の掲載による（公式に記載なし）"
+    },
+    {
+      "name": "鹿島 多久の湯",
+      "address": "島根県松江市鹿島町北講武885番地7",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナマット持参（売店で販売）",
+      "url": "https://www.takunoyu.jp/",
+      "sources": [
+        "https://www.takunoyu.jp/",
+        "https://www.takunoyu.jp/spa/sauna"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "道の駅 津和野温泉 なごみの里",
+      "address": "島根県鹿足郡津和野町鷲原イ256",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.nagomi-nosato.com/",
+      "sources": [
+        "https://www.nagomi-nosato.com/infomation",
+        "https://onsen.nifty.com/tsuwano-onsen/onsen003632/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜定休",
+      "note": "公式にサウナあり・料金記載なし。料金はニフティ温泉の掲載による"
+    },
+    {
+      "name": "天然温泉 湯屋天神",
+      "address": "島根県松江市天神町129",
+      "weekdayAdult": 700,
+      "holidayAdult": 900,
+      "saunaFee": 800,
+      "priceNote": "サウナは入浴料に+800円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ。サウナは16歳以上",
+      "url": "https://yuyatenjin.com/",
+      "sources": [
+        "https://yuyatenjin.com/onsen-sauna"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2・第4火曜は日帰り16:00から営業"
+    },
+    {
+      "name": "四季荘 sauna & relaxation PARATIISI",
+      "address": "島根県出雲市斐川町学頭1369",
+      "weekdayAdult": 1780,
+      "holidayAdult": 1980,
+      "saunaFee": 0,
+      "priceNote": "サウナ一般1,480円（土日祝1,680円）＋温泉利用300円の合計。温泉のみ900円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "サウナエリアは男性専用（女性は毎月第1・第3木曜の女性専用デーのみ、1,080円）",
+      "url": "https://shikisou.com/",
+      "sources": [
+        "https://shikisou.com/sauna.php",
+        "https://shikisou.com/onsen.php"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "MASCOS HOTEL 益田温泉",
+      "address": "島根県益田市駅前町30-20",
+      "weekdayAdult": 1210,
+      "holidayAdult": 1210,
+      "saunaFee": 0,
+      "priceNote": "日中入浴（タオルセット込み・税抜1,100円）。夜間入浴は税抜1,500円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯サウナ・女湯ミストサウナ",
+      "url": "https://mascoshotel.com/",
+      "sources": [
+        "https://mascoshotel.com/hot-spring/"
+      ],
+      "confidence": "medium",
+      "notice": "日中入浴は11:00〜16:59受付・120分以内。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "隠岐温泉GOKA",
+      "address": "島根県隠岐郡隠岐の島町南方296-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.e-oki.net/spots/15690/",
+      "sources": [
+        "https://www.e-oki.net/spots/15690/",
+        "https://onsen.nifty.com/okishima-onsen/onsen003587/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休",
+      "note": "料金は観光協会公式。サウナはニフティ温泉の掲載による"
+    },
+    {
+      "name": "ホットランドやくも",
+      "address": "島根県松江市八雲町熊野772-3",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "水着エリア（八雲温泉を使った水着着用の健康増進施設）",
+      "url": "https://www.kankou-matsue.jp/kankou/desc/?cat=%E8%A6%B3%E5%85%89%E6%96%BD%E8%A8%AD&spot=27666",
+      "sources": [
+        "https://www.kankou-matsue.jp/kankou/desc/?cat=%E8%A6%B3%E5%85%89%E6%96%BD%E8%A8%AD&spot=27666",
+        "https://onsen.nifty.com/matsue-onsen/onsen003588/"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜・月末に1日休館。水着着用"
+    },
+    {
+      "name": "湯屋温泉 リフレパークきんたの里",
+      "address": "島根県浜田市金城町七条イ980-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "アロマスチームサウナ",
+      "url": "https://kintanosato.com/",
+      "sources": [
+        "https://kintanosato.com/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "亀嵩温泉 玉峰山荘",
+      "address": "島根県仁多郡奥出雲町亀嵩3609-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://tamamine.jp/",
+      "sources": [
+        "http://tamamine.jp/dayuse.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "三瓶温泉 国民宿舎さんべ荘",
+      "address": "島根県大田市三瓶町志学2072-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "2026/8/1改定後の料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.sanbe-sou.jp/",
+      "sources": [
+        "https://www.sanbe-sou.jp/",
+        "https://onsen.nifty.com/ooda-onsen/onsen003614/"
+      ],
+      "confidence": "medium",
+      "notice": "連休・繁忙期は日帰り入浴2部制。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナの有無はニフティ温泉の掲載による"
+    },
+    {
+      "name": "夢ランドしらさぎ",
+      "address": "島根県安来市古川町大平寺835",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.yumeshirasagi.or.jp/",
+      "sources": [
+        "https://onsen.nifty.com/yasugi-onsen/onsen003590/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜休館（祝日の場合翌日）",
+      "note": "公式サイトが古く料金確認できず。ニフティ温泉の掲載による"
+    },
+    {
+      "name": "むいかいち温泉 ゆ・ら・ら",
+      "address": "島根県鹿足郡吉賀町有飯238-2",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "低温（約45℃）のミストサウナ",
+      "url": "https://yurara2000.com/",
+      "sources": [
+        "https://yurara2000.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "しっとりつるつる北山温泉",
+      "address": "島根県出雲市西林木町61-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女各浴室にサウナ",
+      "url": "https://kitayama-onsen.com/",
+      "sources": [
+        "https://kitayama-onsen.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "きまち温泉 大森の湯",
+      "address": "島根県松江市宍道町上来待264-4",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "2種のセルフロウリュサウナ",
+      "url": "https://oomorinoyu.com/",
+      "sources": [
+        "https://oomorinoyu.com/information/",
+        "https://oomorinoyu.com/onsen/"
+      ],
+      "confidence": "high",
+      "note": "2026/4/15リニューアルオープン"
+    },
+    {
+      "name": "匹見峡温泉 やすらぎの湯",
+      "address": "島根県益田市匹見町匹見イ713",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yasuragi-onsen.jp/",
+      "sources": [
+        "https://yasuragi-onsen.jp/",
+        "https://onsen.nifty.com/masuda-onsen/onsen003584/"
+      ],
+      "confidence": "medium",
+      "notice": "月・火曜定休（祝日は営業）。2025年12月から当面内湯のみ営業",
+      "note": "公式にサウナあり・料金記載なし。料金はニフティ温泉の掲載による"
+    },
+    {
+      "name": "桂荘",
+      "address": "島根県雲南市大東町中湯石204",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "高校生以上の料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.unnan-kankou.jp/",
+      "sources": [
+        "https://onsen.nifty.com/izumoshuuhen-onsen/onsen003596/"
+      ],
+      "confidence": "medium",
+      "notice": "毎週火曜休館",
+      "note": "海潮温泉の公共施設。ニフティ温泉の掲載のみで公式ページ確認できず"
+    },
+    {
+      "name": "飯南町健康増進施設 加田の湯",
+      "address": "島根県飯石郡飯南町下来島707-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町内500円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://rurubu.jp/andmore/spot/80033512",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80033512",
+        "https://onsen.nifty.com/shimane/ct-iishiguniinancho/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休（祝日は営業）",
+      "note": "炭酸水素塩泉（加温）。公式サイト未確認、るるぶの掲載による"
+    },
+    {
+      "name": "ホテル一畑",
+      "address": "島根県松江市千鳥町30",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "最上階展望温泉のオートロウリュサウナ",
+      "url": "https://hotel.ichibata.co.jp/",
+      "sources": [
+        "https://hotel.ichibata.co.jp/wp/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は7:00〜10:00・13:00〜22:00（月・火曜は7:00〜9:00・16:00〜22:00）。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "玉造温泉 松乃湯",
+      "address": "島根県松江市玉湯町玉造1215",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女別サウナ",
+      "url": "https://matsunoyu.jp/",
+      "sources": [
+        "https://matsunoyu.jp/blog/daytrip",
+        "https://onsen.nifty.com/tamatsukurionsen-onsen/onsen005035/"
+      ],
+      "confidence": "medium",
+      "notice": "不定休（営業日は要確認）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナはニフティ温泉の掲載による"
+    },
+    {
+      "name": "曲水の庭 ホテル玉泉",
+      "address": "島根県松江市玉湯町玉造53-2",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "夜間（18:00〜21:00）料金。日中（12:00〜14:30）1,600円はサウナ運転時間外",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女各ドライサウナ（15:00〜23:30）",
+      "url": "https://www.hotel-gyokusen.co.jp/",
+      "sources": [
+        "https://www.hotel-gyokusen.co.jp/spa/",
+        "https://onsen.nifty.com/tamatsukurionsen-onsen/onsen005041/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "日帰りの時間帯はニフティ温泉の掲載による"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "琴引ビレッジ山荘",
+      "reason": "光明石を使った人工温泉（天然温泉ではない）"
+    },
+    {
+      "name": "出雲ドーム健康温泉",
+      "reason": "光明石の人工温泉"
+    },
+    {
+      "name": "マリンタラソ出雲",
+      "reason": "海水利用のタラソテラピー施設（天然温泉ではない）"
+    },
+    {
+      "name": "時津風",
+      "reason": "完全予約制の貸切サウナ施設"
+    },
+    {
+      "name": "sauna Breeze",
+      "reason": "サウナ専門施設。天然温泉の浴槽を確認できず"
+    },
+    {
+      "name": "ホテルリッチガーデン サウナオアシス",
+      "reason": "サウナオアシス休業中"
+    },
+    {
+      "name": "石見ワイナリーホテル美郷",
+      "reason": "公式にサウナの記載なし。日帰り入浴休業のお知らせあり"
+    },
+    {
+      "name": "ゆとりろ津和野",
+      "reason": "サウナは特室1室の客室付きのみ"
+    },
+    {
+      "name": "佳翠苑 皆美",
+      "reason": "低温サウナは女湯のみで、日帰り時間（11:30〜15:00）に使えるか不明"
+    },
+    {
+      "name": "比田温泉 湯田山荘",
+      "reason": "公式にサウナの記載なし"
+    },
+    {
+      "name": "湯谷温泉 弥山荘",
+      "reason": "サウナの有無・料金が情報源で食い違い、公式で確認できず"
+    },
+    {
+      "name": "塩ヶ平温泉 掛合まめなかセンター",
+      "reason": "料金を確認できず"
+    },
+    {
+      "name": "加茂健康福祉センター かもてらす",
+      "reason": "天然温泉か・料金を確認できず"
+    },
+    {
+      "name": "香木の森公園 いわみ温泉 霧の湯",
+      "reason": "2022年1月から休業中"
+    },
+    {
+      "name": "出雲ゆうプラザ",
+      "reason": "室内温水プール施設で、温泉浴槽・料金を公式で確認できず"
+    },
+    {
+      "name": "KAZENOKUNI IWAMI RESORT & STAYS（風の国）",
+      "reason": "日帰り入浴料金を公式で確認できず"
+    },
+    {
+      "name": "出雲須佐温泉 ゆかり館",
+      "reason": "休業中"
+    }
+  ],
+  "notes": "玉造・松江しんじ湖温泉の旅館ホテル（長生閣・白石家・玉井別館・皆美館など）は日帰りサウナ利用が確認できず未収録。KAZENOKUNIは主要施設だが日帰り料金不明のため除外。隠岐・石見山間部の小規模公共浴場は取りこぼしの可能性あり。"
+}

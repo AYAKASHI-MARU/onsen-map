@@ -1,0 +1,2297 @@
+{
+  "prefecture": "鹿児島県",
+  "prefCode": "46",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "薬師温泉",
+      "address": "鹿児島県鹿児島市薬師1-22-36",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://yakushionsen.com/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-31.php",
+        "https://yakushionsen.com/information/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "永吉温泉",
+      "address": "鹿児島県鹿児島市永吉1-33-6",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（低温）",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-34.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-34.php"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜定休（祝日の場合翌日）"
+    },
+    {
+      "name": "めいわ温泉",
+      "address": "鹿児島県鹿児島市明和1-25-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ。山形屋ショッピングプラザ明和店2階",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-35.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/harara/post-35.php"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休"
+    },
+    {
+      "name": "福助温泉",
+      "address": "鹿児島県鹿児島市伊敷1-16-25",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-23.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-23.php"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "温泉お乃湯",
+      "address": "鹿児島県鹿児島市小野3-5-27",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://www.tsumagari.jp/onoyu/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-25.php",
+        "http://www.tsumagari.jp/onoyu/"
+      ],
+      "confidence": "high",
+      "notice": "第1月曜定休"
+    },
+    {
+      "name": "花野温泉たぬき湯",
+      "address": "鹿児島県鹿児島市伊敷町4467",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://tanukiyu.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-27.php"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "芦刈温泉",
+      "address": "鹿児島県鹿児島市若葉町45-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "男女とも赤外線サウナ・ミストサウナ",
+      "url": "https://asikari-spa.com/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-28.php"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "みどり温泉",
+      "address": "鹿児島県鹿児島市岡之原町130",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://midorionsen.shopinfo.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/ishiki/post-29.php"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "武岡温泉",
+      "address": "鹿児島県鹿児島市田上6-9-26",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/josai/post-36.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/josai/post-36.php"
+      ],
+      "confidence": "high",
+      "notice": "第1・2・4木曜定休"
+    },
+    {
+      "name": "鹿児島温泉 時之栖",
+      "address": "鹿児島県鹿児島市田上6-1-6",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://takoju.jp/tokinosumika/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/josai/post-37.php"
+      ],
+      "confidence": "high",
+      "notice": "第2・4月曜定休（祝日の場合翌日）"
+    },
+    {
+      "name": "かいせい乃湯",
+      "address": "鹿児島県鹿児島市田上8-3-3",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://kaiseinoyu.com/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/josai/post-74.php"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "春日温泉",
+      "address": "鹿児島県鹿児島市下荒田1-28-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-4.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-4.php"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "新川温泉",
+      "address": "鹿児島県鹿児島市唐湊4-7-8",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-41.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-41.php"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜定休"
+    },
+    {
+      "name": "竹迫温泉",
+      "address": "鹿児島県鹿児島市下荒田3-22-10",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://takezako-onsen.com/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-44.php"
+      ],
+      "confidence": "high",
+      "notice": "第3木曜定休（祝日の場合翌日）"
+    },
+    {
+      "name": "温泉錦湯",
+      "address": "鹿児島県鹿児島市下荒田3-3-17",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-45.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-45.php"
+      ],
+      "confidence": "high",
+      "notice": "毎月26日休み（土日祝の場合翌日）。5:00〜翌1:00"
+    },
+    {
+      "name": "みずほ温泉",
+      "address": "鹿児島県鹿児島市上荒田町32-14",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-46.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/kamoike-kounan/post-46.php"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休"
+    },
+    {
+      "name": "真砂温泉",
+      "address": "鹿児島県鹿児島市真砂町59-19",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/korimoto/post-49.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/korimoto/post-49.php"
+      ],
+      "confidence": "high",
+      "notice": "不定休。2026/11/1から営業は22:00まで"
+    },
+    {
+      "name": "郡元温泉",
+      "address": "鹿児島県鹿児島市南郡元町3-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/korimoto/post-52.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/korimoto/post-52.php"
+      ],
+      "confidence": "high",
+      "notice": "第2・4木曜定休（祝日の場合翌日）"
+    },
+    {
+      "name": "轟温泉",
+      "address": "鹿児島県鹿児島市川田町188-2",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（低温）",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/koriyama/post-58.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/koriyama/post-58.php"
+      ],
+      "confidence": "high",
+      "notice": "第3木曜午前休み"
+    },
+    {
+      "name": "神之川温泉",
+      "address": "鹿児島県鹿児島市有屋田町603-5",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://kaminokawa.synapse-site.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/koriyama/post-59.php"
+      ],
+      "confidence": "high",
+      "notice": "年中無休。4〜10月の平日は15:00から"
+    },
+    {
+      "name": "新とそ温泉",
+      "address": "鹿児島県鹿児島市唐湊1-29-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/post-42.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/post-42.php"
+      ],
+      "confidence": "high",
+      "notice": "第4月曜定休（祝日の場合翌日）。4:00から営業"
+    },
+    {
+      "name": "中山温泉",
+      "address": "鹿児島県鹿児島市中山町1390",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/post-54.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/post-54.php"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休（祝日は営業）"
+    },
+    {
+      "name": "慈眼寺温泉",
+      "address": "鹿児島県鹿児島市谷山中央6-35-20",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-53.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-53.php"
+      ],
+      "confidence": "high",
+      "notice": "第2・4月曜定休"
+    },
+    {
+      "name": "湯の川温泉",
+      "address": "鹿児島県鹿児島市坂之上7-33-60",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-56.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-56.php"
+      ],
+      "confidence": "high",
+      "notice": "第2火曜定休。月・金曜は13:00から"
+    },
+    {
+      "name": "谷山温泉えびす湯",
+      "address": "鹿児島県鹿児島市谷山中央1-7-3",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "男女とも遠赤外線ドライサウナ。La Plus 3階",
+      "url": "https://laplus-net.com/facility/store/ebisuyu/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/taniyama/post-76.php",
+        "https://laplus-net.com/facility/store/ebisuyu/"
+      ],
+      "confidence": "high",
+      "notice": "第1・3火曜定休（祝日の場合翌日）"
+    },
+    {
+      "name": "みやこ温泉",
+      "address": "鹿児島県鹿児島市上竜尾町5-28",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://miyakoonsen.c.ooco.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-1.php",
+        "http://miyakoonsen.c.ooco.jp/",
+        "https://www.kagoshima-onsen1010.net/info/10524.php"
+      ],
+      "confidence": "high",
+      "notice": "第1・3月曜定休（祝日の場合翌日）",
+      "note": "2026/10/5〜10/24内装工事で休業（延長の告知なし）"
+    },
+    {
+      "name": "坂元温泉",
+      "address": "鹿児島県鹿児島市坂元町18-19",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-3.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-3.php"
+      ],
+      "confidence": "high",
+      "notice": "日曜・第1・3月曜定休"
+    },
+    {
+      "name": "霧島温泉",
+      "address": "鹿児島県鹿児島市西千石町6-20",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kirishima-onsen.net/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-5.php"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "城山長寿泉",
+      "address": "鹿児島県鹿児島市城山町20-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-75.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post-75.php"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "かごっま温泉",
+      "address": "鹿児島県鹿児島市易居町3-28",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/uemachi-tyuo/post.php"
+      ],
+      "confidence": "high",
+      "notice": "毎月5・15・25日休み"
+    },
+    {
+      "name": "吉野温泉",
+      "address": "鹿児島県鹿児島市吉野1-41-6",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://yoshinoonsen.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/yoshino-yoshida/post-17.php"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜定休"
+    },
+    {
+      "name": "渓谷苑",
+      "address": "鹿児島県鹿児島市東佐多町710-2",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "男女とも遠赤外線サウナ（床に冷水が流れる玉石敷き）",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/yoshino-yoshida/post-18.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kagoshima/yoshino-yoshida/post-18.php"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休（祝日の場合翌日）",
+      "note": "組合加盟の公衆浴場。料金は統制料金で記載。公式サイト（keikokuen.com）はリンク切れ"
+    },
+    {
+      "name": "さくらじま白浜温泉センター",
+      "address": "鹿児島県鹿児島市桜島白浜町1269",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/kenkosoumu/shisetsu/kenko/sakurajimashirahama.html",
+      "sources": [
+        "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/kenkosoumu/shisetsu/kenko/sakurajimashirahama.html",
+        "https://onsen.nifty.com/sakurajima-onsen/onsen004755/"
+      ],
+      "confidence": "high",
+      "notice": "毎月10日休館（土日祝の場合翌平日）"
+    },
+    {
+      "name": "桜島マグマ温泉（国民宿舎レインボー桜島）",
+      "address": "鹿児島県鹿児島市桜島横山町1722-16",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://rainbow-sakurajima.com/spa/",
+      "sources": [
+        "https://rainbow-sakurajima.com/spa/",
+        "https://onsen.nifty.com/sakurajima-onsen/onsen004828/"
+      ],
+      "confidence": "medium",
+      "notice": "2026/12/1・2は外来入浴休館",
+      "note": "公式の温泉ページにサウナの記載なし（ニフティ・サウナイキタイはサウナあり）"
+    },
+    {
+      "name": "スパランド裸・楽・良",
+      "address": "鹿児島県鹿児島市東俣町1450",
+      "weekdayAdult": 590,
+      "holidayAdult": 590,
+      "saunaFee": 0,
+      "priceNote": "浴室利用（部分使用）。水着のスパゾーン込みは790円。大人は高校生以上",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "大浴場（男女別）にロウリュサウナ",
+      "url": "http://www.spa-rarara.com/",
+      "sources": [
+        "http://www.spa-rarara.com/facility/",
+        "http://www.spa-rarara.com/"
+      ],
+      "confidence": "high",
+      "notice": "屋上防水工事のため露天風呂の一部休止のお知らせあり"
+    },
+    {
+      "name": "あいハウジングアリーナ松元 温泉",
+      "address": "鹿児島県鹿児島市上谷口町3400",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2025/10/1改定",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナ",
+      "url": "http://www.hiranooka.com/page2.html",
+      "sources": [
+        "http://www.hiranooka.com/page2.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は次の平日）",
+      "note": "ニフティでは「まつもと温泉」の名でも掲載"
+    },
+    {
+      "name": "マリンピア喜入 八幡温泉保養館",
+      "address": "鹿児島県鹿児島市喜入町6094-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "http://www.michinoeki-kiire.jp/",
+      "sources": [
+        "http://www.michinoeki-kiire.jp/guide",
+        "http://www.michinoeki-kiire.jp/equipment/"
+      ],
+      "confidence": "medium",
+      "notice": "第2月曜休館（祝日の場合翌日）",
+      "note": "公式に泉質の記載なし（「温泉」と案内）。るるぶ掲載の施設回答では単純温泉"
+    },
+    {
+      "name": "鹿児島サンロイヤルホテル 最上階天然展望温泉",
+      "address": "鹿児島県鹿児島市与次郎1-8-10",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "男湯に遠赤外線サウナ、女湯にスチームサウナ",
+      "url": "https://www.sunroyal.co.jp/spa/index.html",
+      "sources": [
+        "https://www.sunroyal.co.jp/spa/index.html"
+      ],
+      "confidence": "high",
+      "notice": "入浴6:00〜10:00・15:00〜翌0:00"
+    },
+    {
+      "name": "SHIROYAMA HOTEL kagoshima さつま乃湯",
+      "address": "鹿児島県鹿児島市新照院町41-1",
+      "weekdayAdult": 3500,
+      "holidayAdult": 3500,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "男女とも低温スチームサウナ",
+      "url": "https://www.shiroyama-g.co.jp/spa/satsuma",
+      "sources": [
+        "https://www.shiroyama-g.co.jp/spa/satsuma"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴13:00〜21:00"
+    },
+    {
+      "name": "マリンパレスかごしま 展望温泉",
+      "address": "鹿児島県鹿児島市与次郎2-8-8",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "バスタオル・フェイスタオル込み",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://www.maripala.com/onsen/",
+      "sources": [
+        "https://www.maripala.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは平日6:30〜10:00・15:00〜22:00、水土日6:30〜10:00・12:00〜22:00"
+    },
+    {
+      "name": "めぐみの湯 錦龍館",
+      "address": "鹿児島県日置市東市来町湯田3355",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "男女ともヒノキのミストサウナ",
+      "url": "https://hiokishi-kankou.com/spot/spot205/",
+      "sources": [
+        "https://hiokishi-kankou.com/spot/spot205/",
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen017431/"
+      ],
+      "confidence": "medium",
+      "notice": "金曜定休",
+      "note": "料金はニフティ。観光協会ページはサウナ記載のみ"
+    },
+    {
+      "name": "ゆかいだ温泉 つれづれの湯",
+      "address": "鹿児島県日置市東市来町湯田4256",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.city.hioki.kagoshima.jp/kanko/kankou/tomaru-onsen/onsen/yukaidaonsen.html",
+      "sources": [
+        "https://www.city.hioki.kagoshima.jp/kanko/kankou/tomaru-onsen/onsen/yukaidaonsen.html"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休"
+    },
+    {
+      "name": "せせらぎの湯 花水木",
+      "address": "鹿児島県日置市伊集院町大田2768",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.city.hioki.kagoshima.jp/kanko/kankou/tomaru-onsen/onsen/hanamizuki.html",
+      "sources": [
+        "https://www.city.hioki.kagoshima.jp/kanko/kankou/tomaru-onsen/onsen/hanamizuki.html"
+      ],
+      "confidence": "high",
+      "notice": "5月・11月の第2木曜休館"
+    },
+    {
+      "name": "日置市健康づくり複合施設 ゆすいん",
+      "address": "鹿児島県日置市伊集院町野田1557",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "1回料金（1日660円）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.city.hioki.kagoshima.jp/",
+      "sources": [
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen004876/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4火曜休館（祝日の場合翌日）",
+      "note": "日置市の施設ページは404。ニフティ情報"
+    },
+    {
+      "name": "ふくずみの湯",
+      "address": "鹿児島県日置市吹上町湯之浦2515",
+      "weekdayAdult": 440,
+      "holidayAdult": 440,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://fukuzuminoyu.jp/",
+      "sources": [
+        "https://fukuzuminoyu.jp/",
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen019618/"
+      ],
+      "confidence": "medium",
+      "notice": "第1火曜定休（祝日・長期休暇中は営業）",
+      "note": "サウナは公式、料金はニフティ"
+    },
+    {
+      "name": "市来ふれあい温泉センター",
+      "address": "鹿児島県いちき串木野市湊町1-100",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://ichiki.onsen.center/",
+      "sources": [
+        "https://ichiki.onsen.center/price"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2月曜は16:00から"
+    },
+    {
+      "name": "冠岳温泉",
+      "address": "鹿児島県いちき串木野市冠嶽13668",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "http://kanmuridake-spa.com/",
+      "sources": [
+        "https://onsen.nifty.com/sendai-kagoshima-onsen/onsen011243/"
+      ],
+      "confidence": "medium",
+      "notice": "第1水曜定休",
+      "note": "公式は料金表示なし。ニフティ（2022/11改定の料金）"
+    },
+    {
+      "name": "SPA HOTEL YUTTARIKAN 天神の湯",
+      "address": "鹿児島県薩摩川内市東郷町斧渕1940-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "和風・洋風の浴場とも（日替わりで男女入替）",
+      "url": "https://www.hotel-areaone.com/yuttarikan/spa.html",
+      "sources": [
+        "https://www.hotel-areaone.com/yuttarikan/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り7:30〜21:50（受付21:00まで）"
+    },
+    {
+      "name": "HOTEL AREAONE KOSHIKI ISLAND 日帰り温泉",
+      "address": "鹿児島県薩摩川内市里町里1619-15",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://www.hotel-areaone.com/koshiki/spa.html",
+      "sources": [
+        "https://www.hotel-areaone.com/koshiki/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴14:00〜22:00"
+    },
+    {
+      "name": "旅館 薩摩の里",
+      "address": "鹿児島県薩摩川内市樋脇町市比野4134",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり。ラドン温熱ルームは男女日替わり",
+      "url": "https://satsumanosato.jp/onsen/",
+      "sources": [
+        "https://satsumanosato.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "立寄り湯13:00〜21:00"
+    },
+    {
+      "name": "高城の湯 山桜桃",
+      "address": "鹿児島県薩摩川内市湯田町6460",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "http://takinoyu-yusura.com/",
+      "sources": [
+        "https://onsen.nifty.com/sendai-kagoshima-onsen/onsen013251/"
+      ],
+      "confidence": "medium",
+      "note": "公式に日帰り料金の記載なし。ニフティ"
+    },
+    {
+      "name": "温泉平佐城",
+      "address": "鹿児島県薩摩川内市平佐町2228-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://hirasaonsen.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/satsumasendai/post-7.php"
+      ],
+      "confidence": "medium",
+      "notice": "金曜定休",
+      "note": "組合加盟の公衆浴場のため統制料金で記載。公式サイトとニフティは旧料金420円のまま"
+    },
+    {
+      "name": "川内ホテル 川内温泉センター",
+      "address": "鹿児島県薩摩川内市鳥追町7-5",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "大人は高校生以上（中学生310円）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "スチームサウナ（男湯のみとの情報あり）",
+      "url": "https://sendai-hotel.co.jp/",
+      "sources": [
+        "https://sendai-hotel.co.jp/",
+        "https://onsen.nifty.com/sendai-kagoshima-onsen/onsen011245/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り6:00〜23:00",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "ホテルグリーンヒル",
+      "address": "鹿児島県薩摩川内市樋脇町市比野250",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "http://www.hotel-green-hill.com/",
+      "sources": [
+        "https://onsen.nifty.com/sendai-kagoshima-onsen/onsen004870/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り12:00〜21:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式に日帰り情報なし。ニフティ"
+    },
+    {
+      "name": "紫尾温泉 湯の宿 くすのき",
+      "address": "鹿児島県薩摩郡さつま町紫尾2162",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線サウナ",
+      "url": "https://shibiyunoyado-kusunoki.jp/spa/",
+      "sources": [
+        "https://shibiyunoyado-kusunoki.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休"
+    },
+    {
+      "name": "さつま町健康ふれあいセンター あび～る館",
+      "address": "鹿児島県薩摩郡さつま町神子228-7",
+      "weekdayAdult": 380,
+      "holidayAdult": 380,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://abirukan.jimdofree.com/",
+      "sources": [
+        "https://onsen.nifty.com/kitasatsuma-onsen/onsen004821/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4火曜休館",
+      "note": "ニフティ380円・サウナイキタイ330円と食い違い"
+    },
+    {
+      "name": "平和温泉センター",
+      "address": "鹿児島県薩摩郡さつま町轟町23-1",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.satsuma-net.jp/kanko/tomaru_onsen/3/544-1/333.html",
+      "sources": [
+        "https://www.satsuma-net.jp/kanko/tomaru_onsen/3/544-1/333.html"
+      ],
+      "confidence": "high",
+      "notice": "第1・3木曜休み（変更あり）"
+    },
+    {
+      "name": "ふれあい温泉ぼんたん湯（栄屋旅館）",
+      "address": "鹿児島県阿久根市大丸町94",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/akune/post-6.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/akune/post-6.php"
+      ],
+      "confidence": "medium",
+      "notice": "6:00〜10:30・15:00〜21:30。不定休",
+      "note": "組合加盟の公衆浴場のため統制料金で記載（サウナイキタイは旧料金400円）"
+    },
+    {
+      "name": "ビジネスホテル クアドーム",
+      "address": "鹿児島県阿久根市赤瀬川3127-5",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "https://cure-dome.com/",
+      "sources": [
+        "https://onsen.nifty.com/kitasatsuma-onsen/onsen016769/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り10:30〜21:30",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "ビジネスホテル ロックスイン",
+      "address": "鹿児島県阿久根市港町63",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "https://rocks-inn.site.kagoshima.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kitasatsuma-onsen/onsen017885/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り16:00〜21:30",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "天然温泉 ぬくもりの湯",
+      "address": "鹿児島県出水市明神町1744-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.nukumorino-yu.com/",
+      "sources": [
+        "https://www.nukumorino-yu.com/onsen.php"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休（祝日・26日は営業）"
+    },
+    {
+      "name": "温泉センターもみじ",
+      "address": "鹿児島県出水市高尾野町大久保634",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://izumi-kankou.main.jp/portfolio/momiji-spa/",
+      "sources": [
+        "https://izumi-kankou.main.jp/portfolio/momiji-spa/"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜定休（祝日の場合翌日）"
+    },
+    {
+      "name": "長島温泉センター 椿の湯",
+      "address": "鹿児島県出水郡長島町指江1553",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.town.nagashima.lg.jp/sightseeing/si0021/",
+      "sources": [
+        "https://www.town.nagashima.lg.jp/sightseeing/si0021/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休館（祝日の場合翌日）"
+    },
+    {
+      "name": "太陽の里温泉センター 東泉望",
+      "address": "鹿児島県出水郡長島町鷹巣333-32",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.town.nagashima.lg.jp/sightseeing/si0021/",
+      "sources": [
+        "https://www.town.nagashima.lg.jp/sightseeing/si0021/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合翌日）"
+    },
+    {
+      "name": "針持温泉 つるつる美肌美人の湯",
+      "address": "鹿児島県伊佐市大口針持1235-8",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://isatan.jp/2019/03/15/harimochionsen/",
+      "sources": [
+        "https://onsen.nifty.com/kitasatsuma-onsen/onsen004914/"
+      ],
+      "confidence": "medium",
+      "notice": "不定休",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "まごし温泉",
+      "address": "鹿児島県伊佐市菱刈前目711-1",
+      "weekdayAdult": 380,
+      "holidayAdult": 380,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "遠赤外線サウナ（乾式）と低温の湿式サウナ。和風・洋風の浴場は日替わり",
+      "url": "https://www.city.isa.kagoshima.jp/life/living/shisetsu/",
+      "sources": [
+        "https://www.city.isa.kagoshima.jp/life/living/shisetsu/"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休"
+    },
+    {
+      "name": "WellBe Club（ウェルビークラブ）スパ",
+      "address": "鹿児島県姶良市東餅田1181",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。クラブ登録なしのスパ利用",
+      "saunaTypes": [],
+      "saunaNote": "スパにサウナ",
+      "url": "https://wellbeclub.com/",
+      "sources": [
+        "https://wellbeclub.com/",
+        "https://www.city.aira.lg.jp/kanko/kanko/onsen/wellbeclub.html"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "姶良市温泉センター くすの湯",
+      "address": "鹿児島県姶良市蒲生町白男1504",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://www.city.aira.lg.jp/chiiki-kamo/gyosei/shisetsu/kanko/kusunoyu.html",
+      "sources": [
+        "http://www.city.aira.lg.jp/chiiki-kamo/gyosei/shisetsu/kanko/kusunoyu.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館。2026/11/24〜11/30はサウナ改修のため臨時休館"
+    },
+    {
+      "name": "健康の駅 フォンタナの丘かもう",
+      "address": "鹿児島県姶良市蒲生町久末434-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://f-kamou.com/spa",
+      "sources": [
+        "https://f-kamou.com/spa"
+      ],
+      "confidence": "high",
+      "notice": "日帰り8:00〜20:00（受付19:00まで）"
+    },
+    {
+      "name": "重富温泉",
+      "address": "鹿児島県姶良市平松6135",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.city.aira.lg.jp/kanko/kanko/shisetsu/shigetomionsen.html",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen004879/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4水曜定休",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "加治木温泉",
+      "address": "鹿児島県姶良市加治木町木田2041-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "http://kajiki-onsen.jimdofree.com/",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen016620/"
+      ],
+      "confidence": "medium",
+      "notice": "5:00〜10:00・13:00〜23:30。年中無休",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "一心桜姶良温泉",
+      "address": "鹿児島県姶良市平松2663-24",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（低温、ポータル情報）",
+      "url": "https://spa-isshin.sakura.ne.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen019580/"
+      ],
+      "confidence": "medium",
+      "notice": "第3火曜定休（祝日の場合翌日）",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "前田温泉 カジロが湯",
+      "address": "鹿児島県霧島市牧園町高千穂3914",
+      "weekdayAdult": 430,
+      "holidayAdult": 430,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "地熱を利用したサウナ（男女）",
+      "url": "http://www.maedasangyo.com/",
+      "sources": [
+        "http://www.maedasangyo.com/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "硫黄谷温泉 霧島ホテル",
+      "address": "鹿児島県霧島市牧園町高千穂3948",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "年末年始・GW・お盆は1,500円",
+      "saunaTypes": [],
+      "saunaNote": "男女の大浴場にサウナ（日帰りも無料で利用可）",
+      "url": "https://www.kirishima-hotel.jp/spa/oneday.php",
+      "sources": [
+        "https://www.kirishima-hotel.jp/spa/oneday.php",
+        "https://www.kirishima-hotel.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り11:00〜17:00"
+    },
+    {
+      "name": "霧島国際ホテル 本館大浴場",
+      "address": "鹿児島県霧島市牧園町高千穂3930-12",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ・岩盤サウナ",
+      "url": "https://www.kirishima-kokusai.com/onsen/dayuse/",
+      "sources": [
+        "https://www.kirishima-kokusai.com/onsen/dayuse/",
+        "https://www.kirishima-kokusai.com/onsen/large/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り11:00〜15:00（受付14:00まで）。年末年始・GW・お盆・祝日などは休止の場合あり"
+    },
+    {
+      "name": "霧島観光ホテル",
+      "address": "鹿児島県霧島市牧園町高千穂3885",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.kirikan.jp/daytrip/",
+      "sources": [
+        "https://www.kirikan.jp/daytrip/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り12:00〜18:00（受付16:00まで）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式の日帰りページにサウナの記載なし"
+    },
+    {
+      "name": "ホテル霧島キャッスル",
+      "address": "鹿児島県霧島市牧園町高千穂3878-49",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://hmihotelgroup.com/ryokan-kirishima/onsen/index.php",
+      "sources": [
+        "https://hmihotelgroup.com/ryokan-kirishima/onsen/index.php"
+      ],
+      "confidence": "high",
+      "notice": "日帰り15:30〜19:00"
+    },
+    {
+      "name": "ホテル京セラ 温泉大浴場",
+      "address": "鹿児島県霧島市隼人町見次1409-1",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "ドライサウナ（約90℃）。日帰りサウナ可",
+      "url": "https://www.h-kyocera.co.jp/oxya/",
+      "sources": [
+        "https://www.h-kyocera.co.jp/oxya/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り8:00〜20:00（11:00〜13:00は清掃）"
+    },
+    {
+      "name": "城山温泉（シティホテルイン国分）",
+      "address": "鹿児島県霧島市国分上小川4256",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.chik.co.jp/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kirishima/post-68.php",
+        "https://www.chik.co.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "温泉・サウナ14:00〜23:00（第4月曜は16:00から）",
+      "note": "組合加盟の公衆浴場のため統制料金で記載"
+    },
+    {
+      "name": "霧島市横川町健康温泉センター",
+      "address": "鹿児島県霧島市横川町中ノ254-1",
+      "weekdayAdult": 380,
+      "holidayAdult": 380,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.city-kirishima.jp/hoken-seisaku/shisetsu/hoken/022.html",
+      "sources": [
+        "https://onsen.nifty.com/kirishima-onsen/onsen006951/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "料金はニフティ。天然温泉の明記はポータルにもなし"
+    },
+    {
+      "name": "霧島市霧島温泉健康増進交流センター 神乃湯",
+      "address": "鹿児島県霧島市霧島田口501",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.city-kirishima.jp/hoken-seisaku/kosodate/shisetsu/fukushi/kaminoyu.html",
+      "sources": [
+        "https://www.city-kirishima.jp/hoken-seisaku/kosodate/shisetsu/fukushi/kaminoyu.html"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休館（祝日の場合はその後の平日）",
+      "note": "料金は市のページ。サウナはサウナイキタイのみ"
+    },
+    {
+      "name": "浜之市ふれあいセンター 富の湯",
+      "address": "鹿児島県霧島市隼人町真孝390",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.taisei-bs.com/hamanoichi/index.html",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen010743/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "心の湯",
+      "address": "鹿児島県霧島市国分清水1-6-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.instagram.com/ko_ko_ro_no_yu/",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen019795/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "日当山温泉 花の湯",
+      "address": "鹿児島県霧島市隼人町姫城2-38",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "1日入浴900円",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://hananoyu-hinatayama.com/",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen007124/"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "料金はニフティ・サウナイキタイ。公式は画像のみ"
+    },
+    {
+      "name": "日当山温泉 富士の湯",
+      "address": "鹿児島県霧島市隼人町姫城2-163",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "http://www.kagoshimaonsen.jp/?s=1406&pg=onsen&id=696",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen017450/"
+      ],
+      "confidence": "medium",
+      "notice": "不定休",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "弘寿温泉",
+      "address": "鹿児島県霧島市牧園町万膳931-9",
+      "weekdayAdult": 200,
+      "holidayAdult": 200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.facebook.com/profile.php?id=100067054690790",
+      "sources": [
+        "https://onsen.nifty.com/kirishima-onsen/onsen018057/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "エル・エール 天降川 住吉温泉",
+      "address": "鹿児島県霧島市隼人町住吉638-12",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://onsen.nifty.com/kokubu-onsen/onsen017456/",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen017456/"
+      ],
+      "confidence": "medium",
+      "notice": "14:00〜20:00。月・火・水曜休み",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "砂むし会館「砂楽」",
+      "address": "鹿児島県指宿市湯の浜5-25-18",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "温泉のみの料金（砂むしは別料金）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "ドライサウナ",
+      "url": "https://www.ibusuki-saraku.jp/ja",
+      "sources": [
+        "https://www.ibusuki-saraku.jp/ja/guide",
+        "https://onsen.nifty.com/ibusuki-onsen/onsen004776/"
+      ],
+      "confidence": "medium",
+      "notice": "7月・12月に点検のための臨時休館あり",
+      "note": "サウナは公式。料金表は画像のためニフティ・サウナイキタイの800円"
+    },
+    {
+      "name": "指宿 こころの湯",
+      "address": "鹿児島県指宿市東方9227-6",
+      "weekdayAdult": 700,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "特別料金の日あり",
+      "saunaTypes": [],
+      "saunaNote": "2種類のサウナ",
+      "url": "http://www.ibusukikokoro.jp/",
+      "sources": [
+        "http://www.ibusukikokoro.jp/",
+        "https://ibusukikokoro.jp/userguide/",
+        "https://onsen.nifty.com/ibusuki-onsen/onsen004923/"
+      ],
+      "confidence": "medium",
+      "notice": "6:00〜10:00は朝風呂（内湯のみ）、通常10:00〜22:30",
+      "note": "料金はニフティ（公式に料金表示なし）"
+    },
+    {
+      "name": "指宿白水館 元禄風呂",
+      "address": "鹿児島県指宿市東方12126-12",
+      "weekdayAdult": 3400,
+      "holidayAdult": 3400,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。8/8〜8/16は4,500円。砂むし付きは4,940円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "元禄風呂内の江戸柘榴風呂（蒸し風呂）",
+      "url": "https://www.hakusuikan.co.jp/hotspa/genroku/",
+      "sources": [
+        "https://www.hakusuikan.co.jp/hotspa/genroku/"
+      ],
+      "confidence": "medium",
+      "notice": "外来入浴15:00〜18:00。日によって受けられない場合あり",
+      "note": "公式に「サウナ」の語はなく蒸し風呂（柘榴風呂）の記載"
+    },
+    {
+      "name": "指宿シーサイドホテル",
+      "address": "鹿児島県指宿市十町1912",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "http://www.ibusuki-seaside.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/ibusuki-onsen/onsen004845/"
+      ],
+      "confidence": "low",
+      "notice": "大浴場日帰り15:00〜21:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式に日帰り情報なし。ニフティのみ"
+    },
+    {
+      "name": "レジャーセンターかいもん 温泉保健保養館",
+      "address": "鹿児島県指宿市開聞川尻5401-6",
+      "weekdayAdult": 440,
+      "holidayAdult": 440,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.ibusuki.or.jp/spa/public/leisure/",
+      "sources": [
+        "https://onsen.nifty.com/ibusuki-onsen/onsen009882/"
+      ],
+      "confidence": "medium",
+      "notice": "14:00〜20:00。水曜定休（祝日は営業し翌日休み）",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "ホテル末広温泉",
+      "address": "鹿児島県南九州市知覧町郡5392",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "中学生380円",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://suehiro-onsen.jp/",
+      "sources": [
+        "https://suehiro-onsen.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "15:00〜21:30（受付21:00まで）",
+      "note": "料金は公式、サウナはサウナイキタイ"
+    },
+    {
+      "name": "えい中央温泉",
+      "address": "鹿児島県南九州市頴娃町牧之内2890",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "http://eionsen.com/",
+      "sources": [
+        "http://eionsen.com/"
+      ],
+      "confidence": "medium",
+      "notice": "13:00〜21:00。月曜定休（祝日の場合翌日）",
+      "note": "料金は公式、サウナはニフティ・サウナイキタイ"
+    },
+    {
+      "name": "えい別府温泉センター",
+      "address": "鹿児島県南九州市頴娃町別府5991-2",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.pref.kagoshima.jp/suisuinavi/18497.html",
+      "sources": [
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen004781/"
+      ],
+      "confidence": "medium",
+      "notice": "第1・3月曜休館（祝日の場合翌日）",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "ふれあいセンター わくわく川辺",
+      "address": "鹿児島県南九州市川辺町平山2890-1",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "https://wakuwakukawanabe.jimdosite.com/",
+      "sources": [
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen004769/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4水曜休館",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "川辺Ｋ温泉",
+      "address": "鹿児島県南九州市川辺町永田4069",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/minamikyusyu/post-63.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/minamikyusyu/post-63.php"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "鏡石湯",
+      "address": "鹿児島県南九州市川辺町野崎8290",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://www.kagamiishiyu.com/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/minamikyusyu/post-62.php",
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen016877/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休。月〜水曜は12:00〜20:00、金〜日・祝は9:00〜20:00",
+      "note": "泉質は「鉱泉」（組合ページ）"
+    },
+    {
+      "name": "ガンバリーナかせだ 海浜温泉ゆうらく",
+      "address": "鹿児島県南さつま市加世田高橋1952-2",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線サウナ",
+      "url": "https://www.ganbariina-kaseda.com/spa.php",
+      "sources": [
+        "https://www.ganbariina-kaseda.com/spa.php"
+      ],
+      "confidence": "high",
+      "notice": "第2火曜休館"
+    },
+    {
+      "name": "金峰温泉 交流の郷 南さつま いなほ館",
+      "address": "鹿児島県南さつま市金峰町浦之名1430",
+      "weekdayAdult": null,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.hakuraku.or.jp/",
+      "sources": [
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen004868/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は土日祝のみ（11:00〜20:00）",
+      "note": "ニフティ情報"
+    },
+    {
+      "name": "枕崎なぎさ温泉",
+      "address": "鹿児島県枕崎市岩戸町217",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "https://www.city.makurazaki.lg.jp/soshiki/suisan/354.html",
+      "sources": [
+        "https://www.city.makurazaki.lg.jp/soshiki/suisan/354.html",
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen004752/"
+      ],
+      "confidence": "medium",
+      "notice": "12:00〜21:00",
+      "note": "天然温泉は市のページ。料金・サウナはニフティ"
+    },
+    {
+      "name": "道の駅たるみず 湯っ足り館",
+      "address": "鹿児島県垂水市牛根麓1038-1",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://mitinoeki-tarumizu.com/onsen/",
+      "sources": [
+        "https://mitinoeki-tarumizu.com/onsen/"
+      ],
+      "confidence": "medium",
+      "notice": "13:00〜20:00。水曜定休（祝日は営業）",
+      "note": "料金は公式、サウナはニフティ・サウナイキタイ"
+    },
+    {
+      "name": "リブマックスリゾート桜島シーフロント 日帰り温泉",
+      "address": "鹿児島県垂水市錦江町1-194",
+      "weekdayAdult": 800,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "タオルなし。タオル付きは平日1,100円・土日祝1,400円",
+      "saunaTypes": [],
+      "saunaNote": "大浴場（開聞・桜島）にサウナ。曜日で男女入替",
+      "url": "https://www.livemax-resort.com/kagoshima/sakurajima_sf/hotspring/",
+      "sources": [
+        "https://www.livemax-resort.com/kagoshima/sakurajima_sf/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り10:00〜18:00（受付17:30まで）",
+      "note": "料金表の区分は表の並びから判断"
+    },
+    {
+      "name": "テイエム牧場温泉",
+      "address": "鹿児島県垂水市新城赤石4453-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.kagoshima-kankou.com/guide/53248",
+      "sources": [
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen004830/"
+      ],
+      "confidence": "medium",
+      "notice": "13:00〜18:00。木曜定休（祝日の場合は水曜）",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "ゆたか温泉",
+      "address": "鹿児島県鹿屋市田崎町319-1",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://yutakaonsen.com/",
+      "sources": [
+        "https://yutakaonsen.com/",
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen004919/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4火曜定休",
+      "note": "公式のお知らせで大人420円→460円に値上げ済み"
+    },
+    {
+      "name": "串良さくら温泉",
+      "address": "鹿児島県鹿屋市串良町下小原3948-1",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "1日利用550円",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://onsen.nifty.com/oosumihantou-onsen/onsen010344/",
+      "sources": [
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen010344/"
+      ],
+      "confidence": "medium",
+      "notice": "第1・3月曜休館（祝日の場合翌日）",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "湯遊ランドあいら",
+      "address": "鹿児島県鹿屋市吾平町麓2973",
+      "weekdayAdult": 390,
+      "holidayAdult": 390,
+      "saunaFee": 0,
+      "priceNote": "1回入浴（1日入浴650円）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://onsen.nifty.com/oosumihantou-onsen/onsen004756/",
+      "sources": [
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen004756/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ。天然温泉かは公式で未確認"
+    },
+    {
+      "name": "ホテル太平温泉",
+      "address": "鹿児島県鹿屋市新生町5-25",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "http://www.taihei-onsen.com/",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/kanoya/post-64.php"
+      ],
+      "confidence": "medium",
+      "notice": "第1月曜休み（GW・年始は変更あり）",
+      "note": "組合加盟の公衆浴場のため統制料金で記載（サウナイキタイは旧料金450円）"
+    },
+    {
+      "name": "国民宿舎 ボルベリアダグリ 岬の湯",
+      "address": "鹿児島県志布志市志布志町夏井203",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://b-daguri.com/facility-information/",
+      "sources": [
+        "https://b-daguri.com/facility-information/",
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen004833/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜13:00〜22:00、火〜日曜10:00〜22:00",
+      "note": "サウナは公式、料金はニフティ（サウナイキタイは520円）"
+    },
+    {
+      "name": "メセナ住吉交流センター メセナ温泉",
+      "address": "鹿児島県曽於市末吉町二之方2971-1",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "1回入浴（1日入浴550円）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "http://mecena-sueyoshi.com/onsen-mecena/",
+      "sources": [
+        "http://mecena-sueyoshi.com/onsen-mecena/"
+      ],
+      "confidence": "medium",
+      "notice": "第1・3月曜休館",
+      "note": "料金は公式、サウナはサウナイキタイ"
+    },
+    {
+      "name": "曽於市財部温泉健康センター",
+      "address": "鹿児島県曽於市財部町下財部357-1",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "1回入浴。大人は15歳以上（1日入浴550円）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線サウナ",
+      "url": "http://www.city.soo.kagoshima.jp/kankou_event/nyuuyokusyukuhaku/takarabeonsen.html",
+      "sources": [
+        "http://www.city.soo.kagoshima.jp/kankou_event/nyuuyokusyukuhaku/takarabeonsen.html"
+      ],
+      "confidence": "high",
+      "notice": "第2・4月曜休館（祝日の場合翌日）"
+    },
+    {
+      "name": "高山温泉ドーム",
+      "address": "鹿児島県肝属郡肝付町新富5590-35",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "遠赤外線サウナ・ミストサウナ",
+      "url": "https://kimotsuki-town.jp/soshiki/rinsuisyou/shokokanko/1/1/3521.html",
+      "sources": [
+        "https://kimotsuki-town.jp/soshiki/rinsuisyou/shokokanko/1/1/3521.html"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4水曜休館",
+      "note": "町のページに泉質の記載なし"
+    },
+    {
+      "name": "ねじめ温泉 ネッピー館",
+      "address": "鹿児島県肝属郡南大隅町根占川南732",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "通常入浴（1日入浴500円）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://www.aglica.com/neppie-onsen",
+      "sources": [
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen004831/"
+      ],
+      "confidence": "medium",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "屋久島 天然温泉 縄文の宿 まんてん",
+      "address": "鹿児島県熊毛郡屋久島町小瀬田812-33",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "入館料（タオルセット込み）",
+      "saunaTypes": [],
+      "saunaNote": "サウナ各種（ポータル情報）",
+      "url": "https://www.arm-manten.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/yakushima-onsen/onsen012082/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り温泉15:00〜22:00",
+      "note": "公式の温泉ページは取得不可。ニフティ（サウナイキタイは1,600円）"
+    },
+    {
+      "name": "種子島温泉 赤尾木の湯（種子島あらきホテル）",
+      "address": "鹿児島県西之表市西町78",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "1回料金（1日1,000円）",
+      "saunaTypes": [
+        "ロウリュ可",
+        "スチーム"
+      ],
+      "saunaNote": "男湯にオートロウリュサウナ、女湯にスチームサウナ",
+      "url": "https://araki-hotel.co.jp/onsen.html",
+      "sources": [
+        "https://araki-hotel.co.jp/onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "6:00〜23:00。メンテナンスの臨時休業あり"
+    },
+    {
+      "name": "中種子町 温泉保養センター",
+      "address": "鹿児島県熊毛郡中種子町坂井5542",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ",
+      "url": "https://town.nakatane.kagoshima.jp/fukushi/machinojoho/kanko/shukuhaku-onsen/onsen/onsenhoyocenter.html",
+      "sources": [
+        "https://town.nakatane.kagoshima.jp/fukushi/machinojoho/kanko/shukuhaku-onsen/onsen/onsenhoyocenter.html"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休"
+    },
+    {
+      "name": "南種子町河内温泉センター",
+      "address": "鹿児島県熊毛郡南種子町中之上341",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "一回券（一日券550円）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線サウナ",
+      "url": "http://www.town.minamitane.kagoshima.jp/institution/kawachionsen.html",
+      "sources": [
+        "http://www.town.minamitane.kagoshima.jp/institution/kawachionsen.html",
+        "https://onsen.nifty.com/tanegashima-onsen/onsen004887/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "サウナは町のページ、料金はニフティ（サウナイキタイは500円）"
+    },
+    {
+      "name": "奄美温泉 大和 ハナハナビーチリゾート",
+      "address": "鹿児島県大島郡大和村大棚1233",
+      "weekdayAdult": 3450,
+      "holidayAdult": 3450,
+      "saunaFee": 0,
+      "priceNote": "温泉入浴。屋外サウナ＆プール込みは5,210円",
+      "saunaTypes": [],
+      "saunaNote": "サウナ3種（大浴場と屋外サウナ＆プール）",
+      "url": "https://www.amamihanahana.com/price",
+      "sources": [
+        "https://www.amamihanahana.com/price",
+        "https://www.amamihanahana.com/onsen"
+      ],
+      "confidence": "medium",
+      "notice": "9:00〜22:00（受付21:00まで）",
+      "note": "大浴場内のサウナの有無は公式で明確でない（サウナイキタイは男女サウナあり）"
+    },
+    {
+      "name": "吹上温泉 新湯温泉旅館",
+      "address": "鹿児島県日置市吹上町湯之浦1194",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "温泉の熱と水蒸気を利用したサウナ",
+      "url": "https://shinyuonsen.com/onsen.html",
+      "sources": [
+        "https://shinyuonsen.com/onsen.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "湯どころ あったろう",
+      "address": "鹿児島県日置市東市来町湯田731",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://eguchiya.jp/spa/",
+      "sources": [
+        "https://eguchiya.jp/spa/",
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen024699/"
+      ],
+      "confidence": "medium",
+      "notice": "11:00〜19:00（受付18:00まで）。水曜休み",
+      "note": "料金は公式、サウナはサウナイキタイ"
+    },
+    {
+      "name": "天然温泉ひよし（日吉老人福祉センター）",
+      "address": "鹿児島県日置市日吉町日置1132-1",
+      "weekdayAdult": 330,
+      "holidayAdult": 330,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは男湯のみ（ポータル情報）",
+      "url": "https://www.hiokishi-syakyo.com/",
+      "sources": [
+        "https://onsen.nifty.com/minamisatsuma-onsen/onsen017488/"
+      ],
+      "confidence": "medium",
+      "notice": "10:30〜21:00。第3水曜休み",
+      "note": "料金はニフティ"
+    },
+    {
+      "name": "入来温泉 湯之山館",
+      "address": "鹿児島県薩摩川内市入来町副田6179",
+      "weekdayAdult": 270,
+      "holidayAdult": 270,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ室あり（男湯のみとの情報あり）",
+      "url": "https://yunoyamakan.jimdofree.com/",
+      "sources": [
+        "https://yunoyamakan.jimdofree.com/"
+      ],
+      "confidence": "high",
+      "notice": "6:00〜22:00。第1・3月曜休み"
+    },
+    {
+      "name": "霧島温泉 旅の湯",
+      "address": "鹿児島県霧島市牧園町三体堂1824-41",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（低温、ポータル情報）",
+      "url": "https://onsen.nifty.com/kirishima-onsen/onsen004788/",
+      "sources": [
+        "https://onsen.nifty.com/kirishima-onsen/onsen004788/"
+      ],
+      "confidence": "medium",
+      "notice": "立ち寄り湯11:00〜21:00",
+      "note": "料金はニフティ、サウナはサウナイキタイ"
+    },
+    {
+      "name": "隈之城温泉",
+      "address": "鹿児島県薩摩川内市隈之城町1195",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（ポータル情報）",
+      "url": "https://kumanojou-spa.com/",
+      "sources": [
+        "https://kumanojou-spa.com/",
+        "https://onsen.nifty.com/sendai-kagoshima-onsen/onsen011244/"
+      ],
+      "confidence": "low",
+      "notice": "6:00〜22:30",
+      "note": "料金はニフティ450円・サウナイキタイ460円で食い違い。公式に料金表示なし"
+    },
+    {
+      "name": "つばき湯",
+      "address": "鹿児島県霧島市隼人町姫城1911-28",
+      "weekdayAdult": 390,
+      "holidayAdult": 390,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（ポータル情報）",
+      "url": "https://onsen.nifty.com/kokubu-onsen/onsen019775/",
+      "sources": [
+        "https://onsen.nifty.com/kokubu-onsen/onsen019775/"
+      ],
+      "confidence": "low",
+      "notice": "火曜定休",
+      "note": "ニフティ390円・サウナイキタイ300円で食い違い"
+    },
+    {
+      "name": "さかいだ温泉",
+      "address": "鹿児島県霧島市牧園町宿窪田4179",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ（低温、ポータル情報）",
+      "url": "https://onsen.nifty.com/kirishima-onsen/onsen004902/",
+      "sources": [
+        "https://onsen.nifty.com/kirishima-onsen/onsen004902/"
+      ],
+      "confidence": "low",
+      "notice": "木曜定休",
+      "note": "ニフティ300円（霧島市観光協会資料）・サウナイキタイ400円で食い違い"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "亀乃湯（鹿児島市）",
+      "reason": "人工温泉。2026/10から機械故障で休業（再開未定）"
+    },
+    {
+      "name": "一本桜温泉センター",
+      "reason": "2026年3月から建替え工事で休業（2028年度再開予定）"
+    },
+    {
+      "name": "ホテルニューニシノ",
+      "reason": "温泉掘削中で現在は天然温泉ではない（2027年2月頃新湯予定）。温浴施設は男性専用"
+    },
+    {
+      "name": "梅ヶ渕温泉",
+      "reason": "休業中（公式。再開未定）"
+    },
+    {
+      "name": "龍門滝温泉",
+      "reason": "2025年8月の大雨災害で休館中（復旧時期未定）"
+    },
+    {
+      "name": "数寄の宿 野鶴亭",
+      "reason": "改修工事中でサウナ利用不可（日帰り入浴は営業）"
+    },
+    {
+      "name": "トロピカルガーデンかみかわ",
+      "reason": "設備老朽化のため2026年3月で休止"
+    },
+    {
+      "name": "いきいきセンターくりの郷",
+      "reason": "休業中（ニフティ）"
+    },
+    {
+      "name": "くしき野白浜温泉 みすまるの湯",
+      "reason": "廃業（組合ページ）"
+    },
+    {
+      "name": "吉田温泉（霧島市）",
+      "reason": "2025年8月8日から休業中。サウナなし"
+    },
+    {
+      "name": "国分温泉",
+      "reason": "休業中（サウナイキタイ）"
+    },
+    {
+      "name": "セントロランド（道の駅くにの松原おおさき・ホテルあすぱる）",
+      "reason": "天然温泉ではなく沸かし湯"
+    },
+    {
+      "name": "志布志湾 大黒リゾートホテル",
+      "reason": "天然活海水の湯で温泉ではない"
+    },
+    {
+      "name": "ホテルビッグマリン奄美",
+      "reason": "光明石温泉（人工温泉）"
+    },
+    {
+      "name": "ホテル レクストン鹿児島",
+      "reason": "天然鉱石の大浴場で温泉ではない（男性専用）"
+    },
+    {
+      "name": "エクセルサウナタイセイ",
+      "reason": "天然温泉の記載なし"
+    },
+    {
+      "name": "繋がるサウナ THE BARREL",
+      "reason": "天然温泉の記載なし（サウナ施設）"
+    },
+    {
+      "name": "指宿いわさきホテル",
+      "reason": "長期休館中"
+    },
+    {
+      "name": "霧島いわさきホテル",
+      "reason": "閉館"
+    },
+    {
+      "name": "野天風呂 薩摩 いろはの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "池田温泉（鹿児島市）",
+      "reason": "閉館"
+    },
+    {
+      "name": "知覧温泉センター",
+      "reason": "閉館"
+    },
+    {
+      "name": "南さつま地域交流センター いろは館",
+      "reason": "閉館"
+    },
+    {
+      "name": "阿久根温泉 グランビューあくね",
+      "reason": "閉館"
+    },
+    {
+      "name": "こすもす温泉（湧水町）",
+      "reason": "閉館"
+    },
+    {
+      "name": "観音滝温泉 滝の宿",
+      "reason": "閉館"
+    },
+    {
+      "name": "霧島第一ホテル スパヒルズ",
+      "reason": "閉館"
+    },
+    {
+      "name": "ドーミーイン鹿児島 霧桜の湯",
+      "reason": "宿泊者限定"
+    },
+    {
+      "name": "ラビスタ霧島ヒルズ",
+      "reason": "宿泊者限定"
+    },
+    {
+      "name": "天然温泉 ホテル自治会館",
+      "reason": "宿泊者限定"
+    },
+    {
+      "name": "薩摩黒温泉 山華",
+      "reason": "貸切（個室）の家族湯・サウナのみ"
+    },
+    {
+      "name": "古民家村家族湯 天空",
+      "reason": "貸切（個室）の家族湯・サウナのみ"
+    },
+    {
+      "name": "VILLA FUMOTO（銀の湯）",
+      "reason": "貸切（個室）の温泉・サウナのみ"
+    },
+    {
+      "name": "みょうばんの湯・大黒温泉・永盛温泉（鹿児島市）",
+      "reason": "サウナなし（組合ページ）"
+    },
+    {
+      "name": "妙見石原荘",
+      "reason": "日帰りは食事付きプランのみで入浴単独料金を確認できず"
+    }
+  ],
+  "notes": "ニフティ温泉の鹿児島県サウナ一覧（199件）、サウナイキタイ鹿児島県一覧（294件）、鹿児島県公衆浴場業生活衛生同業組合サイト（kagoshima-onsen1010.net）の県内銭湯ページ（56件）を突き合わせて候補を出し、公式・自治体ページで確認した。県の公衆浴場統制料金は基準日時点で大人460円、2026/11/1から500円（組合告知・県の審議会）。組合加盟の銭湯はこの統制料金で記載し、priceNote に改定を書いた（組合ページに料金の記載はない。サウナは入浴料に含まれる前提で saunaFee 0）。サウナの男女別はサウナイキタイ一覧の男女別温度表示による。公式で日帰り料金やサウナを確認できない町営・小規模施設はニフティ等の情報で medium、ポータル間で料金が食い違うものは low。未収録（住所・料金・天然温泉・サウナを確認しきれず）: 溝辺ふれあい温泉センター・安楽温泉 鶴乃湯（霧島市）、ひかりの郷・つる乃湯・千宝の湯（出水市）、テイエム温泉センター（垂水市）、湯の華温泉（鹿児島市）、ヘルシーランド温泉保養館（指宿市）、船津温泉（姶良市）、グリーンランド市比野ふれあい館（料金の食い違い）、有明町健康ランド蓬の郷・アビルランド坂元・鹿屋温泉センター（天然温泉か未確認・料金の食い違い）、頴娃温泉みやびの湯（住所・料金不明確）、梅の湯（錦江町。住所が食い違う）、健康交流館ゆ〜ぷる吹上（天然温泉の明記なし）、まちの湯ひとっ風呂（枕崎。冷鉱泉・天然地下水と表示）、さつまゴルフリゾート、霧島美人の湯You湯（サウナ未確認）、ホテルの大浴場（屋久島いわさきホテル、ホテル桃晃、指宿の大型ホテル等。日帰りでのサウナ利用不明）。奄美・種子島・徳之島・沖永良部・与論のホテル浴場（山羊島ホテル、ふれ愛の湯、フローラルホテル等）は天然温泉と確認できず、奄美温泉 大和のみ収録。プライベートサウナ専業施設は対象外。"
+}

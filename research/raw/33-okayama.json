@@ -1,0 +1,506 @@
+{
+  "prefecture": "岡山県",
+  "prefCode": "33",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "満天の湯 倉敷店",
+      "address": "岡山県倉敷市玉島爪崎981-1",
+      "weekdayAdult": 1080,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.manten-kurashiki.com/",
+      "sources": [
+        "https://www.manten-kurashiki.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2火曜休館"
+    },
+    {
+      "name": "瀬戸内温泉 たまの湯",
+      "address": "岡山県玉野市築港1-1-11",
+      "weekdayAdult": 1700,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル付。GW・お盆・年末年始は特別料金",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.seto-tamanoyu.jp/",
+      "sources": [
+        "https://www.okayama-kanko.jp/spot/10628",
+        "https://onsen.nifty.com/bizen-onsen/onsen010894/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3火曜休館",
+      "note": "公式サイトが503で取得できず。県観光サイトとニフティで料金一致"
+    },
+    {
+      "name": "和気鵜飼谷温泉",
+      "address": "岡山県和気郡和気町益原666-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ugaidani.jp/",
+      "sources": [
+        "https://ugaidani.jp/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "新見千屋温泉 いぶきの里",
+      "address": "岡山県新見市千屋花見1336-5",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ibukinosato.co.jp/",
+      "sources": [
+        "https://www.ibukinosato.co.jp/hours-prices",
+        "https://www.ibukinosato.co.jp/aboutonsen"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休"
+    },
+    {
+      "name": "国民宿舎サンロード吉備路",
+      "address": "岡山県総社市三須825-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "和風・洋風両浴場にサウナ（男女日替わり）",
+      "url": "https://sunroad-kibiji.com/",
+      "sources": [
+        "https://sunroad-kibiji.com/spring/"
+      ],
+      "confidence": "high",
+      "notice": "水曜は15時から"
+    },
+    {
+      "name": "瀬戸大橋温泉 やま幸",
+      "address": "岡山県倉敷市下庄140-1",
+      "weekdayAdult": 1020,
+      "holidayAdult": 1070,
+      "saunaFee": 0,
+      "priceNote": "温泉入浴コース",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://s-yamakou.co.jp/",
+      "sources": [
+        "https://www.asoview.com/note/6738/",
+        "https://onsen.nifty.com/kurashiki-onsen/onsen003714/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第2火曜休館",
+      "note": "公式サイトが503で取得できず。料金はポータル記事"
+    },
+    {
+      "name": "岡山桃太郎温泉",
+      "address": "岡山県岡山市北区牟佐2915-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "観劇セット2,000円",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://momotaro-hotel.co.jp/",
+      "sources": [
+        "https://momotaro-hotel.co.jp/information/",
+        "https://momotaro-hotel.co.jp/hot-spring/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "愛の村温泉 ゆ・ら・り・あ",
+      "address": "岡山県美作市後山1872",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://ainomurapa-ku.com/bath-sauna/",
+      "sources": [
+        "https://ainomurapa-ku.com/bath-sauna/",
+        "https://onsen.nifty.com/mimasaka-onsen/onsen005571/"
+      ],
+      "confidence": "medium",
+      "notice": "15:00〜21:00、水曜定休",
+      "note": "公式に泉質記載なし。天然温泉はニフティの表記"
+    },
+    {
+      "name": "大芦高原温泉 雲海",
+      "address": "岡山県美作市上山1735",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://unkai-onsen.com/",
+      "sources": [
+        "https://unkai-onsen.com/hotspa"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は営業）"
+    },
+    {
+      "name": "たまの温泉（ダイヤモンド瀬戸内マリンホテル）",
+      "address": "岡山県玉野市渋川2-12-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "入湯税込",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.marine-hotel.co.jp/facilities/spa/",
+      "sources": [
+        "https://www.marine-hotel.co.jp/facilities/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。日帰り15:00〜21:00"
+    },
+    {
+      "name": "湯郷鷺温泉館",
+      "address": "岡山県美作市湯郷595-1",
+      "weekdayAdult": 960,
+      "holidayAdult": 960,
+      "saunaFee": 0,
+      "priceNote": "2026/8/1改定後の一浴料金",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://yunogosagionsen.net/",
+      "sources": [
+        "http://yunogosagionsen.net/",
+        "https://onsen.nifty.com/mimasaka-onsen/onsen003673/"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休館（8月は第1水曜）",
+      "note": "サウナ種類はニフティの記載"
+    },
+    {
+      "name": "湯郷温泉 和モダンな宿 かつらぎ",
+      "address": "岡山県美作市湯郷800",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式（黒豆茶ロウリュ）",
+      "url": "http://www.team-samourai.com/index.html",
+      "sources": [
+        "https://www.okayama-kanko.jp/mimasaka/feature/yunogouhigaerispa",
+        "http://www.team-samourai.com/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り17:00〜22:00（日曜15時〜）、土曜・祝日休み",
+      "note": "公式に日帰り料金の記載なし。料金は美作市観光の特集ページ（更新日不明）"
+    },
+    {
+      "name": "大江戸温泉物語 湯原温泉 輝乃湯",
+      "address": "岡山県真庭市豊栄1429-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "繁忙日1,200円",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/terunoyu/",
+      "sources": [
+        "https://www.ooedoonsen.jp/terunoyu/day_trip/",
+        "https://onsen.nifty.com/okutsu-onsen/onsen003691/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。日帰り7:00〜10:00・15:00〜24:00",
+      "note": "サウナはニフティの記載のみ"
+    },
+    {
+      "name": "蒜山なごみの温泉 津黒高原荘",
+      "address": "岡山県真庭市蒜山下和1080",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは平日16時・土日祝15時から",
+      "url": "http://www.tsuguro.jp/",
+      "sources": [
+        "http://www.tsuguro.jp/html/information.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り 平日16:00〜20:00、土日祝12:00〜20:00"
+    },
+    {
+      "name": "蒜山やつか温泉 快湯館",
+      "address": "岡山県真庭市蒜山上長田2300-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "真庭市外料金（市内500円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.kaiyukan.co.jp/",
+      "sources": [
+        "http://www.kaiyukan.co.jp/html/information.html",
+        "http://www.kaiyukan.co.jp/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は翌日）"
+    },
+    {
+      "name": "湯の里 瀬戸川温泉",
+      "address": "岡山県苫田郡鏡野町寺元425-9",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://setogawaonsen.com/",
+      "sources": [
+        "https://setogawaonsen.com/information.html",
+        "https://setogawaonsen.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "湯～とぴあ黄金泉",
+      "address": "岡山県英田郡西粟倉村影石2072-6",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.okayama-kanko.jp/spot/detail_11843.html",
+      "sources": [
+        "https://www.okayama-kanko.jp/spot/detail_11843.html"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "公式サイトなし（Instagramのみ）。県観光サイトの情報。泉質は弱放射能冷鉱泉"
+    },
+    {
+      "name": "八幡温泉郷 たけべ八幡温泉",
+      "address": "岡山県岡山市北区建部町建部上510-1",
+      "weekdayAdult": 760,
+      "holidayAdult": 760,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.yahataonsen.jp/",
+      "sources": [
+        "https://www.yahataonsen.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "11/17はメンテナンス休館"
+    },
+    {
+      "name": "天然温泉 大家族の湯",
+      "address": "岡山県岡山市北区久米197-1",
+      "weekdayAdult": 920,
+      "holidayAdult": 970,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://www.daikazokunoyu.jp/",
+      "sources": [
+        "https://www.daikazokunoyu.jp/guidance/",
+        "https://www.daikazokunoyu.jp/facility"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "桃太郎温泉 一湯館",
+      "address": "岡山県岡山市北区菅野2640-8",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://ww81.tiki.ne.jp/~spa-momotaro/ichiyukan/index.html",
+      "sources": [
+        "https://www.okayama-kanko.jp/spot/10094"
+      ],
+      "confidence": "medium",
+      "notice": "第2水曜休み（祝日は第3水曜）",
+      "note": "公式サイト取得不可。県観光サイトの情報。泉質は単純弱放射能冷鉱泉"
+    },
+    {
+      "name": "百々温泉 めぐみ荘",
+      "address": "岡山県津山市加茂町小中原143",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "津山市外料金（市内310円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナ1室を週替わりで男女交代",
+      "url": "http://www.t-seibi.jp/works/megumisou.html",
+      "sources": [
+        "http://www.t-seibi.jp/works/megumisou.html",
+        "https://onsen.nifty.com/mimasaka-onsen/onsen003730/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休（祝日は翌日）",
+      "note": "運営会社ページの更新が2018年で古い"
+    },
+    {
+      "name": "神郷温泉",
+      "address": "岡山県新見市神郷高瀬3188-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://shingo-onsen.com/",
+      "sources": [
+        "https://shingo-onsen.com/pages/facility/index",
+        "https://shingo-onsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は営業）。平日14時から"
+    },
+    {
+      "name": "もえぎの里 あば温泉",
+      "address": "岡山県津山市阿波1200",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "津山市外料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://okayamastyle.com/moeginosato/",
+      "sources": [
+        "https://okayamastyle.com/moeginosato/",
+        "https://onsen.nifty.com/mimasaka-onsen/onsen003707/"
+      ],
+      "confidence": "low",
+      "notice": "水曜定休",
+      "note": "市外800円はポータル2件、県観光・ニフティは520円で食い違い。2025/4改装再開後の料金未確認"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "後楽温泉 ほのかの湯",
+      "reason": "人工温泉（公式）"
+    },
+    {
+      "name": "休暇村蒜山高原",
+      "reason": "サウナの記載なし（公式）"
+    },
+    {
+      "name": "湯原温泉 八景",
+      "reason": "サウナは予約制の個室サウナのみ"
+    },
+    {
+      "name": "湯原温泉 プチホテルゆばらリゾート",
+      "reason": "日帰りは貸切露天のみ"
+    },
+    {
+      "name": "サントピア岡山総社",
+      "reason": "2025年2月から人工温泉（光明石）に変更"
+    },
+    {
+      "name": "SPA&Wellnessぽかぽか",
+      "reason": "公式に天然温泉の記載なし"
+    },
+    {
+      "name": "極楽の里 えびす乃ゆ 河辺店",
+      "reason": "天然温泉か公式で確認できず"
+    },
+    {
+      "name": "えびす乃ゆ 院庄店",
+      "reason": "天然温泉か公式で確認できず"
+    },
+    {
+      "name": "瀬戸大橋スパリゾート（ホテル瀬戸大橋）",
+      "reason": "公式に天然温泉の記載なし"
+    },
+    {
+      "name": "センチュリオンホテル＆スパ倉敷",
+      "reason": "人工ラジウム温泉"
+    },
+    {
+      "name": "稲荷山健康センター",
+      "reason": "休業中"
+    },
+    {
+      "name": "朝霧温泉ゆ・ら・ら",
+      "reason": "閉館"
+    },
+    {
+      "name": "まにわ温泉 白梅の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "国民宿舎いつき",
+      "reason": "閉館"
+    },
+    {
+      "name": "レスパール藤ヶ鳴",
+      "reason": "休館中"
+    },
+    {
+      "name": "リゾートイン湯郷",
+      "reason": "日帰り料金を公式で確認できず"
+    },
+    {
+      "name": "ポピースプリングス リゾート&スパ",
+      "reason": "日帰りは客室付きプランのみ"
+    },
+    {
+      "name": "ピュアリティまきび",
+      "reason": "宿泊者限定"
+    },
+    {
+      "name": "WASHU BLUE RESORT 風籠",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "湯原国際観光ホテル 菊之湯",
+      "reason": "サウナの有無を確認できず"
+    }
+  ],
+  "notes": "ニフティ温泉の岡山県サウナ施設65件を起点に確認。たまの湯・やま幸は公式サイトが503で取得できずポータル/県観光サイトの料金（medium）。ビジネスホテル系（ドーミーイン・ルートイン等）とサウナ専門店（TANADA SAUNA、DD SAUNA等）は日帰り温泉でないため対象外。湯原・湯郷の旅館の日帰りサウナ可否は未確認のものが残る。"
+}

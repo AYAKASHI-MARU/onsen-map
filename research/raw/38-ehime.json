@@ -1,0 +1,853 @@
+{
+  "prefecture": "愛媛県",
+  "prefCode": "38",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "南道後温泉 ていれぎの湯",
+      "address": "愛媛県松山市中野町甲853",
+      "weekdayAdult": 680,
+      "holidayAdult": 790,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://teiregi.jp/",
+      "sources": [
+        "https://teiregi.jp/about/",
+        "https://teiregi.jp/sauna/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "東道後温泉 久米之癒",
+      "address": "愛媛県松山市南久米町325-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "浴室内サウナ「月之岩盤浴」",
+      "url": "https://www.kumenoyu.com/",
+      "sources": [
+        "https://www.kumenoyu.com/",
+        "https://www.kumenoyu.com/facility/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "東道後のそらともり",
+      "address": "愛媛県松山市南久米町3番地1",
+      "weekdayAdult": 1750,
+      "holidayAdult": 1750,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円別。館内着・タオル・岩盤浴込み",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯はオートロウリュのLUMO SAUNA、女湯はタワーサウナ",
+      "url": "https://soratomori.com/",
+      "sources": [
+        "https://soratomori.com/information/",
+        "https://soratomori.com/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "SPA P・SPO湯砥里館 とべ温泉",
+      "address": "愛媛県伊予郡砥部町宮内1902-3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://pspo.jp/tobeonsen/",
+      "sources": [
+        "https://pspo.jp/tobeonsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "見奈良天然温泉 利楽",
+      "address": "愛媛県東温市見奈良1110",
+      "weekdayAdult": 1380,
+      "holidayAdult": 1580,
+      "saunaFee": 0,
+      "priceNote": "シンプルコース（レギュラー1,680/1,880円、プレミアム2,080/2,280円）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯はオートロウリュのサウナ、女湯はスチームサウナ",
+      "url": "https://www.spa-riraku.com/",
+      "sources": [
+        "https://www.spa-riraku.com/user-guide/?posi=posi01",
+        "https://www.spa-riraku.com/"
+      ],
+      "confidence": "high",
+      "notice": "9:00〜10:00は清掃のため入浴不可"
+    },
+    {
+      "name": "道後さや温泉ゆらら",
+      "address": "愛媛県松山市高岡町125-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯はセルフロウリュサウナ、女湯は遠赤外線サウナ",
+      "url": "https://onsen-yurara.jp/",
+      "sources": [
+        "https://onsen-yurara.jp/main-spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "伊予の湯治場 喜助の湯",
+      "address": "愛媛県松山市宮田町4",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（5〜10時）は平日750円・土日祝850円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯は風神サウナ（オートロウリュ）・鬼サウナ、女湯は藍美サウナ・ミストサウナ小屋",
+      "url": "https://kisuke.com/yu-matsuyama/",
+      "sources": [
+        "https://kisuke.com/yu-matsuyama/information/",
+        "https://kisuke.com/yu-matsuyama/bath/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "しまなみ温泉 喜助の湯",
+      "address": "愛媛県今治市中日吉町1-2-30",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "低温サウナ・ラウンジは平日+500円・土日祝+700円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯は墨サウナ（セルフロウリュ）・露天サウナ小屋、女湯はみかんサウナ（スチーム）・自動ロウリュサウナ",
+      "url": "https://kisuke.com/yu-imabari/",
+      "sources": [
+        "https://kisuke.com/yu-imabari/information/",
+        "https://kisuke.com/yu-imabari/bath/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "たかのこの湯",
+      "address": "愛媛県松山市鷹子町737番地2",
+      "weekdayAdult": 800,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュサウナ、男湯にたまごのサウナ",
+      "url": "https://takanokono.jp/hotspring/",
+      "sources": [
+        "https://takanokono.jp/hotspring/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "星乃岡温泉 千湯館",
+      "address": "愛媛県松山市星岡1丁目2-16",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "露天エリアに高温サウナ、内湯に源泉ミストサウナ",
+      "url": "http://hoshinooka.net/senyukan.html",
+      "sources": [
+        "http://hoshinooka.net/senyukan.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "星乃岡温泉",
+      "address": "愛媛県松山市星岡1丁目3",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://hoshinooka.net/hoshinooka.html",
+      "sources": [
+        "http://hoshinooka.net/hoshinooka.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然温泉 久万の台温泉",
+      "address": "愛媛県松山市久万の台1218",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://e-hime.jp/onsen/",
+      "sources": [
+        "http://e-hime.jp/onsen/",
+        "https://onsen.nifty.com/matsuyama-onsen/onsen003967/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第1火曜休",
+      "note": "料金・定休日は公式。サウナの有無は公式に記載なくニフティ温泉による"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "高温サウナ",
+      "saunaFee": 0,
+      "name": "東温市ふるさと交流館 さくらの湯",
+      "address": "愛媛県東温市北方甲2081-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 650,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.souyu.co.jp/shisetsu/sakura",
+      "sources": [
+        "https://www.souyu.co.jp/shisetsu/sakura"
+      ],
+      "confidence": "high",
+      "notice": "第4水曜休（祝日の場合は翌日）"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "天然の湯 いよ温泉",
+      "address": "愛媛県伊予市灘町16番地",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "http://iyoprince.com/iyo_onsen.html",
+      "sources": [
+        "http://iyoprince.com/iyo_onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/11〜11/13はメンテナンスのため休業",
+      "note": "いよプリンスホテル併設の日帰り温泉"
+    },
+    {
+      "priceNote": "休日料金は年末年始も適用",
+      "saunaNote": "大型サウナ",
+      "saunaFee": 0,
+      "name": "少彦名温泉 大洲臥龍の湯",
+      "address": "愛媛県大洲市柚木388番地1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaTypes": [],
+      "url": "http://www.garyunoyu.com/",
+      "sources": [
+        "http://www.garyunoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜休（祝日の場合は翌日）"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "鹿野川荘",
+      "address": "愛媛県大洲市肱川町宇和川588-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaTypes": [],
+      "url": "https://kanogawaso.jp/",
+      "sources": [
+        "https://kanogawaso.jp/onsen"
+      ],
+      "confidence": "high",
+      "note": "日帰り温泉ページの鉱泉浴場設備にサウナ記載"
+    },
+    {
+      "priceNote": "水曜（祝日・繁忙期除く）600円。休日料金は繁忙期も適用",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "新居浜温泉パナス",
+      "address": "愛媛県新居浜市篠場町11番60号",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaTypes": [
+        "スチーム",
+        "遠赤外線"
+      ],
+      "url": "http://www.panas-kaja.com/",
+      "sources": [
+        "http://www.panas-kaja.com/daiyokujo.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "priceNote": "大人は高校生以上。岩盤浴+500円",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "マイントピア別子 別子温泉～天空の湯～",
+      "address": "愛媛県新居浜市立川町707-3",
+      "weekdayAdult": 700,
+      "holidayAdult": 750,
+      "saunaTypes": [],
+      "url": "https://besshi.com/hadeba/onsen/",
+      "sources": [
+        "https://besshi.com/price/",
+        "https://besshi.com/hadeba/onsen/"
+      ],
+      "confidence": "high",
+      "note": "住所は運営会社（端出場エリア本館4階）。2026/11/1改定表でも温泉料金は同額"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "霧の森交湯～館",
+      "address": "愛媛県四国中央市新宮町馬立4491-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaTypes": [],
+      "url": "https://www.kirinomori.co.jp/mori/spa/",
+      "sources": [
+        "https://www.kirinomori.co.jp/mori/spa/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休（祝日の場合は火曜）",
+      "note": "番地はニフティ温泉による"
+    },
+    {
+      "priceNote": "休日料金は繁忙期も適用",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "東予温泉 いやしのリゾート",
+      "address": "愛媛県西条市周布687番1",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "http://www.touyoonsen.com/",
+      "sources": [
+        "http://www.touyoonsen.com/daiyokujo.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "priceNote": "水曜（祝日・繁忙期除く）600円",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "八幡浜黒湯温泉みなと湯",
+      "address": "愛媛県八幡浜市北浜一丁目7番39号",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaTypes": [],
+      "url": "http://yawa-minatoyu.jp/",
+      "sources": [
+        "http://yawa-minatoyu.jp/daiyokujo.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "両浴場にサウナ・水風呂（男女定期入替）",
+      "saunaFee": 0,
+      "name": "本谷温泉館",
+      "address": "愛媛県西条市河之内甲494",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaTypes": [],
+      "url": "https://www.hondani-onsen.com/",
+      "sources": [
+        "https://www.hondani-onsen.com/"
+      ],
+      "confidence": "medium",
+      "note": "料金・サウナは公式。公式に泉質記載なし（天然温泉はニフティ温泉による）"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "塩サウナ・ミストサウナは日替わりで男女入替。露天にテントサウナ（アロマロウリュ）",
+      "saunaFee": 0,
+      "name": "湯あそびひろば 三島乃湯",
+      "address": "愛媛県四国中央市三島中央1-16-5",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "url": "http://yuasobihiroba-mishimanoyu.com/",
+      "sources": [
+        "http://yuasobihiroba-mishimanoyu.com/price.html",
+        "http://yuasobihiroba-mishimanoyu.com/nyuuyokusetubi.html"
+      ],
+      "confidence": "high",
+      "notice": "第2木曜休"
+    },
+    {
+      "priceNote": "GW・お盆・年末年始は料金が異なる",
+      "saunaNote": "大型サウナルーム",
+      "saunaFee": 0,
+      "name": "天然温泉 かみとくの湯",
+      "address": "愛媛県今治市上徳甲711-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaTypes": [],
+      "url": "https://kamitokunoyu.jp/",
+      "sources": [
+        "https://kamitokunoyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/10は電気設備工事のため休館"
+    },
+    {
+      "priceNote": "大人は高校生以上",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "クアハウス今治",
+      "address": "愛媛県今治市湯ノ浦36番地",
+      "weekdayAdult": 780,
+      "holidayAdult": 780,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "http://www.k-ispa.server-shared.com/",
+      "sources": [
+        "http://www.k-ispa.server-shared.com/page31.html",
+        "http://www.k-ispa.server-shared.com/page3.html"
+      ],
+      "confidence": "high",
+      "notice": "火曜休（祝日は営業）。5月・11月に点検休館あり"
+    },
+    {
+      "priceNote": "温泉・温水プールは810円",
+      "saunaNote": "",
+      "saunaFee": null,
+      "name": "多々羅しまなみドーム",
+      "address": "愛媛県今治市上浦町井口7074-20",
+      "weekdayAdult": 560,
+      "holidayAdult": 560,
+      "saunaTypes": [],
+      "url": "https://www.city.imabari.ehime.jp/sports/shisetsu/tatara/",
+      "sources": [
+        "https://www.city.imabari.ehime.jp/sports/shisetsu/tatara/info.pdf"
+      ],
+      "confidence": "medium",
+      "notice": "火曜休",
+      "note": "料金は市の改定資料（2025/10/1〜）。サウナはニフティ温泉による"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "鈍川せせらぎ交流館",
+      "address": "愛媛県今治市玉川町鈍川甲218-1",
+      "weekdayAdult": 560,
+      "holidayAdult": 560,
+      "saunaTypes": [],
+      "url": "https://www.nibukawa.net/stay/24060/",
+      "sources": [
+        "https://onsen.nifty.com/imabari-onsen/onsen003961/",
+        "https://www.nibukawa.net/stay/24060/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・4月曜休（祝日の場合は翌平日）",
+      "note": "観光協会ページは420円（改定前と思われる）。560円はニフティ温泉（市施設の2025/10料金改定と整合）"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "クアテルメ宝泉坊",
+      "address": "愛媛県西予市城川町高野子46",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaTypes": [],
+      "url": "https://www.housenbou.net/",
+      "sources": [
+        "https://www.housenbou.net/spa"
+      ],
+      "confidence": "high",
+      "notice": "火曜休",
+      "note": "番地はニフティ温泉による"
+    },
+    {
+      "priceNote": "大人は高校生以上",
+      "saunaNote": "遠赤外線ドライサウナ",
+      "saunaFee": 0,
+      "name": "ユートピア宇和 游の里温泉",
+      "address": "愛媛県西予市宇和町明間6125番地",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://yutopiauwa.com/",
+      "sources": [
+        "https://yutopiauwa.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "第4月曜休"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": null,
+      "name": "竹庭 清正乃湯",
+      "address": "愛媛県今治市高橋甲1350-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaTypes": [],
+      "url": "http://www.kiyomasanoyu.com/",
+      "sources": [
+        "http://www.kiyomasanoyu.com/page12",
+        "https://onsen.nifty.com/imabari-onsen/onsen003990/"
+      ],
+      "confidence": "low",
+      "note": "料金は公式（大人・小人共通）。サウナは公式に記載なく、ニフティ温泉（料金が古い）による。2026/8/28再開"
+    },
+    {
+      "priceNote": "温泉プール利用込み",
+      "saunaNote": "",
+      "saunaFee": null,
+      "name": "清正乃湯 本館",
+      "address": "愛媛県今治市高橋甲1350-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaTypes": [],
+      "url": "http://www.kiyomasanoyu.com/",
+      "sources": [
+        "http://www.kiyomasanoyu.com/page12",
+        "https://onsen.nifty.com/imabari-onsen/onsen009058/"
+      ],
+      "confidence": "low",
+      "note": "2026/9/17リニューアル。料金は公式。サウナは公式に記載なく、改装前のニフティ温泉情報による"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "高温サウナ・塩サウナ",
+      "saunaFee": 0,
+      "name": "佐田岬 亀ヶ池温泉",
+      "address": "愛媛県西宇和郡伊方町二見甲1289番地",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "url": "https://www.kamegaike.com/",
+      "sources": [
+        "https://www.kamegaike.com/news/?p=1226",
+        "https://www.kamegaike.com/about/"
+      ],
+      "confidence": "high",
+      "notice": "第4木曜休（祝日の場合は翌日）",
+      "note": "2026/8/1に700→800円改定。営業9:00〜22:00"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "男女とも",
+      "saunaFee": 0,
+      "name": "一本松温泉 あけぼの荘",
+      "address": "愛媛県南宇和郡愛南町増田5470番地",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaTypes": [],
+      "url": "http://www.town.ainan.ehime.jp/kanko/sightseeing/shukuhaku/akebonoso.html",
+      "sources": [
+        "http://www.town.ainan.ehime.jp/kanko/sightseeing/shukuhaku/akebonoso.html"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休（祝日の場合は翌日）"
+    },
+    {
+      "priceNote": "大人は高校生以上。第4金曜（お風呂の日）350円",
+      "saunaNote": "男女とも",
+      "saunaFee": 0,
+      "name": "森の国ぽっぽ温泉",
+      "address": "愛媛県北宇和郡松野町大字松丸1661-13",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaTypes": [],
+      "url": "http://poppoonsen.com/",
+      "sources": [
+        "http://poppoonsen.com/guide/",
+        "http://poppoonsen.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "第2月曜休（祝日の場合は翌日、8月は第1月曜）"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "男湯3種・女湯2種のサウナ室",
+      "saunaFee": null,
+      "name": "道の駅 津島熱田温泉",
+      "address": "愛媛県宇和島市津島町高田甲830-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaTypes": [],
+      "url": "https://tsushima-atsuta-onsen.com/",
+      "sources": [
+        "https://tsushima-atsuta-onsen.com/",
+        "https://onsen.nifty.com/uwajima-onsen/onsen005558/"
+      ],
+      "confidence": "medium",
+      "notice": "第1・3火曜休",
+      "note": "2026/4/23リニューアル。サウナは公式、料金はニフティ温泉（リニューアル後の額か未確認）"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "",
+      "saunaFee": 0,
+      "name": "湯ノ浦温泉 四季の湯 ビア工房",
+      "address": "愛媛県今治市湯ノ浦26番地",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaTypes": [],
+      "url": "https://yunoura-shikinoyu.jp/",
+      "sources": [
+        "https://yunoura-shikinoyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "木曜休"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "温泉の蒸気を使うスチームサウナ",
+      "saunaFee": null,
+      "name": "寿温泉",
+      "address": "愛媛県松山市緑町2-6-20",
+      "weekdayAdult": 510,
+      "holidayAdult": 510,
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "url": "https://sites.google.com/view/kotobukionsen/",
+      "sources": [
+        "https://sites.google.com/view/kotobukionsen/%E5%96%B6%E6%A5%AD%E6%99%82%E9%96%93%E6%96%99%E9%87%91",
+        "https://sites.google.com/view/kotobukionsen/%E6%96%BD%E8%A8%AD%E6%A1%88%E5%86%85"
+      ],
+      "confidence": "high",
+      "notice": "不定休",
+      "note": "銭湯。奥道後源泉の引き湯。番地はニフティ温泉による"
+    },
+    {
+      "priceNote": "休日料金は特定日も適用",
+      "saunaNote": "",
+      "saunaFee": null,
+      "name": "湯之谷温泉",
+      "address": "愛媛県西条市洲之内甲1193",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaTypes": [],
+      "url": "https://yunotani-saijo.com/",
+      "sources": [
+        "https://yunotani-saijo.com/about_spa.html",
+        "https://onsen.nifty.com/saijou-onsen/onsen003979/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。水曜休",
+      "note": "料金は公式。サウナ・定休日はニフティ温泉による"
+    },
+    {
+      "priceNote": "",
+      "saunaNote": "展望大浴場にサウナ（水風呂なし）",
+      "saunaFee": null,
+      "name": "休暇村 瀬戸内東予",
+      "address": "愛媛県西条市河原津",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaTypes": [],
+      "url": "https://www.qkamura.or.jp/toyo/",
+      "sources": [
+        "https://www.qkamura.or.jp/toyo/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は11:00〜15:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式住所に番地の記載なし"
+    },
+    {
+      "priceNote": "90分制",
+      "saunaNote": "大浴場「ゆのか」にロウリュサウナ・スチームサウナ",
+      "saunaFee": null,
+      "name": "道後プリンスホテル",
+      "address": "愛媛県松山市道後姫塚100",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1650,
+      "saunaTypes": [
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "url": "https://www.dogoprince.co.jp/",
+      "sources": [
+        "https://www.dogoprince.co.jp/spa"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は15:00〜23:30。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "priceNote": "入湯税150円込み",
+      "saunaNote": "両浴場にサウナ（男女入替）",
+      "saunaFee": null,
+      "name": "道後温泉 ふなや",
+      "address": "愛媛県松山市道後湯之町1-33",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaTypes": [],
+      "url": "https://www.dogo-funaya.co.jp/",
+      "sources": [
+        "https://www.dogo-funaya.co.jp/facility/onsen.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。混雑時は日帰り入浴不可の場合あり"
+    },
+    {
+      "priceNote": "入湯税込み。繁忙日1,800円",
+      "saunaNote": "",
+      "saunaFee": null,
+      "name": "道後温泉 道後彩朝楽",
+      "address": "愛媛県松山市道後姫塚112-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1600,
+      "saunaTypes": [],
+      "url": "https://www.ooedoonsen.jp/dogo/",
+      "sources": [
+        "https://www.ooedoonsen.jp/dogo/day_trip/",
+        "https://onsen.nifty.com/dougoonsen-onsen/onsen003977/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は7:00〜10:00・15:00〜24:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナはニフティ温泉による"
+    },
+    {
+      "name": "奥道後 壱湯の守",
+      "address": "愛媛県松山市末町267",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.okudogo.co.jp/",
+      "sources": [
+        "https://www.okudogo.co.jp/spa",
+        "https://onsen.nifty.com/dougoonsen-onsen/onsen003978/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は15:00〜20:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金・時間は公式（大露天風呂「翠明の湯」）。サウナはニフティ温泉・まっぷるによる"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "シーパの湯",
+      "reason": "公式に天然温泉の記載なし（海水を引いた潮湯）"
+    },
+    {
+      "name": "媛彦温泉",
+      "reason": "公式の大浴場案内にサウナなし（サウナは貸切風呂のみ）"
+    },
+    {
+      "name": "西条天然温泉 ひうちの湯",
+      "reason": "源泉ポンプ不具合で臨時休業中、再開日未定（2026/11/2時点の公式）"
+    },
+    {
+      "name": "コスタ北条",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 武丈の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "薬師谷温泉さがの",
+      "reason": "閉館"
+    },
+    {
+      "name": "四季の湯（旧ゆう湯さがの温泉）",
+      "reason": "閉館"
+    },
+    {
+      "name": "ウェルピア伊予",
+      "reason": "サウナ利用中止中（公式）"
+    },
+    {
+      "name": "天山トロン温泉",
+      "reason": "大浴場にサウナなし（サウナは家族風呂のみ）"
+    },
+    {
+      "name": "漢方薬草湯 元気人村",
+      "reason": "公式に天然温泉・サウナの記載なし（漢方薬草湯の温浴施設）"
+    },
+    {
+      "name": "インランド・シー・リゾート フェスパ",
+      "reason": "公式に「温泉ではありません」と記載"
+    },
+    {
+      "name": "西予市観光交流拠点施設 あけはまーれ",
+      "reason": "海水を引いた塩風呂（公式に天然温泉の記載なし）"
+    },
+    {
+      "name": "宇和サウナ（宇和パークホテル）",
+      "reason": "公式に天然温泉の記載なし"
+    },
+    {
+      "name": "ゆらり内海",
+      "reason": "海水（潮湯）の浴場で天然温泉ではない"
+    },
+    {
+      "name": "南道後温泉ホテル ていれぎ館",
+      "reason": "日帰りは貸切風呂のみ（サウナは個室）"
+    },
+    {
+      "name": "椿交流館 椿温泉こまつ",
+      "reason": "2025/4/1から休館、再開未定"
+    },
+    {
+      "name": "鈍川温泉ホテル",
+      "reason": "休館中"
+    },
+    {
+      "name": "菰隠温泉ホテル",
+      "reason": "休館中"
+    }
+  ],
+  "notes": "ニフティ温泉の愛媛県一覧（サウナ絞り込み86件・全204件）を起点に、公式サイトで確認。未収録の候補: 天然温泉 権現温泉（日帰り料金を確認できず）、谷町リゾート ゆとりあ温泉（公式サイト接続不可・沸かし湯との口コミ）、大正湯（八幡浜の銭湯。公式なし）、湯の里 小町温泉しこくや・道前渓温泉（公式情報なし）、山出憩いの里温泉（公式にサウナ・料金記載なし）、ナニワサウナ（天然温泉か不明）、道後山の手ホテル・にぎたつ会館・KKR道後ゆづきほか道後の旅館（日帰り入浴・サウナを公式で確認できず）。西条天然温泉 ひうちの湯は2026/11/2時点で源泉ポンプ不具合の臨時休業（開始日不明・再開未定）のため除外。愛媛県の公衆浴場統制額は確認できず（寿温泉は公式掲示の510円を採用）。"
+}

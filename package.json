@@ -1,0 +1,24 @@
+{
+  "name": "onsen-map",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "data": "node scripts/build-data.mjs",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.22",
+    "@types/leaflet.markercluster": "^1.5.6",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}

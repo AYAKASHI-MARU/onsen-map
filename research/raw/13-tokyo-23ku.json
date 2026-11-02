@@ -1,0 +1,956 @@
+{
+  "prefecture": "東京都",
+  "prefCode": "13",
+  "area": "23区",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "東京染井温泉 SAKURA",
+      "address": "東京都豊島区駒込5-4-24",
+      "weekdayAdult": 2100,
+      "holidayAdult": 2900,
+      "saunaFee": 0,
+      "priceNote": "休日料金は土日祝・GW・お盆・年末年始等の特定日。豊島区入湯税150円の扱いは公式に明記なし",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "スタジアムサウナ",
+      "url": "https://tokyosomeionsensakura.com/",
+      "sources": [
+        "https://tokyosomeionsensakura.com/plan/",
+        "https://tokyosomeionsensakura.com/hot-spring/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "前野原温泉 さやの湯処",
+      "address": "東京都板橋区前野町3-41-1",
+      "weekdayAdult": 970,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "2026/11/4から回数カード・平日夜入館料を一部改定（通常料金の変更は告知なし）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "熱気風炉（ドライ）、薬草塩蒸風炉（スチーム）。女湯は香草スチーム",
+      "url": "https://www.sayanoyudokoro.co.jp/",
+      "sources": [
+        "https://www.sayanoyudokoro.co.jp/guide",
+        "https://sp.jorudan.co.jp/onsen/details/1526/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 平和島",
+      "address": "東京都大田区平和島1-1-1",
+      "weekdayAdult": 2400,
+      "holidayAdult": 2900,
+      "saunaFee": 0,
+      "priceNote": "ゆったりプラン（最大7時間）。平日1時間はや湯1,400円。深夜1〜5時 +1,900円。金・休前日24時以降は土日祝料金",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温サウナ、ストーンサウナ",
+      "url": "https://www.heiwajima-onsen.jp/",
+      "sources": [
+        "https://www.heiwajima-onsen.jp/price/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "バーデと天然温泉 豊島園 庭の湯",
+      "address": "東京都練馬区向山3-25-1",
+      "weekdayAdult": 2600,
+      "holidayAdult": 3300,
+      "saunaFee": 0,
+      "priceNote": "特定日3,400円。中学生未満入館不可。公式ページ読込不可、東京観光公式（2026/2更新）は一般2,520円と表記",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性フィンランドサウナ、テルマリウム、スチーム、屋外フィンランドサウナ（アウフグース）。バーデゾーンは水着",
+      "url": "https://www.niwanoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/nerima-onsen/onsen004928/",
+        "https://www.gotokyo.org/jp/spot/590/index.html"
+      ],
+      "confidence": "low",
+      "note": ""
+    },
+    {
+      "name": "新宿天然温泉 テルマー湯",
+      "address": "東京都新宿区歌舞伎町1-1-2",
+      "weekdayAdult": 3100,
+      "holidayAdult": 3200,
+      "saunaFee": 0,
+      "priceNote": "一般料金。月〜木3,100円、金土日祝・特定日・休前日3,200円。入湯税込。深夜0〜6時 +2,000円（金土日祝等+2,300円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ（男女）、ミストサウナ（男性）、塩サウナ（女性）",
+      "url": "https://thermae-yu.jp/",
+      "sources": [
+        "https://thermae-yu.jp/user-guide/",
+        "https://thermae-yu.jp/spa-sauna/"
+      ],
+      "confidence": "high",
+      "note": "中伊豆からの運び湯"
+    },
+    {
+      "name": "天然温泉 泉天空の湯 有明ガーデン",
+      "address": "東京都江東区有明2-1-7",
+      "weekdayAdult": 2600,
+      "holidayAdult": 3800,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。深夜1〜5時在館で平日3,000円・土日祝5,000円加算",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "ドライサウナ、スチーム塩サウナ",
+      "url": "https://www.shopping-sumitomo-rd.com/ariake/spa-izumi/",
+      "sources": [
+        "https://www.shopping-sumitomo-rd.com/ariake/spa-izumi/userguide.html",
+        "https://news.allabout.co.jp/articles/o/110793/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 泉天空の湯 羽田空港",
+      "address": "東京都大田区羽田空港2-7-1",
+      "weekdayAdult": 4800,
+      "holidayAdult": 4800,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴・館内着込み、入湯税込。深夜25〜5時 +4,000円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "ドライサウナ、漢方蒸しサウナ",
+      "url": "https://www.shopping-sumitomo-rd.com/haneda/spa-izumi/",
+      "sources": [
+        "https://www.shopping-sumitomo-rd.com/haneda/spa-izumi/userguide.html",
+        "https://www.bousaid.com/20260322-haneda-spa-izumi/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "東京豊洲 万葉倶楽部",
+      "address": "東京都江東区豊洲6-5-1",
+      "weekdayAdult": 3850,
+      "holidayAdult": 3850,
+      "saunaFee": 0,
+      "priceNote": "マル得セット入館料。入湯税150円別。深夜3時以降 +3,000円",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ミスト"
+      ],
+      "saunaNote": "男性ドライ、女性ドライ・塩・ナノミスト",
+      "url": "https://tokyo-toyosu.manyo.co.jp/",
+      "sources": [
+        "https://tokyo-toyosu.manyo.co.jp/price/",
+        "https://onsen.nifty.com/koutou-onsen/onsen018446/"
+      ],
+      "confidence": "high",
+      "note": "箱根・湯河原からの運び湯"
+    },
+    {
+      "name": "東京天然温泉 古代の湯",
+      "address": "東京都葛飾区奥戸4-2-1",
+      "weekdayAdult": 2680,
+      "holidayAdult": 2680,
+      "saunaFee": 0,
+      "priceNote": "タオル・館内着込み。深夜料金あり（額は掲載により1,650/1,680円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.kodainoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/katsushika-onsen/onsen005592/",
+        "https://sp.jorudan.co.jp/onsen/details/1937/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト接続不可。ニフティに夜間営業休止の告知あり"
+    },
+    {
+      "name": "大谷田温泉 明神の湯",
+      "address": "東京都足立区大谷田1-18-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "時間帯別。平日9-10時800円・17-20:30 1,100円・20:30-22:30 900円、土日祝9-14時1,100円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュサウナ、源泉蒸気のミストサウナ",
+      "url": "https://dormy-hotels.com/spa/myoujin/",
+      "sources": [
+        "https://dormy-hotels.com/spa/myoujin/price.php",
+        "https://dormy-hotels.com/spa/myoujin/"
+      ],
+      "confidence": "high",
+      "note": "毎月第3火曜休"
+    },
+    {
+      "name": "東京ドーム天然温泉 Spa LaQua",
+      "address": "東京都文京区春日1-1-1",
+      "weekdayAdult": 3500,
+      "holidayAdult": 4700,
+      "saunaFee": 0,
+      "priceNote": "変動料金制（3,500〜4,700円、料金カレンダー制）。大人は18歳以上。深夜1〜6時 +2,420円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女とも中高温・フィンランドサウナ（ロウリュ・アウフグース）、女性ミストサウナ",
+      "url": "https://www.laqua.jp/spa/",
+      "sources": [
+        "https://www.city.bunkyo.lg.jp/b021/p000464.html",
+        "https://onsen.nifty.com/bunkyou-onsen/onsen004926/"
+      ],
+      "confidence": "medium",
+      "note": "公式料金ページ取得不可。文京区ページ（2026/5更新）の一般料金を採用"
+    },
+    {
+      "name": "東京荻窪天然温泉 なごみの湯",
+      "address": "東京都杉並区上荻1-10-10",
+      "weekdayAdult": 2300,
+      "holidayAdult": 2700,
+      "saunaFee": 0,
+      "priceNote": "土日祝は平日+400円、特定日+500円。深夜1時以降 +2,200円。未就学児利用不可",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "スチーム",
+        "ミスト",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性: 遠赤外線ドライ・ボナサウナ（オートロウリュ）・塩スチーム。女性: ロッキーサウナ（オートロウリュ）・塩ミスト",
+      "url": "https://www.nagomino-yu.com/",
+      "sources": [
+        "https://www.nagomino-yu.com/guide/",
+        "https://www.nagomino-yu.com/sauna/",
+        "https://sp.jorudan.co.jp/onsen/news/jrd_200109_2/"
+      ],
+      "confidence": "high",
+      "note": "露天風呂は日の出町つるつる温泉の運び湯"
+    },
+    {
+      "name": "天然温泉 楽天地スパ",
+      "address": "東京都墨田区江東橋4-27-14",
+      "weekdayAdult": 2850,
+      "holidayAdult": 3200,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。土日祝・繁忙期は特定日料金+350円。60分コース1,650円。24〜5時 +1,500円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性専用施設。Ikiサウナ＆ボナサームサウナ（ロウリュ）、よもぎスチームサウナ",
+      "url": "https://rakutenchi-oasis.com/raku_spa/",
+      "sources": [
+        "https://rakutenchi-oasis.com/raku_spa/guide/",
+        "https://rakutenchi-oasis.com/raku_spa/facility/sauna/"
+      ],
+      "confidence": "high",
+      "note": "男性専用（女性・小学生以下利用不可）"
+    },
+    {
+      "name": "THE SPA 成城",
+      "address": "東京都世田谷区千歳台3-20-2",
+      "weekdayAdult": 1540,
+      "holidayAdult": 1980,
+      "saunaFee": 0,
+      "priceNote": "館内着別途330円。20:30以降入館 平日990円・土日祝1,210円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "塩",
+        "その他"
+      ],
+      "saunaNote": "男性高温サウナ（熱波イベントあり）、黄土サウナ、女湯にスチームミスト・塩サウナ",
+      "url": "https://www.central.co.jp/thespa/seijo/",
+      "sources": [
+        "https://www.central.co.jp/thespa/seijo/charge",
+        "https://onsen.nifty.com/setagaya-onsen/onsen007698/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 久松湯",
+      "address": "東京都練馬区桜台4-32-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 550,
+      "priceNote": "銭湯（都統制料金）。サウナ別料金550円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ2室（約98℃・88℃、利用者投稿）",
+      "url": "https://www.hisamatsuyu.jp/",
+      "sources": [
+        "https://www.hisamatsuyu.jp/contents/category/about/"
+      ],
+      "confidence": "high",
+      "note": "火曜定休"
+    },
+    {
+      "name": "戸越銀座温泉",
+      "address": "東京都品川区戸越2-1-6",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 150,
+      "priceNote": "銭湯（都統制料金）。サウナは入浴料込み750円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし。浴室は週替わりで男女入替",
+      "url": "https://togoshiginzaonsen.com/",
+      "sources": [
+        "https://shinagawa1010.jp/list/togoshiginza/",
+        "https://onsen.nifty.com/shinagawa-onsen/onsen007642/"
+      ],
+      "confidence": "medium",
+      "note": "金曜定休。公式サイト取得不可、品川浴場組合サイトで確認"
+    },
+    {
+      "name": "西品川温泉 宮城湯",
+      "address": "東京都品川区西品川2-18-4",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ別料金（品川浴場組合250円・ニフティ400円で相違）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "約98〜102℃（利用者投稿）",
+      "url": "http://www.miyagiyu.co.jp/",
+      "sources": [
+        "https://shinagawa1010.jp/list/miyagiyu/",
+        "https://onsen.nifty.com/shinagawa-onsen/onsen001439/",
+        "https://www.1010.or.jp/map/item/item-cnt-407"
+      ],
+      "confidence": "medium",
+      "note": "水曜定休"
+    },
+    {
+      "name": "中延温泉 松の湯",
+      "address": "東京都品川区戸越6-23-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 400,
+      "priceNote": "銭湯（都統制料金）。サウナ400円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "https://shinagawa1010.jp/list/matsunoyu_b/",
+      "sources": [
+        "https://shinagawa1010.jp/list/matsunoyu_b/"
+      ],
+      "confidence": "medium",
+      "note": "月曜定休（祝日は営業・翌火曜休）"
+    },
+    {
+      "name": "武蔵小山温泉 清水湯",
+      "address": "東京都品川区小山3-9-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 500,
+      "priceNote": "銭湯（都統制料金）。温泉＆サウナ1,100円。女性専用岩盤浴1,600円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "https://www.shimizuyu.com/",
+      "sources": [
+        "https://www.shimizuyu.com/"
+      ],
+      "confidence": "high",
+      "note": "平日月曜定休（祝日は営業）"
+    },
+    {
+      "name": "はすぬま温泉",
+      "address": "東京都大田区西蒲田6-16-11",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 300,
+      "priceNote": "銭湯（都統制料金）。サウナ300円（タオル付）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女ともあり。種類の記載なし",
+      "url": "https://www.hasunuma-onsen.com/",
+      "sources": [
+        "https://www.hasunuma-onsen.com/price/"
+      ],
+      "confidence": "high",
+      "note": "火曜定休。2026/11/18臨時休業"
+    },
+    {
+      "name": "天然温泉 ヌーランド さがみゆ",
+      "address": "東京都大田区仲六郷2-7-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "1階銭湯（都統制料金）。サウナセット（入浴・タオル込）850円（2026/7時点）。全館利用 平日1,250円・土日祝1,550円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "ガス遠赤外線サウナ",
+      "url": "http://nu-land.com/",
+      "sources": [
+        "https://onsen.nifty.com/oota-onsen/onsen001455/"
+      ],
+      "confidence": "medium",
+      "note": "火曜定休（火曜は入浴のみ）。公式サイト証明書エラーで取得不可"
+    },
+    {
+      "name": "COCOFURO ますの湯",
+      "address": "東京都大田区南久が原2-1-23",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 100,
+      "priceNote": "銭湯（都統制料金）。サウナ利用料100円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "https://cocofuro.com/masunoyu/",
+      "sources": [
+        "https://cocofuro.com/masunoyu/",
+        "https://onsen.nifty.com/oota-onsen/onsen006548/"
+      ],
+      "confidence": "high",
+      "note": "定休 3・6・9・12月の第2木曜"
+    },
+    {
+      "name": "照の湯",
+      "address": "東京都大田区仲六郷3-23-6",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナは無料（大田浴場連合会）/200円（ニフティ）で相違",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女ともあり。種類の記載なし",
+      "url": "https://ota1010.com/explore/照の湯/",
+      "sources": [
+        "https://ota1010.com/explore/照の湯/",
+        "https://onsen.nifty.com/oota-onsen/onsen006545/"
+      ],
+      "confidence": "low",
+      "note": "木曜定休"
+    },
+    {
+      "name": "幸の湯",
+      "address": "東京都大田区西糀谷1-25-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女ともハーブサウナ（日替わりの香り）",
+      "url": "https://ota1010.com/explore/幸の湯/",
+      "sources": [
+        "https://ota1010.com/explore/幸の湯/",
+        "https://www.1010.or.jp/map/item/item-cnt-438"
+      ],
+      "confidence": "medium",
+      "note": "月曜定休"
+    },
+    {
+      "name": "久が原湯",
+      "address": "東京都大田区久が原2-14-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "銭湯（都統制料金）。スチームサウナ無料、遠赤外線サウナ200円",
+      "saunaTypes": [
+        "スチーム",
+        "遠赤外線"
+      ],
+      "saunaNote": "男女ともスチーム（無料）・遠赤外線（200円）",
+      "url": "https://ota1010.com/explore/久が原湯/",
+      "sources": [
+        "https://ota1010.com/explore/久が原湯/",
+        "https://onsen.nifty.com/oota-onsen/onsen006542/"
+      ],
+      "confidence": "medium",
+      "note": "月曜・第4火曜定休"
+    },
+    {
+      "name": "調布弁天湯",
+      "address": "東京都大田区北嶺町10-11",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女ともあり。種類の記載なし",
+      "url": "https://ota1010.com/explore/調布弁天湯/",
+      "sources": [
+        "https://ota1010.com/explore/調布弁天湯/",
+        "https://onsen.nifty.com/oota-onsen/onsen006536/"
+      ],
+      "confidence": "medium",
+      "note": "月・火曜定休"
+    },
+    {
+      "name": "黒湯の温泉 ゆ〜シティー蒲田",
+      "address": "東京都大田区蒲田1-26-16",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ別料金（改定前は入浴＋サウナ830円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女ともあり。種類の記載なし",
+      "url": "https://youcity26.com/",
+      "sources": [
+        "https://ota1010.com/explore/ゆ～シティー蒲田/",
+        "https://onsen.nifty.com/oota-onsen/onsen001459/"
+      ],
+      "confidence": "medium",
+      "note": "火曜定休"
+    },
+    {
+      "name": "SPA & HOTEL 和 -なごみ-",
+      "address": "東京都大田区西蒲田7-4-12",
+      "weekdayAdult": 2680,
+      "holidayAdult": 2980,
+      "saunaFee": 0,
+      "priceNote": "レギュラー（5時間）。スピード（70分）平日1,880円・休日2,180円。入湯税込。0〜5時 +1,400円",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "遠赤外線サウナ・ミストサウナ（ニフティに女性浴場限定の表記）",
+      "url": "https://www.spa-nagomi.com/",
+      "sources": [
+        "https://www.spa-nagomi.com/rate.html",
+        "https://onsen.nifty.com/oota-onsen/onsen007346/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 湯どんぶり栄湯",
+      "address": "東京都台東区日本堤1-4-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 600,
+      "priceNote": "銭湯（都統制料金）。サウナ料金600円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "湯どんぶりサウナ（ロウリュ・外気浴あり）",
+      "url": "https://sakaeyu.com/",
+      "sources": [
+        "https://sakaeyu.com/"
+      ],
+      "confidence": "high",
+      "note": "水曜定休"
+    },
+    {
+      "name": "天然浅草温泉 堤柳泉",
+      "address": "東京都台東区千束4-5-4",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 300,
+      "priceNote": "銭湯（都統制料金）。サウナ追加料金 男性300円・女性200円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女ともあり。種類の記載なし",
+      "url": "https://www.taitosento.com/teiryusen/",
+      "sources": [
+        "https://www.taitosento.com/teiryusen/",
+        "https://www.1010.or.jp/map/item/item-cnt-80"
+      ],
+      "confidence": "medium",
+      "note": "月曜定休。2022年に天然温泉認定"
+    },
+    {
+      "name": "浅草天然温泉 日の出湯",
+      "address": "東京都台東区元浅草2-10-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "銭湯（都統制料金）。サウナ無料",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "1階浴室のみ（1人用）。1階・2階は週替わりで男女入替",
+      "url": "http://hinodeyu.com/",
+      "sources": [
+        "http://hinodeyu.com/",
+        "https://www.1010.or.jp/map/item/item-cnt-72"
+      ],
+      "confidence": "medium",
+      "note": "水曜定休。公式の入浴料表記は改定前（550円）のまま"
+    },
+    {
+      "name": "押上温泉 大黒湯",
+      "address": "東京都墨田区横川3-12-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 300,
+      "priceNote": "銭湯（都統制料金）。サウナ 炭酸泉側 平日300円・土日祝330円／大露天側 平日370円・土日祝400円",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "遠赤外線サウナ、スチーム塩サウナ",
+      "url": "http://daikokuyu.com",
+      "sources": [
+        "http://daikokuyu.com",
+        "https://www.1010.or.jp/map/item/item-cnt-150"
+      ],
+      "confidence": "high",
+      "note": "火曜定休（祝日は営業・翌水曜休）"
+    },
+    {
+      "name": "御谷湯",
+      "address": "東京都墨田区石原3-30-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "ニフティにサウナ表記あり。種類・料金不明",
+      "url": "http://mikokuyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/sumida-onsen/onsen006550/",
+        "https://www.1010.or.jp/map/item/item-cnt-145"
+      ],
+      "confidence": "low",
+      "note": "月曜定休。公式サイト接続不可、浴場組合ページにサウナ記載なし"
+    },
+    {
+      "name": "深川温泉 常盤湯",
+      "address": "東京都江東区常盤2-3-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 500,
+      "priceNote": "銭湯（都統制料金）。サウナ追加 平日 男性500円・女性400円、土日祝 男性600円・女性450円",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性: 遠赤外線＋オートロウリュ、女性: 遠赤外線",
+      "url": "https://tokiwayu.com/",
+      "sources": [
+        "https://tokiwayu.com/",
+        "https://www.1010.or.jp/map/item/item-cnt-173"
+      ],
+      "confidence": "high",
+      "note": "木曜定休"
+    },
+    {
+      "name": "渋谷笹塚温泉 栄湯",
+      "address": "東京都渋谷区笹塚2-9-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 500,
+      "priceNote": "銭湯（都統制料金）。サウナは入浴料・貸タオル込1,100円。小学生以下サウナ利用不可",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "http://sasazukasakaeyu.com/",
+      "sources": [
+        "http://sasazukasakaeyu.com/",
+        "https://www.1010.or.jp/map/item/item-cnt-350"
+      ],
+      "confidence": "high",
+      "note": "水・木曜定休"
+    },
+    {
+      "name": "つるの湯",
+      "address": "東京都江戸川区船堀2-11-16",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "http://tsurunoyu.tokyo/",
+      "sources": [
+        "https://www.1010.or.jp/map/item/item-cnt-281",
+        "http://tsurunoyu.tokyo/"
+      ],
+      "confidence": "medium",
+      "note": "水曜定休。黒湯"
+    },
+    {
+      "name": "乙女湯",
+      "address": "東京都江戸川区船堀7-3-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "https://www.oyunofuji1010.com/gallery/1839/",
+      "sources": [
+        "https://www.1010.or.jp/map/item/item-cnt-283",
+        "https://www.oyunofuji1010.com/gallery/1839/"
+      ],
+      "confidence": "medium",
+      "note": "月曜定休（祝日は翌日休）"
+    },
+    {
+      "name": "麻布黒美水温泉 竹の湯",
+      "address": "東京都港区南麻布1-15-12",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ別料金（額は未確認）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男湯にサウナ（要追加料金）",
+      "url": "https://takenoyuazabu.wixsite.com/takeno-yu",
+      "sources": [
+        "https://www.1010.or.jp/map/item/item-cnt-108",
+        "https://matcha-jp.com/jp/1967"
+      ],
+      "confidence": "medium",
+      "note": "月・金曜定休"
+    },
+    {
+      "name": "阿佐ヶ谷温泉 天徳泉",
+      "address": "東京都杉並区阿佐谷北2-22-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "男女ともハーブスチームサウナ",
+      "url": "https://suginami1010.com/tentokusen/",
+      "sources": [
+        "https://suginami1010.com/tentokusen/",
+        "https://www.1010.or.jp/map/item/item-cnt-385"
+      ],
+      "confidence": "medium",
+      "note": "水曜定休。2023年温泉認定"
+    },
+    {
+      "name": "中野寿湯温泉",
+      "address": "東京都中野区新井1-14-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。改定前はサウナセット（入浴・タオル込）800円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://nakano-kotobukiyu.studio.site/",
+      "sources": [
+        "https://onsen.nifty.com/nakano-onsen/onsen024828/",
+        "https://www.1010.or.jp/map/item/item-cnt-375"
+      ],
+      "confidence": "medium",
+      "note": "火曜定休"
+    },
+    {
+      "name": "天然温泉 たからゆ -中野若宮温泉-",
+      "address": "東京都中野区若宮1-49-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 500,
+      "priceNote": "銭湯（都統制料金）。サウナ（入浴料別）500円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ付ストーンサウナ／コンフォートサウナ（月替わりで男女入替）",
+      "url": "https://takarayu.com/",
+      "sources": [
+        "https://takarayu.com/",
+        "https://onsen.nifty.com/nakano-onsen/onsen018311/"
+      ],
+      "confidence": "medium",
+      "note": "月曜定休。公式の入浴料表記は改定前のまま"
+    },
+    {
+      "name": "栗の湯",
+      "address": "東京都世田谷区新町1-36-6",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "銭湯（都統制料金）。サウナ料金不明",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女ともオートロウリュサウナ",
+      "url": "https://www.setagaya1010.tokyo/guide/kuri-no-yu/",
+      "sources": [
+        "https://www.setagaya1010.tokyo/guide/kuri-no-yu/",
+        "https://www.1010.or.jp/map/item/item-cnt-510"
+      ],
+      "confidence": "medium",
+      "note": "月〜水曜定休（変更あり）。黒湯"
+    },
+    {
+      "name": "月見湯温泉",
+      "address": "東京都世田谷区赤堤5-36-16",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 400,
+      "priceNote": "銭湯（都統制料金）。サウナ＋入浴1,000円（タオル付）。回数券利用時はサウナ500円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "種類の記載なし",
+      "url": "http://tsukimiyu.com",
+      "sources": [
+        "http://tsukimiyu.com",
+        "https://www.1010.or.jp/map/item/item-cnt-493"
+      ],
+      "confidence": "high",
+      "note": "月・火曜定休"
+    },
+    {
+      "name": "THE SPA 西新井",
+      "address": "東京都足立区西新井栄町1-17-10",
+      "weekdayAdult": 1038,
+      "holidayAdult": 1252,
+      "saunaFee": 0,
+      "priceNote": "タオル204円・館内着204円別。21:00〜22:30入館 平日660円・土日祝880円。土日祝朝風呂550円",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線ドライのタワーサウナ。男性サウナで熱波イベントあり",
+      "url": "https://www.central.co.jp/thespa/nishiarai/",
+      "sources": [
+        "https://www.central.co.jp/thespa/nishiarai/charge",
+        "https://onsen.nifty.com/adachi-onsen/onsen008080/"
+      ],
+      "confidence": "high",
+      "note": ""
+    }
+  ],
+  "excluded": [
+    {
+      "name": "RAKU SPA 1010 神田",
+      "reason": "公式に天然温泉の記載なし（炭酸泉等）。天然温泉と確認できず"
+    },
+    {
+      "name": "温泉旅館 由縁別邸 代田",
+      "reason": "日帰りは温泉＋軽食セットの予約制プランのみで、入浴料金を確認できず"
+    },
+    {
+      "name": "そしがや温泉21",
+      "reason": "閉館"
+    },
+    {
+      "name": "瀬田温泉 山河の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "大江戸温泉物語（お台場）",
+      "reason": "2021年9月閉館"
+    },
+    {
+      "name": "蒲田温泉",
+      "reason": "2026/10/19からリニューアル工事で長期休業（2027年4月再開予定）"
+    },
+    {
+      "name": "桜館",
+      "reason": "改修工事で休業中（2026/9/1〜12月末）"
+    },
+    {
+      "name": "久松温泉",
+      "reason": "休業中（東京都浴場組合・ニフティ表記）"
+    },
+    {
+      "name": "COCOFURO たかの湯",
+      "reason": "公式に天然温泉の記載なし（あつ湯・炭酸泉）。天然温泉と確認できず"
+    },
+    {
+      "name": "平和湯 人工温泉（北区）",
+      "reason": "人工温泉"
+    },
+    {
+      "name": "両国湯屋 江戸遊",
+      "reason": "公式に天然温泉の記載なし。天然温泉と確認できず"
+    },
+    {
+      "name": "新宿落合温泉 松の湯",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "第一相模湯",
+      "reason": "サウナなし（公式）"
+    },
+    {
+      "name": "中野温泉 天神湯",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "ゆ家 和ごころ 吉の湯",
+      "reason": "天然温泉は曜日限定の運び湯（麻布黒美水温泉・土曜のみ）で常設でないため除外"
+    },
+    {
+      "name": "浅草ROX まつり湯",
+      "reason": "天然温泉と確認できず（名湯の再現湯）"
+    },
+    {
+      "name": "北品川温泉 天神湯",
+      "reason": "サウナ記載なし（品川浴場組合）"
+    },
+    {
+      "name": "温泉旅館 由縁 新宿",
+      "reason": "大浴場は宿泊者専用"
+    },
+    {
+      "name": "ときわ健康温泉",
+      "reason": "天然温泉と確認できず（温泉表記のみで認定・泉質の記載なし）"
+    },
+    {
+      "name": "第一金乗湯",
+      "reason": "サウナ記載なし"
+    }
+  ],
+  "notes": "東京都浴場組合（1010.or.jp）の温泉タグ付き銭湯44件、サウナイキタイの東京都『温泉』検索60件、ニフティ温泉の区別一覧を起点に調査。銭湯の大人料金は2026/8/1改定の600円（都告示・浴場組合）を採用。サウナ別料金が現行料金で確認できない銭湯は saunaFee=null。公式サイトが取得できない施設（Spa LaQua・庭の湯・古代の湯・ヌーランドさがみゆ・御谷湯等）は自治体・浴場組合・ニフティで補完。取りこぼしの可能性: 温泉タグのない天然温泉銭湯、ホテルの日帰り入浴（多くは宿泊者限定）。saunaTypes の『その他』は種類が公表されていないもの。"
+}

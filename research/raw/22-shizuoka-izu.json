@@ -1,0 +1,742 @@
+{
+  "prefecture": "静岡県",
+  "prefCode": "22",
+  "area": "伊豆",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "マリンスパあたみ",
+      "address": "静岡県熱海市和田浜南町4-39",
+      "weekdayAdult": 1010,
+      "holidayAdult": 1010,
+      "saunaFee": 0,
+      "priceNote": "日帰り入浴プラン（プールなし・バスタオル付）。プール込みの入館料は1,360円。大人は高校生以上",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "スチーム"
+      ],
+      "saunaNote": "水着エリア（健康温浴室）に高温・低温・ミスト・スチームの4種",
+      "url": "https://www.marinespa.com/",
+      "sources": [
+        "https://www.marinespa.com/guide/",
+        "https://www.marinespa.com/facility/",
+        "https://rurubu.jp/andmore/spot/80022158"
+      ],
+      "confidence": "high",
+      "notice": "休館日は営業カレンダー参照。2026/11/17〜11/20連続休館。2026/12/1〜2027/3/31はプール棟修繕工事",
+      "note": "泉質（塩化物泉）はるるぶで確認"
+    },
+    {
+      "name": "ニューウェルシティ湯河原 いずみの湯",
+      "address": "静岡県熱海市泉107",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "GW・お盆・連休等の特別期間1,650円、年末年始2,200円（特別期間は入湯税150円別）。24時以降は深夜料金",
+      "saunaTypes": [],
+      "saunaNote": "サウナ利用は11:00〜24:00（TV付き）",
+      "url": "https://www.welcity-yugawara.co.jp/",
+      "sources": [
+        "https://www.welcity-yugawara.co.jp/dayuse/",
+        "https://www.welcity-yugawara.co.jp/",
+        "https://onsen.nifty.com/atami-onsen/onsen010972/"
+      ],
+      "confidence": "high",
+      "note": "湯河原温泉（静岡県側）。サウナの種類は未確認"
+    },
+    {
+      "name": "オーシャンスパ Fuua",
+      "address": "静岡県熱海市和田浜南町10-1",
+      "weekdayAdult": 3080,
+      "holidayAdult": 3410,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル込み。入湯税150円別。サウナ改装後は土日祝・特定日3,630円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女浴場内の展望サウナ",
+      "url": "https://www.atamibayresort.com/fuua/",
+      "sources": [
+        "https://www.atamibayresort.com/fuua/info/",
+        "https://www.atamibayresort.com/fuua-news-saunarenewal-info202609/"
+      ],
+      "confidence": "high",
+      "notice": "展望サウナはリニューアル工事のため2026/9/28〜12月中旬（予定）休止",
+      "note": "ATAMI BAY RESORT KORAKUEN内。サウナ再開日は12月中旬予定で具体日は未発表"
+    },
+    {
+      "name": "リブマックスリゾート熱海シーフロント",
+      "address": "静岡県熱海市渚町14-12",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオルセット付1,800円）。大人13歳以上",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性サウナはセルフロウリュ",
+      "url": "https://www.livemax-resort.com/shizuoka/atami_sf/",
+      "sources": [
+        "https://www.livemax-resort.com/shizuoka/atami_sf/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは8:00〜11:00・14:00〜24:00（木・金の午後は15:00〜）。花火大会日などは休止あり"
+    },
+    {
+      "name": "リブマックスリゾート熱海Ocean",
+      "address": "静岡県熱海市渚町22-8",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオルセット付1,800円）。大人13歳以上",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "大浴場に自動ロウリュ付きサウナ",
+      "url": "https://www.livemax-resort.com/shizuoka/atami-ocean/",
+      "sources": [
+        "https://www.livemax-resort.com/shizuoka/atami-ocean/daytrip/",
+        "https://www.livemax-resort.com/shizuoka/atami_sf/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは8:00〜11:00・15:00〜24:00。花火大会日などは休止あり"
+    },
+    {
+      "name": "KKRホテル熱海",
+      "address": "静岡県熱海市春日町7-39",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "繁忙期は料金変更の場合あり",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/atami-onsen/onsen005380/",
+      "sources": [
+        "https://onsen.nifty.com/atami-onsen/onsen005380/",
+        "https://www.asoview.com/note/5669/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は11:00〜20:00（土日祝は〜16:00）",
+      "note": "公式サイトを確認できず。asoview記事（2026/5更新）とニフティで料金一致"
+    },
+    {
+      "name": "朝日の湯 シーサイドスパ（道の駅伊東マリンタウン）",
+      "address": "静岡県伊東市湯川571-19",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日はタオルなし1,400円（タオル付1,500円）。2026/10/31から土日祝・特定日1,500円（タオル付設定廃止）。平日20時以降100円引き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ito-marinetown.co.jp/seasidespa/",
+      "sources": [
+        "https://ito-marinetown.co.jp/seasidespa/",
+        "https://ito-marinetown.co.jp/seasidespa/news/pricekaitei",
+        "https://ito-marinetown.co.jp/seasidespa/aboutspa/"
+      ],
+      "confidence": "high",
+      "notice": "メンテナンス休館: 2026/12/10・11"
+    },
+    {
+      "name": "立ち寄り温泉 伊豆高原の湯",
+      "address": "静岡県伊東市八幡野1180",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.suiransou.com/",
+      "sources": [
+        "https://www.suiransou.com/",
+        "https://www.suiransou.com/access.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1・3木曜休（祝日・GW・春夏冬休みは営業）",
+      "note": "サウナ種類は公式に記載なし（サウナイキタイの温度88〜90℃からドライと判断）"
+    },
+    {
+      "name": "赤沢日帰り温泉館",
+      "address": "静岡県伊東市赤沢字浮山163-1",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "タオルなし。18時以降は平日1,000円・土日祝1,300円。有料エリア（ラウンジ・温暖浴）+500円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "内湯に2種類のサウナ",
+      "url": "https://www.izuakazawa.jp/",
+      "sources": [
+        "https://www.izuakazawa.jp/daytrip/hotspring/"
+      ],
+      "confidence": "high",
+      "note": "サウナ種類の詳細は公式に記載なし"
+    },
+    {
+      "name": "リゾートセンター みのり",
+      "address": "静岡県伊東市宇佐美3226-100",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "ビジター料金。夏期（プール営業期間）は2,000円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://minorinomura.wixsite.com/minorinomura/spa",
+      "sources": [
+        "https://minorinomura.wixsite.com/minorinomura/spa",
+        "https://onsen.nifty.com/itou-shizuoka-onsen/onsen017004/"
+      ],
+      "confidence": "high",
+      "notice": "水・木曜休",
+      "note": "サウナ種類は公式に記載なし（温度90℃台）"
+    },
+    {
+      "name": "ハトヤ大漁苑（ホテルサンハトヤ 日帰り温泉）",
+      "address": "静岡県伊東市湯川堅岩572-12",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "海底温泉「お魚風呂」の料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.sunhatoya.co.jp/home/",
+      "sources": [
+        "https://www.at-s.com/spot/article/138433",
+        "https://onsen.nifty.com/itou-shizuoka-onsen/onsen005538/"
+      ],
+      "confidence": "low",
+      "note": "公式に日帰り料金の記載なし。アットエス（2024/6時点）とニフティで2,000円。サウナ種類は温度100℃超から判断"
+    },
+    {
+      "name": "湯〜トピアかんなみ",
+      "address": "静岡県田方郡函南町柏谷259",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "3時間料金（超過1時間ごと200円）",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温サウナとオンドルサウナ（低温）",
+      "url": "https://yu-topiakannami.jp/",
+      "sources": [
+        "https://yu-topiakannami.jp/guide/",
+        "https://yu-topiakannami.jp/spa/",
+        "https://yu-topiakannami.jp/"
+      ],
+      "confidence": "high",
+      "notice": "火曜・1/1休館。2026/11/10〜11/13は源泉ポンプ工事で臨時休館"
+    },
+    {
+      "name": "伊豆市 湯の国会館",
+      "address": "静岡県伊豆市青羽根188",
+      "weekdayAdult": 880,
+      "holidayAdult": 880,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "男性はサウナ・遠赤外線低温サウナ、女性はサウナ・スチームサウナ",
+      "url": "https://www.yunokuni-izu.com/74341/",
+      "sources": [
+        "https://www.yunokuni-izu.com/74341/",
+        "https://onsen.nifty.com/izunagaoka-onsen/onsen002709/",
+        "https://sp.jorudan.co.jp/onsen/details/1426/"
+      ],
+      "confidence": "medium",
+      "note": "公式の料金表は画像で読めず、料金はポータル（ニフティ・ジョルダン）で確認。休館日は第2・4水曜とする情報と水曜とする情報があり未確定"
+    },
+    {
+      "name": "伊豆長岡温泉 ニュー八景園",
+      "address": "静岡県伊豆の国市長岡211",
+      "weekdayAdult": 1650,
+      "holidayAdult": 2200,
+      "saunaFee": 0,
+      "priceNote": "早朝5〜8時は1,100円。タオル各220円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hakkeien.jp/",
+      "sources": [
+        "https://hakkeien.jp/daytrip/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "伊豆長岡温泉 弘法の湯 本店",
+      "address": "静岡県伊豆の国市古奈1179",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "8〜16時入店・タオルなし（タオル付は平日1,700円・週末2,000円）。16時以降入店は平日1,400円・週末1,500円。大人は小学生以上。週末料金は祝前日・特別期間も適用",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "低温のミストサウナ（裸で利用）",
+      "url": "http://www.koubounoyu.jp/honten/",
+      "sources": [
+        "http://www.koubounoyu.jp/honten/spa/index.html",
+        "http://www.koubounoyu.jp/honten/access/index.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "伊豆長岡温泉 弘法の湯 長岡店",
+      "address": "静岡県伊豆の国市長岡1110",
+      "weekdayAdult": 1900,
+      "holidayAdult": 2200,
+      "saunaFee": 0,
+      "priceNote": "6〜16時入館。16時以降入館は平日1,400円・土日祝1,500円。特別期間2,800円。大人は小学生以上",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "低温（38〜41℃）のミストサウナ（裸で利用）。プライベートサウナは別料金",
+      "url": "https://koubounoyu.jp/nagaoka/",
+      "sources": [
+        "https://koubounoyu.jp/nagaoka/spa/index.html",
+        "https://koubounoyu.jp/nagaoka/spa/sauna.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ホテルサンバレー伊豆長岡 本館 満天の湯 夢殿",
+      "address": "静岡県伊豆の国市長岡659",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "温泉図書館込みは平日1,700円・土日祝1,900円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.izu3800.jp/",
+      "sources": [
+        "http://www.izu3800.jp/dayplan/default/",
+        "http://www.izu3800.jp/spend/hotspring/",
+        "http://www.izu3800.jp/access/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは13:00〜22:00（最終受付19:00）、水曜は15:00〜。土日祝は受付休止の場合あり"
+    },
+    {
+      "name": "伊豆長岡温泉 ホテル天坊",
+      "address": "静岡県伊豆の国市長岡431-1",
+      "weekdayAdult": 1900,
+      "holidayAdult": 1900,
+      "saunaFee": 0,
+      "priceNote": "入浴のみ11〜14時。15〜20時は2,000円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ（水風呂なし）",
+      "url": "https://www.izu-tenbo.com/",
+      "sources": [
+        "https://www.izu-tenbo.com/plan-day/",
+        "https://www.izu-tenbo.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは火・金曜と年末年始休み"
+    },
+    {
+      "name": "ホテルワイナリーヒル 縄文之御神湯",
+      "address": "静岡県伊豆市下白岩1434",
+      "weekdayAdult": 880,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "夏季（プール営業日）は2,200円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.nakaizuwinery.com/",
+      "sources": [
+        "https://sp.jorudan.co.jp/onsen/details/542/",
+        "https://www.walkerplus.com/spot/ar0622s76862/price.html",
+        "https://onsen.nifty.com/shuzenji-onsen/onsen005826/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトで日帰り料金を確認できず。ジョルダン（2026/3更新）・ウォーカープラス（2026/7）で一致。サウナ種類不明"
+    },
+    {
+      "name": "リブマックスリゾート天城湯ヶ島",
+      "address": "静岡県伊豆市湯ヶ島2821-4",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオルセット付1,400円）。大人13歳以上",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.livemax-resort.com/shizuoka/amagiyugashima/",
+      "sources": [
+        "https://www.livemax-resort.com/shizuoka/amagiyugashima/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは8:00〜11:00・14:00〜24:00",
+      "note": "サウナ種類は公式に記載なし。サウナイキタイでは男性側のみ掲載（70℃）"
+    },
+    {
+      "name": "リブマックスリゾート伊東川奈",
+      "address": "静岡県伊東市富戸三野原1301",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオルセット付1,400円）。入湯税150円別。大人13歳以上",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.livemax-resort.com/shizuoka/ito/",
+      "sources": [
+        "https://www.livemax-resort.com/shizuoka/ito/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは8:00〜11:00・14:00〜24:00（水曜は15:00〜）",
+      "note": "サウナ種類は公式に記載なし（温度70〜80℃台）"
+    },
+    {
+      "name": "リブマックスリゾート伊豆下田",
+      "address": "静岡県下田市田牛711-3",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオルセット付1,400円）。大人13歳以上",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.livemax-resort.com/shizuoka/izushimoda/",
+      "sources": [
+        "https://www.livemax-resort.com/shizuoka/izushimoda/daytrip/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは8:00〜11:00・14:00〜24:00",
+      "note": "サウナ種類は公式に記載なし（温度90℃）"
+    },
+    {
+      "name": "ラフォーレ修善寺 温泉大浴場 森の湯",
+      "address": "静岡県伊豆市大平1529",
+      "weekdayAdult": 940,
+      "holidayAdult": 940,
+      "saunaFee": 0,
+      "priceNote": "バスタオルレンタル220円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女ともサウナ・水風呂あり（サウナは15:00〜22:00）",
+      "url": "https://www.laforet.co.jp/shuzenji/",
+      "sources": [
+        "https://www.laforet.co.jp/shuzenji/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは12:00〜21:00。サウナは15時から",
+      "note": "サウナ種類は公式に記載なし"
+    },
+    {
+      "name": "踊り子温泉会館",
+      "address": "静岡県賀茂郡河津町峰457-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "3時間料金（超過1時間ごと200円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kankou.town.kawazu.shizuoka.jp/attraction/132/",
+      "sources": [
+        "https://kankou.town.kawazu.shizuoka.jp/attraction/132/",
+        "https://onsen.nifty.com/kawadu-onsen/onsen002660/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休、年4回メンテナンス休館（年末年始・河津桜まつり期間は無休）",
+      "note": "町営。河津町観光協会ページで確認。サウナ種類は記載なし"
+    },
+    {
+      "name": "下賀茂温泉 銀の湯会館",
+      "address": "静岡県賀茂郡南伊豆町下賀茂247-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "一般料金（南伊豆町民・下田市民600円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男女日替わりの浴場の一方に高温サウナ、もう一方にミストサウナ",
+      "url": "https://sp.jorudan.co.jp/onsen/details/1502/",
+      "sources": [
+        "https://sp.jorudan.co.jp/onsen/details/1502/",
+        "https://onsen.nifty.com/shimogamo-onsen/onsen002651/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜休（祝日の場合は翌日）",
+      "note": "町営。町の施設ページは404。ジョルダン（南伊豆町観光協会提供・2025/3更新）とニフティで確認"
+    },
+    {
+      "name": "稲取東海ホテル湯苑",
+      "address": "静岡県賀茂郡東伊豆町稲取1599-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "土日・休前日・特定日（河津桜まつり期間など）1,500円、繁忙期（年末年始・GW・夏季）2,000円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "サンゴサウナ（91℃）ほか洞窟風呂にもサウナ",
+      "url": "http://www.tokai-h.co.jp/",
+      "sources": [
+        "http://www.tokai-h.co.jp/onsen/",
+        "https://onsen.nifty.com/inatori-onsen/onsen005338/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "稲取銀水荘",
+      "address": "静岡県賀茂郡東伊豆町稲取1624-1",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "水風呂付きサウナ（14:00〜21:00）",
+      "url": "https://www.inatori-ginsuiso.jp/",
+      "sources": [
+        "https://www.inatori-ginsuiso.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は14:00〜19:00（最終受付18:30）",
+      "note": "サウナ種類は公式に記載なし"
+    },
+    {
+      "name": "観音温泉 観音プリンシプル",
+      "address": "静岡県下田市横川1092-1",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "休前日・休日1,500円。利用は1時間程度",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.kannon-onsen.com/",
+      "sources": [
+        "https://www.kannon-onsen.com/higaeri/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは11:00〜16:00。メンテナンス等で臨時休業あり",
+      "note": "サウナ種類は公式に記載なし（温度80〜100℃）"
+    },
+    {
+      "name": "黒船ホテル",
+      "address": "静岡県下田市柿崎3-8",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女とも大浴場内にドライサウナ",
+      "url": "https://www.kurofune-hotel.com/",
+      "sources": [
+        "https://www.kurofune-hotel.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは15:00〜21:00。GW・夏期・年末年始は休止、不定休のため要連絡"
+    },
+    {
+      "name": "下田ベイクロシオ",
+      "address": "静岡県下田市柿崎4-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "GW・夏季・年末年始は1,500円（18:00〜21:00）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "展望風呂側にサウナ（男女入替制）",
+      "url": "https://www.baykuro.co.jp/",
+      "sources": [
+        "https://www.baykuro.co.jp/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは15:00〜21:00。休業日は日帰り入浴カレンダー参照",
+      "note": "サウナ種類は公式に記載なし（温度90℃前後）"
+    },
+    {
+      "name": "堂ヶ島ニュー銀水",
+      "address": "静岡県賀茂郡西伊豆町仁科2977-1",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "タオル付き・入館から120分",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女ともドライサウナ（14:00〜22:00）",
+      "url": "http://www.dougashima-newginsui.jp/",
+      "sources": [
+        "http://www.dougashima-newginsui.jp/day_trip/",
+        "http://www.dougashima-newginsui.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り受付13:00〜20:00（サウナは14時から）"
+    },
+    {
+      "name": "堂ヶ島温泉ホテル",
+      "address": "静岡県賀茂郡西伊豆町仁科2960",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から1,500円",
+      "saunaTypes": [],
+      "saunaNote": "大浴場内にサウナ",
+      "url": "http://www.doh.co.jp/",
+      "sources": [
+        "http://www.doh.co.jp/hotspa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは13:00〜21:00（最終入場20:00）。夏季・混雑時は15時までの場合あり",
+      "note": "サウナ種類は公式に記載なし。源泉テントサウナは宿泊者向けとみられ対象外"
+    },
+    {
+      "name": "御宿 瑞鷹",
+      "address": "静岡県熱海市泉226-70",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "「2,000円より」の表記（小学生以上同額）。タオル別",
+      "saunaTypes": [],
+      "saunaNote": "大浴場「月の詩」にサウナ（男女入替制）",
+      "url": "https://oyado-zuiyo.jp/",
+      "sources": [
+        "https://oyado-zuiyo.jp/spa/",
+        "https://onsen.nifty.com/atami-onsen/onsen005347/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は要問い合わせ",
+      "note": "伊豆湯河原温泉。公式に料金はあるが「より」表記で日帰り時間・条件の記載なし。サウナ種類不明"
+    },
+    {
+      "name": "湯ヶ島ゴルフ倶楽部＆ホテルリゾート",
+      "address": "静岡県伊豆市湯ケ島2571-10",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "フェイスタオル・バスタオル付",
+      "saunaTypes": [],
+      "saunaNote": "檜造りのサウナルーム",
+      "url": "http://www.yugashimaclub.com/",
+      "sources": [
+        "http://www.yugashimaclub.com/images/hotel/higaeri_onsen.pdf"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは12:00〜22:00",
+      "note": "公式の日帰り温泉チラシ（PDF、作成日不明）で確認。サウナ種類不明"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "熱海温泉の旅館 大月ホテル和風館",
+      "reason": "閉館（フォートラベル・ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "スパヘルス日金の湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "HOTEL MICURAS",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "日帰りトータルビューティスパ 森の城 美ing",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "湯屋光林",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "サイクル温泉ゆーサロン",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "湯の郷村",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "サンシャイン修善寺",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "メールクラブ",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "伊豆高原温泉ホテル 夢いろは",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    },
+    {
+      "name": "大滝温泉 天城荘",
+      "reason": "サウナ再開予定なし（サウナイキタイ）"
+    },
+    {
+      "name": "美と健康の宿 西伊豆 巡り〜MEGURI〜",
+      "reason": "サウナは貸切サウナのみで日帰り入浴（1,500円）に含まれない"
+    },
+    {
+      "name": "伊豆市営 白岩の湯",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "温泉や 神代の湯",
+      "reason": "公式の日帰り案内にサウナの記載なし"
+    },
+    {
+      "name": "クアハウス石橋旅館",
+      "reason": "公式の設備一覧にサウナなし（箱むし浴は休止中）"
+    },
+    {
+      "name": "磯の宿 石花海",
+      "reason": "公式の日帰り温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "ホテルニューアカオ",
+      "reason": "日帰り温泉の公式案内にサウナの記載なく、ポータル間でサウナ有無が食い違い"
+    },
+    {
+      "name": "宙 SORA 渡月荘金龍",
+      "reason": "日帰り入浴（1,900円）はあるが公式でサウナの記載なし"
+    },
+    {
+      "name": "水の家（伊豆高原）",
+      "reason": "天然温泉か確認できず、料金もポータル間で食い違い"
+    },
+    {
+      "name": "大江戸温泉物語Premium 伊東ホテルニュー岡部",
+      "reason": "日帰り入浴はあるがサウナの有無を確認できず"
+    }
+  ],
+  "notes": "ニフティ温泉のサウナ絞り込み（熱海・伊東・伊豆高原・熱川・稲取・天城・伊豆長岡・修善寺・河津・下田・下賀茂・土肥・西伊豆）とサウナイキタイの伊豆11市町一覧を起点に、日帰り料金のある施設を公式サイトで確認。伊豆湯河原温泉（熱海市泉）は熱海市なので収録。オーシャンスパ Fuuaは基準日に展望サウナが改装休止中（12月中旬再開予定・具体日未発表）だが、2か月以内の再開見込みのため収録しnoticeに記載。サウナ種類が公式に書かれていない施設は、サウナイキタイの温度（70〜100℃台）からドライとしてnoteに明記し、判断材料がないものはsaunaTypesを空にした。未収録・確認しきれず: ホテル旅館の日帰り入浴（熱海シーサイドスパ&リゾート、月の栖 熱海聚楽ホテル、伊東園ホテル熱海館、熱海ニューフジヤホテル、ニューとみよし、伊東ホテルジュラク、伊豆高原ホテル五つ星、森の泉、熱川プリンスホテル、ホテルカターラ（日帰り料金が季節変動で非公開）、今井荘、Ocean View Hiromi SPA Hotel、ハーヴェスト天城高原、土肥ふじやホテル、大江戸温泉物語土肥マリンホテル、海辺のかくれ湯 清流など）は、公式で日帰り料金またはサウナ利用可否を確認できず未収録。日航亭大湯はサウナの記載がなく営業状況も不明のため未収録。松崎町は該当施設を見つけられなかった。プライベートサウナ専用施設（ととのゆ、ヒーリングドラゴン等）は浴場のサウナではないため対象外。"
+}

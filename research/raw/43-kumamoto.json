@@ -1,0 +1,1627 @@
+{
+  "prefecture": "熊本県",
+  "prefCode": "43",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "サウナと天然温泉 湯らっくす",
+      "address": "熊本県熊本市中央区本荘町722",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "入浴のみ（フリーコース 平日1,650円・土日祝2,000円）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yulax.info/",
+      "sources": [
+        "https://www.yulax.info/price",
+        "https://www.yulax.info/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業（入浴は10時〜翌8時）。2026/11/16〜11/20はメンテナンス休館",
+      "note": ""
+    },
+    {
+      "name": "温泉カフェ あがんなっせ",
+      "address": "熊本県熊本市北区鶴羽田3丁目10番1号",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "入浴のみ120分（特別期間1,050円）。改装期間中（〜12/6）のフリーコース 平日1,350円・土日祝1,650円",
+      "saunaTypes": [
+        "ロウリュ可",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.agannasse-spa.jp/",
+      "sources": [
+        "https://www.agannasse-spa.jp/price-list/",
+        "https://www.agannasse-spa.jp/news/ztyrmtu1yi8a/"
+      ],
+      "confidence": "high",
+      "notice": "2026/12/6までリラックスルーム改装中（一部施設の利用制限あり）",
+      "note": "旧 菊南温泉スパリゾート あがんなっせ。改装期間中も入浴のみ120分は通常料金と同額（画像の料金表で確認）"
+    },
+    {
+      "name": "城南天然温泉 かたるの森",
+      "address": "熊本県熊本市南区城南町藤山1715",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://katarunomori.jp/tennenonsen/",
+      "sources": [
+        "https://katarunomori.jp/tennenonsen/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "天然江津湖温泉 ばってんの湯",
+      "address": "熊本県熊本市東区江津3-5-17",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": null,
+      "priceNote": "シャンプー・リンス持参で550円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://kumamoto-spa.com/",
+      "sources": [
+        "https://kumamoto-spa.com/batten-price",
+        "https://onsen.nifty.com/-onsen/onsen004236/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "サウナの有無・料金は公式に記載なく、ニフティ・サウナイキタイで確認"
+    },
+    {
+      "name": "梶尾温泉",
+      "address": "熊本県熊本市北区梶尾町1294-2",
+      "weekdayAdult": null,
+      "holidayAdult": null,
+      "saunaFee": null,
+      "priceNote": "料金未確認（観光サイトでは400円、口コミでは450〜500円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://kumamoto-guide.jp/spots/detail/5",
+      "sources": [
+        "https://kumamoto-guide.jp/spots/detail/5",
+        "https://onsen.nifty.com/-onsen/onsen008091/"
+      ],
+      "confidence": "low",
+      "notice": "第1・第3月曜定休",
+      "note": "公式サイトなし。観光サイト（入浴料400円）とサウナイキタイ（500円〜）が食い違う"
+    },
+    {
+      "name": "坪井温泉 大福湯",
+      "address": "熊本県熊本市中央区坪井2-5-28",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "県の銭湯統制料金（2026/2/16〜）",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温・低温・冷凍の3種",
+      "url": "https://kuma1010.com/custom/399/",
+      "sources": [
+        "https://kuma1010.com/custom/399/",
+        "https://kuma1010.com/9980"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休。13〜23時",
+      "note": "組合ページではお湯の種類「冷泉」、ニフティでは天然温泉。温泉法上の温泉かは要確認"
+    },
+    {
+      "name": "嘉島湯元水春",
+      "address": "熊本県上益城郡嘉島町大字上島字長池2232 イオンモール熊本内",
+      "weekdayAdult": 800,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "スチーム"
+      ],
+      "saunaNote": "セルフロウリュの瞑想サウナは男湯、スチームサウナは女湯",
+      "url": "https://suisyun.jp/kashima/",
+      "sources": [
+        "https://suisyun.jp/kumamoto/fee/",
+        "https://suisyun.jp/kashima/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "湯月 Mifune Terrace",
+      "address": "熊本県上益城郡御船町木倉三藏1135",
+      "weekdayAdult": 810,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.mifuneterrace.jp/yuzuki.php",
+      "sources": [
+        "https://www.mifuneterrace.jp/yuzuki.php",
+        "https://onsen.nifty.com/-onsen/onsen017402/"
+      ],
+      "confidence": "high",
+      "notice": "源泉風呂は機器トラブルで休止中の場合あり",
+      "note": "公式に泉質記載なし（「源泉風呂」あり、ニフティで天然温泉）。住所はニフティ"
+    },
+    {
+      "name": "菊陽温泉 さんさんの湯",
+      "address": "熊本県菊池郡菊陽町原水5359",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可",
+        "スチーム"
+      ],
+      "saunaNote": "週替わりで男女入れ替え（和風・洋風）",
+      "url": "http://sanfurea.co.jp/sansan/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004310/",
+        "https://rurubu.jp/andmore/spot/80040219"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休（祝日は営業）",
+      "note": "公式サイトは証明書エラーで取得不可。ニフティ・るるぶ・サウナイキタイが450円で一致"
+    },
+    {
+      "name": "下大谷温泉 大谷の湯",
+      "address": "熊本県菊池郡菊陽町原水字下大谷3880-14",
+      "weekdayAdult": 630,
+      "holidayAdult": 630,
+      "saunaFee": 0,
+      "priceNote": "毎週木曜レディースデイ・火曜メンズデイは350円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://ootanino-yu.com/ootanino-yu/",
+      "sources": [
+        "https://ootanino-yu.com/ootanino-yu/"
+      ],
+      "confidence": "high",
+      "notice": "第1水曜定休",
+      "note": ""
+    },
+    {
+      "name": "七城温泉ドーム",
+      "address": "熊本県菊池市七城町林原917-1",
+      "weekdayAdult": 430,
+      "holidayAdult": 430,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可",
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.onsendome.com/",
+      "sources": [
+        "https://www.onsendome.com/Bathing"
+      ],
+      "confidence": "high",
+      "notice": "不定休。2026/6/27から個人用サウナマットが必要",
+      "note": ""
+    },
+    {
+      "name": "菊池わくわく温泉",
+      "address": "熊本県菊池市亘37-5",
+      "weekdayAdult": 430,
+      "holidayAdult": 430,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004288/",
+        "https://sauna-ikitai.com/kumamoto?page=3"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "公式サイトなし。ニフティ・サウナイキタイの料金（更新日不明）"
+    },
+    {
+      "name": "蘇傳寺温泉",
+      "address": "熊本県菊池市泗水町2940-1",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen009997/",
+        "https://sauna-ikitai.com/kumamoto?page=3"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "公式サイトなし。ニフティ・サウナイキタイの料金（更新日不明）"
+    },
+    {
+      "name": "温泉の郷 山鹿どんぐり村",
+      "address": "熊本県山鹿市久原3905",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "深夜1時半〜翌7時半は700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://dongurimura.info/",
+      "sources": [
+        "https://dongurimura.info/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 湯花里（道の駅 水辺プラザかもと）",
+      "address": "熊本県山鹿市鹿本町梶屋1257",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004244/",
+        "https://sp.jorudan.co.jp/onsen/details/128/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイト（mizube-plaza.co.jp）は取得不可。ニフティ・ジョルダンで500円"
+    },
+    {
+      "name": "平山温泉 日帰りスパ フローラ",
+      "address": "熊本県山鹿市平山5235",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 400,
+      "priceNote": "サウナ別料金（通常500円、オープン記念価格400円）",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯のみのバレルサウナ（12〜21時）",
+      "url": "https://spa-flora.com/",
+      "sources": [
+        "https://spa-flora.com/price/",
+        "https://spa-flora.com/"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休",
+      "note": ""
+    },
+    {
+      "name": "湯の蔵（平山温泉）",
+      "address": "熊本県山鹿市平山5255-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "入浴のみ（休憩付き800円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yunokura.jp/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004399/"
+      ],
+      "confidence": "medium",
+      "notice": "第2火曜定休",
+      "note": "公式に日帰り料金の記載なし。ニフティの料金"
+    },
+    {
+      "name": "山鹿温泉 千代湯",
+      "address": "熊本県山鹿市古閑1075-12",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ichi-goudoukaisya.com/chiyoyu",
+      "sources": [
+        "https://www.ichi-goudoukaisya.com/chiyoyu"
+      ],
+      "confidence": "high",
+      "notice": "10〜22時",
+      "note": "公式でサウナありだが種類・料金の記載なし"
+    },
+    {
+      "name": "恵温泉旅館",
+      "address": "熊本県山鹿市菊鹿町池永105-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://megumi-onsen.jp/",
+      "sources": [
+        "https://megumi-onsen.jp/",
+        "https://onsen.nifty.com/-onsen/onsen007391/"
+      ],
+      "confidence": "medium",
+      "notice": "第1水曜休館。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式にサウナ記載なし（ニフティ・サウナイキタイにあり）"
+    },
+    {
+      "name": "旅館 せと乃湯",
+      "address": "熊本県山鹿市平山5621-2",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hirayama-onsen.jp/facilities/setonoyu/",
+      "sources": [
+        "https://www.hirayama-onsen.jp/facilities/setonoyu/",
+        "https://onsen.nifty.com/-onsen/onsen004428/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は平山温泉公式。サウナはニフティ・サウナイキタイのみ"
+    },
+    {
+      "name": "平山温泉 華の番台",
+      "address": "熊本県山鹿市平山4998",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "ハイシーズンは料金変更の場合あり",
+      "saunaTypes": [
+        "ミスト",
+        "その他"
+      ],
+      "saunaNote": "女湯はミストサウナ",
+      "url": "http://www.hananobandai.com/",
+      "sources": [
+        "http://www.hananobandai.com/",
+        "https://onsen.nifty.com/-onsen/onsen007988/",
+        "https://rurubu.jp/andmore/spot/80040039"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休。10〜21時30分",
+      "note": "公式に入浴料の記載なし。ニフティ・るるぶで600円"
+    },
+    {
+      "name": "玉名温泉 つかさの湯",
+      "address": "熊本県玉名市立願寺東段656-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "会員800円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.tsukasanoyu.jp/",
+      "sources": [
+        "https://www.tsukasanoyu.jp/price.html",
+        "https://www.tsukasanoyu.jp/img/sub/2026_08_spaprice.jpg"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（メンテナンス休館あり）",
+      "note": "2026/8の料金表画像で一般1,000円。サウナ種類はニフティ"
+    },
+    {
+      "name": "草枕温泉てんすい",
+      "address": "熊本県玉名市天水町小天511-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.kusamakura.jp/kusa_on/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004212/",
+        "https://sauna-ikitai.com/kumamoto?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式ページは文字化けで料金読めず。ニフティ・サウナイキタイで600円"
+    },
+    {
+      "name": "ホテルしらさぎ",
+      "address": "熊本県玉名市岩崎730",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "立ち寄り湯（11〜21時）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://shirasagiso.jp/",
+      "sources": [
+        "https://shirasagiso.jp/tachiyoriyu/",
+        "https://onsen.nifty.com/-onsen/onsen006796/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "立ち寄り湯料金は公式。サウナはニフティ・サウナイキタイ"
+    },
+    {
+      "name": "荒尾温泉 ドリームの湯",
+      "address": "熊本県荒尾市水野1534-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "遠赤外線は男湯、ミストは女湯",
+      "url": "http://www.heiseikai.jp/health/dream_yu/",
+      "sources": [
+        "http://www.heiseikai.jp/health/dream_yu/",
+        "https://onsen.nifty.com/-onsen/onsen019587/"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜定休",
+      "note": "サウナ種類はニフティ"
+    },
+    {
+      "name": "ふれあいの丘交流センター",
+      "address": "熊本県玉名郡玉東町木葉372",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "展望サウナ",
+      "url": "https://www.town.gyokuto.kumamoto.jp/kiji003631/index.html",
+      "sources": [
+        "https://www.town.gyokuto.kumamoto.jp/kiji003631/index.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館。2026/11/14・15は設備交換で臨時休館",
+      "note": "住所はニフティ"
+    },
+    {
+      "name": "ホテルセキア リゾート＆スパ",
+      "address": "熊本県玉名郡南関町大字関村1556",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライは男湯、ミストは女湯",
+      "url": "http://www.sekiahills.co.jp/",
+      "sources": [
+        "http://www.sekiahills.co.jp/spa/index.html",
+        "http://www.sekiahills.co.jp/overview/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "火曜は15時から。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "宇土市健康福祉館 あじさいの湯",
+      "address": "熊本県宇土市網津町2283",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内400円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.city.uto.lg.jp/article/view/1182/14401.html",
+      "sources": [
+        "https://www.city.uto.lg.jp/article/view/1182/14401.html"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3月曜休館",
+      "note": ""
+    },
+    {
+      "name": "隠れ家温泉 古保山リゾート",
+      "address": "熊本県宇城市松橋町古保山字虎御前97-4",
+      "weekdayAdult": 690,
+      "holidayAdult": 690,
+      "saunaFee": 0,
+      "priceNote": "毎月26日（平日）は580円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/119024/?page=2",
+        "https://rurubu.jp/andmore/spot/80040102"
+      ],
+      "confidence": "medium",
+      "notice": "無休。10〜22時",
+      "note": "公式サイト見当たらず。All About（2026/5）・るるぶ。サウナはサウナイキタイ"
+    },
+    {
+      "name": "道の駅美里 佐俣の湯",
+      "address": "熊本県下益城郡美里町佐俣705",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/116500/?page=2",
+        "https://sp.jorudan.co.jp/onsen/details/484/"
+      ],
+      "confidence": "medium",
+      "notice": "第2木曜休館",
+      "note": "公式サイト見当たらず。All About（2026/4調査）で600円（るるぶは550円で古い）"
+    },
+    {
+      "name": "東陽交流センターせせらぎ 夢あかり",
+      "address": "熊本県八代市東陽町南1051-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他",
+        "ミスト"
+      ],
+      "saunaNote": "露天横に源泉の釜風呂（ミストサウナ）",
+      "url": "https://www.toyo-seseragi-michinoeki.com/onsen-yumeakari",
+      "sources": [
+        "https://www.toyo-seseragi-michinoeki.com/onsen-yumeakari"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は翌日）。10〜20時",
+      "note": ""
+    },
+    {
+      "name": "八代市千丁地域福祉保健センター パトリア千丁",
+      "address": "熊本県八代市千丁町新牟田1433",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.kinasse-yatsushiro.jp/spots/detail/5eeea279-71e5-40a8-a213-fa27483bc20b",
+      "sources": [
+        "https://www.kinasse-yatsushiro.jp/spots/detail/5eeea279-71e5-40a8-a213-fa27483bc20b",
+        "https://onsen.nifty.com/-onsen/onsen004406/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜休館（祝日は翌日）",
+      "note": "料金は八代市観光サイト。サウナはニフティ・サウナイキタイのみ"
+    },
+    {
+      "name": "さかもと温泉センター クレオン",
+      "address": "熊本県八代市坂本町川嶽1091",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.kinasse-yatsushiro.jp/spots/detail/c813efaf-21f2-44d9-97a3-3849b21a1ea8",
+      "sources": [
+        "https://www.kinasse-yatsushiro.jp/spots/detail/c813efaf-21f2-44d9-97a3-3849b21a1ea8"
+      ],
+      "confidence": "high",
+      "notice": "木曜休館（祝日は営業）。10〜20時",
+      "note": ""
+    },
+    {
+      "name": "八代温泉 さくらの湯",
+      "address": "熊本県八代市川田町西505",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://sauna-ikitai.com/saunas/116683",
+        "https://onsen.nifty.com/-onsen/onsen024584/"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "旧つる乃湯八代店（2026/4屋号変更）。公式サイトなし、サウナイキタイの550円〜のみ"
+    },
+    {
+      "name": "道の駅 大野温泉センター",
+      "address": "熊本県葦北郡芦北町大字天月1000",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/oonoonsen/oonoonsen.html",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004402/",
+        "https://sauna-ikitai.com/kumamoto?page=5"
+      ],
+      "confidence": "medium",
+      "notice": "火曜休館（祝日は翌日）。温泉10〜20時",
+      "note": "料金はニフティ・サウナイキタイ（公式に料金記載なし）"
+    },
+    {
+      "name": "御立岬温泉センター",
+      "address": "熊本県葦北郡芦北町大字田浦町124",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "薪ストーブのロウリュあり",
+      "url": "https://otachimisaki.com/healing/",
+      "sources": [
+        "https://otachimisaki.com/healing/"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4水曜定休",
+      "note": ""
+    },
+    {
+      "name": "ヘルシーパーク芦北",
+      "address": "熊本県葦北郡芦北町湯浦253",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://ashikita-kankou.com/introduce/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E8%8A%A6%E5%8C%97/",
+      "sources": [
+        "https://ashikita-kankou.com/introduce/%E3%83%98%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E8%8A%A6%E5%8C%97/"
+      ],
+      "confidence": "high",
+      "notice": "第2月曜定休（祝日は翌日）",
+      "note": ""
+    },
+    {
+      "name": "いわい温泉ホテル さ蔵",
+      "address": "熊本県人吉市西間下町154-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://iwaionsen.jp/",
+      "sources": [
+        "https://iwaionsen.jp/spa/",
+        "https://onsen.nifty.com/-onsen/onsen008811/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナはニフティ・サウナイキタイのみ"
+    },
+    {
+      "name": "人吉温泉 清流山水花 あゆの里",
+      "address": "熊本県人吉市九日町30",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": null,
+      "priceNote": "日帰り入浴（15〜24時）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.ayunosato.jp/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen011876/"
+      ],
+      "confidence": "low",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式に日帰り料金の記載なし。ニフティの料金"
+    },
+    {
+      "name": "一勝地温泉 かわせみ",
+      "address": "熊本県球磨郡球磨村一勝地乙39-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80040436",
+        "https://sauna-ikitai.com/kumamoto?page=3"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休",
+      "note": "公式ドメイン失効。るるぶ・サウナイキタイで500円"
+    },
+    {
+      "name": "さがら温泉 茶湯里",
+      "address": "熊本県球磨郡相良村深水2136",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女各1（9時から）",
+      "url": "https://hpdsp.jp/sayuri-yu/",
+      "sources": [
+        "https://hpdsp.jp/sayuri-yu/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "第2火曜定休（8月は無休）",
+      "note": ""
+    },
+    {
+      "name": "山江温泉ほたる",
+      "address": "熊本県球磨郡山江村大字万江甲423",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト",
+        "その他"
+      ],
+      "saunaNote": "遠赤外線・中温サウナ・備長炭蒸し風呂（浴場は夜/朝入れ替え）",
+      "url": "https://hotarunomura.com/onsen",
+      "sources": [
+        "https://hotarunomura.com/onsen",
+        "https://hotarunomura.com/1155"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜定休（祝日は翌日）",
+      "note": "2026/10/1料金改定で大人は据え置き"
+    },
+    {
+      "name": "五木温泉 夢唄",
+      "address": "熊本県球磨郡五木村甲2672-54",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "週替わりで男女入れ替え",
+      "url": "https://itsuki-kanko.com/archives/other/610",
+      "sources": [
+        "https://itsuki-kanko.com/archives/other/610"
+      ],
+      "confidence": "high",
+      "notice": "火曜休館（祝日は翌日）",
+      "note": "住所はニフティ"
+    },
+    {
+      "name": "ゆのまえ温泉 湯楽里",
+      "address": "熊本県球磨郡湯前町1588-7",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "13歳以上",
+      "url": "http://www.y-yurari.co.jp/",
+      "sources": [
+        "http://www.y-yurari.co.jp/onsen.php"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4月曜休館",
+      "note": ""
+    },
+    {
+      "name": "あさぎり町ヘルシーランド 薬師温泉",
+      "address": "熊本県球磨郡あさぎり町上北1874",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://asagiri-healthyland.com/",
+      "sources": [
+        "https://asagiri-healthyland.com/"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4水曜定休（祝日は翌日）",
+      "note": ""
+    },
+    {
+      "name": "ふれあい交流センター えびすの湯",
+      "address": "熊本県球磨郡多良木町多良木1561",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004202/",
+        "https://sauna-ikitai.com/kumamoto?page=8"
+      ],
+      "confidence": "low",
+      "notice": "第2火曜休館。15時30分〜21時30分",
+      "note": "町の公式ページは404。料金・天然温泉はニフティのみ、サウナはサウナイキタイ"
+    },
+    {
+      "name": "天然温泉 ペルラの湯舟（ホテルアレグリアガーデン天草）",
+      "address": "熊本県天草市本渡町広瀬996",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "海の湯にオーシャンビューサウナ（男女日替わり）",
+      "url": "https://hotel-alegria.jp/spa",
+      "sources": [
+        "https://hotel-alegria.jp/spa"
+      ],
+      "confidence": "high",
+      "notice": "早朝6時〜8時30分・14時〜21時30分。月1回定期メンテナンスあり",
+      "note": ""
+    },
+    {
+      "name": "天草下田温泉センター 白鷺館",
+      "address": "熊本県天草市天草町下田北1290-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://shirasagikan.net/",
+      "sources": [
+        "http://shirasagikan.net/",
+        "https://onsen.nifty.com/-onsen/onsen004251/"
+      ],
+      "confidence": "medium",
+      "notice": "第4木曜定休",
+      "note": "料金は公式（4月の指定管理者交代後）。サウナは公式記載なし、ニフティ・サウナイキタイにあり"
+    },
+    {
+      "name": "栖本温泉センター 河童ロマン館",
+      "address": "熊本県天草市栖本町馬場3725-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://hp.amakusa-web.jp/a0732/MyHp/Pub/",
+      "sources": [
+        "https://hp.amakusa-web.jp/a0732/MyHp/Pub/Free.aspx?CNo=26"
+      ],
+      "confidence": "medium",
+      "notice": "火曜休館（祝日は翌日）。11〜20時",
+      "note": "料金は公式（2026/4改定後）。サウナは公式記載なし、ニフティ・サウナイキタイにあり"
+    },
+    {
+      "name": "有明温泉 さざ波の湯",
+      "address": "熊本県天草市有明町上津浦1955",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://rippleland.com/sazanaminoyu.html",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004401/",
+        "https://sauna-ikitai.com/kumamoto?page=7"
+      ],
+      "confidence": "low",
+      "notice": "水曜定休（祝日は翌日）",
+      "note": "公式はSSLエラーで取得不可。ニフティ700円、サウナイキタイ500円〜と食い違い"
+    },
+    {
+      "name": "天草ゆ楽園",
+      "address": "熊本県天草市新和町碇石81-8",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen017380/",
+        "https://sauna-ikitai.com/kumamoto?page=7"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "公式なし。ニフティ・サウナイキタイで450円"
+    },
+    {
+      "name": "天然温泉 愛夢里",
+      "address": "熊本県天草市河浦町河浦4747-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://amuri-onsen.jp/amuripage/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004321/",
+        "https://amuri-onsen.jp/amuripage/"
+      ],
+      "confidence": "low",
+      "notice": "月曜定休（祝日は翌日）。温泉12〜21時",
+      "note": "公式に料金記載なし。ニフティ600円、サウナイキタイ500円〜"
+    },
+    {
+      "name": "牛深温泉センター やすらぎの湯",
+      "address": "熊本県天草市久玉町内の原2193-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://ushibuka-yasuragi.com/",
+      "sources": [
+        "https://ushibuka-yasuragi.com/",
+        "https://sauna-ikitai.com/kumamoto?page=10"
+      ],
+      "confidence": "low",
+      "notice": "火曜は15時から",
+      "note": "公式に料金記載なし。サウナイキタイの500円〜のみ"
+    },
+    {
+      "name": "苓北町温泉センター 麟泉の湯",
+      "address": "熊本県天草郡苓北町志岐1281",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://reihoku-kumamoto.jp/dynamic/hpkiji/pub/Detail.aspx?c_id=3&id=765",
+      "sources": [
+        "http://reihoku-kumamoto.jp/dynamic/hpkiji/pub/Detail.aspx?c_id=3&id=765"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3木曜定休（祝日は翌日）",
+      "note": ""
+    },
+    {
+      "name": "スパ・タラソ天草",
+      "address": "熊本県上天草市大矢野町上732-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "温泉大浴場（会員550円、第3水曜平日は480円）",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可",
+        "スチーム"
+      ],
+      "saunaNote": "備長炭温泉蒸し風呂・リョーリーサウナ・遠赤外線（男女各2種）",
+      "url": "https://www.spa-thalasso.jp/",
+      "sources": [
+        "https://www.spa-thalasso.jp/?page_id=25",
+        "https://www.spa-thalasso.jp/"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4火曜定休（祝日は営業）",
+      "note": "サウナ種類はニフティ"
+    },
+    {
+      "name": "阿蘇坊中温泉 夢の湯",
+      "address": "熊本県阿蘇市黒川1538-3",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://aso-yumenoyu.com/",
+      "sources": [
+        "https://aso-yumenoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3月曜休み（祝日は翌日）",
+      "note": "サウナ種類はニフティ"
+    },
+    {
+      "name": "亀の井ホテル 阿蘇",
+      "address": "熊本県阿蘇市一の宮町宮地5936",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "日帰り入浴15〜21時",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "和風大浴場にドライ、洋風大浴場にミスト",
+      "url": "https://kamenoi-hotels.com/aso/",
+      "sources": [
+        "https://kamenoi-hotels.com/aso/onsen/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "亀の井ホテル 阿蘇パークリゾート",
+      "address": "熊本県阿蘇市黒川1230",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "立ち寄り湯15〜21時",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://kamenoi-hotels.com/asoparkresort/",
+      "sources": [
+        "https://kamenoi-hotels.com/asoparkresort/onsen/",
+        "https://kamenoi-hotels.com/asoparkresort/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "旧 阿蘇の司ビラパークホテル。大浴場にサウナあり（公式トップ）"
+    },
+    {
+      "name": "コスギリゾート 阿蘇乙姫温泉 大浴場",
+      "address": "熊本県阿蘇市乙姫2052",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "男湯700円・女湯500円（サウナは男湯のみ）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男湯のみ",
+      "url": "https://www.kosugiresort.com/spa/",
+      "sources": [
+        "https://www.kosugiresort.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "11〜22時",
+      "note": ""
+    },
+    {
+      "name": "火の山温泉 どんどこ湯",
+      "address": "熊本県阿蘇郡南阿蘇村下野135-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "2026/5/1改定。LINE登録等で100円引き",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "男女各1",
+      "url": "https://dondokoyu.com/",
+      "sources": [
+        "https://dondokoyu.com/price.php",
+        "https://dondokoyu.com/news.php?id=192"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "南阿蘇 久木野温泉 四季の森",
+      "address": "熊本県阿蘇郡南阿蘇村久石3160",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://www.aso-shikinomori.com/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004222/",
+        "https://sauna-ikitai.com/kumamoto?page=2"
+      ],
+      "confidence": "low",
+      "notice": "第3水曜定休",
+      "note": "公式に料金・サウナ記載なし。ニフティ・サウナイキタイ600円、休暇村ページでは500円と食い違い"
+    },
+    {
+      "name": "垂玉温泉 瀧日和",
+      "address": "熊本県阿蘇郡南阿蘇村河陽2331",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "特日（GW・お盆・紅葉・年末年始・3連休など）は1,200円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://tarutama.jp/",
+      "sources": [
+        "https://tarutama.jp/information/",
+        "https://tarutama.jp/publicbath/"
+      ],
+      "confidence": "high",
+      "notice": "水曜・第2・第4木曜定休。10〜19時",
+      "note": ""
+    },
+    {
+      "name": "木の香湯",
+      "address": "熊本県阿蘇郡南阿蘇村河陰3636",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "南阿蘇村民550円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://konokayu.jp/",
+      "sources": [
+        "https://konokayu.jp/info/",
+        "https://onsen.nifty.com/-onsen/onsen024775/"
+      ],
+      "confidence": "high",
+      "notice": "無休（臨時休業あり）",
+      "note": "サウナ種類はニフティ"
+    },
+    {
+      "name": "阿蘇ファームランド 阿蘇健康火山温泉",
+      "address": "熊本県阿蘇郡南阿蘇村河陽5579-3",
+      "weekdayAdult": 1900,
+      "holidayAdult": 1900,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "その他"
+      ],
+      "saunaNote": "薬石蒸気サウナ・健康岩盤浴（13種のサウナ）",
+      "url": "https://www.asofarmland.co.jp/",
+      "sources": [
+        "https://book.asofarmland.co.jp/top/products/11b32d79-f02a-5c5c-bc23-bdc6ee1a6e04?lng=ja-JP",
+        "https://onsen.nifty.com/-onsen/onsen004304/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り11〜18時",
+      "note": "公式予約ページ・ニフティで中学生以上1,900円"
+    },
+    {
+      "name": "ホテル夢しずく",
+      "address": "熊本県阿蘇郡南阿蘇村河陰5-56",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "日帰り入浴11〜15時",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yumeshizuku.jp/oneday/",
+      "sources": [
+        "https://www.yumeshizuku.jp/oneday/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は11〜15時",
+      "note": "サウナ種類はニフティ"
+    },
+    {
+      "name": "THE ACONCAGUA RESORTS（アコンカグア）",
+      "address": "熊本県阿蘇郡南阿蘇村河陽4338-8",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://aconcagua-resorts.net/",
+      "sources": [
+        "https://aconcagua-resorts.net/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式spaページで日帰り1,500円（ニフティ2,000円は古い）"
+    },
+    {
+      "name": "休暇村南阿蘇",
+      "address": "熊本県阿蘇郡高森町高森3219",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "日帰り11時30分〜15時",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.qkamura.or.jp/aso/oneday/",
+      "sources": [
+        "https://www.qkamura.or.jp/aso/oneday/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は11時30分〜15時。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "サウナはニフティのみ"
+    },
+    {
+      "name": "杖立観光ホテルひぜんや 豊後の湯",
+      "address": "熊本県阿蘇郡小国町下城4223",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1600,
+      "saunaFee": null,
+      "priceNote": "外来入浴17〜21時",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "アンチエイジングサウナ（15〜21時、男女とも）",
+      "url": "https://www.hizenya.co.jp/hotspring/",
+      "sources": [
+        "https://www.hizenya.co.jp/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "外来入浴は17〜21時。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "エミナース温泉 七福の湯",
+      "address": "熊本県上益城郡益城町田原2071-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/127826/?page=2",
+        "https://sauna-ikitai.com/kumamoto?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "10〜22時",
+      "note": "阿蘇熊本空港ホテル エミナース併設。公式未確認、All About（2026/9）の料金"
+    },
+    {
+      "name": "阿蘇内牧音泉 湯楽",
+      "address": "熊本県阿蘇市内牧1126-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/asosanroku-onsen/onsen016823/",
+        "https://sauna-ikitai.com/kumamoto?page=8"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "公式なし。ニフティ・サウナイキタイで500円。サウナ種類は口コミ"
+    },
+    {
+      "name": "阿蘇リゾート グランヴィリオホテル",
+      "address": "熊本県阿蘇市赤水1600-3",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.aso-hotelresort.com/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen012107/"
+      ],
+      "confidence": "low",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "公式は証明書エラーで取得不可。ニフティの料金（サウナイキタイは800円〜）"
+    },
+    {
+      "name": "つなぎ温泉 四季彩",
+      "address": "熊本県葦北郡津奈木町岩城435",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://co-tsunagi.jp/",
+      "sources": [
+        "https://onsen.nifty.com/-onsen/onsen004204/",
+        "https://sauna-ikitai.com/kumamoto?page=5"
+      ],
+      "confidence": "low",
+      "notice": "水曜定休",
+      "note": "公式（co-tsunagi.jp）は429で3回取得失敗。ニフティ（2025/2〜7長期休館の記載）・サウナイキタイの400円"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "湯屋 水禅 Luxury Sauna & Spa（松屋別館）",
+      "reason": "公式に「天然温泉ではありません」（人工ラジウム泉）"
+    },
+    {
+      "name": "亀の湯 by HATAGO INN（旧つる乃湯熊本インター店）",
+      "reason": "2026/11/1開業予定で基準日時点で未開業"
+    },
+    {
+      "name": "カンデオホテルズ熊本新市街・大津熊本空港・菊陽熊本空港",
+      "reason": "公式に天然温泉の記載なし（ニフティのタグのみ）"
+    },
+    {
+      "name": "熊本城サウナ城の湯",
+      "reason": "温泉営業を終えサウナ施設として再出発（天然温泉と確認できない）"
+    },
+    {
+      "name": "ピースフル優祐悠",
+      "reason": "公式に天然温泉・泉質の記載なし"
+    },
+    {
+      "name": "龍の湯（熊本市中央区）",
+      "reason": "水道水の銭湯（天然温泉でない）"
+    },
+    {
+      "name": "たかの湯（熊本市東区）",
+      "reason": "水道水の銭湯（天然温泉でない）"
+    },
+    {
+      "name": "ユーパレス弁天",
+      "reason": "2026/8から大規模改修工事で休館（再開日未定）"
+    },
+    {
+      "name": "リバーサイドパーク（菊池市）",
+      "reason": "七城温泉ドームと同一施設（重複）"
+    },
+    {
+      "name": "幸の国健康温泉館ゆ～かむ",
+      "reason": "サウナは温水プール内の男女共用のみで、プールは休止中"
+    },
+    {
+      "name": "サンパレス松坂",
+      "reason": "公式にサウナの記載なし（組合ページではミストサウナ休止中）"
+    },
+    {
+      "name": "平山温泉 旅館善屋",
+      "reason": "7月末で営業休止"
+    },
+    {
+      "name": "三加和温泉 なごみ乃湯",
+      "reason": "2026/3末で指定管理者交代・サウナの有無が確認できない（口コミではサウナなし）"
+    },
+    {
+      "name": "岱明ふれあい健康センター・横島ゆとりーむ（玉名市）",
+      "reason": "天然温泉か・料金が確認できない"
+    },
+    {
+      "name": "日奈久温泉センター ばんぺい湯",
+      "reason": "レジオネラ属菌検出で温泉を一時停止中（再開未定）"
+    },
+    {
+      "name": "日奈久温泉 しのはらホテル浜膳・Tabist ホテル潮青閣",
+      "reason": "日帰り料金・日帰り客のサウナ利用が確認できない"
+    },
+    {
+      "name": "幸福温泉（人吉市）",
+      "reason": "2024年9月末で休業"
+    },
+    {
+      "name": "筌場温泉 花手箱",
+      "reason": "水害後のリニューアルでサウナ廃止"
+    },
+    {
+      "name": "ホテル華の荘 湯の蔵（人吉市）",
+      "reason": "大浴場が設備メンテナンスで一時休止中（再開未定）"
+    },
+    {
+      "name": "いわい温泉 ひのき屋",
+      "reason": "公式にサウナの記載なし"
+    },
+    {
+      "name": "阿蘇プラザホテル",
+      "reason": "公式に日帰り入浴の案内なし"
+    },
+    {
+      "name": "瀬の本館 夢龍胆",
+      "reason": "日帰りで使える浴場にサウナなし"
+    },
+    {
+      "name": "黒川温泉 旅館 奥の湯",
+      "reason": "ミストサウナ利用休止中"
+    },
+    {
+      "name": "黒川温泉 旅館 湯本荘",
+      "reason": "サウナは客室付きのプライベートサウナのみ"
+    },
+    {
+      "name": "黒川温泉 旅館 南城苑",
+      "reason": "公式に日帰り料金・サウナの記載なし"
+    },
+    {
+      "name": "杖立温泉 米屋別荘・純和風旅館 泉屋",
+      "reason": "日帰り料金（泉屋は2024/9値上げ後）・蒸し湯の日帰り利用が確認できない"
+    },
+    {
+      "name": "浜の湯温泉 通潤山荘",
+      "reason": "2026年熊本地震の影響でサウナ利用不可"
+    },
+    {
+      "name": "蔵迫温泉 オートビレッジさくら",
+      "reason": "サウナは別料金のサウナガーデン（利用条件・料金不明）"
+    },
+    {
+      "name": "阿蘇白水温泉 瑠璃",
+      "reason": "公式サイト消失・ニフティで休館中（営業状況不明）"
+    },
+    {
+      "name": "月廻り温泉館",
+      "reason": "休業中（2025年6月時点）"
+    },
+    {
+      "name": "大江戸温泉物語 天草ホテル亀屋",
+      "reason": "入浴のみの日帰り料金なし（夕食付きプランのみ）"
+    },
+    {
+      "name": "光アイランド（上天草市）",
+      "reason": "完全予約制・フィンランド式サウナは予約制"
+    },
+    {
+      "name": "ならのさこ温泉 いやしの湯",
+      "reason": "サウナは土日祝の貸切家族湯のミストサウナのみの可能性（大浴場サウナ未確認）"
+    },
+    {
+      "name": "総合交流ターミナル ユメール・温泉くま村 湯の駅・人吉中央温泉",
+      "reason": "天然温泉・料金・営業状況が確認できない"
+    },
+    {
+      "name": "サウナ専門施設（八代センターサウナ、an sauna、sauna HIMIKA、Outdoor Sauna CoCo、ハコサウナ、月と小屋、田迎サウナ、富合サウナランド 等）",
+      "reason": "天然温泉でない、または予約制の貸切サウナ"
+    },
+    {
+      "name": "ホテルグリーンピア南阿蘇",
+      "reason": "休業中（ニフティ）"
+    },
+    {
+      "name": "なごみ温泉 やすらぎの湯（宇城市）",
+      "reason": "休館中（ニフティ）"
+    },
+    {
+      "name": "きくち温泉 薬師湯",
+      "reason": "休業中（ニフティ）"
+    },
+    {
+      "name": "神園山荘（熊本市東区）",
+      "reason": "公式サイト消失・営業状況と料金が確認できない"
+    },
+    {
+      "name": "健軍の湯 一休・天然温泉一休・健康増進施設アピス・ニューらくらく村（熊本市）",
+      "reason": "閉館"
+    },
+    {
+      "name": "南阿蘇村総合福祉温泉センター ウィナス・泉力の湯・阿蘇飛湯の里 龍神の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "みふね観音温泉 華ほたる・泗水孔子温泉・大津温泉 岩戸の里",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然グリーンランド温泉 弥生乃湯・南の関うから館・シーサイドホテル山海館・うぐいす温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "日帰りサウナ可否・日帰り料金が不明なホテル・旅館（那古井館、司ロイヤルホテル、菊池観光ホテル、花富亭、竹の倉山荘、鍋屋本館、小松屋渚館、望洋閣、四季咲館、マリンヒルズ 等）",
+      "reason": "日帰り料金または日帰り客のサウナ利用が公式で確認できない"
+    }
+  ],
+  "notes": "ニフティ温泉の熊本県サウナ一覧（171件）とサウナイキタイ熊本県一覧（260件）を全件確認し、公衆浴場組合（kuma1010.com）の銭湯一覧で補完。県の銭湯統制料金は2026/2/16から大人550円（組合告知）。熊本市の銭湯（龍の湯・たかの湯・世安湯・神水）は水道水・地下水で対象外。ニフティの天然温泉タグは不正確（カンデオホテルズ・ピースフル優祐悠等は公式で天然温泉と確認できず除外）。公式サイトがない町営・小規模施設はニフティ・サウナイキタイ等の料金でmedium/low。つかさの湯（2026/8〜一般1,000円）・かたるの森（800円）・どんどこ湯（2026/5〜900/1,000円）はポータルより新しい公式料金を採用。2026年7月の熊本地震の影響（通潤山荘のサウナ休止等）あり。取りこぼしの可能性: 平山温泉・植木温泉・杖立・黒川の旅館（日帰りサウナ可否不明）、天草の小規模施設、氷川町の福祉センター（宮原さくら・竜翔センター）、玉名市の岱明・横島の健康センター。サウナイキタイ詳細ページは取得不可。"
+}

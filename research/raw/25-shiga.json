@@ -1,0 +1,460 @@
+{
+  "prefecture": "滋賀県",
+  "prefCode": "25",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "草津湯元 水春",
+      "address": "滋賀県草津市新浜町300番地",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "お盆・連休は特別料金",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "ロウリュサウナ・漢方薬草サウナ・バレルサウナ",
+      "url": "https://suisyun.jp/kusatsu/",
+      "sources": [
+        "https://suisyun.jp/kusatsu/fee/",
+        "https://suisyun.jp/kusatsu/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "イオンモール草津スポーツ＆レジャー棟内"
+    },
+    {
+      "name": "守山湯元 水春 ピエリ守山",
+      "address": "滋賀県守山市今浜町2620-5",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1150,
+      "saunaFee": 0,
+      "priceNote": "2026/12/1から平日1,100円・土日祝1,200円",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://suisyun.jp/pieri-moriyama/",
+      "sources": [
+        "https://suisyun.jp/pieri-moriyama/fee/",
+        "https://suisyun.jp/pieri-moriyama/news/2512rokinkaitei/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "ピエリ守山内"
+    },
+    {
+      "name": "北近江リゾート 天然温泉 北近江の湯",
+      "address": "滋賀県長浜市高月町唐川89",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "入浴コース（館内着付ゆったりコース 平日1,600円/土日祝1,800円、0〜6時滞在 +2,000円）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯: 高温・遠赤外線、女湯: 遠赤外線・ミスト",
+      "url": "https://kitaoumi.com/",
+      "sources": [
+        "https://kitaoumi.com/open-fee",
+        "https://kitaoumi.com/"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4水曜休館",
+      "note": "大人は13歳以上"
+    },
+    {
+      "name": "スパリゾート雄琴 あがりゃんせ",
+      "address": "滋賀県大津市苗鹿3丁目9-5",
+      "weekdayAdult": 1650,
+      "holidayAdult": 2050,
+      "saunaFee": 0,
+      "priceNote": "特定日は土日祝料金",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温ロウリュ・露天バレルサウナ、塩サウナは女湯のみ",
+      "url": "https://www.agaryanse.co.jp/",
+      "sources": [
+        "https://www.agaryanse.co.jp/user-guide",
+        "https://www.agaryanse.co.jp/spa"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "入湯税込み"
+    },
+    {
+      "name": "大津温泉 おふろcaféびわこ座",
+      "address": "滋賀県大津市月輪1丁目9-18",
+      "weekdayAdult": 1568,
+      "holidayAdult": 1788,
+      "saunaFee": 0,
+      "priceNote": "フリータイム料金（入湯税込）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女ともオートロウリュ",
+      "url": "https://ofurocafe-biwakoza.com/",
+      "sources": [
+        "https://ofurocafe-biwakoza.com/information",
+        "https://ofurocafe-biwakoza.com/ofuro"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "税込1,568円は入湯税50円込み（1,380円+消費税+入湯税）。時間制コース60分・90分もあるが短時間のため不採用"
+    },
+    {
+      "name": "甲賀温泉 やっぽんぽんの湯",
+      "address": "滋賀県甲賀市土山町黒川1711",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男湯90℃・女湯80℃",
+      "url": "https://www.diamond-s.co.jp/yappon/",
+      "sources": [
+        "https://www.diamond-s.co.jp/yappon/charge/",
+        "https://www.diamond-s.co.jp/yappon/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "甲賀市民料金あり（市外一般料金を採用）"
+    },
+    {
+      "name": "永源寺温泉 八風の湯",
+      "address": "滋賀県東近江市永源寺高野町352",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "熱気風呂・塩サウナ（男女週替わり）",
+      "url": "https://www.happuno-yu.com/eigenji/",
+      "sources": [
+        "https://www.happuno-yu.com/eigenji/",
+        "https://www.happuno-yu.com/eigenji/hotspring/",
+        "https://www.happuno-yu.com/eigenji/topics/topics.php?md=detaile&list=20261031195959"
+      ],
+      "confidence": "high",
+      "notice": "ボイラー故障のため日帰り入浴は2026/11/3まで休止予定",
+      "note": "休止開始日は不明（2026/10/31告知）"
+    },
+    {
+      "name": "長命寺温泉 天葉の湯",
+      "address": "滋賀県近江八幡市長命寺町68-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "金曜22時以降・土日祝21時以降1,500円/22時以降1,800円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ（ロウリュサービス中止中）",
+      "url": "https://amahanoyu.com/",
+      "sources": [
+        "https://amahanoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/18・19はメンテナンス休業",
+      "note": ""
+    },
+    {
+      "name": "湯元舘",
+      "address": "滋賀県大津市苗鹿2丁目30-7",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yumotokan.co.jp/",
+      "sources": [
+        "https://www.ogotoonsen.com/accom",
+        "https://www.yumotokan.co.jp/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 11:00〜21:30",
+      "note": "料金はおごと温泉観光協会ページ。公式は日帰りプランのみ掲載"
+    },
+    {
+      "name": "おごと温泉 びわ湖花街道",
+      "address": "滋賀県大津市雄琴1丁目1-3",
+      "weekdayAdult": 2750,
+      "holidayAdult": 2750,
+      "saunaFee": 0,
+      "priceNote": "入湯税別",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://www.hanakaido.co.jp/",
+      "sources": [
+        "https://www.ogotoonsen.com/accom",
+        "https://www.hanakaido.co.jp/stay-daytrip/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴 11:30〜20:00",
+      "note": "料金はおごと温泉観光協会ページ。サウナ種類不明"
+    },
+    {
+      "name": "里湯昔話 雄山荘",
+      "address": "滋賀県大津市雄琴1丁目9-28",
+      "weekdayAdult": 2200,
+      "holidayAdult": 2200,
+      "saunaFee": 0,
+      "priceNote": "バスタオル付",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "大浴場に4人用サウナ",
+      "url": "https://yuzanso.co.jp/",
+      "sources": [
+        "https://yuzanso.co.jp/news/3187/",
+        "https://www.ogotoonsen.com/accom"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴 11:00〜14:30（最終入場14:00）、清掃で利用できない日あり",
+      "note": "予約不要の日帰り温泉。利用可能日カレンダーは3か月ごとに更新"
+    },
+    {
+      "name": "守山天然温泉 ほたるの湯",
+      "address": "滋賀県守山市吉身4-5-20",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1150,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "男湯露天に薪暖炉サウナ",
+      "url": "https://hotarunoyu.jp/",
+      "sources": [
+        "https://hotarunoyu.jp/guide/guide.html",
+        "https://onsen.nifty.com/kusatsu-shiga-onsen/onsen008919/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "住所はニフティ温泉。ロウリュはニフティの特徴欄"
+    },
+    {
+      "name": "天然温泉 蒲生野の湯",
+      "address": "滋賀県蒲生郡竜王町山之上7104-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "タワーサウナ",
+      "url": "https://www.gamounonoyu.net/",
+      "sources": [
+        "https://www.gamounonoyu.net/guidance/",
+        "https://www.gamounonoyu.net/sauna/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "湖南市立十二坊温泉 ゆらら",
+      "address": "滋賀県湖南市岩根678-28",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.12-yurara.jp/",
+      "sources": [
+        "http://www.12-yurara.jp/guide/",
+        "http://www.12-yurara.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "湖南市補助金制度利用者料金400円は不採用"
+    },
+    {
+      "name": "宝船温泉 湯元ことぶき",
+      "address": "滋賀県高島市安曇川町下小川2248-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 2000,
+      "priceNote": "宝船サウナ（水着・90分）平日2,000円/土日祝2,500円、平日は前日までに要予約",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "水着エリアの屋外バレルサウナ（男女共用）",
+      "url": "https://www.takarabuneonsen.com/",
+      "sources": [
+        "https://www.takarabuneonsen.com/onsen",
+        "https://www.takarabune-sauna.com"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休",
+      "note": "浴室内のサウナは確認できず。サウナは別料金の宝船サウナ"
+    },
+    {
+      "name": "マキノ高原温泉 さらさ",
+      "address": "滋賀県高島市マキノ町牧野931番地",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "お風呂のみ（バーデプール込1,300円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://makinokougen.co.jp/pages/9/",
+      "sources": [
+        "http://makinokougen.co.jp/pages/33/",
+        "http://makinokougen.co.jp/pages/9/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休",
+      "note": "大人は12歳以上。サウナ種類不明"
+    },
+    {
+      "name": "くつき温泉 てんくう",
+      "address": "滋賀県高島市朽木柏341-3",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "お風呂のみ（プール込1,350円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "浴室に熱気サウナ。プールゾーンのきのこサウナは3月中旬〜9月末",
+      "url": "https://gp-kutsuki.com/",
+      "sources": [
+        "https://gp-kutsuki.com/spa",
+        "https://news.allabout.co.jp/articles/o/129633/?page=2"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "住所はAll About記事"
+    },
+    {
+      "name": "天然温泉 比良とぴあ",
+      "address": "滋賀県大津市北比良1039-2",
+      "weekdayAdult": 620,
+      "holidayAdult": 620,
+      "saunaFee": 0,
+      "priceNote": "70歳以上500円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://www.mapple.net/article/91692/",
+        "https://sp.jorudan.co.jp/onsen/details/819/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイト見つからず。大津市の公共施設（指定管理）。市資料（2026/3）で料金値上げ検討中、最終改定は2022/4"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "極楽湯 彦根店",
+      "reason": "天然温泉と確認できない（公式・ニフティとも天然温泉の記載なし）"
+    },
+    {
+      "name": "水口温泉 つばきの湯",
+      "reason": "人工温泉（長寿の湯）で天然温泉の記載なし"
+    },
+    {
+      "name": "グリーンパーク山東 美肌の湯（鴨池荘）",
+      "reason": "ナトリウムイオンを含む軟水で天然温泉ではない"
+    },
+    {
+      "name": "レストイン多賀",
+      "reason": "天然温泉と確認できない。公式サイトもメンテナンス中"
+    },
+    {
+      "name": "延命湯",
+      "reason": "銭湯。天然温泉と確認できない"
+    },
+    {
+      "name": "甲賀流忍びの宿 宮乃温泉",
+      "reason": "旅館。公式に日帰り客が使えるサウナの記載なし"
+    },
+    {
+      "name": "浜湖月",
+      "reason": "旅館。公式に日帰り客が使えるサウナの記載なし"
+    },
+    {
+      "name": "尾上温泉 旅館紅鮎",
+      "reason": "日帰りは食事付きプランが中心で入浴のみ料金・サウナを確認できず"
+    },
+    {
+      "name": "大河原温泉 かもしか荘",
+      "reason": "サウナの有無が情報源で食い違い、公式で確認できず"
+    },
+    {
+      "name": "琵琶湖ホテル",
+      "reason": "日帰り入浴はレストラン利用者のオプションのみ"
+    },
+    {
+      "name": "休暇村 近江八幡",
+      "reason": "日帰り入浴は2023年3月31日で終了"
+    },
+    {
+      "name": "NEST琵琶湖",
+      "reason": "1棟貸しヴィラで日帰り入浴なし"
+    },
+    {
+      "name": "SAUNA & SPA SOLEIL",
+      "reason": "天然温泉の記載なし"
+    },
+    {
+      "name": "びわこ大橋 天然温泉 みずほの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "極楽湯 南草津店",
+      "reason": "閉店"
+    },
+    {
+      "name": "碧水の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "野洲ほほえみ乃湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "彦根びわこホテル",
+      "reason": "閉館"
+    },
+    {
+      "name": "やまとの湯 大津店",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "滋賀県全域。ニフティ温泉のサウナ施設一覧（69件）とサウナイキタイ一覧から候補を洗い出し、公式サイトで確認した。おごと温泉の旅館（緑水亭・京近江・きくのや等）は日帰り入浴＋サウナを確認できず未収録。あねがわ温泉はサウナを確認できず未収録。県内の銭湯は天然温泉のものを確認できなかった（統制料金は2026/10/1から大人550円）。"
+}

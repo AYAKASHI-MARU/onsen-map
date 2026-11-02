@@ -1,0 +1,75 @@
+- [01-hokkaido-central.json] tower eleven onsen & sauna
+- [01-hokkaido-central.json] 青の洞窟温泉 ピパの湯 ゆ〜りん館
+- [01-hokkaido-central.json] 月形温泉ホテル ゆりかご
+- [01-hokkaido-central.json] ログホテル メープルロッジ
+- [01-hokkaido-southnorth.json] ホテル恵風「湯ったり館 とどぽっくる」
+- [01-hokkaido-southnorth.json] 函館市戸井ウォーターパーク ふれあい湯遊館（マルゼン温泉 美人の湯）
+- [01-hokkaido-southnorth.json] 日向温泉（日向保養センター）
+- [01-hokkaido-southnorth.json] 旭岳温泉 ホテルベアモンテ
+- [02-aomori.json] スパ・ウッド観光ホテル
+- [02-aomori.json] つがる市車力ウェルネスセンター しゃりき温泉
+- [02-aomori.json] グリーンパークもりのいずみ
+- [03-iwate.json] 天台の湯（稲庭交流センター）
+- [03-iwate.json] しゃくなげの湯っこ 五葉温泉
+- [05-akita.json] 秋田市雄和ふるさと温泉ユアシス
+- [05-akita.json] は～とぽ～と大内 ぽぽろっこ
+- [07-fukushima.json] 天然温泉つるしの湯
+- [08-ibaraki.json] 里美温泉保養センター ぬく森の湯
+- [09-tochigi.json] スノーピーク鹿沼キャンプフィールド&スパ
+- [09-tochigi.json] 四季の彩りに風薫る足尾の宿 かじか
+- [10-gunma.json] 天然温泉 七福の湯 前橋店
+- [10-gunma.json] 湯の道 利久 前橋南インター店
+- [10-gunma.json] 日帰り温泉旅館 伊勢崎ゆま〜る
+- [10-gunma.json] 久屋原温泉（ソナタリュー）
+- [10-gunma.json] 高崎中尾温泉 天神の湯
+- [13-tokyo-tama.json] 竜泉寺の湯 八王子みなみ野店
+- [13-tokyo-tama.json] まました温泉
+- [15-niigata.json] アルペンブリックスパ 日帰り温泉
+- [15-niigata.json] 天然温泉 麻生の湯
+- [17-ishikawa.json] 浅の川温泉 湯楽
+- [17-ishikawa.json] バードハミング鳥越（弘法の湯）
+- [17-ishikawa.json] 里山健康学校 せせらぎの郷
+- [17-ishikawa.json] ひょっこり温泉 島の湯
+- [17-ishikawa.json] 健康増進センター アスロン
+- [17-ishikawa.json] ねぶた温泉 海游 能登の庄
+- [17-ishikawa.json] 天然温泉 加賀ゆめのゆ
+- [17-ishikawa.json] 大江戸温泉物語Premium よしのや依緑園
+- [18-fukui.json] 越前水仙の里温泉 波の華
+- [18-fukui.json] 健康の森温泉（生きがい交流センター）
+- [18-fukui.json] かわだ温泉 ラポーゼかわだ
+- [19-yamanashi.json] 富士眺望の湯 ゆらり
+- [19-yamanashi.json] スパティオ小淵沢 延命の湯
+- [19-yamanashi.json] 多摩源流 小菅の湯
+- [20-nagano-north.json] 権堂温泉テルメDOME
+- [20-nagano-north.json] 裾花峡天然温泉宿 うるおい館
+- [20-nagano-north.json] 星野温泉 トンボの湯
+- [20-nagano-north.json] 立ち寄りの湯 軽井沢千ヶ滝温泉
+- [20-nagano-north.json] 南相木温泉 滝見の湯
+- [20-nagano-south.json] ローゼンハイム白馬
+- [20-nagano-south.json] 信州平谷温泉 ひまわりの湯
+- [20-nagano-south.json] うるぎ温泉 こまどりの湯
+- [21-gifu.json] 天然温泉 大垣コロナの湯
+- [21-gifu.json] リブマックスリゾート飛騨高山 臥龍の郷
+- [24-mie.json] 榊原温泉 湯の瀬
+- [24-mie.json] 松阪温泉 GURUSPA
+- [25-shiga.json] 永源寺温泉 八風の湯
+- [26-kyoto.json] あやべ温泉 二王の湯
+- [29-nara.json] 針テラスの天然温泉 はり温泉らんど
+- [30-wakayama.json] 大江戸温泉物語Premium 白浜彩朝楽
+- [34-hiroshima.json] 天然温泉 桂浜温泉館
+- [34-hiroshima.json] 桜花の郷 ラ・フォーレ庄原
+- [36-tokushima.json] かもだ岬温泉保養施設
+- [37-kagawa.json] 三十六温泉 由良里の湯
+- [37-kagawa.json] リブマックスリゾート観音寺
+- [37-kagawa.json] オリーブ温泉満天の湯
+- [38-ehime.json] 南道後温泉 ていれぎの湯
+- [41-saga.json] 天然温泉 泉都乃湯
+- [41-saga.json] 熊の川温泉 鵆の湯
+- [43-kumamoto.json] 宇土市健康福祉館 あじさいの湯
+- [43-kumamoto.json] 牛深温泉センター やすらぎの湯
+- [44-oita.json] ひょうたん温泉
+- [44-oita.json] 湯けむりの里 東屋
+- [44-oita.json] 絶景の宿 さくら亭
+- [46-kagoshima.json] さくらじま白浜温泉センター
+- [46-kagoshima.json] 桜島マグマ温泉（国民宿舎レインボー桜島）
+- [46-kagoshima.json] 高城の湯 山桜桃

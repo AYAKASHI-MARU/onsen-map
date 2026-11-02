@@ -1,0 +1,411 @@
+{
+  "prefecture": "徳島県",
+  "prefCode": "36",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然温泉 えびすの湯",
+      "address": "徳島県徳島市論田町新開66-96",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "タワーサウナ・太陽のかま風呂（蒸気）・塩サウナ",
+      "url": "http://www.ebisunoyu.com/",
+      "sources": [
+        "http://www.ebisunoyu.com/facility/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2木曜休み"
+    },
+    {
+      "name": "徳島天然温泉 あらたえの湯",
+      "address": "徳島県徳島市南田宮1丁目2番8号",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "大人は18歳以上（中・高校生は平日700円・休日800円）",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "男女ともドライサウナ・ソルトサウナ",
+      "url": "http://aratae.jp/",
+      "sources": [
+        "http://aratae.jp/guide.html",
+        "http://aratae.jp/1f.html"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休み"
+    },
+    {
+      "name": "鳴門天然温泉 あらたえの湯",
+      "address": "徳島県鳴門市撫養町大桑島字北ノ浜8番2",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "大人は18歳以上（中・高校生は平日700円・休日800円）。繁忙期は別料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "フィンランド式ロウリュサウナ",
+      "url": "http://aratae.jp/naruto/",
+      "sources": [
+        "http://aratae.jp/naruto/guide.html",
+        "http://aratae.jp/naruto/hot-springs.html"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "湯処あらたえ 小松島店",
+      "address": "徳島県小松島市立江町字黒岩13番地の1",
+      "weekdayAdult": 750,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "大人は18歳以上（中・高生は平日650円・休日750円）",
+      "saunaTypes": [],
+      "saunaNote": "東西両浴場にサウナ・水風呂",
+      "url": "http://aratae.jp/komatsushima/",
+      "sources": [
+        "http://aratae.jp/komatsushima/price/",
+        "http://aratae.jp/komatsushima/guide/"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休み"
+    },
+    {
+      "name": "かもだ岬温泉保養施設",
+      "address": "徳島県阿南市椿町船瀬60番地2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "現金のみ",
+      "saunaTypes": [],
+      "saunaNote": "男女両浴場にサウナ・水風呂",
+      "url": "http://wwwd.pikara.ne.jp/kamodamisaki/",
+      "sources": [
+        "http://wwwd.pikara.ne.jp/kamodamisaki/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休み（祝日の場合は翌日）"
+    },
+    {
+      "name": "天然温泉 御所の郷",
+      "address": "徳島県阿波市土成町吉田梨木原1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ミスト",
+        "遠赤外線"
+      ],
+      "saunaNote": "ローマの湯：高温・低温（放射熱）・スチーム／和の湯：高温・低温・ミスト（男女日替わり）",
+      "url": "https://goshonosato.com/",
+      "sources": [
+        "http://www.goshonosato.com/spa/"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4水曜休み"
+    },
+    {
+      "name": "ふいご温泉",
+      "address": "徳島県吉野川市山川町久宗31-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://fuigo-onsen.com/",
+      "sources": [
+        "http://fuigo-onsen.com/room.html"
+      ],
+      "confidence": "high",
+      "notice": "不定休",
+      "note": "泉質は単純冷鉱泉（ニフティ温泉）。ニフティの料金600円は旧料金"
+    },
+    {
+      "name": "あせび温泉 やすらぎの郷",
+      "address": "徳島県板野郡板野町大坂椋木原30-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "2024/4/1改定料金",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://www.town.itano.tokushima.jp/soshiki/sangyouka/asebionsen/",
+      "sources": [
+        "http://www.town.itano.tokushima.jp/docs/2024030700011/",
+        "https://onsen.nifty.com/naruto-onsen/onsen003898/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休み（祝日の場合は翌日）",
+      "note": "料金は板野町公式。サウナ種類・住所はニフティ温泉"
+    },
+    {
+      "name": "剣山木綿麻温泉",
+      "address": "徳島県美馬郡つるぎ町貞光字長瀬127-2",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.town.tokushima-tsurugi.lg.jp/docs/3467.html",
+      "sources": [
+        "https://www.town.tokushima-tsurugi.lg.jp/docs/3467.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜休み（祝日の場合は翌平日）"
+    },
+    {
+      "name": "月ヶ谷温泉 月の宿",
+      "address": "徳島県勝浦郡上勝町福原平間71-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "入湯税100円込み。2026/7/9改定料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.e-kamikatsu.jp/own/index.asp",
+      "sources": [
+        "https://www.e-kamikatsu.jp/asp/nwsitem.asp?nw_id=1145"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "神山温泉 ホテル四季の里＆いやしの湯",
+      "address": "徳島県名西郡神山町神領本上角80-2",
+      "weekdayAdult": 680,
+      "holidayAdult": 680,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://kamiyama-spa.com/",
+      "sources": [
+        "https://kamiyama-spa.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "第4火曜休み（祝日は営業）"
+    },
+    {
+      "name": "もみじ川温泉",
+      "address": "徳島県那賀郡那賀町大久保西納野4-7",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://momijigawa-spa.com/",
+      "sources": [
+        "https://momijigawa-spa.com/spa"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休み。毎週火曜は16:00から"
+    },
+    {
+      "name": "HOTEL RIVIERA ししくい",
+      "address": "徳島県海部郡海陽町宍喰浦字松原226-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "高温サウナ側・ミストサウナ側を男女日替わり",
+      "url": "https://hotel-riviera.co.jp/",
+      "sources": [
+        "https://hotel-riviera.co.jp/day-trip/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は6:30〜8:00・12:00〜20:00。週1回程度不定期に12:00〜16:00休業"
+    },
+    {
+      "name": "吉野川温泉",
+      "address": "徳島県板野郡上板町椎本字西宮西388",
+      "weekdayAdult": 360,
+      "holidayAdult": 360,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナバス",
+      "url": "https://www.awanavi.jp/archives/spot/2122",
+      "sources": [
+        "https://www.awanavi.jp/archives/spot/2122",
+        "https://onsen.nifty.com/naruto-onsen/onsen003895/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月20日休み（土日祝の場合は翌日）",
+      "note": "公式サイトなし。料金は県観光サイト阿波ナビ（更新日不明）とニフティで一致"
+    },
+    {
+      "name": "祖谷渓温泉 ホテル秘境の湯",
+      "address": "徳島県三好市西祖谷山村尾井ノ内401",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "乾式高温塩サウナ",
+      "url": "http://www.hotel-hikyounoyu.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/iyakei-onsen/onsen003870/",
+        "https://sp.jorudan.co.jp/onsen/details/237/",
+        "https://miyoshi-tourism.jp/spot/classification/hot-spring"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは平日15:00〜20:00・土日祝12:00〜18:00。火曜休み（祝日の場合は翌日）。冬期休館の場合あり",
+      "note": "公式サイトが名前解決できず未確認。料金・サウナはニフティ・ジョルダン（マップル）・三好市観光で一致"
+    },
+    {
+      "name": "新祖谷温泉 ホテルかずら橋",
+      "address": "徳島県三好市西祖谷山村善徳33-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場（館内3階）にサウナ",
+      "url": "https://www.kazurabashi.co.jp/",
+      "sources": [
+        "https://www.kazurabashi.co.jp/spa/?id=day-use"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は10:30〜16:00（天空露天風呂・大浴場）。貸切風呂は日帰り不可"
+    },
+    {
+      "name": "鴨島温泉 鴨の湯",
+      "address": "徳島県吉野川市鴨島町飯尾415-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.yoshinogawa.lg.jp/docs/2010100700487/",
+      "sources": [
+        "https://www.awanavi.jp/archives/spot/2120",
+        "https://www.city.yoshinogawa.lg.jp/docs/2010100700487/",
+        "https://onsen.nifty.com/awa-onsen/onsen003890/"
+      ],
+      "confidence": "medium",
+      "notice": "13:00〜20:00。第3木曜休み",
+      "note": "公式サイトなし。サウナは吉野川市ページ、料金は阿波ナビとニフティで一致（サウナイキタイは650円と表示、古い可能性）"
+    },
+    {
+      "name": "八万温泉 乙女の湯",
+      "address": "徳島県徳島市八万町下長谷258",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.awanavi.jp/archives/spot/1743",
+      "sources": [
+        "https://www.awanavi.jp/archives/spot/1743",
+        "https://onsen.nifty.com/tokushima-onsen/onsen003900/"
+      ],
+      "confidence": "low",
+      "notice": "4・7・11月の第2水曜休み",
+      "note": "公式サイト閉鎖。阿波ナビは600円、ニフティは650円で食い違い。旧口コミでは露天・サウナは上位料金（ロイヤル）との記述あり"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "湯あそびひろば 大和の郷",
+      "reason": "光明石を使う人工温泉（準天然）"
+    },
+    {
+      "name": "土柱ランド新温泉",
+      "reason": "ラドン温泉で、温泉法上の温泉と確認できない"
+    },
+    {
+      "name": "三好市ふれあい紅葉センター・紅葉温泉",
+      "reason": "温泉法上の温泉ではないと明記"
+    },
+    {
+      "name": "つるぎの湯 大桜",
+      "reason": "温泉ではないと美馬市が明記"
+    },
+    {
+      "name": "美濃田の湯",
+      "reason": "深層地下水利用で、温泉法上の温泉と確認できない"
+    },
+    {
+      "name": "えびす洞温泉 ホテル白い燈台",
+      "reason": "2026/8/5から日帰り入浴休業（宿泊者のみ）"
+    },
+    {
+      "name": "和の宿 ホテル祖谷温泉",
+      "reason": "公式にサウナの記載なし"
+    },
+    {
+      "name": "大歩危温泉 サンリバー大歩危",
+      "reason": "公式の温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "ベイリゾートホテル鳴門海月",
+      "reason": "大浴場は温泉ではないと明記"
+    },
+    {
+      "name": "NATURE HEALING",
+      "reason": "スモークサウナ等のサウナ施設で、温泉浴槽を確認できない"
+    },
+    {
+      "name": "aiai_sauna（旧 あいあい温泉）",
+      "reason": "公式サイトなく、天然温泉か確認できない"
+    },
+    {
+      "name": "湯あそびひろば 川内温泉",
+      "reason": "天然温泉か確認できない（同系列の大和の郷は光明石の人工温泉）"
+    },
+    {
+      "name": "新町温泉",
+      "reason": "料金・泉質を確認できない"
+    },
+    {
+      "name": "つるぎの宿 岩戸",
+      "reason": "公式に温泉・泉質の記載がなく天然温泉か確認できない"
+    },
+    {
+      "name": "いやしの温泉郷",
+      "reason": "休館中（再開日未定）"
+    },
+    {
+      "name": "四季美谷温泉",
+      "reason": "休業中（再開日未定）"
+    },
+    {
+      "name": "湯のさと鬼ケ岩屋",
+      "reason": "閉館"
+    },
+    {
+      "name": "かんぽの宿 徳島",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "ニフティ温泉の徳島県サウナ一覧（49件）と全施設一覧を基に、阿波ナビ・三好市観光で補完。ホテルの宿泊者専用サウナは対象外。徳島市内の銭湯（新町温泉など）は料金・泉質の情報が乏しく未収録"
+}

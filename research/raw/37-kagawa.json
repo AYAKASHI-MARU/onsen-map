@@ -1,0 +1,598 @@
+{
+  "prefecture": "香川県",
+  "prefCode": "37",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "高松ぽかぽか温泉",
+      "address": "香川県高松市多肥上町1515",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "遠赤外線タワーサウナと塩サウナ",
+      "url": "https://pokapoka-takamatsu.com/",
+      "sources": [
+        "https://pokapoka-takamatsu.com/price",
+        "https://pokapoka-takamatsu.com/onsen"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/16は設備点検のため臨時休館"
+    },
+    {
+      "name": "天然温泉 香南楽湯",
+      "address": "香川県高松市香南町横井997-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "両浴室に高温サウナ（男女週替わり）",
+      "url": "http://www.souyu.co.jp/kounan/",
+      "sources": [
+        "http://www.souyu.co.jp/kounan/"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "三十六温泉 由良里の湯",
+      "address": "香川県高松市由良町43-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "サウナコース700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yurarinoyu.jp/",
+      "sources": [
+        "https://yurarinoyu.jp/floor/",
+        "https://yurarinoyu.jp/info/2026/09/25/1319/"
+      ],
+      "confidence": "high",
+      "notice": "第2火曜は17時から営業",
+      "note": "2026/10/1に県統制額改定（大人500円）。釜風呂（低温蒸気）は2026/10/16廃止"
+    },
+    {
+      "name": "春日なごみの湯 湯楽温泉",
+      "address": "香川県高松市木太町2750-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 300,
+      "priceNote": "",
+      "saunaTypes": [
+        "塩",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yuurakuonsen.com/",
+      "sources": [
+        "https://www.yuurakuonsen.com/floor.html"
+      ],
+      "confidence": "high",
+      "notice": "第1月曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "ゴールデンタイム高松",
+      "address": "香川県高松市瓦町2-1-7",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（3時間1,950円/フリータイム2,800円）。タオル付",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男性専用施設。フィンランド式サウナとIKIサウナ",
+      "url": "https://goldentime-takamatsu.com/",
+      "sources": [
+        "https://goldentime-takamatsu.com/price/",
+        "https://goldentime-takamatsu.com/"
+      ],
+      "confidence": "high",
+      "notice": "男性専用"
+    },
+    {
+      "name": "国分寺町はくちょう温泉",
+      "address": "香川県高松市国分寺町新名2213-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.taka-spo.or.jp/hak1.html",
+      "sources": [
+        "http://www.taka-spo.or.jp/hak1.html",
+        "https://onsen.nifty.com/takamatsu-onsen/onsen003933/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休（休日の場合は開館）",
+      "note": "天然温泉であることはニフティの記載による"
+    },
+    {
+      "name": "塩江温泉 新樺川観光ホテル",
+      "address": "香川県高松市塩江町安原上東1-6",
+      "weekdayAdult": 820,
+      "holidayAdult": 820,
+      "saunaFee": 0,
+      "priceNote": "期間限定で600円（貸タオル付）の割引あり",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "大浴場に低温スチームサウナ",
+      "url": "https://shinkabakawa.com/",
+      "sources": [
+        "https://shinkabakawa.com/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "TRESTA白山",
+      "address": "香川県木田郡三木町下高岡972-30",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.tresta.jp/",
+      "sources": [
+        "https://www.tresta.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "火曜は13時から営業",
+      "note": "2026年5月に大浴場料金改定（800円）"
+    },
+    {
+      "name": "天然温泉 丸亀ぽかぽか温泉",
+      "address": "香川県丸亀市山北町400-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナと塩サウナ（浴室は日替わりで男女入替）",
+      "url": "http://www.souyu.co.jp/marugame/",
+      "sources": [
+        "http://www.souyu.co.jp/marugame/",
+        "https://www.souyu.co.jp/shisetsu-news/marugame/news/%e3%80%90%e9%87%8d%e8%a6%81%e3%81%aa%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91%e5%85%a5%e6%b5%b4%e6%96%99%e9%87%91%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85.php"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休（祝日の場合は第4火曜）",
+      "note": "2026/1/1から700円。2026年6月改修休業→7/1再開"
+    },
+    {
+      "name": "あやうた温泉 湯舟道",
+      "address": "香川県丸亀市綾歌町栗熊西68-3",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯・女湯ともサウナ・水風呂",
+      "url": "http://yubunemichi.com/",
+      "sources": [
+        "http://yubunemichi.com/eigyo/",
+        "http://yubunemichi.com/spring/"
+      ],
+      "confidence": "high",
+      "notice": "第1・3水曜休。ほかの水曜は18時まで",
+      "note": "ボイラー入替で休館後、2026/7/2再開。泉質（単純弱放射能冷鉱泉）はニフティの記載"
+    },
+    {
+      "name": "大江戸温泉物語 ホテルレオマの森",
+      "address": "香川県丸亀市綾歌町栗熊西40-1",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,500円。入湯税込",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/reomanomori/",
+      "sources": [
+        "https://www.ooedoonsen.jp/reomanomori/day_trip/",
+        "https://onsen.nifty.com/marugame-onsen/onsen003940/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナの有無はニフティ・サウナイキタイの掲載のみ（公式の温泉ページが取得できず）"
+    },
+    {
+      "name": "天然温泉 琴弾廻廊",
+      "address": "香川県観音寺市有明町6-6",
+      "weekdayAdult": 950,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "11室（10室セルフロウリュ可、窯サウナ）。男女日替わり",
+      "url": "https://kotohiki-kairo.co.jp/",
+      "sources": [
+        "https://kotohiki-kairo.co.jp/info/",
+        "https://kotohiki-kairo.co.jp/sauna/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "天然いやだに温泉 大師の湯",
+      "address": "香川県三豊市三野町大見乙74",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュサウナ",
+      "url": "https://www.park-mino.info/",
+      "sources": [
+        "https://www.park-mino.info/facility/daishinoyu/largebath.php"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休（5・7・8・12月は無休）"
+    },
+    {
+      "name": "たからだの里 環の湯",
+      "address": "香川県三豊市財田町財田上1110-8",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://takaradanosato.co.jp/event_cate/tamakinoyu/",
+      "sources": [
+        "https://takaradanosato.co.jp/event_cate/tamakinoyu/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休（祝日の場合は翌日）",
+      "note": "天然温泉であることはニフティの記載による"
+    },
+    {
+      "name": "たかせ天然温泉",
+      "address": "香川県三豊市高瀬町上高瀬768-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "http://www.souyu.co.jp/takase/",
+      "sources": [
+        "http://www.souyu.co.jp/takase/"
+      ],
+      "confidence": "high",
+      "notice": "第2火曜休（祝日の場合は翌日）"
+    },
+    {
+      "name": "エピアみかど",
+      "address": "香川県仲多度郡まんのう町川東2355-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://e-mikado.jp/",
+      "sources": [
+        "http://e-mikado.jp/pages/6/",
+        "http://e-mikado.jp/pages/61/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休（祝日は営業）"
+    },
+    {
+      "name": "リブマックスリゾート讃岐塩江温泉",
+      "address": "香川県高松市塩江町安原上東2065-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場内にサウナ室",
+      "url": "https://www.livemax-resort.com/kagawa/sanukionsen/",
+      "sources": [
+        "https://www.livemax-resort.com/kagawa/sanukionsen/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は6:00〜11:00・15:00〜22:00"
+    },
+    {
+      "name": "リブマックスリゾート観音寺",
+      "address": "香川県観音寺市池之尻町1101-4",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.livemax-resort.com/kagawa/kanonji/",
+      "sources": [
+        "https://www.livemax-resort.com/kagawa/kanonji/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は12:00〜15:00、木曜休（換水）。2026/11/9〜21は大浴場工事で利用時間・男女入替が変更。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "こんぴら温泉湯元八千代",
+      "address": "香川県仲多度郡琴平町611",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円込",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "屋上バレルサウナ2基（奇数日男性・偶数日女性）",
+      "url": "https://yachiyo.cc/",
+      "sources": [
+        "https://yachiyo.cc/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は11:00〜14:30（最終受付14:00）"
+    },
+    {
+      "name": "春日温泉",
+      "address": "香川県さぬき市寒川町神前22",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.sanuki-sa.jp/kasuga/",
+      "sources": [
+        "http://www.sanuki-sa.jp/kasuga/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休",
+      "note": "定休日はニフティの記載"
+    },
+    {
+      "name": "門入 カメリア温泉",
+      "address": "香川県さぬき市寒川町石田東甲2988-1",
+      "weekdayAdult": 680,
+      "holidayAdult": 680,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://spa-kameria.com/",
+      "sources": [
+        "https://spa-kameria.com/event-news/news/bathing-fee-revision/",
+        "https://spa-kameria.com/onsen/",
+        "https://onsen.nifty.com/tousan-onsen/onsen003912/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜休",
+      "note": "料金・休館日・温泉分析は公式（2026/7/3から680円）。サウナ（サウナ・ミストサウナ）はニフティ・サウナイキタイの掲載のみ"
+    },
+    {
+      "name": "瀬戸内リゾート ベッセルおおち",
+      "address": "香川県東かがわ市馬篠1200",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://vessel-oochi.com/",
+      "sources": [
+        "https://vessel-oochi.com/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "name": "オリーブ温泉満天の湯",
+      "address": "香川県小豆郡土庄町半の池甲1360-10",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.manten-shodoshima.com/",
+      "sources": [
+        "https://www.manten-shodoshima.com/onyoku/",
+        "https://onsen.nifty.com/shoudoshima-onsen/onsen003913/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜休",
+      "note": "泉質・サウナ・定休日は公式。料金は公式に記載がなくニフティ（島民880円）"
+    },
+    {
+      "name": "島湯（小豆島温泉）",
+      "address": "香川県小豆郡土庄町甲5165-216",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円込",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式オートロウリュサウナ",
+      "url": "https://shimahaku-shimameshi-shimayu.jp/shimayu/",
+      "sources": [
+        "https://shimahaku-shimameshi-shimayu.jp/shimayu/"
+      ],
+      "confidence": "high",
+      "notice": "営業は6:00〜9:00・15:00〜23:00"
+    },
+    {
+      "name": "サン・オリーブ温泉",
+      "address": "香川県小豆郡小豆島町西村甲1941-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.olive-pk.jp/map/sunolive.html",
+      "sources": [
+        "https://www.olive-pk.jp/map/sunolive.html"
+      ],
+      "confidence": "high",
+      "notice": "水曜休館・木曜は温泉休み。重油供給制限のため15:00〜20:00（最終受付19:30）の時短営業中",
+      "note": "泉質（単純弱放射能泉）はるるぶ等の記載"
+    },
+    {
+      "name": "リゾートホテルオリビアン小豆島（オリビアンの湯）",
+      "address": "香川県小豆郡土庄町屋形崎63-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "低温サウナ（16:00〜22:00）",
+      "url": "https://olivean.com/",
+      "sources": [
+        "https://olivean.com/onsen/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴の受付は15:00〜20:00。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "高松クレーターの湯 天然温泉きらら",
+      "address": "香川県高松市一宮町800-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナと塩サウナ",
+      "url": "https://www.kiraraonsen.com/",
+      "sources": [
+        "https://www.kiraraonsen.com/index.html",
+        "https://onsen.nifty.com/takamatsu-onsen/onsen003939/"
+      ],
+      "confidence": "medium",
+      "notice": "第3火曜は17時から営業",
+      "note": "料金・営業は公式。サウナは公式に記載なく、ニフティ・サウナイキタイの掲載のみ"
+    },
+    {
+      "name": "四国高松温泉 ニューグランデみまつ",
+      "address": "香川県高松市通町2-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円別。タオル付800円",
+      "saunaTypes": [],
+      "saunaNote": "男女各1室（午後のみ）",
+      "url": "http://www.nmimatsu.com/",
+      "sources": [
+        "http://www.nmimatsu.com/hot_spring",
+        "http://www.nmimatsu.com/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は12:00〜19:00（日曜16:00〜）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "仏生山温泉 天平湯",
+      "reason": "サウナなし（公式の浴場設備は内湯・露天のみ）"
+    },
+    {
+      "name": "ホテルファーストイン高松",
+      "reason": "天然温泉か確認できず（公式に泉質の記載なし）"
+    },
+    {
+      "name": "天然温泉あ・くあ",
+      "reason": "2022年8月から長期休業中"
+    },
+    {
+      "name": "しおはまの湯 四国健康村",
+      "reason": "天然温泉か確認できず（公式に泉質・源泉の記載なし）"
+    },
+    {
+      "name": "癒しの里 さらい",
+      "reason": "天然温泉の記載なし（天然石の湯）"
+    },
+    {
+      "name": "休暇村 讃岐五色台",
+      "reason": "天然温泉ではない（大浴場は沸かし湯）"
+    },
+    {
+      "name": "白峰温泉 ニューサンピア坂出",
+      "reason": "2021年11月から休館"
+    },
+    {
+      "name": "萩の湯（観音寺市大野原町）",
+      "reason": "地下水を軟水化した湯で天然温泉ではない"
+    },
+    {
+      "name": "塩入温泉",
+      "reason": "源泉湧出量低下のため2026/1/13から当面休業"
+    },
+    {
+      "name": "湯山荘 阿讃琴南",
+      "reason": "公式に日帰り入浴の案内がなく料金を確認できず"
+    },
+    {
+      "name": "つばさ山温泉（旧翼山温泉）",
+      "reason": "天然温泉か確認できず（公式・発表資料に泉質の記載なし）"
+    },
+    {
+      "name": "ツインパルながお",
+      "reason": "サウナを公式で確認できず（風呂はプールとセット料金）"
+    },
+    {
+      "name": "ゆ〜とぴあみろく温泉",
+      "reason": "温泉は宿泊者のみ"
+    },
+    {
+      "name": "edit x seven 瀬戸内小豆島",
+      "reason": "天然温泉か確認できず（日帰りは水着のサーマルスパ）"
+    },
+    {
+      "name": "吉田温泉（オートビレッジYOSHIDA）",
+      "reason": "サウナを公式で確認できず"
+    },
+    {
+      "name": "スーパー銭湯あかね温泉",
+      "reason": "天然温泉の記載なし"
+    },
+    {
+      "name": "あじ温泉 庵治観光ホテル 海のやどり",
+      "reason": "サウナ営業休止中"
+    },
+    {
+      "name": "綾川町社会福祉センター 紅葉温泉",
+      "reason": "休業中"
+    }
+  ],
+  "notes": "香川県全域。ニフティ温泉（全138件）とサウナイキタイ（全140件）の県一覧を全ページ確認して候補を洗い出した。2026/10/1に県の公衆浴場統制額が大人500円に改定（銭湯型の由良里の湯・湯楽温泉に適用）。未収録：かざし温泉（天然温泉・サウナあり。公式サイトがなく料金が600円/700円で食い違い）、じゃこ丸パーク津田（クアパーク津田。公式サイト503で料金・泉質を確認できず）。こんぴら温泉郷の旅館（琴参閣・紅梅亭・桜の抄・敷島館・琴平花壇）や花樹海・瀬戸内荘・ベイリゾートホテル小豆島などは、公式に大浴場の日帰り入浴の案内がないため対象外とした。クア温泉屋島・椿温泉・吉野湯・共楽湯・大井温泉・しよの湯などの銭湯は、天然温泉と確認できなかった。"
+}

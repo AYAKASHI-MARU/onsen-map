@@ -1,0 +1,1274 @@
+{
+  "prefecture": "大分県",
+  "prefCode": "44",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然温泉 アサヒ温泉（明野）",
+      "address": "大分県大分市明野東1-2-10",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "塩"
+      ],
+      "saunaNote": "男湯・女湯は日替わり",
+      "url": "https://www.asahi-spa.com/",
+      "sources": [
+        "https://www.asahi-spa.com/goannai/",
+        "https://www.asahi-spa.com/tenpo/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3水曜は17時開店",
+      "note": "2026/10/1料金改定（430→530円）。ロッキータワーサウナ・ミスト・塩パックサウナ"
+    },
+    {
+      "name": "おおいた温泉物語 三川の湯",
+      "address": "大分県大分市三川新町1-1-11",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://www.erewhon.co.jp/mitsugawanoyu.htm",
+      "sources": [
+        "http://www.erewhon.co.jp/mitsugawanoyu.htm"
+      ],
+      "confidence": "high",
+      "notice": "燃料事情により当面10:00〜24:00の短縮営業（週末24時間営業は休止）",
+      "note": "2026/3〜重油不足で営業短縮。サウナは再開済みと告知"
+    },
+    {
+      "name": "ぶんご温泉 高田の湯",
+      "address": "大分県大分市大字下徳丸36-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://www.bungo.co.jp/business/takadanoyu.html",
+      "sources": [
+        "http://www.bungo.co.jp/business/takadanoyu.html"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "ニフティは410円（旧料金）"
+    },
+    {
+      "name": "大分森町温泉 やまなみの湯",
+      "address": "大分県大分市大字森字六反田595-2",
+      "weekdayAdult": 480,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "スチーム"
+      ],
+      "saunaNote": "スチームサウナは洋風浴場のみ",
+      "url": "https://diamondgroup.co.jp/yamanaminoyu/morimachi/",
+      "sources": [
+        "https://diamondgroup.co.jp/yamanaminoyu/morimachi/",
+        "https://diamondgroup.co.jp/yamanaminoyu/morimachi/2026/09/26/post-54/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/4は店休日",
+      "note": "2026/10/10料金改定後の料金"
+    },
+    {
+      "name": "府内温泉",
+      "address": "大分県大分市府内町3丁目3-8 府内トレス1F",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライは男湯、ミストは女湯",
+      "url": "https://funaionsen.com/",
+      "sources": [
+        "https://funaionsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 天の川",
+      "address": "大分県大分市田中町3丁目1番8号",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://amanogawanoyu.com/",
+      "sources": [
+        "https://amanogawanoyu.com/outline/index.html",
+        "https://amanogawanoyu.com/facility/daiyokujyo/index.html"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "サウナの種類は記載なし"
+    },
+    {
+      "name": "神崎温泉 天海の湯",
+      "address": "大分県大分市大字神崎字蟹喰62-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://tenkainoyu.com/",
+      "sources": [
+        "http://tenkainoyu.com/guide/index.html",
+        "http://tenkainoyu.com/facility/daiyokujyo/index.html"
+      ],
+      "confidence": "high",
+      "notice": "木曜は12時から営業",
+      "note": "サウナの種類は記載なし"
+    },
+    {
+      "name": "鴛野温泉 はなまるの湯",
+      "address": "大分県大分市大字鴛野984",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "朝風呂（6〜9時）350円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://hanamarunoyu.com/",
+      "sources": [
+        "https://hanamarunoyu.com/facility/index.html",
+        "https://onsen.nifty.com/ooitashuuhen-onsen/onsen012453/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式に料金はあるがサウナの記載なし。サウナはニフティ・サウナイキタイ掲載による"
+    },
+    {
+      "name": "まるた屋温泉 西方の湯",
+      "address": "大分県大分市南生石東5組-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "土日祝・繁忙期料金あり",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80040473",
+        "https://onsen.nifty.com/ooitashuuhen-onsen/onsen011103/"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "公式サイト不通。るるぶ700/800円、ニフティ650/750円で食い違い。住所はニフティでは生石213"
+    },
+    {
+      "name": "シティスパ てんくう",
+      "address": "大分県大分市要町1-14 JRおおいたシティ19階",
+      "weekdayAdult": 1900,
+      "holidayAdult": 2200,
+      "saunaFee": 0,
+      "priceNote": "入浴プラン（ヒーリングプランは平日2,400円・土日祝2,700円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "21階の露天エリアは湯浴み着・サウナパンツ着用",
+      "url": "https://www.jroitacity.jp/cityspatenku/",
+      "sources": [
+        "https://www.jroitacity.jp/cityspatenku/access/",
+        "https://www.jroitacity.jp/cityspatenku/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "月1回程度メンテナンス休館",
+      "note": "20階にフィンランドサウナ・アロマスチームサウナもあるが入浴プランで使えるかは未確認"
+    },
+    {
+      "name": "希感舎（大分スポーツ公園宿泊研修センター）",
+      "address": "大分県大分市大字松岡6717",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "遠赤外線は男湯、ミストは女湯",
+      "url": "http://www.kikansha.info/",
+      "sources": [
+        "http://www.kikansha.info/spa/index.html"
+      ],
+      "confidence": "high",
+      "notice": "土曜・休前日は11:00〜16:00",
+      "note": ""
+    },
+    {
+      "name": "ニューグロリア大分ホテル",
+      "address": "大分県大分市寿町11-31",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "2時間・男性料金（女性500円）",
+      "saunaTypes": [],
+      "saunaNote": "男女とも",
+      "url": "http://gloria-oita.com/",
+      "sources": [
+        "http://gloria-oita.com/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 都の湯 ホテルクラウンヒルズ大分",
+      "address": "大分県大分市都町4-3-12",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://breezbay-group.com/hch-oita/",
+      "sources": [
+        "https://breezbay-group.com/hch-oita/bath/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは平日15〜22時・土日祝13〜22時。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "鶴崎ホテル",
+      "address": "大分県大分市皆春下の土井1638",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男性専用大浴場のみ（女性用大浴場なし）",
+      "url": "https://breezbay-group.com/tsurusaki-h/",
+      "sources": [
+        "https://breezbay-group.com/tsurusaki-h/bath/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "クリスタル温泉",
+      "address": "大分県大分市下郡北11組9",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.oishiimati-oita.jp/onsen/3129",
+      "sources": [
+        "https://www.oishiimati-oita.jp/onsen/3129",
+        "https://onsen.nifty.com/ooitashuuhen-onsen/onsen007986/"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "料金はニフティのみ（更新日不明）。サウナは大分市観光サイトに遠赤外線低温サウナと記載"
+    },
+    {
+      "name": "新湊温泉",
+      "address": "大分県大分市生石4丁目3-15",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://shinminato.mystrikingly.com/",
+      "sources": [
+        "https://onsen.nifty.com/ooitashuuhen-onsen/onsen018076/"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "公式サイトは取得不可（403）。料金・サウナはニフティのみ"
+    },
+    {
+      "name": "高崎山温泉 おさるの湯",
+      "address": "大分県由布市挾間町高崎628-1",
+      "weekdayAdult": 430,
+      "holidayAdult": 430,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yufuin.gr.jp/spot/spot-1235/",
+      "sources": [
+        "https://yufuin.gr.jp/spot/spot-1235/"
+      ],
+      "confidence": "low",
+      "notice": "木曜定休（祝日は営業）",
+      "note": "料金は由布院観光協会ページ（2026年1月時点430円）だがサウナイキタイは750円〜で食い違い。サウナはニフティ・サウナイキタイ掲載による"
+    },
+    {
+      "name": "別府鉄輪温泉 やまなみの湯",
+      "address": "大分県別府市北中7-2 ダイヤモンドビル1F",
+      "weekdayAdult": 630,
+      "holidayAdult": 780,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "塩",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "山の湯・海の湯で計6種（オートロウリュ・セルフロウリュ・塩・漢方など）",
+      "url": "https://diamondgroup.co.jp/yamanaminoyu/beppu/",
+      "sources": [
+        "https://diamondgroup.co.jp/yamanaminoyu/beppu/",
+        "https://diamondgroup.co.jp/yamanaminoyu/beppu/2026/05/19/post-121/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "2026/6/1料金改定後の料金（ニフティは旧580/680円）"
+    },
+    {
+      "name": "ひょうたん温泉",
+      "address": "大分県別府市鉄輪159-2",
+      "weekdayAdult": 1160,
+      "holidayAdult": 1160,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "温泉蒸気のむし湯（約50℃）",
+      "url": "https://www.hyotan-onsen.com/",
+      "sources": [
+        "https://www.hyotan-onsen.com/price/index.html",
+        "https://www.hyotan-onsen.com/onsen/mushiyu.html"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/12、11/30〜12/4は臨時休業",
+      "note": ""
+    },
+    {
+      "name": "鉄輪むし湯",
+      "address": "大分県別府市鉄輪上1組",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "石菖を敷いた石室のむし湯",
+      "url": "https://www.city.beppu.oita.jp/sisetu/shieionsen/detail11.html",
+      "sources": [
+        "http://www.city.beppu.oita.jp/01onsen/02shiei/11kannawa/kannawa.html"
+      ],
+      "confidence": "high",
+      "notice": "第4木曜休（祝日は翌日）。2026/10/1〜2027/1/31は7:30〜19:30営業",
+      "note": ""
+    },
+    {
+      "name": "柴石温泉",
+      "address": "大分県別府市野田4組",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "温泉蒸気のむし湯",
+      "url": "https://www.city.beppu.oita.jp/sisetu/shieionsen/detail13.html",
+      "sources": [
+        "https://www.city.beppu.oita.jp/sisetu/shieionsen/detail13.html"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休（祝日は翌日）。13〜14時は清掃で入館不可",
+      "note": ""
+    },
+    {
+      "name": "湯都ピア浜脇",
+      "address": "大分県別府市浜脇1丁目8番20号",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.beppu.oita.jp/sisetu/shieionsen/detail2.html",
+      "sources": [
+        "https://www.city.beppu.oita.jp/sisetu/shieionsen/detail2.html",
+        "https://sauna-ikitai.com/oita/%E5%88%A5%E5%BA%9C%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休（祝日は翌日）",
+      "note": "市公式ページにサウナの記載なし。サウナイキタイに男女サウナ90℃の掲載"
+    },
+    {
+      "name": "別府温泉保養ランド",
+      "address": "大分県別府市明礬5組",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": null,
+      "priceNote": "中学生1,100円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "蒸し湯",
+      "url": "",
+      "sources": [
+        "https://sp.jorudan.co.jp/onsen/details/059/",
+        "https://www.yukoyuko.net/onsen/spot/h0000469"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイト取得不可（403）。料金はジョルダン（2026/3更新）・ゆこゆこ。サウナイキタイに男女60℃の掲載"
+    },
+    {
+      "name": "杉乃井ホテル 棚湯",
+      "address": "大分県別府市観海寺1",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2400,
+      "saunaFee": 0,
+      "priceNote": "年末年始・連休など特定日は2,500〜3,200円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://suginoi.orixhotelsandresorts.com/contents/tanayu/",
+      "sources": [
+        "https://suginoi.orixhotelsandresorts.com/contents/tanayu/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは9:00〜23:00（最終入場22時）",
+      "note": ""
+    },
+    {
+      "name": "湯屋えびす",
+      "address": "大分県別府市明礬4組",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "硫黄蒸気の箱蒸し（山小屋の箱蒸し）",
+      "url": "https://www.e-ebisu.biz/",
+      "sources": [
+        "https://www.e-ebisu.biz/yuya.php"
+      ],
+      "confidence": "high",
+      "notice": "月1回メンテナンス休（不定休）",
+      "note": ""
+    },
+    {
+      "name": "大江戸温泉物語Premium ホテル風月",
+      "address": "大分県別府市北中1組",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1760,
+      "saunaFee": null,
+      "priceNote": "繁忙日1,960円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/fugetsu/",
+      "sources": [
+        "https://www.ooedoonsen.jp/fugetsu/day_trip/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは7:00〜10:00・15:00〜24:00（最終受付22時）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "敷地内の日帰り浴場「夢たまて筥」（サウナイキタイ掲載）と同一とみて1件に統合"
+    },
+    {
+      "name": "湯けむりの里 東屋",
+      "address": "大分県別府市鉄輪上1029-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女とも",
+      "url": "https://gloria-g.com/azumaya/",
+      "sources": [
+        "https://gloria-g.com/azumaya/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは10:00〜15:00（12〜13時は清掃）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "絶景の宿 さくら亭",
+      "address": "大分県別府市鉄輪上1063-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "女湯のみ",
+      "url": "https://gloria-g.com/sakuratei/",
+      "sources": [
+        "https://gloria-g.com/sakuratei/hotspring"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは10:00〜16:00（設備点検で休みの日あり）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "AMANE RESORT SEIKAI",
+      "address": "大分県別府市上人ケ浜町6-24",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": null,
+      "priceNote": "入浴のみ・入湯税込",
+      "saunaTypes": [],
+      "saunaNote": "男女とも（85℃）",
+      "url": "https://www.seikai.co.jp/",
+      "sources": [
+        "https://www.seikai.co.jp/onsen/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "外来入浴は12:30〜22:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "セントレジャー城島高原ホテル",
+      "address": "大分県別府市城島高原123",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.kijimakogen-hotel.jp/",
+      "sources": [
+        "https://www.kijimakogen-hotel.jp/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは13:00〜18:00（予約状況により利用不可の場合あり）。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "カプセルホテルグロリア てんぐの湯",
+      "address": "大分県別府市元町1-25",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "2時間料金",
+      "saunaTypes": [],
+      "saunaNote": "男女とも",
+      "url": "https://gloria-g.com/gpalace/",
+      "sources": [
+        "https://gloria-g.com/gpalace/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "毎日11:00〜13:00は清掃",
+      "note": ""
+    },
+    {
+      "name": "ゆの杜 竹泉",
+      "address": "大分県由布市挾間町来鉢影ノ木1047-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "大型連休は700円",
+      "saunaTypes": [],
+      "saunaNote": "男女とも",
+      "url": "https://yunomoritakesen.jp/",
+      "sources": [
+        "https://yunomoritakesen.jp/"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3木曜定休（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "ゆふいん山水館",
+      "address": "大分県由布市湯布院町川南108-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯（ゆふの湯）のみ",
+      "url": "https://www.sansuikan.co.jp/",
+      "sources": [
+        "https://www.sansuikan.co.jp/day/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは13:00〜15:00",
+      "note": ""
+    },
+    {
+      "name": "由布市健康温泉館（クアージュゆふいん）",
+      "address": "大分県由布市湯布院町川上2863",
+      "weekdayAdult": 930,
+      "holidayAdult": 930,
+      "saunaFee": null,
+      "priceNote": "市外料金（市民350円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.yufu.oita.jp/kankou/onsen/onsen_cate1_1/kua",
+      "sources": [
+        "https://www.city.yufu.oita.jp/kankou/onsen/onsen_cate1_1/kua"
+      ],
+      "confidence": "medium",
+      "notice": "木曜定休",
+      "note": "市公式にサウナ記載なし。サウナはニフティ・サウナイキタイ掲載による。水着着用ゾーンあり"
+    },
+    {
+      "name": "寒の地獄旅館",
+      "address": "大分県玖珠郡九重町田野257",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "冷泉サウナ2時間（温泉入浴のみは1時間700円）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "http://kannojigoku.jp/",
+      "sources": [
+        "http://kannojigoku.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "冷泉サウナは事前予約制。水・木曜定休",
+      "note": "薪ストーブのサウナ「暖の地獄」。貸切か共用かは未確認"
+    },
+    {
+      "name": "NU:KUJU ヌクヌクの湯",
+      "address": "大分県玖珠郡九重町大字田野1681-14",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.nu-kuju.jp/activity/onsen",
+      "sources": [
+        "http://www.nu-kuju.jp/about?secid=price"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（GW・夏休みは無休）。営業期間は3月中旬〜12月上旬",
+      "note": "高校生以上800円。フィールド入場料1,000円の要否は未確認"
+    },
+    {
+      "name": "ほたると絶景の湯 つれづれ",
+      "address": "大分県玖珠郡九重町田野952-4",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女別大浴場に無料サウナ",
+      "url": "https://kyusuikei.com/tsuredure/",
+      "sources": [
+        "https://kyusuikei.com/tsuredure/onsen_fee/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "長湯温泉 かじか庵 湯処 ゆの花",
+      "address": "大分県竹田市直入町長湯温泉2961",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "セルフロウリュは男湯。女湯にも小型サウナ",
+      "url": "http://www.kajikaan.com/",
+      "sources": [
+        "http://www.kajikaan.com/spa-man.html",
+        "http://www.kajikaan.com/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "長湯温泉療養文化館 御前湯",
+      "address": "大分県竹田市直入町長湯7962-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "竹田市外料金（市内500円）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "1階・3階浴場とも（男女日替わり）",
+      "url": "http://www.gozenyu.com/",
+      "sources": [
+        "http://www.gozenyu.com/eigyo.html",
+        "http://www.gozenyu.com/kannai.html"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜休",
+      "note": ""
+    },
+    {
+      "name": "ラムネ温泉館",
+      "address": "大分県竹田市直入町大字長湯7676-2",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.lamune-onsen.co.jp/",
+      "sources": [
+        "http://www.lamune-onsen.co.jp/"
+      ],
+      "confidence": "high",
+      "notice": "第1水曜休（1月・5月は第2水曜）。2026/11/4休館",
+      "note": ""
+    },
+    {
+      "name": "豊後くたみ温泉 ほていの湯",
+      "address": "大分県竹田市久住町大字栢木5585-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女各1。サウナは12時から",
+      "url": "https://hyakka910.localinfo.jp/",
+      "sources": [
+        "https://hyakka910.localinfo.jp/",
+        "https://onsen.nifty.com/taketa-onsen/onsen004461/"
+      ],
+      "confidence": "high",
+      "notice": "第2木曜休（祝日の場合は第3木曜）",
+      "note": ""
+    },
+    {
+      "name": "岡城天然温泉 月のしずく",
+      "address": "大分県竹田市飛田川3435-20",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "低温ミストサウナ（40℃）",
+      "url": "https://tsukinosizuku.com/",
+      "sources": [
+        "https://tsukinosizuku.com/",
+        "https://onsen.nifty.com/taketa-onsen/onsen004656/"
+      ],
+      "confidence": "low",
+      "notice": "火・金曜定休",
+      "note": "公式500円・ニフティ600円で食い違い。公式サイトは更新が古い"
+    },
+    {
+      "name": "荻の里温泉",
+      "address": "大分県竹田市荻町新藤1131",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "竹田市外料金（市内500円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "せせらぐ湯にドライ、やすらぐ湯にミスト",
+      "url": "https://oginosato.com/",
+      "sources": [
+        "https://oginosato.com/onsen.php"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休（祝日は営業し翌営業日休）",
+      "note": ""
+    },
+    {
+      "name": "竹田温泉 花水月",
+      "address": "大分県竹田市会々2250-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.instagram.com/taketaonnsennhanamizuki/",
+      "sources": [
+        "https://www.instagram.com/taketaonnsennhanamizuki/",
+        "https://onsen.nifty.com/taketa-onsen/onsen004583/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜定休（祝日は営業）",
+      "note": "料金は公式Instagramのプロフィール。サウナはニフティ・サウナイキタイ掲載による"
+    },
+    {
+      "name": "クアパーク長湯",
+      "address": "大分県竹田市直入町長湯3041-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "水着エリア（男女共用）",
+      "url": "https://kur-nagayu.co.jp/",
+      "sources": [
+        "https://kur-nagayu.co.jp/price",
+        "https://sp.jorudan.co.jp/onsen/details/2069/"
+      ],
+      "confidence": "medium",
+      "notice": "第1・第3水・木曜休",
+      "note": "料金は公式。サウナ（男女兼用）と定休日はジョルダン（2026/3更新）による"
+    },
+    {
+      "name": "久住高原コテージ",
+      "address": "大分県竹田市久住町白丹7571-23",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.kujukogen.com/",
+      "sources": [
+        "http://www.kujukogen.com/",
+        "https://www.kujukogen.com/category02/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは11:00〜19:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "八面山金色温泉",
+      "address": "大分県中津市三光田口字金色584-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.kanairo.co.jp/",
+      "sources": [
+        "http://www.kanairo.co.jp/large_spa/index.html",
+        "http://www.kanairo.co.jp/facilities/index.html"
+      ],
+      "confidence": "high",
+      "notice": "火・水曜定休（GW・お盆・SW・年末年始は営業）",
+      "note": ""
+    },
+    {
+      "name": "やすらぎの郷 やまくに",
+      "address": "大分県中津市山国町藤野木12-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://coreyamakuni.com/facilities/yasuragi",
+      "sources": [
+        "http://coreyamakuni.com/facilities/yasuragi"
+      ],
+      "confidence": "high",
+      "notice": "第1・第3火曜休",
+      "note": ""
+    },
+    {
+      "name": "スーパー銭湯 さくら温泉",
+      "address": "大分県中津市大字下池永正手64-5",
+      "weekdayAdult": 650,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "http://www.fukunoyu.com/sakura-onsen/",
+      "sources": [
+        "http://www.fukunoyu.com/sakura-onsen/fee/",
+        "https://onsen.nifty.com/yaba-onsen/onsen012440/"
+      ],
+      "confidence": "medium",
+      "notice": "第2木曜休",
+      "note": "料金は公式。天然温泉であることとサウナの種類はニフティによる"
+    },
+    {
+      "name": "奥日田温泉 うめひびき",
+      "address": "大分県日田市大山町西大山4587",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": null,
+      "priceNote": "入浴のみ（低温サウナ「活盤浴」は+500円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.umehibiki.jp/",
+      "sources": [
+        "https://www.umehibiki.jp/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰りは11:00〜14:30。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": ""
+    },
+    {
+      "name": "日田温泉 ととの湯（はなの樹 RIVER TERRACE）",
+      "address": "大分県日田市中ノ島町685-6",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女とも最大24名のフィンランド式サウナ",
+      "url": "https://hita-hananoki.com/totonoyu/index.html",
+      "sources": [
+        "https://hita-hananoki.com/totonoyu/index.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは11:00〜22:00（最終受付21時）",
+      "note": ""
+    },
+    {
+      "name": "スーパー銭湯 花の湯",
+      "address": "大分県日田市大字友田939-1 アーバンタウン内",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.urban-pyramid.net/hananoyu/index.html",
+      "sources": [
+        "http://www.urban-pyramid.net/hananoyu/index.html",
+        "https://onsen.nifty.com/hita-onsen/onsen016192/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式ページは旧料金表が混在。一般900円はニフティと一致"
+    },
+    {
+      "name": "山香温泉 風の郷",
+      "address": "大分県杵築市山香町倉成3003",
+      "weekdayAdult": 680,
+      "holidayAdult": 680,
+      "saunaFee": 0,
+      "priceNote": "高校生以上の一般料金（杵築市民550円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yamaga-kazenosato.com/",
+      "sources": [
+        "https://www.yamaga-kazenosato.com/hotspring"
+      ],
+      "confidence": "high",
+      "notice": "立ち寄り湯は木・金15:00〜、土日祝12:00〜（21:30まで）。サウナは15時から",
+      "note": ""
+    },
+    {
+      "name": "JA杵築市 いこいのゆ",
+      "address": "大分県杵築市大字大内7707-8",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://jaoita.or.jp/life/other/welfare/ikoi-hot-spring",
+      "sources": [
+        "https://jaoita.or.jp/life/other/welfare/ikoi-hot-spring",
+        "https://onsen.nifty.com/usa-onsen/onsen004677/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3水曜は15時から",
+      "note": "公式にサウナ記載なし。サウナはニフティ・サウナイキタイ掲載による"
+    },
+    {
+      "name": "スパランド真玉",
+      "address": "大分県豊後高田市城前156-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "中温サウナ（男女日替わり）",
+      "url": "https://www.spaland.jp/",
+      "sources": [
+        "https://www.spaland.jp/guidance/",
+        "https://www.spaland.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4火曜休（祝日・8月を除く）",
+      "note": ""
+    },
+    {
+      "name": "ほうらいの里 仙人湯",
+      "address": "大分県豊後高田市大岩屋46",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.bungotakada.oita.jp/site/showanomachi/1280.html",
+      "sources": [
+        "https://www.city.bungotakada.oita.jp/site/showanomachi/1280.html"
+      ],
+      "confidence": "high",
+      "notice": "木・金曜・祝日休（GW・年末年始は営業）",
+      "note": ""
+    },
+    {
+      "name": "健康交流センター 花いろ",
+      "address": "大分県豊後高田市美和1335-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.bungotakada.oita.jp/site/showanomachi/1990.html",
+      "sources": [
+        "https://www.city.bungotakada.oita.jp/site/showanomachi/1990.html"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4水曜休（祝日は翌日）",
+      "note": ""
+    },
+    {
+      "name": "夷谷温泉",
+      "address": "大分県豊後高田市夷1851-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.bungotakada.oita.jp/site/showanomachi/2001.html",
+      "sources": [
+        "https://www.city.bungotakada.oita.jp/site/showanomachi/2001.html",
+        "https://tabi-mag.jp/ot0320/"
+      ],
+      "confidence": "medium",
+      "notice": "第2・第4月曜休",
+      "note": "市公式にサウナ記載なし。旅行メディア・サウナイキタイに男女サウナの記載"
+    },
+    {
+      "name": "SAUNA MEGURIYU（HOTEL MEGURI）",
+      "address": "大分県宇佐市四日市144-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "休前日1,000円（日曜・祝日の料金は未確認）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女ともオートロウリュ",
+      "url": "https://www.hotel-meguri.com/saunameguriyu",
+      "sources": [
+        "https://www.hotel-meguri.com/saunameguriyu"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "まほろば温泉 菟狭",
+      "address": "大分県宇佐市川部小蔵1584",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80040932",
+        "https://sauna-ikitai.com/oita?page=1&keyword=%E5%AE%87%E4%BD%90"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "公式サイト見当たらず。料金はるるぶ・サウナイキタイ、サウナはサウナイキタイ掲載のみ"
+    },
+    {
+      "name": "佐伯温泉 かぶとむしの湯（鉱泉センター直川）",
+      "address": "大分県佐伯市直川大字赤木1252",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.visit-saiki.jp/spots/detail/e5ed179d-14b0-4d9c-92a5-acb670da4c59",
+      "sources": [
+        "https://www.visit-saiki.jp/spots/detail/e5ed179d-14b0-4d9c-92a5-acb670da4c59"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休（祝日は翌日）・年末年始休",
+      "note": "単純冷鉱泉。佐伯市観光協会ページで確認"
+    },
+    {
+      "name": "スパ＆リゾート ホテルソラージュ大分・日出",
+      "address": "大分県速見郡日出町大神7505",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": null,
+      "priceNote": "特別期間は変動あり",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://solage.jp/",
+      "sources": [
+        "https://solage.jp/hotspring/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜は16時から、土・休前日は19時まで。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "大浴場に対流式ドライサウナ。貸切風呂「深江」にスチームサウナ"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "道の駅やよい「やよいの湯」",
+      "reason": "光明石温泉・カルシウム温泉（人工温泉）"
+    },
+    {
+      "name": "俵屋旅館（ろくがさこ温泉）",
+      "reason": "公式に「サウナはありません」"
+    },
+    {
+      "name": "梅園の里「うめの湯」",
+      "reason": "走り水の沸かし湯で天然温泉か確認できず"
+    },
+    {
+      "name": "湯の里 渓泉",
+      "reason": "休業中"
+    },
+    {
+      "name": "上恵良温泉",
+      "reason": "休業中"
+    },
+    {
+      "name": "臼杵ふれあいの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "グリーンパークホテルうさ",
+      "reason": "閉館"
+    },
+    {
+      "name": "リバーサイドホテル山水館",
+      "reason": "閉館"
+    },
+    {
+      "name": "牧山乃湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "ゆわいの宿 竹乃井",
+      "reason": "閉館"
+    },
+    {
+      "name": "ゆふいん山荘 香洛庵",
+      "reason": "閉館"
+    },
+    {
+      "name": "地方職員共済組合別府保養所 つるみ荘",
+      "reason": "閉館"
+    },
+    {
+      "name": "亀の井ホテル 別府",
+      "reason": "日帰り入浴の受け入れ休止中"
+    },
+    {
+      "name": "ホテル さわやか別府の里",
+      "reason": "閉館（ニフティ表記）"
+    },
+    {
+      "name": "BEPPU ROJIURA STAY & SAUNA",
+      "reason": "予約制の立ち寄りサウナ。天然温泉の浴槽を確認できず"
+    },
+    {
+      "name": "北浜温泉テルマス",
+      "reason": "閉館"
+    },
+    {
+      "name": "ホテル三泉閣",
+      "reason": "閉館"
+    },
+    {
+      "name": "宿房 翡翠之庄",
+      "reason": "現在は宿泊者のみ（日帰り入浴休止）"
+    },
+    {
+      "name": "Spa Kū「空」（長湯温泉 常聖天空の杜）",
+      "reason": "貸切個室のみ"
+    },
+    {
+      "name": "個室温泉 おふゆ",
+      "reason": "貸切（家族風呂）のみ"
+    },
+    {
+      "name": "スパリゾートSamaSama",
+      "reason": "閉館（ニフティ表記）"
+    },
+    {
+      "name": "やすらぎの里 豊の国健康ランド",
+      "reason": "閉館"
+    },
+    {
+      "name": "炭酸美肌温泉 らんぷの湯 花園店",
+      "reason": "閉館"
+    },
+    {
+      "name": "森町ドリーム天然温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "いかりやま温泉",
+      "reason": "サウナ未稼働"
+    },
+    {
+      "name": "ホテルトパーズ大在駅前（黄玉の湯）",
+      "reason": "立寄湯ありだが日帰り料金を確認できず"
+    }
+  ],
+  "notes": "ニフティ温泉の大分県サウナ一覧（132件）とサウナイキタイ大分県一覧（203件）を起点に公式サイト・自治体/観光協会ページで確認。ホテル・旅館で日帰り時のサウナ利用が明記されていないものは medium＋notice。公式にサウナ記載がなくポータル掲載のみのもの（はなまるの湯・湯都ピア浜脇・クアージュゆふいん・いこいのゆ・夷谷温泉・花水月・おさるの湯・クアパーク長湯 等）は medium/low。未収録（料金・日帰り可否・天然温泉・サウナを確認できず）: 下郡温泉・みやざき郷温泉（ニフティのみ）、ホテル山水館（別府）、別府豊泉荘、ホテルニューツルタ、ANAインターコンチネンタル別府、カプセルホステル別府タワー、湯平テラス、志美津、亀山亭ホテル、ふろんでん、カッフェルひなのさと、宇佐グランドホテル、佐伯市保健福祉総合センター和楽、ビジネスホテル山田（大風呂300円・サウナ800円はニフティのみ）、いちのいで会館、グランヴィリオホテル別府湾 和蔵、グランドメルキュール別府湾。プライベートサウナ専業（SAUNA竹、ROOFTOP SAUNA空園、ONOGORO 等）・天然温泉でないサウナ施設（大分サウナ、Garden Sauna Rusk 等）は対象外。三川の湯は重油不足で営業短縮中（2026/3〜）。"
+}

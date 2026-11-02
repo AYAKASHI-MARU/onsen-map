@@ -1,0 +1,703 @@
+{
+  "prefecture": "山形県",
+  "prefCode": "06",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "悠湯の郷ゆさ＆おふろcafe yusa",
+      "address": "山形県山形市大字黒沢319-2",
+      "weekdayAdult": 880,
+      "holidayAdult": 990,
+      "saunaFee": 220,
+      "priceNote": "120分料金。フリータイム平日1,650円・休日1,980円（サウナ込み）。繁忙期は特別料金",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女共用のセルフロウリュサウナ（サウナガーデン）",
+      "url": "https://ofurocafe-yusa.com/",
+      "sources": [
+        "https://ofurocafe-yusa.com/information"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "テルメ柏陵健康温泉館",
+      "address": "山形県西村山郡大江町大字藤田831-40",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "約50℃の低温トロンサウナ",
+      "url": "https://oe-terume.co.jp/kenkou-onsenkan/",
+      "sources": [
+        "https://oe-terume.co.jp/kenkou-onsenkan/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1木曜休館"
+    },
+    {
+      "name": "鳥海温泉保養センター あぽん西浜",
+      "address": "山形県飽海郡遊佐町吹浦字西浜2-70",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.chokai-yuza.com/apon/",
+      "sources": [
+        "http://www.chokai-yuza.com/apon/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2・第4月曜定休"
+    },
+    {
+      "name": "ぽっぽの湯",
+      "address": "山形県鶴岡市長沼宮前266-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://popponoyu.com/",
+      "sources": [
+        "https://popponoyu.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "高畠町太陽館",
+      "address": "山形県東置賜郡高畠町大字山崎200-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://takahata.info/taiyokan/",
+      "sources": [
+        "https://onsen.nifty.com/akayu-yamagata-onsen/onsen000711/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第2月曜休館（祝日の場合は翌日）",
+      "note": "公式ページに料金の文字情報なし。ニフティ温泉の料金"
+    },
+    {
+      "name": "水沢温泉館",
+      "address": "山形県西村山郡西川町大字水沢2304",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 500,
+      "priceNote": "入浴＋サウナ850円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.gassan.co.jp/facility/02_mizusawa",
+      "sources": [
+        "https://www.gassan.co.jp/facility/02_mizusawa"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2火曜休館（祝日の場合は後日）"
+    },
+    {
+      "name": "やまぶし温泉 ゆぽか",
+      "address": "山形県鶴岡市羽黒町後田字谷地田188",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "外気浴ができるサウナ",
+      "url": "http://yupoka.jp/",
+      "sources": [
+        "http://yupoka.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3木曜休館"
+    },
+    {
+      "name": "ひまわり温泉 ゆ・ら・ら",
+      "address": "山形県東村山郡中山町いずみ1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://www.yurara.jp/",
+      "sources": [
+        "https://www.yurara.jp/charge"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3月曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "おいたま温泉 賜の湯",
+      "address": "山形県米沢市上新田2300",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 100,
+      "priceNote": "入浴＋サウナ500円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tamanoyu.club/",
+      "sources": [
+        "https://onsen.nifty.com/yonezawa-onsen/onsen000769/"
+      ],
+      "confidence": "medium",
+      "note": "ニフティに2025/11/1からの料金として掲載。公式は本文取得できず"
+    },
+    {
+      "name": "べに花温泉 ひなの湯",
+      "address": "山形県西村山郡河北町谷地下野269",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.hinanoyu.com/",
+      "sources": [
+        "https://www.hinanoyu.com/hinanoyu"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2木曜休館"
+    },
+    {
+      "name": "舟形若あゆ温泉",
+      "address": "山形県最上郡舟形町長沢8067",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.wakaayu.jp/",
+      "sources": [
+        "http://www.wakaayu.jp/hotspa.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2水曜休館"
+    },
+    {
+      "name": "まむろ川温泉 梅里苑",
+      "address": "山形県最上郡真室川町大字平岡894-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://bairien.yamagata.jp/",
+      "sources": [
+        "https://bairien.yamagata.jp/day-trip.php"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第4月曜休館",
+      "note": "公式はサウナ・水風呂ありと記載。ニフティは「サウナ利用休止中」と記載で食い違い"
+    },
+    {
+      "name": "庄内町ギャラリー温泉 町湯",
+      "address": "山形県東田川郡庄内町余目字土堤下35-2",
+      "weekdayAdult": 560,
+      "holidayAdult": 560,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュサウナ",
+      "url": "https://machiyu.jp/",
+      "sources": [
+        "http://www.machiyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2水曜・元日休館"
+    },
+    {
+      "name": "徳良湖温泉 花笠の湯",
+      "address": "山形県尾花沢市大字尾花沢5151-67",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "市外料金（尾花沢市内450円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://goshozan.net/hanagasanoyu/",
+      "sources": [
+        "https://goshozan.net/hanagasanoyu/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "山辺温泉保養センター",
+      "address": "山形県東村山郡山辺町大字大塚字近江801",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "約80℃",
+      "url": "https://www.town.yamanobe.yamagata.jp/soshiki/7/onsen-about.html",
+      "sources": [
+        "https://www.town.yamanobe.yamagata.jp/soshiki/7/onsen-riyouannai.html",
+        "https://www.town.yamanobe.yamagata.jp/soshiki/7/onsen-onsenshoukai.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4月曜（祝日の場合は火曜）・元日休館"
+    },
+    {
+      "name": "坊平リカバリー温泉 高原ゆ",
+      "address": "山形県上山市蔵王坊平国有林241林班",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 800,
+      "priceNote": "本格サウナ2時間プラン（温泉入浴つき）1,600円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "セルフロウリュ",
+      "url": "https://kogenyu.com/",
+      "sources": [
+        "https://kogenyu.com/fee/",
+        "https://kogenyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "木曜午前・第3木曜終日休館（冬期は木曜休館）。11月は休館日不規則"
+    },
+    {
+      "name": "こまつの湯",
+      "address": "山形県東根市温泉町2-11-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "65〜70℃・湿度30〜35%。平日15時〜、土日祝11時〜",
+      "url": "http://komatsunoyu.com/top.html",
+      "sources": [
+        "http://komatsunoyu.com/top.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "川西町浴浴センター まどか",
+      "address": "山形県東置賜郡川西町大字上小松5095-36",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは13時〜20時",
+      "url": "https://k-madoka.co.jp/",
+      "sources": [
+        "https://k-madoka.co.jp/day.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4月曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "鷹野湯温泉 パレス松風",
+      "address": "山形県西置賜郡白鷹町大字十王5687-8",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "約100℃。平日13時〜、土日祝10時〜",
+      "url": "https://palace-shofu.com/",
+      "sources": [
+        "https://palace-shofu.com/onsen/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "いいで添川温泉 しらさぎ荘",
+      "address": "山形県西置賜郡飯豊町大字添川3020-5",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナは11時〜20時",
+      "url": "https://www.iide-shirasagi.com/",
+      "sources": [
+        "https://www.iide-shirasagi.com/higaeri"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4水曜休館"
+    },
+    {
+      "name": "あったまりランド深堀",
+      "address": "山形県北村山郡大石田町大字豊田884-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://attamariland-fukabori.jp/",
+      "sources": [
+        "https://attamariland-fukabori.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4火曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "クアハウス碁点",
+      "address": "山形県村山市碁点1034-7",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.kur-goten.jp/",
+      "sources": [
+        "https://www.kur-goten.jp/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/30〜12/3は全館休館"
+    },
+    {
+      "name": "奥湯野浜温泉 龍の湯",
+      "address": "山形県鶴岡市湯野浜2-4-47",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "GW・夏季・年末年始は1,000円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.tatsunoyu.jp/",
+      "sources": [
+        "https://www.tatsunoyu.jp/daytrip/",
+        "https://www.tatsunoyu.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "天童最上川温泉 ゆぴあ",
+      "address": "山形県天童市大字藤内新田1620-1",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://yupia.com/",
+      "sources": [
+        "https://yupia.com/",
+        "https://yupia.com/%e6%b8%a9%e6%b3%89%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2月曜休館"
+    },
+    {
+      "name": "寒河江花咲か温泉 ゆ〜チェリー",
+      "address": "山形県寒河江市大字寒河江字久保15",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "高温・低温サウナ",
+      "url": "http://www.yu-cherry.com/",
+      "sources": [
+        "https://onsen.nifty.com/sagae-onsen/onsen008133/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第1月曜休館（祝日の場合は翌日）",
+      "note": "公式はJS描画で本文取得できず。ニフティ・複数ポータルで350円"
+    },
+    {
+      "name": "寒河江市市民浴場 湯るりさがえ",
+      "address": "山形県寒河江市大字島147-15",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yururi-sagae.jp/",
+      "sources": [
+        "https://onsen.nifty.com/sagae-onsen/onsen000676/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第2木曜休館",
+      "note": "公式は403で取得できず。ニフティの料金"
+    },
+    {
+      "name": "八森温泉 ゆりんこ",
+      "address": "山形県酒田市麓字緑沢29-8",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.choukai.jp/yurinko/index.html",
+      "sources": [
+        "http://www.choukai.jp/yurinko/spa.html",
+        "http://www.choukai.jp/yurinko/info.html"
+      ],
+      "confidence": "high",
+      "notice": "毎週火曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "庄内おばこの里 こまぎの湯",
+      "address": "山形県鶴岡市日枝字小真木原88-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "約30名収容の大型サウナ",
+      "url": "http://www.komagi.info/",
+      "sources": [
+        "http://www.komagi.info/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2水曜休館"
+    },
+    {
+      "name": "櫛引温泉 ゆ〜Town",
+      "address": "山形県鶴岡市三千刈字清和159",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.u-town.info/",
+      "sources": [
+        "https://onsen.nifty.com/tsuruoka-onsen/onsen000698/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3火曜休館",
+      "note": "公式の料金ページがエラーで取得できず。ニフティの料金"
+    },
+    {
+      "name": "五色温泉オートキャンプ場",
+      "address": "山形県米沢市板谷498",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "温泉入浴料（入湯税込）。サウナ入浴料（温泉込）は別設定",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "TYLO製セルフロウリュサウナ",
+      "url": "https://goshiki-camp.com/",
+      "sources": [
+        "https://goshiki-camp.com/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休。日・月・火・木曜は17時まで",
+      "note": "サウナ料金は公式で数字を確認できず（ニフティでは90分2,000円）"
+    },
+    {
+      "name": "かみのやま温泉 月岡ホテル",
+      "address": "山形県上山市新湯1-33",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.tsukioka.co.jp/",
+      "sources": [
+        "https://www.tsukioka.co.jp/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は15時〜21時受付。週末・繁忙期は短縮・休止あり。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "ホテルリブマックス天童",
+      "address": "山形県天童市鎌田1-14-22",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "90分料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "大浴場・サウナは男性のみ",
+      "url": "https://www.hotel-livemax.com/yamagata/tendo/",
+      "sources": [
+        "https://onsen.nifty.com/tendou-onsen/onsen024856/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "ホットハウスカムロ（シェーネスハイム金山）",
+      "address": "山形県最上郡金山町大字有屋1400",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://shenesuhaimu.ecnet.jp/",
+      "sources": [
+        "https://onsen.nifty.com/mogami-onsen/onsen000689/"
+      ],
+      "confidence": "low",
+      "notice": "水曜10時〜木曜14時は休業",
+      "note": "公式サイト応答なし。ニフティのみ（更新日不明）"
+    },
+    {
+      "name": "百目鬼温泉",
+      "address": "山形県山形市大字百目鬼42-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yamagatakanko.com/attractions/detail_2767.html",
+      "sources": [
+        "https://onsen.nifty.com/yamagata-onsen/onsen008780/"
+      ],
+      "confidence": "low",
+      "notice": "毎月第1月曜休館",
+      "note": "公式サイトなし。観光協会ページは503。ニフティのみ（更新日不明）"
+    },
+    {
+      "name": "花笠温泉 ふくの湯",
+      "address": "山形県尾花沢市新町5丁目9-20",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/tendou-onsen/onsen012292/",
+      "sources": [
+        "https://onsen.nifty.com/tendou-onsen/onsen012292/"
+      ],
+      "confidence": "low",
+      "notice": "毎月第2火曜休館（祝日の場合は翌日）",
+      "note": "公式サイトなし。ニフティのみ（更新日不明）"
+    },
+    {
+      "name": "沼木温泉 辻ヶ花",
+      "address": "山形県山形市羽黒堂63",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/yamagata-onsen/onsen012300/",
+      "sources": [
+        "https://onsen.nifty.com/yamagata-onsen/onsen012300/"
+      ],
+      "confidence": "low",
+      "notice": "第3水曜・不定休",
+      "note": "公式サイトなし。ニフティのみ（更新日不明）。サウナ料金込みか不明"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "極楽湯グループ 鷹山の湯",
+      "reason": "温泉ではない（施設が明記）"
+    },
+    {
+      "name": "米沢温泉 平安の湯",
+      "reason": "火災により臨時休館中、再開日未定"
+    },
+    {
+      "name": "瀬見温泉共同浴場 せみの湯",
+      "reason": "サウナなし（ふかし湯のみ）"
+    },
+    {
+      "name": "かたくり温泉 ぼんぼ",
+      "reason": "温泉業務休業中"
+    },
+    {
+      "name": "水曜日の小野川温泉",
+      "reason": "貸切サウナ専門（一般の日帰り入浴料金なし）"
+    },
+    {
+      "name": "湯坊いちらく",
+      "reason": "サウナは予約制プライベートサウナのみ"
+    },
+    {
+      "name": "上杉の御湯 御殿守",
+      "reason": "日帰り入浴休止中"
+    },
+    {
+      "name": "スーパー銭湯 芭蕉の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "スーパー銭湯テルメ山形",
+      "reason": "天然温泉の記載なし（ゲルマニウム・炭酸泉・ナノ水）"
+    },
+    {
+      "name": "展望露天の湯 有馬館",
+      "reason": "日帰り入浴の受付なし"
+    },
+    {
+      "name": "蔵王国際ホテル",
+      "reason": "日帰り入浴あり（1,320円）だが公式の温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "SHONAI HOTEL SUIDEN TERRASSE",
+      "reason": "サウナは宿泊者向け（日帰り料金を確認できず）"
+    },
+    {
+      "name": "本気サウナ",
+      "reason": "2026年12月開業予定"
+    },
+    {
+      "name": "成安温泉 いきいきの郷",
+      "reason": "閉館"
+    },
+    {
+      "name": "ハイジアパーク南陽",
+      "reason": "閉館"
+    },
+    {
+      "name": "酒田ポートサイドリゾートSPA GARDEN",
+      "reason": "閉館"
+    },
+    {
+      "name": "どんぐりの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "ホテルサンリゾート庄内",
+      "reason": "閉館"
+    },
+    {
+      "name": "小国町温泉健康館 ゆ〜ゆ",
+      "reason": "閉館"
+    },
+    {
+      "name": "あべ旅館",
+      "reason": "閉館"
+    },
+    {
+      "name": "湯の花茶屋 新左衛門の湯",
+      "reason": "サウナは予約制の個室（貸切）のみ"
+    }
+  ],
+  "notes": "ニフティ温泉の山形県サウナ一覧（87件）を中心に確認。未収録で要確認: アイアイひらた（520円・公式で番地とサウナ確認できず）、SPAゆーぱる（タスパークホテル長井、770円、公式に天然温泉の記載なし）、旅館・ホテル類（古窯・萬国屋・たちばなや・天童ホテル・ルーセントタカミヤ・八乙女・都屋・名月荘・あづま屋・亀屋・竹屋・久遠・瑠璃倶楽・蔵王四季・界蔵王・東京第一ホテル鶴岡（会員制）・キャピタルイン山形・ホテルイン酒田・フォルクローロ高畠・シンフォニーアネックス・温活サ活・やまぼうし・Asahi自然観・アンダの森・むつみ荘）は日帰りでのサウナ利用・料金を確認できず未収録。八百坊・中桜田温泉・かすみが温泉はサウナ未確認"
+}

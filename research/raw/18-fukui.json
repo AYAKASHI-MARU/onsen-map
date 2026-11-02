@@ -1,0 +1,562 @@
+{
+  "prefecture": "福井県",
+  "prefCode": "18",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然温泉サウナ アパスパ福井片町",
+      "address": "福井県福井市順化1-16-7",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "外来入浴（タオル付き）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.apahotel.com/hotel/hokuriku/fukui-katamachi/",
+      "sources": [
+        "https://onsen.nifty.com/fukui-onsen/onsen002042/"
+      ],
+      "confidence": "medium",
+      "note": "アパホテル〈福井片町〉併設。公式サイトは403で取得できず"
+    },
+    {
+      "name": "極楽湯 福井店",
+      "address": "福井県福井市開発1丁目118番地",
+      "weekdayAdult": 900,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "露天エリア・サウナ込みの入館料（内湯のみは530円・サウナ不可）",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "遠赤外線タワーサウナ・浴香蒸風呂",
+      "url": "https://www.gokurakuyu.ne.jp/gokurakuyu/tempo/fukui/",
+      "sources": [
+        "https://onsen.nifty.com/fukui-onsen/onsen007635/",
+        "https://news.allabout.co.jp/articles/o/117955/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは脆弱性対応で停止中。料金はニフティと2026年5月の記事で一致"
+    },
+    {
+      "name": "ゆけむり温泉 ゆ〜遊",
+      "address": "福井県福井市渕2-1401",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "フェイスタオル・館内着込み。深夜料金あり",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男性サウナでロウリュサービスあり",
+      "url": "",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/129595/",
+        "https://sp.jorudan.co.jp/onsen/details/2847/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト未確認。料金は2026年9月の記事による"
+    },
+    {
+      "name": "ONSEN&SAUNA RESORT かいほつの湯",
+      "address": "福井県福井市開発5丁目1207",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 400,
+      "priceNote": "90分料金（フリータイム平日1,480円/土日祝1,680円）。深夜1時〜6時は平日1,800円/土日祝2,000円",
+      "saunaTypes": [],
+      "saunaNote": "サウナガーデンMoi（男女共用の水着エリア、3種のサウナ）は別料金で平日400円・土日祝600円",
+      "url": "https://kaihotsunoyu.jp/",
+      "sources": [
+        "https://kaihotsunoyu.jp/price/",
+        "https://kaihotsunoyu.jp/facility/",
+        "https://prtimes.jp/main/html/rd/p/000000007.000182413.html"
+      ],
+      "confidence": "high",
+      "note": "旧リライム。2026/8/3リブランドオープン。大浴場内サウナの有無は公式で確認できず"
+    },
+    {
+      "name": "総湯 セントピアあわら",
+      "address": "福井県あわら市温泉4丁目305",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "大人は高校生以上",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "天の湯・地の湯ともにサウナ（男女は週替わり）",
+      "url": "https://awara-saintpia.jp/",
+      "sources": [
+        "https://awara-saintpia.jp/guide/",
+        "https://awara-saintpia.jp/onsen"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "東尋坊三国温泉 ゆあぽ〜と",
+      "address": "福井県坂井市三国町宿2丁目18番1号",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女大浴場にサウナ・水風呂",
+      "url": "https://yourport.biz/",
+      "sources": [
+        "https://yourport.biz/",
+        "https://yourport.biz/onsen",
+        "https://www.city.fukui-sakai.lg.jp/kankou/kanko-bunka/kanko/onsen/yuapoto.html"
+      ],
+      "confidence": "high",
+      "notice": "第3水曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "いきいきプラザ 霞の郷温泉",
+      "address": "福井県坂井市丸岡町八ヶ郷21-7-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "サウナと冷蔵サウナ",
+      "url": "https://kasuminosato.com/",
+      "sources": [
+        "https://kasuminosato.com/",
+        "https://kasuminosato.com/onsen"
+      ],
+      "confidence": "high",
+      "notice": "第3木曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "大江戸温泉物語 あわら",
+      "address": "福井県あわら市二面48-10",
+      "weekdayAdult": 900,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,500円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/awara/",
+      "sources": [
+        "https://www.ooedoonsen.jp/awara/day_trip/",
+        "https://sp.jorudan.co.jp/onsen/details/1849/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は7:00〜10:00、15:00〜24:00",
+      "note": "料金は公式。サウナの有無はポータル（じょるだん・じゃらん）のみで確認"
+    },
+    {
+      "name": "大江戸温泉物語Premium 青雲閣",
+      "address": "福井県あわら市二面68-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/seiunkaku/",
+      "sources": [
+        "https://www.ooedoonsen.jp/seiunkaku/day_trip/",
+        "https://sp.jorudan.co.jp/onsen/details/2649/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は7:00〜10:00、15:00〜24:00",
+      "note": "料金は公式。サウナの有無はポータル（じょるだん・ニフティ）のみで確認"
+    },
+    {
+      "name": "あわら温泉 清風荘",
+      "address": "福井県あわら市温泉3丁目803",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "日帰りで使える客殿1階大浴場（男女）にサウナ",
+      "url": "https://www.seifuso.com/",
+      "sources": [
+        "https://www.seifuso.com/daytrip/",
+        "https://www.seifuso.com/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は16:00〜20:00。年末年始・GW・お盆の特定日は受付中止"
+    },
+    {
+      "name": "日帰り天然温泉 恐竜のお宿&SPA",
+      "address": "福井県勝山市村岡町浄土寺30-11",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "市外の大人（13歳以上）料金。勝山市民800円",
+      "saunaTypes": [],
+      "saunaNote": "約90℃のサウナ・水風呂・外気浴",
+      "url": "https://kyoryu-oyado.jp/",
+      "sources": [
+        "https://kyoryu-oyado.jp/",
+        "https://kyoryu-oyado.jp/bath"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休館（8月・12〜3月は無休）。営業は12時から",
+      "note": "旧 勝山温泉センター水芭蕉。2026/7/18料金改定、2026/8/7リブランド"
+    },
+    {
+      "name": "越前水仙の里温泉 波の華",
+      "address": "福井県福井市蒲生町1-94",
+      "weekdayAdult": 640,
+      "holidayAdult": 640,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円込み",
+      "saunaTypes": [],
+      "saunaNote": "男女大浴場にサウナ室",
+      "url": "https://naminohana-onsen.jp/",
+      "sources": [
+        "https://www.city.fukui.lg.jp/kankou/kankou/sisetu/p000890.html",
+        "https://naminohana-onsen.jp/"
+      ],
+      "confidence": "high",
+      "notice": "第1・3・5火曜休館（祝日の場合は翌日）"
+    },
+    {
+      "name": "健康の森温泉（生きがい交流センター）",
+      "address": "福井県福井市真栗町47-51",
+      "weekdayAdult": 670,
+      "holidayAdult": 670,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "土の湯・木の湯（男女週替わり）ともにサウナ",
+      "url": "https://kenmorifukui.com/spa/",
+      "sources": [
+        "https://kenmorifukui.com/bathingfees/",
+        "https://kenmorifukui.com/spa/",
+        "https://onsen.nifty.com/fukui-onsen/onsen002020/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は翌日）。入浴10:00〜20:30",
+      "note": "設備更新で沸かし湯営業が続いていたが、2026/9/1から天然温泉利用再開"
+    },
+    {
+      "name": "永平寺温泉 禅の里",
+      "address": "福井県吉田郡永平寺町清水2-16-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen-zennosato.com/",
+      "sources": [
+        "https://onsen-zennosato.com/introduction/",
+        "https://onsen.nifty.com/eiheiji-onsen/onsen010938/"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休館",
+      "note": "ニフティは600円だが公式の施設紹介は750円"
+    },
+    {
+      "name": "敦賀きらめき温泉 リラ・ポート",
+      "address": "福井県敦賀市高野91-9-3",
+      "weekdayAdult": 750,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "大人は12歳以上",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.relaport.jp/",
+      "sources": [
+        "https://www.relaport.jp/info/",
+        "https://www.relaport.jp/bath/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休館（祝日・特別日を除く）"
+    },
+    {
+      "name": "今庄365温泉 やすらぎ",
+      "address": "福井県南条郡南越前町板取85-6",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://imajyo365.jp/yasuragi/",
+      "sources": [
+        "http://imajyo365.jp/yasuragi/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休館（祝日を除く）"
+    },
+    {
+      "name": "花はす温泉 そまやま",
+      "address": "福井県南条郡南越前町中小屋60-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ",
+      "url": "https://www.hanahasu.jp/",
+      "sources": [
+        "https://www.hanahasu.jp/",
+        "https://www.hanahasu.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休館（祝日は営業）。露天風呂・寝湯は当面休止、水風呂も休止中"
+    },
+    {
+      "name": "河野シーサイド温泉 ゆうばえ",
+      "address": "福井県南条郡南越前町甲楽城7-31-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/takefu-onsen/onsen002012/",
+        "https://sp.jorudan.co.jp/onsen/details/848/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜休館（祝日の場合は翌日）",
+      "note": "公式（ふくいドットコム）は503で確認できず。サウナはニフティの口コミ・サウナイキタイ掲載による"
+    },
+    {
+      "name": "渓流温泉 冠荘",
+      "address": "福井県今立郡池田町志津原14-17",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "小規模なサウナ室",
+      "url": "http://kanmuri.net/",
+      "sources": [
+        "http://kanmuri.net/",
+        "https://onsen.nifty.com/takefu-onsen/onsen002006/"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "料金・定休日は公式。サウナの有無はニフティ等のポータルのみで確認"
+    },
+    {
+      "name": "九頭竜温泉 平成の湯",
+      "address": "福井県大野市下山63-2-24",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "大野市民700円",
+      "saunaTypes": [],
+      "saunaNote": "内湯にサウナ",
+      "url": "https://heiseinoyu.9stay.net/",
+      "sources": [
+        "https://heiseinoyu.9stay.net/"
+      ],
+      "confidence": "high",
+      "notice": "火・水曜定休。メンテナンスのため10/30まで臨時休館。平日は14時から営業"
+    },
+    {
+      "name": "かわだ温泉 ラポーゼかわだ",
+      "address": "福井県鯖江市上河内町19-37-2",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "大浴場にドライ＆ウエットサウナ",
+      "url": "https://www.lapause.jp/",
+      "sources": [
+        "https://www.lapause.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休"
+    },
+    {
+      "name": "越前糸生温泉 泰澄の杜",
+      "address": "福井県丹生郡越前町小倉88-55-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://taichou-no-mori.jp/",
+      "sources": [
+        "https://taichou-no-mori.jp/wordpress/spa/"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休（祝日は営業）"
+    },
+    {
+      "name": "みかた温泉 きららの湯",
+      "address": "福井県三方上中郡若狭町中央1-6-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "縄文の湯に遠赤外線サウナ、虹の湯に塩サウナ（男女は入れ替え）",
+      "url": "https://www.kiraranoyu.net/",
+      "sources": [
+        "https://www.kiraranoyu.net/information/information.php",
+        "https://www.kiraranoyu.net/hotsprings/hotsprings.php"
+      ],
+      "confidence": "high",
+      "notice": "第1水曜休館（祝日の場合は翌週水曜）。現在20時閉館",
+      "note": "ニフティは650円だが公式は700円"
+    },
+    {
+      "name": "越前温泉 露天風呂 漁火",
+      "address": "福井県丹生郡越前町厨71-335-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "かにの湯・すいせんの湯ともにサウナ",
+      "url": "https://www.echizenkk.jp/isaribi",
+      "sources": [
+        "https://www.echizenkk.jp/isaribi",
+        "https://onsen.nifty.com/sabae-onsen/onsen002011/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休館（祝日の場合は翌日、11〜3月は第2・4火曜）。外壁工事で10/30まで露天風呂・家族風呂休止",
+      "note": "定休日はニフティによる"
+    },
+    {
+      "name": "三国オーシャンリゾート&ホテル",
+      "address": "福井県坂井市三国町緑ヶ丘4丁目4-8",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "入湯税込み",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ（14:00〜23:00）",
+      "url": "https://breezbay-group.com/mikuni-ocean/",
+      "sources": [
+        "https://breezbay-group.com/mikuni-ocean/onsen/index.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は13時から（受付終了 平日22時・土日祝前日16時）",
+      "note": "旧 三国観光ホテル"
+    },
+    {
+      "name": "福井アカデミアホテル",
+      "address": "福井県福井市菅谷1丁目1番22号",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ・水風呂",
+      "url": "https://www.fukui-academia.com/",
+      "sources": [
+        "https://www.fukui-academia.com/institution/bath/",
+        "https://onsen.nifty.com/fukui-onsen/onsen010724/"
+      ],
+      "confidence": "high",
+      "notice": "11/30は終日休館"
+    },
+    {
+      "name": "天然温泉 佐野温泉 福の湯",
+      "address": "福井県福井市佐野町14-8",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "栄の湯に高温サウナ、麗しの湯にラジウムミストサウナ",
+      "url": "",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/127990/",
+        "https://onsen.nifty.com/sano-fukui-onsen/detail/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイト未確認。料金は2026年9月の記事による（ニフティは700円〜で食い違い）"
+    },
+    {
+      "name": "あわら温泉 まつや千千",
+      "address": "福井県あわら市舟津31-24",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ（水風呂なし、15時〜22時）。女湯にヒーリングサウナ",
+      "url": "https://matuyasensen.co.jp/",
+      "sources": [
+        "https://awara.info/cat_contents/awara-onsen-day-trip-bathing",
+        "https://matuyasensen.co.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は16:00〜19:00",
+      "note": "日帰り料金・時間はあわら市観光協会（2026年9月時点）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "あわら温泉グランドホテル",
+      "reason": "日帰り入浴で使える浴場（静の湯・式部の湯・ひのき）にサウナなし（サウナは平安の湯のみ）"
+    },
+    {
+      "name": "しきぶ温泉 湯楽里",
+      "reason": "施設工事で休業中（2026/5に休業延長告知、再開日は公式で確認できず）"
+    },
+    {
+      "name": "越のゆ 鯖江店",
+      "reason": "天然温泉ではない（高濃度炭酸泉・ナノ水の沸かし湯）"
+    },
+    {
+      "name": "あっ宝んど（大野市健康保養施設）",
+      "reason": "天然温泉の記載なし（沸かし湯との情報）"
+    },
+    {
+      "name": "御食国若狭おばま 濱の湯",
+      "reason": "井戸の湧き水を使用しており天然温泉と確認できず"
+    },
+    {
+      "name": "三六温泉 神明苑",
+      "reason": "2026/10/22から設備不具合で日帰り入浴を当面休止（再開日未定）"
+    },
+    {
+      "name": "ニューサンピア敦賀（つぬがの湯）",
+      "reason": "日帰り浴場つぬがの湯は閉店（サウナイキタイ）。公式に日帰り入浴の案内なし"
+    },
+    {
+      "name": "あわら温泉グランドホテルの姉妹館 ゆ楽・ぐらばあ亭",
+      "reason": "日帰り入浴800円の案内はあるが、日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "伝統旅館のぬくもり 灰屋",
+      "reason": "日帰り入浴（1,000円）はあるが、ガーデンサウナは宿泊者限定"
+    },
+    {
+      "name": "美松（あわら温泉）",
+      "reason": "日帰り入浴はあるが、浴場にサウナの記載なし"
+    },
+    {
+      "name": "芦原温泉 グランディア芳泉",
+      "reason": "日帰り入浴のみのプランなし（食事付き日帰りプランのみ）"
+    }
+  ],
+  "notes": "福井県全域。サウナイキタイ（114件）・ニフティ温泉（サウナ69件）の一覧と公式・市町・観光協会サイトで確認。未収録（条件の一部を確認できず）: 丸岡温泉たけくらべ・国民宿舎鷹巣荘・ルポの森（旧みらくる亭）・休暇村越前三国（サウナの有無/日帰り利用不明）、オーシャンリゾートホテル&スパうみんぴあ（公式429で取得できず、天然温泉か食い違い）、あみーシャン大飯・湯っぷる（サウナまたは天然温泉が不明）、若狭みかたきらら温泉水月花・アズイン福井（日帰り料金不明）、福井市・坂井・敦賀の銭湯（荒川湯・たきのゆ・やしろ湯・花の湯・松乃湯・つるが湯は天然温泉と確認できず）、余熱館ささおか（天然温泉不明・臨時休館中）、うらら館（トロン温浴）。宿泊者限定のドーミーイン福井/敦賀・野乃福井・Morris Resort・Umitoma等は対象外。あわら温泉の旅館は観光協会の日帰り入浴特集（2026年9月）を起点に、サウナを確認できた宿のみ収録。"
+}

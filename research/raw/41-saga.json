@@ -1,0 +1,563 @@
+{
+  "prefecture": "佐賀県",
+  "prefCode": "41",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "ひぜん祐徳温泉 宝乃湯",
+      "address": "佐賀県鹿島市大字納富分字地宝3114-5",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://yutokuonsen.com/hizen.html",
+      "sources": [
+        "http://yutokuonsen.com/hizen.html"
+      ],
+      "confidence": "high",
+      "notice": "月1回程度の休館日あり（不定休）",
+      "note": "2026/9/1料金改定後の一般料金"
+    },
+    {
+      "name": "伊万里温泉 白磁乃湯",
+      "address": "佐賀県伊万里市立花町2402-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://yutokuonsen.com/imari.html",
+      "sources": [
+        "http://yutokuonsen.com/imari.html"
+      ],
+      "confidence": "high",
+      "notice": "月1回程度の休館日あり（不定休）",
+      "note": "2026/9/1料金改定後の一般料金"
+    },
+    {
+      "name": "吉野ヶ里温泉 卑弥呼乃湯",
+      "address": "佐賀県三養基郡上峰町大字坊所1523-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://yutokuonsen.com/yoshinogari.html",
+      "sources": [
+        "http://yutokuonsen.com/yoshinogari.html"
+      ],
+      "confidence": "high",
+      "notice": "月1回程度の休館日あり（不定休）",
+      "note": "2026/9/1料金改定後の一般料金"
+    },
+    {
+      "name": "大町温泉 ひじり乃湯",
+      "address": "佐賀県杵島郡大町町福母3067-2",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "http://yutokuonsen.com/omachi.html",
+      "sources": [
+        "http://yutokuonsen.com/omachi.html"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休（祝日の場合は別日）",
+      "note": "2026/9/1料金改定後の一般料金"
+    },
+    {
+      "name": "佐賀大和温泉ホテルAmandi",
+      "address": "佐賀県佐賀市大和町大字久池井3667",
+      "weekdayAdult": 910,
+      "holidayAdult": 960,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（6:30〜8:50）は平日700円・土日祝720円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://www.amandi.jp/saga/",
+      "sources": [
+        "https://www.amandi.jp/saga/fee.html",
+        "https://www.amandi.jp/saga/spa.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "北方温泉四季の里 七彩の湯",
+      "address": "佐賀県武雄市北方町大字大崎4300-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.nanaironoyu.com/",
+      "sources": [
+        "https://www.nanaironoyu.com/frmPrice.aspx",
+        "https://onsen.nifty.com/takeoonsen-onsen/onsen004992/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（年1回メンテナンス休館あり）",
+      "note": "料金は公式。サウナの種類は未確認"
+    },
+    {
+      "name": "鳴神温泉 ななのゆ",
+      "address": "佐賀県唐津市七山滝川1150",
+      "weekdayAdult": 740,
+      "holidayAdult": 740,
+      "saunaFee": 0,
+      "priceNote": "17時以降640円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯ドライ（セルフロウリュ）、女湯ミスト",
+      "url": "https://www.7noyu.jp/",
+      "sources": [
+        "https://www.7noyu.jp/ryokin.html",
+        "https://www.7noyu.jp/onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1火曜定休"
+    },
+    {
+      "name": "三瀬温泉 やまびこの湯",
+      "address": "佐賀県佐賀市三瀬村藤原3929-2",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女日替わりの両浴室に高温サウナ（ひだまりはセルフロウリュ）",
+      "url": "https://www.souyu.co.jp/shisetsu/yamabiko",
+      "sources": [
+        "https://www.souyu.co.jp/shisetsu/yamabiko"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2水曜定休"
+    },
+    {
+      "name": "きゅうらぎ温泉 佐用姫の湯",
+      "address": "佐賀県唐津市厳木町牧瀬34-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "17時以降460円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.souyu.co.jp/shisetsu/sayohime",
+      "sources": [
+        "https://www.souyu.co.jp/shisetsu/sayohime"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休（祝日は営業）"
+    },
+    {
+      "name": "天然湧出温泉 佐賀ぽかぽか温泉",
+      "address": "佐賀県佐賀市兵庫北5丁目13-48",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ミスト"
+      ],
+      "saunaNote": "ドライサウナ・ミスト塩サウナ",
+      "url": "https://www.souyu.co.jp/shisetsu/saga_pokapoka",
+      "sources": [
+        "https://www.souyu.co.jp/shisetsu/saga_pokapoka"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2木曜定休"
+    },
+    {
+      "name": "佐賀の湯処 KOMOREBI",
+      "address": "佐賀県佐賀市神園6丁目4-35",
+      "weekdayAdult": 980,
+      "holidayAdult": 1180,
+      "saunaFee": 0,
+      "priceNote": "2026/12から平日1,080円・土日祝1,280円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯40畳の大型サウナ、女湯バレルサウナ。アウフグースあり",
+      "url": "https://www.komorebi.spa/",
+      "sources": [
+        "https://www.komorebi.spa/",
+        "https://www.komorebi.spa/%e9%87%8d%e8%a6%81/%e6%96%99%e9%87%91%e6%94%b9%e5%ae%9a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/"
+      ],
+      "confidence": "high",
+      "note": "料金改定はポスター画像（2026/10/24掲載）で確認"
+    },
+    {
+      "name": "小城市健康スポーツセンター アイル",
+      "address": "佐賀県小城市牛津町勝1221-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "温泉・プール共通料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://ssk-ushidu.com/",
+      "sources": [
+        "https://ssk-ushidu.com/price.html",
+        "https://ssk-ushidu.com/information.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2月曜・火曜休館（祝日の場合は翌日）",
+      "note": "旧称 小城市立牛津保健福祉センター アイル"
+    },
+    {
+      "name": "鏡山温泉茶屋 美人の湯",
+      "address": "佐賀県唐津市鏡4733",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "17時以降700円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kagamiyamaonsenchaya.com/",
+      "sources": [
+        "https://kagamiyamaonsenchaya.com/",
+        "https://onsen.nifty.com/karatsu-onsen/onsen004134/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3木曜定休（祝日は営業、1・2・8月は無休）",
+      "note": "料金は公式。サウナは公式に記載なく、ニフティ・サウナイキタイで確認"
+    },
+    {
+      "name": "玄海海上温泉 パレア",
+      "address": "佐賀県東松浦郡玄海町大字石田1369-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.genkai-parea.com/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/127563/?page=2",
+        "https://onsen.nifty.com/karatsu-onsen/onsen004142/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休",
+      "note": "公式サイトに接続できず。2026/4から指定管理者交代（ツルカメO&E）。料金は2026/8の記事で確認"
+    },
+    {
+      "name": "湯泉郷温泉館 湯招花",
+      "address": "佐賀県佐賀市富士町大字上熊川180-1",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "室内サウナと露天の温泉ハーブスチームサウナ（男女日替わり）",
+      "url": "http://toshoka.net/",
+      "sources": [
+        "http://toshoka.net/charge.html",
+        "http://toshoka.net/onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "火・水曜定休（祝日は営業）"
+    },
+    {
+      "name": "天然温泉 泉都乃湯",
+      "address": "佐賀県伊万里市新天町字浜ノ浦549-17",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "平日11〜16時は昼割800円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.central-imari.jp/sentonoyu/",
+      "sources": [
+        "https://www.central-imari.jp/sentonoyu/"
+      ],
+      "confidence": "high",
+      "note": "武雄温泉の運び湯"
+    },
+    {
+      "name": "天山多久温泉 TAQUA",
+      "address": "佐賀県多久市北多久町大字小侍4644-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://taqua.jp/",
+      "sources": [
+        "https://taqua.jp/spa"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は12:00〜21:00（土日祝は朝風呂6:00〜9:00も）"
+    },
+    {
+      "name": "ひがしせふり温泉 山茶花の湯",
+      "address": "佐賀県神埼郡吉野ヶ里町石動76-4",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://sazanka-yu.com/wp/",
+      "sources": [
+        "https://sp.jorudan.co.jp/onsen/details/18/",
+        "https://onsen.nifty.com/tosu-onsen/onsen007586/"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休（メンテナンス休館あり）",
+      "note": "公式サイトは表示不可。ジョルダン（2026/3更新）とニフティで確認。830円は町外料金"
+    },
+    {
+      "name": "御船山楽園ホテル らかんの湯",
+      "address": "佐賀県武雄市武雄町大字武雄4100",
+      "weekdayAdult": 4850,
+      "holidayAdult": 5450,
+      "saunaFee": 0,
+      "priceNote": "男湯の料金。女湯は平日4,250円・土日祝4,850円（朝の1部は男女入替で料金も逆）。2時間30分",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯は薪サウナ・ドライ（セルフロウリュ）・薬草スチーム、女湯はドライ・薬草スチーム",
+      "url": "https://www.mifuneyama.co.jp/rakan.html",
+      "sources": [
+        "https://www.mifuneyama.co.jp/dayuse.html",
+        "https://www.mifuneyama.co.jp/rakan.html"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は予約制（定員に空きがあれば予約なしも可）。中学生以下は利用不可"
+    },
+    {
+      "name": "OND HOTEL",
+      "address": "佐賀県武雄市武雄町大字永島18091",
+      "weekdayAdult": 2980,
+      "holidayAdult": 3530,
+      "saunaFee": 0,
+      "priceNote": "2時間制（11〜16時のフリータイムも同額）。朝サウナ6〜10時は平日1,500円・土日祝2,000円。延長15分500円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯は薪サウナ・セルフロウリュのサウナ、女湯はトンバイサウナ・スチームサウナ",
+      "url": "https://www.ondhotel.jp/",
+      "sources": [
+        "https://www.ondhotel.jp/day_use/",
+        "https://www.ondhotel.jp/sauna_onsen/"
+      ],
+      "confidence": "high",
+      "notice": "小学生以下は利用不可。メンテナンス日は営業時間変更"
+    },
+    {
+      "name": "古湯温泉 ONCRI",
+      "address": "佐賀県佐賀市富士町大字古湯556",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場（男女別）にサウナ",
+      "url": "https://oncri.com/",
+      "sources": [
+        "https://oncri.com/onsen"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴10:00〜20:00（水曜は15:00から）"
+    },
+    {
+      "name": "大江戸温泉物語 嬉野館",
+      "address": "佐賀県嬉野市嬉野町大字下宿乙2091",
+      "weekdayAdult": 750,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,250円。入湯税別",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/ureshinokan/",
+      "sources": [
+        "https://www.ooedoonsen.jp/ureshinokan/day_trip/",
+        "https://onsen.nifty.com/ureshino-onsen/onsen004138/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴7:00〜10:00・15:00〜24:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金は公式。サウナは公式で確認できず、ニフティ・サウナイキタイで確認"
+    },
+    {
+      "name": "太良嶽温泉 蟹御殿 有明海の湯",
+      "address": "佐賀県藤津郡太良町大字大浦乙316-3",
+      "weekdayAdult": 3300,
+      "holidayAdult": 3300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "1階・2階（男女入替制）にそれぞれドライサウナ、セルフロウリュ可",
+      "url": "https://goten-resort.jp/kanigoten/ariakekainoyu/",
+      "sources": [
+        "https://goten-resort.jp/kanigoten/ariakekainoyu/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は予約制（8:00〜10:30・12:00〜22:00）"
+    },
+    {
+      "name": "ヌルヌル有田温泉",
+      "address": "佐賀県西松浦郡有田町南原甲902",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.arita-onsen.com/",
+      "sources": [
+        "https://www.arita-onsen.com/%E6%96%99%E9%87%91%E3%83%97%E3%83%A9%E3%83%B3/",
+        "https://www.arita-onsen.com/%E6%B8%A9%E6%B3%89-%E5%85%A5%E6%B5%B4/"
+      ],
+      "confidence": "high",
+      "notice": "水曜定休（祝日は営業）",
+      "note": "源泉は冷鉱泉（加温）。2026/4/2改定後の料金"
+    },
+    {
+      "name": "熊の川温泉 鵆の湯",
+      "address": "佐賀県佐賀市富士町大字熊川204-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://r.goope.jp/chidorinoyu/",
+      "sources": [
+        "https://r.goope.jp/chidorinoyu/free/spa",
+        "https://r.goope.jp/chidorinoyu/about"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "おんくり唐津",
+      "reason": "大浴場は温泉水ではない（公式に明記）"
+    },
+    {
+      "name": "和多屋別荘",
+      "reason": "大浴場にサウナの記載なし。河畔サウナは予約制テントサウナでリニューアル休止中（再開未定）"
+    },
+    {
+      "name": "旅館大村屋",
+      "reason": "サウナは予約制のプライベートサウナのみ"
+    },
+    {
+      "name": "黒髪の森温泉 天童の湯",
+      "reason": "休業中"
+    },
+    {
+      "name": "本庄の湯",
+      "reason": "天然温泉ではない（公式は「天然水」）"
+    },
+    {
+      "name": "JIN6SAUNA（中尾甚六HOTEL）",
+      "reason": "温泉なし（サウナ施設）"
+    },
+    {
+      "name": "漢専用サウナTUNING",
+      "reason": "温泉なし（サウナ施設）"
+    },
+    {
+      "name": "極楽湯 佐賀店",
+      "reason": "閉店"
+    },
+    {
+      "name": "うらり武雄ガーデンテラススパリゾート",
+      "reason": "日帰り温泉の営業なし（公式に明記）"
+    },
+    {
+      "name": "野田の湯 やすらぎ荘",
+      "reason": "天然温泉と確認できず（地下水の沸かし湯との情報）"
+    },
+    {
+      "name": "呼子台場の湯",
+      "reason": "ラジウム温浴剤使用で天然温泉と確認できず。サウナも未確認"
+    },
+    {
+      "name": "唐津シーサイドホテル",
+      "reason": "公式サイトがメンテナンス中で料金・日帰り客のサウナ利用を確認できず（情報が食い違い）"
+    },
+    {
+      "name": "仁比山温泉 もみじの湯",
+      "reason": "サウナの有無を公式で確認できず"
+    },
+    {
+      "name": "佐賀・川上峡温泉 ホテル龍登園",
+      "reason": "公式の温泉ページにサウナの記載なし（旧ミストサウナは休止の口コミ）"
+    },
+    {
+      "name": "茶心の宿 和楽園",
+      "reason": "日帰り入浴の浴場にサウナの記載なし"
+    },
+    {
+      "name": "大正ロマンの宿 京都屋",
+      "reason": "公式の館内設備にサウナの記載なし"
+    },
+    {
+      "name": "嬉野温泉 宿屋うちろじ",
+      "reason": "大浴場にサウナはあるが、公式で日帰り入浴の案内を確認できず"
+    },
+    {
+      "name": "佐里温泉 銀乃湯・天徳の湯・七山温泉・寺浦温泉ほか",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "ニフティ温泉の佐賀県一覧（164件）とサウナ絞り込み（55件）を全件確認し、検索で補完。祐徳温泉グループ4施設は2026/9/1改定後の一般料金。KOMOREBIは2026/12に値上げ予定。パレア（2026/4指定管理者交代・公式サイト不通）と山茶花の湯（公式サイト不通）はポータルで確認しmedium。嬉野・武雄・太良の旅館ホテルは公式でサウナ記載のないもの（ハミルトン宇礼志野・華翠苑・ホテル桜・大正屋・吉田屋・椎葉山荘・東洋館等）を未収録。サウナイキタイは取得不可のため補助確認に限界あり。"
+}

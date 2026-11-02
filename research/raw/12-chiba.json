@@ -1,0 +1,666 @@
+{
+  "prefecture": "千葉県",
+  "prefCode": "12",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "船橋温泉 湯楽の里",
+      "address": "千葉県船橋市山手3-4-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から平日980円・土休日1,150円",
+      "saunaTypes": ["ドライ", "塩", "ロウリュ可"],
+      "saunaNote": "ロウリュウサウナ、露天の塩サウナ（中低温）",
+      "url": "https://www.yurakirari.com/funabashi/",
+      "sources": [
+        "https://www.yurakirari.com/funabashi/fee/",
+        "https://www.yurakirari.com/funabashi/2026/10/06/6219/",
+        "https://onsen.nifty.com/chiba-onsen/onsen006685/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "JFA夢フィールド 幕張温泉 湯楽の里",
+      "address": "千葉県千葉市美浜区美浜26",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "オートロウリュウサウナ",
+      "url": "https://www.yurakirari.com/makuhari/",
+      "sources": [
+        "https://www.yurakirari.com/makuhari/fee/",
+        "https://www.yurakirari.com/makuhari/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "市原温泉 湯楽の里",
+      "address": "千葉県市原市古市場329-1",
+      "weekdayAdult": 980,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から平日1,000円・土休日1,120円",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "オートロウリュウサウナ",
+      "url": "https://www.yurakirari.com/ichihara/",
+      "sources": [
+        "https://www.yurakirari.com/ichihara/",
+        "https://www.yurakirari.com/ichihara/2026/10/06/8263/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "酒々井温泉 湯楽の里",
+      "address": "千葉県印旛郡酒々井町飯積1-1-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "シンプルコース（入館のみ）。2026/11/1から平日970円・土休日1,130円",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "ロウリュウサウナ",
+      "url": "https://www.yurakirari.com/yura/shisui/",
+      "sources": [
+        "https://www.yurakirari.com/yura/shisui/shisui_fee.html",
+        "https://www.yurakirari.com/shisui/2026/10/06/7535/",
+        "https://sauna-ikitai.com/saunas/4464"
+      ],
+      "confidence": "high",
+      "note": "2026/11/19休館"
+    },
+    {
+      "name": "極楽湯 柏店",
+      "address": "千葉県柏市大山台1-18",
+      "weekdayAdult": 920,
+      "holidayAdult": 1020,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["遠赤外線", "ドライ", "スチーム", "ロウリュ可"],
+      "saunaNote": "遠赤外線タワーサウナ（女性）、オートロウリュサウナ（男性）、釜風呂（スチーム）",
+      "url": "https://www.gokurakuyu.ne.jp/tempo/kashiwa/",
+      "sources": [
+        "https://rakuspa.com/cms/wp-content/uploads/2026/10/screencapture-gokurakuyu-ne-jp-tempo-kashiwa-2026-10-23-22_26_16.png",
+        "https://onsen.nifty.com/souka-onsen/onsen005644/"
+      ],
+      "confidence": "high",
+      "note": "公式サイト停止中のため2026/10/23時点の公式ページ画像で確認"
+    },
+    {
+      "name": "のだ温泉 ほのか",
+      "address": "千葉県野田市花井1-1-2",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1850,
+      "saunaFee": 0,
+      "priceNote": "湯着・タオル付、岩盤浴込み。土日祝・特別日1,850円",
+      "saunaTypes": ["ドライ", "塩", "ロウリュ可"],
+      "saunaNote": "高温サウナ（オートロウリュ）、塩サウナは女性のみ",
+      "url": "https://yudokoro-honoka.jp/noda/",
+      "sources": [
+        "https://yudokoro-honoka.jp/noda/fee/",
+        "https://yudokoro-honoka.jp/noda/sauna/"
+      ],
+      "confidence": "high",
+      "note": "2026/10/19料金改定済み"
+    },
+    {
+      "name": "スパメッツァおおたか 竜泉寺の湯",
+      "address": "千葉県流山市おおたかの森西1-15-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1280,
+      "saunaFee": 0,
+      "priceNote": "土日祝は3時間コース（フリータイム1,480円）。特定日料金あり",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "3種のサウナ（ドラゴンサウナで毎時オートロウリュ）",
+      "url": "https://www.ryusenjinoyu.com/spametsaotaka/",
+      "sources": [
+        "https://www.ryusenjinoyu.com/spametsaotaka/info"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "スパ＆ホテル 舞浜ユーラシア",
+      "address": "千葉県浦安市千鳥13-20",
+      "weekdayAdult": 2100,
+      "holidayAdult": 2600,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円込。深夜1時以降+2,000円",
+      "saunaTypes": ["ドライ", "その他"],
+      "saunaNote": "男女別に計8種（ケロサウナ・ログ/フィンランドサウナ・カルダリウム等）。男女共用のグランビューサウナはSPA+（別途950円）",
+      "url": "https://my-spa.jp/",
+      "sources": [
+        "https://my-spa.jp/spa/price/",
+        "https://onsen.nifty.com/urayasu-onsen/onsen007419/"
+      ],
+      "confidence": "high",
+      "note": "2026/1/15スパエリアリニューアル"
+    },
+    {
+      "name": "天然温泉 湯～ねる",
+      "address": "千葉県習志野市茜浜2-2-1",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1150,
+      "saunaFee": 0,
+      "priceNote": "25時以降は深夜料金加算",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "高温サウナ（時間帯によりオートロウリュ）",
+      "url": "https://u-neru.com/",
+      "sources": [
+        "https://u-neru.com/kakakuhyou/",
+        "https://onsen.nifty.com/chiba-onsen/onsen016421/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "成田空港温泉 空の湯",
+      "address": "千葉県山武郡芝山町香山新田27-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "入浴プラン（3時間以内）。岩盤浴プラン平日1,500円・休日1,800円",
+      "saunaTypes": ["ドライ", "スチーム", "ロウリュ可"],
+      "saunaNote": "ドライサウナ（自動ロウリュ）、ハーブサウナ（スチーム）は女性のみ",
+      "url": "https://soranoyu.com/",
+      "sources": [
+        "https://soranoyu.com/guide",
+        "https://onsen.nifty.com/narita-onsen/onsen016550/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "楽天地天然温泉 法典の湯",
+      "address": "千葉県市川市柏井町1-1520",
+      "weekdayAdult": 950,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "塩", "スチーム", "ロウリュ可"],
+      "saunaNote": "男性:スタジアムサウナ・セルフロウリュサウナ、女性:ボナサームサウナ・塩サウナ、よもぎスチームサウナ",
+      "url": "https://rakutenchi-oasis.com/hoten/",
+      "sources": [
+        "https://rakutenchi-oasis.com/hoten/guide/",
+        "https://onsen.nifty.com/chiba-onsen/onsen006855/"
+      ],
+      "confidence": "high",
+      "note": "2026/11/11休館"
+    },
+    {
+      "name": "天然温泉 満天の湯",
+      "address": "千葉県柏市箕輪新田68-1",
+      "weekdayAdult": 910,
+      "holidayAdult": 1020,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "スチーム"],
+      "saunaNote": "ドライサウナ、よもぎサウナ（スチーム）",
+      "url": "https://manntenn.com/",
+      "sources": [
+        "https://manntenn.com/guide/",
+        "https://manntenn.com/spa/"
+      ],
+      "confidence": "high",
+      "note": "毎月第3木曜休"
+    },
+    {
+      "name": "南柏天然温泉すみれ",
+      "address": "千葉県流山市向小金1-272-8",
+      "weekdayAdult": 950,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "塩", "ロウリュ可"],
+      "saunaNote": "熱風オートロウリュサウナ、よもぎ泥塩サウナ",
+      "url": "https://minamikashiwa-sumire.com/",
+      "sources": [
+        "https://minamikashiwa-sumire.com/",
+        "https://minamikashiwa-sumire.com/info/info-2938/",
+        "https://onsen.nifty.com/kashiwa-onsen/onsen016736/"
+      ],
+      "confidence": "high",
+      "note": "2026/11/1改定は岩盤浴・タオル料金のみ"
+    },
+    {
+      "name": "佐倉天然温泉 澄流",
+      "address": "千葉県佐倉市染井野4-7-3",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "塩", "ロウリュ可"],
+      "saunaNote": "高温サウナ（男性は爆風オートロウリュ、女性は熱風ロウリュ）、よもぎ泥塩サウナ",
+      "url": "https://sakurasomeino-sumire.com/",
+      "sources": [
+        "https://sakurasomeino-sumire.com/price/",
+        "https://sakurasomeino-sumire.com/sauna/",
+        "https://sakurasomeino-sumire.com/info/9267/"
+      ],
+      "confidence": "high",
+      "note": "2026/11/1改定は岩盤浴・タオル料金のみ（公式）"
+    },
+    {
+      "name": "成田の命泉 大和の湯",
+      "address": "千葉県成田市大竹1630",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "乾式サウナ（約90〜95℃）",
+      "url": "https://yamatonoyu.com/",
+      "sources": [
+        "https://yamatonoyu.com/",
+        "https://yamatonoyu.com/bath"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然温泉湯舞音 市原ちはら台店",
+      "address": "千葉県市原市ちはら台南2-32-10",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "内湯にオートロウリュサウナ、露天にセルフロウリュのキューブサウナ（男女とも）",
+      "url": "https://yubune-ichihara.jp/",
+      "sources": [
+        "https://yubune-ichihara.jp/information/",
+        "https://yubune-ichihara.jp/sauna/"
+      ],
+      "confidence": "high",
+      "note": "2026/11/1改定はタオル類のみ"
+    },
+    {
+      "name": "天然温泉湯舞音 袖ケ浦店",
+      "address": "千葉県袖ケ浦市袖ケ浦駅前1-39-15",
+      "weekdayAdult": 1050,
+      "holidayAdult": 1250,
+      "saunaFee": 0,
+      "priceNote": "入浴プラン。岩盤浴プラン平日1,650円・休日1,950円",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "サウナ（ロウリュ）",
+      "url": "https://yubune-sodegaura.jp/",
+      "sources": [
+        "https://yubune-sodegaura.jp/price",
+        "https://yubune-sodegaura.jp/information/article/537",
+        "https://onsen.nifty.com/kisaradu-onsen/onsen016725/"
+      ],
+      "confidence": "high",
+      "note": "2026/11/1改定はタオル・岩盤浴プランのみ"
+    },
+    {
+      "name": "spa resort 蘭々の湯",
+      "address": "千葉県千葉市稲毛区園生町445-2",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "塩", "ロウリュ可"],
+      "saunaNote": "熱気風炉（高温サウナ・オートロウリュ）、熱塩風炉（塩サウナ）男女とも",
+      "url": "http://www.raranoyu.jp/",
+      "sources": [
+        "http://www.raranoyu.jp/",
+        "http://www.raranoyu.jp/bath/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "湯けむり 天然秘湯 龍泉の湯",
+      "address": "千葉県成田市松崎1249",
+      "weekdayAdult": 980,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "ロウリュサウナ",
+      "url": "https://www.ryusennoyu.com/",
+      "sources": [
+        "https://www.ryusennoyu.com/facility.html",
+        "https://onsen.nifty.com/narita-onsen/onsen012495/"
+      ],
+      "confidence": "medium",
+      "note": "公式トップ等に旧料金（880円/980円）表記が残る"
+    },
+    {
+      "name": "龍宮城スパ ホテル三日月",
+      "address": "千葉県木更津市北浜町1",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2600,
+      "saunaFee": 0,
+      "priceNote": "変動料金制（A期間2,000円・B期間2,600円）。16時以降トワイライト料金あり",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "大浴場にロウリュウサウナ",
+      "url": "https://www.mikazuki.co.jp/ryugujo/",
+      "sources": [
+        "https://onsen.nifty.com/kisaradu-onsen/onsen001392/",
+        "https://www.mikazuki.co.jp/ryugujo/yutoasobi/price/",
+        "https://www.mikazuki.co.jp/ryugujo/yutoasobi/onsen/"
+      ],
+      "confidence": "medium",
+      "note": "公式は通常大人1DAY2,000円の記載のみ確認、期間区分はニフティ"
+    },
+    {
+      "name": "天然温泉 海辺の湯",
+      "address": "千葉県富津市金谷525-17",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "バスタオル・フェイスタオル付",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "男女各1室",
+      "url": "http://www.umibe-4126.com/",
+      "sources": [
+        "http://www.umibe-4126.com/hot_spring"
+      ],
+      "confidence": "high",
+      "note": "宿泊施設併設"
+    },
+    {
+      "name": "おふろcafé かりんの湯",
+      "address": "千葉県香取市西田部1-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1390,
+      "saunaFee": 0,
+      "priceNote": "120分コース（フリータイム平日1,280円・土日祝1,980円）",
+      "saunaTypes": ["ドライ", "ロウリュ可"],
+      "saunaNote": "バレルサウナ等。男女共用のセルフロウリュサウナは水着または館内着着用",
+      "url": "https://www.thefarm.jp/karinnoyu/",
+      "sources": [
+        "https://www.thefarm.jp/karinnoyu/",
+        "https://onsen.nifty.com/sawara-onsen/onsen017056/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "スパ＆リゾート九十九里 太陽の里",
+      "address": "千葉県長生郡長生村一松3445",
+      "weekdayAdult": 1600,
+      "holidayAdult": 1900,
+      "saunaFee": 0,
+      "priceNote": "深夜1時以降+1,500円。タオル別",
+      "saunaTypes": ["ドライ", "塩"],
+      "saunaNote": "本サウナ・塩サウナ",
+      "url": "https://www.taiyounosato.co.jp/",
+      "sources": [
+        "https://www.taiyounosato.co.jp/about/fees.html",
+        "https://onsen.nifty.com/kujuukuri-onsen/onsen006249/"
+      ],
+      "confidence": "high",
+      "note": "2026/9/1料金改定済み"
+    },
+    {
+      "name": "天然温泉リゾート 美人の湯 カーニバルヒルズ",
+      "address": "千葉県香取市沢13-7",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "レンタル無し料金（タオル・館内着付1,800円）",
+      "saunaTypes": ["ドライ", "ミスト"],
+      "saunaNote": "ドライサウナは男性のみ、ミストサウナは女性のみ",
+      "url": "http://carnival-onsen.com/",
+      "sources": [
+        "http://carnival-onsen.com/price",
+        "http://carnival-onsen.com/onsen"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "eden restaurant & spa",
+      "address": "千葉県勝浦市吉尾272",
+      "weekdayAdult": 3000,
+      "holidayAdult": 4000,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（平日1時間2,000円/3時間4,000円、土日祝特定日1時間2,400円/3時間5,000円）",
+      "saunaTypes": ["その他"],
+      "saunaNote": "水着エリア（海を望むサウナ）",
+      "url": "https://eden-katsuura.com/",
+      "sources": [
+        "https://eden-katsuura.com/spa/",
+        "https://onsen.nifty.com/katsuura-chiba-onsen/onsen017258/"
+      ],
+      "confidence": "high",
+      "note": "勝浦海中公園内。濃溝温泉 千寿の湯の運び湯。水着着用施設"
+    },
+    {
+      "name": "たてやま温泉 千里の風",
+      "address": "千葉県館山市藤原1495-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "タオル別（各200円）",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "大浴場に中温サウナ（男女入替制）",
+      "url": "https://www.senrinokaze.jp/",
+      "sources": [
+        "https://www.senrinokaze.jp/dayplan/index.html",
+        "https://www.senrinokaze.jp/onsen/"
+      ],
+      "confidence": "high",
+      "note": "旅館。日帰りは毎週水曜11:30〜15:00休"
+    },
+    {
+      "name": "アートホテル成田 成田温泉 美湯",
+      "address": "千葉県成田市小菅700",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "入湯税込。タオル別",
+      "saunaTypes": ["ドライ", "ミスト"],
+      "saunaNote": "男性浴場にサウナ、女性浴場にミストサウナ",
+      "url": "https://art-narita.com/onsen/",
+      "sources": [
+        "https://art-narita.com/onsen/",
+        "https://onsen.nifty.com/narita-onsen/onsen012347/"
+      ],
+      "confidence": "high",
+      "note": "2026/10/12〜浴場改修のため時間帯で男女入替営業"
+    },
+    {
+      "name": "小谷流温泉 森の湯",
+      "address": "千葉県八街市小谷流616",
+      "weekdayAdult": 1980,
+      "holidayAdult": 2420,
+      "saunaFee": 0,
+      "priceNote": "タオル・バスタオル付",
+      "saunaTypes": ["ドライ", "スチーム", "塩"],
+      "saunaNote": "ドライサウナ・塩サウナは男性、スチームサウナは女性。ロウリュウはリラクゼーションルーム（別料金）",
+      "url": "https://koyaru-morinoyu.jp/",
+      "sources": [
+        "https://koyaru-morinoyu.jp/assets/image/top/figure-fee_new.png",
+        "https://koyaru-morinoyu.jp/facility/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "南総城山温泉 里見の湯",
+      "address": "千葉県館山市下真倉305-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオル付、岩盤浴無料",
+      "saunaTypes": ["ドライ", "ミスト"],
+      "saunaNote": "サウナルーム、アロマスチーム（ミスト）サウナは女性のみ",
+      "url": "https://www.satominoyu.com/",
+      "sources": [
+        "https://www.satominoyu.com/",
+        "https://www.satominoyu.com/spa/index.php"
+      ],
+      "confidence": "high",
+      "note": "温泉は露天風呂で使用"
+    },
+    {
+      "name": "クリーンスパ市川",
+      "address": "千葉県市川市上妙典1554",
+      "weekdayAdult": 770,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "ドライサウナ（約90℃）",
+      "url": "https://www.central.co.jp/club/p-ichikawashi/",
+      "sources": [
+        "https://onsen.nifty.com/chiba-onsen/onsen007850/",
+        "https://sp.jorudan.co.jp/onsen/details/300/",
+        "https://www.central.co.jp/club/p-ichikawashi/facilities/"
+      ],
+      "confidence": "medium",
+      "note": "市川市の施設。毎月第1・3火曜休。公式に入浴料の記載なし"
+    },
+    {
+      "name": "むつざわ温泉 つどいの湯",
+      "address": "千葉県長生郡睦沢町森2-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町内600円）",
+      "saunaTypes": ["ドライ", "ミスト"],
+      "saunaNote": "浴室ごとにドライ／ミスト（男女定期入替）",
+      "url": "https://mutsuzawa-swt.jp/facility_onsen",
+      "sources": [
+        "https://mutsuzawa-swt.jp/facility_onsen"
+      ],
+      "confidence": "high",
+      "note": "道の駅むつざわ併設"
+    },
+    {
+      "name": "ホテル一宮シーサイドオーツカ",
+      "address": "千葉県長生郡一宮町一宮10000",
+      "weekdayAdult": 1250,
+      "holidayAdult": 1250,
+      "saunaFee": 0,
+      "priceNote": "入湯税込、タオルセット付",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "男女大浴場にサウナ（片方は15時から）",
+      "url": "https://www.seaside-otsuka.com/",
+      "sources": [
+        "https://www.seaside-otsuka.com/spa/day/",
+        "https://www.seaside-otsuka.com/spa/"
+      ],
+      "confidence": "high",
+      "note": "日帰り12:00〜18:00、水曜定休"
+    },
+    {
+      "name": "三日月シーパークホテル勝浦 絶景スパ アクアパレス",
+      "address": "千葉県勝浦市墨名820",
+      "weekdayAdult": 2200,
+      "holidayAdult": 3300,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日3,300円。近隣市民割あり",
+      "saunaTypes": ["ドライ", "塩"],
+      "saunaNote": "水着エリアに塩サウナ・高温サウナ、併設の男女別浴場に低温・高温サウナ",
+      "url": "https://hmihotelgroup.com/mikazukikatsuura/spa/spa.html",
+      "sources": [
+        "https://hmihotelgroup.com/mikazukikatsuura/spa/spa.html",
+        "https://onsen.nifty.com/kamogawa-onsen/onsen001378/"
+      ],
+      "confidence": "medium",
+      "note": "水着着用の温泉スパ。夏季(7/1〜8/31)は宿泊者のみ。ホテル大浴場は日帰り不可。スパ内の天然温泉使用範囲は未確認"
+    },
+    {
+      "name": "銚子グランドホテル",
+      "address": "千葉県銚子市犬吠埼10292",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "浴場にサウナ",
+      "url": "https://choshigrandhotel.com/",
+      "sources": [
+        "https://www.choshigrandhotel.com/onsen"
+      ],
+      "confidence": "high",
+      "note": "日帰り10:00〜23:00（金曜は14時から）"
+    },
+    {
+      "name": "犬吠埼ホテル",
+      "address": "千葉県銚子市犬吠埼9574-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "タオル別（タオルセット+100円）",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "男湯・女湯ともにサウナ",
+      "url": "http://www.inubohsaki-hotel.com/",
+      "sources": [
+        "http://www.inubohsaki-hotel.com/hotsprings/"
+      ],
+      "confidence": "high",
+      "note": "日帰りは月・火15時から"
+    },
+    {
+      "name": "鴨川グランドホテル",
+      "address": "千葉県鴨川市広場820",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "特別期間（GW・夏季・年末年始）1,760円。タオル別",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "温泉大浴場「海の回廊」にサウナ",
+      "url": "https://www.kgh.ne.jp/04/",
+      "sources": [
+        "https://www.kgh.ne.jp/04/plan/dayuse.html",
+        "https://www.kgh.ne.jp/04/spa/uminokairou/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "夢みさき",
+      "address": "千葉県南房総市千倉町瀬戸3137",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日1,500円。フェイスタオル付",
+      "saunaTypes": ["ドライ", "スチーム"],
+      "saunaNote": "高温サウナ・和風庭園サウナ、展望スチームサウナ（浴場により異なる）",
+      "url": "http://www.yumemisaki.co.jp/",
+      "sources": [
+        "http://www.yumemisaki.co.jp/spa/index.html"
+      ],
+      "confidence": "high",
+      "note": "旅館。不定休"
+    }
+  ],
+  "excluded": [
+    { "name": "三日月シーパークホテル安房鴨川（鴨川ホテル三日月）", "reason": "日帰り立ち寄り湯を実施していない" },
+    { "name": "Sport & Do Resort リソルの森「紅葉乃湯」", "reason": "準天然温泉（温泉原石による人工温泉）" },
+    { "name": "グランドホテル太陽（南房総市）", "reason": "サウナなし" },
+    { "name": "東京湯楽城（富里市）", "reason": "天然温泉と確認できず" },
+    { "name": "BEST STYLE FITNESS 海浜幕張（SPA-HERBS）", "reason": "天然温泉と確認できず" },
+    { "name": "野天風呂 湯の郷（野田市）", "reason": "天然温泉ではない（ナノ水・薬湯）" },
+    { "name": "崋の湯（成田市）", "reason": "天然温泉ではない（軟水の湯）" },
+    { "name": "Spa Resort 菜々の湯", "reason": "人工温泉（公式に人工温泉と明記）" },
+    { "name": "湯楽の里 松戸店", "reason": "地下水（井水）使用の非温泉" },
+    { "name": "極楽湯 千葉稲毛店", "reason": "天然温泉と確認できず（露天は独自配合の湯・乳白の湯は井水）" },
+    { "name": "湯の郷ほのか 千葉蘇我店", "reason": "人工温泉（公式に人工温泉と明記）" },
+    { "name": "ホテルエミオン 東京ベイ ほほえみの湯", "reason": "日帰り入浴を実施していない" },
+    { "name": "南増尾 健美の湯", "reason": "公式に天然温泉の記載なし（炭酸泉のスーパー銭湯）" },
+    { "name": "大江戸温泉物語 君津の森", "reason": "人工温泉（光明石の湯）" },
+    { "name": "海の湯宿 花しぶき（館山市）", "reason": "サウナは予約制の貸切風呂のみ" },
+    { "name": "濃溝温泉 千寿の湯", "reason": "サウナなし" },
+    { "name": "スーパー銭湯 白旗（千葉市中央区）", "reason": "休業中（ニフティ温泉表記）" },
+    { "name": "七光台温泉（野田市）", "reason": "閉館" },
+    { "name": "市原天然温泉 江戸遊", "reason": "閉館" },
+    { "name": "柏天然温泉 白金の湯 ゆの華", "reason": "閉館" },
+    { "name": "天然温泉 黄金の里（富里市）", "reason": "閉館" },
+    { "name": "紅梅湯（船橋市・銭湯）", "reason": "鉱泉（黒湯）の銭湯だがサウナなし" },
+    { "name": "滝の湯（船橋市・銭湯）", "reason": "天然温泉と確認できず（口コミに「ラジウム鉱泉・温泉認定されず」、市の紹介は入浴剤の湯）" },
+    { "name": "湯あそびひろば 石の湯（千葉市中央区・銭湯）", "reason": "天然温泉と確認できず（地下水）" },
+    { "name": "宮の湯（木更津市・銭湯）", "reason": "天然温泉ではない（井戸水・草津温泉の湯の花の薬湯）" }
+  ],
+  "notes": "ニフティ温泉の千葉県サウナ施設一覧（186件）を起点に、天然温泉の日帰り施設を公式サイトで確認。人工温泉・井水のスーパー銭湯（かずさのお風呂屋さん、君津の湯、湯乃市鎌ヶ谷、笑がおの湯、青の洞窟、さくらマンダリン、みきの湯等）はニフティで天然温泉表記がなく対象外として未収録。料金未確認で未収録: ホテル&スパ月美（犬吠埼太陽の里）、犬吠埼観光ホテル（ポータル間で料金不一致）、アパホテル&リゾート東京ベイ幕張（公式アクセス不可）、鴨川館（館内利用券付4,000円プランのみ・日帰りサウナ未確認）、是空。房総の旅館（三水・吉夢・蓬莱屋・浜紫・SHINRA等）は日帰り料金の掲載なし。一般銭湯（統制料金・2026/1/30から大人550円）は組合サイト「ちば銭湯インフォメーション」の加盟26軒とサウナイキタイの千葉県の銭湯で確認したが、天然温泉と確認できるサウナ付き銭湯はなく追加0件（天然温泉の記載がないサウナ付き銭湯: 大和湯・ビバークランド・朝日湯・ゆープラザ・柳湯・浜町浴場・クアパレス・宮の湯（船橋）・平和湯ランド・小金バスランド・江戸川湯）。"
+}

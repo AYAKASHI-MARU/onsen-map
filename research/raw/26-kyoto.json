@@ -1,0 +1,633 @@
+{
+  "prefecture": "京都府",
+  "prefCode": "26",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "さがの温泉 天山の湯",
+      "address": "京都府京都市右京区嵯峨野宮ノ元町55-4-7",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温サウナ（アロマロウリュイベントあり）",
+      "url": "https://ndg.jp/tenzan/",
+      "sources": [
+        "https://ndg.jp/tenzan/access/",
+        "https://ndg.jp/tenzan/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3月曜休み（祝日の場合は翌日）",
+      "note": ""
+    },
+    {
+      "name": "伏見 力の湯",
+      "address": "京都府京都市伏見区竹田青池町130",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://chikara-u.com/",
+      "sources": [
+        "https://chikara-u.com/price/",
+        "https://chikara-u.com/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen003137/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "天然温泉露天風呂は京都城陽温泉からの運び湯。サウナ種類はニフティ温泉"
+    },
+    {
+      "name": "京都竹の郷温泉 万葉の湯",
+      "address": "京都府京都市西京区大原野東境谷町2-4",
+      "weekdayAdult": 2730,
+      "holidayAdult": 2730,
+      "saunaFee": 0,
+      "priceNote": "セット入館料（館内着・タオル込）。入湯税100円別、深夜3時以降+2,000円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "サウナ・水風呂あり（種類未確認）",
+      "url": "https://www.manyo.co.jp/kyoto/",
+      "sources": [
+        "https://www.manyo.co.jp/kyoto/price/",
+        "https://onsen.nifty.com/uji-onsen/onsen003136/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業",
+      "note": ""
+    },
+    {
+      "name": "京都桂温泉 仁左衛門の湯",
+      "address": "京都府京都市西京区樫原盆山5",
+      "weekdayAdult": 900,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ミスト"
+      ],
+      "saunaNote": "露天に高温ミストの釜風呂",
+      "url": "http://www.nizaemon.com/",
+      "sources": [
+        "http://www.nizaemon.com/price.html",
+        "http://www.nizaemon.com/facilities.html"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "くらま温泉",
+      "address": "京都府京都市左京区鞍馬本町520",
+      "weekdayAdult": 2600,
+      "holidayAdult": 2700,
+      "saunaFee": 0,
+      "priceNote": "露天風呂＆内風呂（サウナ）セット・ルームウェア/タオル付。露天風呂のみ（平日1,500円/土日祝1,600円）はサウナ不可",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "内風呂にサウナ・水風呂（種類未確認）",
+      "url": "https://kurama-spa.com/",
+      "sources": [
+        "https://kurama-spa.com/spa/",
+        "https://kurama-spa.com/wp-content/uploads/2026/10/price_jp2610w.svg"
+      ],
+      "confidence": "high",
+      "notice": "貸切等で日帰り入浴できない日あり",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 天翔の湯 大門",
+      "address": "京都府京都市右京区西京極大門町19-4",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "銭湯（京都府統制料金）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/kyoutoshinai-onsen/onsen006794/",
+      "sources": [
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen006794/",
+        "https://www.pref.kyoto.jp/seikatsu/news/press/2025/3/nyuyokuryoukintouseigaku.html"
+      ],
+      "confidence": "medium",
+      "notice": "火曜定休",
+      "note": "公式サイトなし。サウナ料金はポータルに別料金の記載なし"
+    },
+    {
+      "name": "京都嵐山温泉 湯浴み処 風風の湯",
+      "address": "京都府京都市西京区嵐山上河原町1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.hotespa.net/spa/fufu/",
+      "sources": [
+        "http://www.hotespa.net/spa/fufu/",
+        "https://koyo.walkerplus.com/onsen/detail/ar0726s463370/data.html"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "サウナの有無はポータル・ニフティのサウナ一覧で確認（公式に記載なし）"
+    },
+    {
+      "name": "壬生温泉 はなの湯",
+      "address": "京都府京都市中京区壬生松原町15-3",
+      "weekdayAdult": 890,
+      "holidayAdult": 1020,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "タワーサウナ・蒸気塩サウナ（ロウリュイベントあり）",
+      "url": "https://www.hanano-yu.jp/",
+      "sources": [
+        "https://www.hanano-yu.jp/",
+        "https://www.hanano-yu.jp/establishment/establish.html"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "天然温泉は守山天然温泉ほたるの湯からの運び湯"
+    },
+    {
+      "name": "スパ＆ホテル水春 松井山手",
+      "address": "京都府京田辺市山手中央5-1",
+      "weekdayAdult": 1430,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "土日祝・特定日料金。入湯税75円別。深夜2時以降リクライナー利用は追加料金",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュサウナ（個室サウナは予約制・別料金）",
+      "url": "https://suisyun.jp/matsuiyamate/",
+      "sources": [
+        "https://suisyun.jp/matsuiyamate/fee/",
+        "https://suisyun.jp/matsuiyamate/"
+      ],
+      "confidence": "high",
+      "notice": "11/18休館",
+      "note": ""
+    },
+    {
+      "name": "宇治天然温泉 源氏の湯",
+      "address": "京都府宇治市大久保町大竹52",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "塩",
+        "スチーム"
+      ],
+      "saunaNote": "露天エリアにロウリュサウナ、漢方薬草塩スチーム・北投石スチーム",
+      "url": "https://genji-yu.com/uji/",
+      "sources": [
+        "https://genji-yu.com/uji/info",
+        "https://onsen.nifty.com/uji-onsen/onsen011085/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "スッカマ 源氏の湯",
+      "address": "京都府相楽郡精華町光台1丁目5番地1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "スッカマ（汗房）は別料金 平日800円/土日祝1,100円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可",
+        "塩",
+        "スチーム",
+        "その他"
+      ],
+      "saunaNote": "庭園サウナ（高温オートロウリュ）、女湯に漢方薬草塩スチーム。韓国式スッカマは別料金",
+      "url": "https://genji-yu.com/sukkama/",
+      "sources": [
+        "https://genji-yu.com/sukkama/info",
+        "https://genji-yu.com/sukkama/spa/"
+      ],
+      "confidence": "high",
+      "notice": "11/16〜18休館",
+      "note": ""
+    },
+    {
+      "name": "竹取温泉 灯りの湯",
+      "address": "京都府八幡市八幡中ノ山82-1",
+      "weekdayAdult": 920,
+      "holidayAdult": 970,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュの遠赤外線サウナ、スチームサウナ",
+      "url": "http://www.akarinoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/uji-onsen/onsen016369/",
+        "https://news.allabout.co.jp/articles/o/130891/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイトがSSLエラーで閲覧不可。ポータル2件で一致"
+    },
+    {
+      "name": "ASOBIYUKU 京都るり渓温泉",
+      "address": "京都府南丹市園部町大河内広谷1-14",
+      "weekdayAdult": 800,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "日帰り入浴（大浴場・水着温泉・プール）。岩盤浴付 平日1,600円/土日祝1,950円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "水着エリア（水着温泉にサウナ）",
+      "url": "https://rurikei.jp/",
+      "sources": [
+        "https://rurikei.jp/hours-and-price",
+        "https://rurikei.jp/spa"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "スプリングスひよし",
+      "address": "京都府南丹市日吉町中宮ノ向8番地",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "温泉・温水プール共通",
+      "saunaTypes": [
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "アロマロウリュサウナ・森林浴サウナ（男女日替わり）",
+      "url": "https://www.springs-hiyoshi.co.jp/",
+      "sources": [
+        "https://www.springs-hiyoshi.co.jp/service/Hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休館（祝日の場合は振替あり）",
+      "note": ""
+    },
+    {
+      "name": "あやべ温泉 二王の湯",
+      "address": "京都府綾部市睦寄町在ノ向10",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト",
+        "ドライ"
+      ],
+      "saunaNote": "ミストサウナとドライサウナを日替わり",
+      "url": "https://www.ayabeonsen.com/",
+      "sources": [
+        "https://www.ayabeonsen.com/price/",
+        "https://www.ayabeonsen.com/hot_spring/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は翌日）",
+      "note": ""
+    },
+    {
+      "name": "ホテル ロイヤルヒル福知山 福湶源湯",
+      "address": "京都府福知山市土師澤居山176",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "独立型サウナ",
+      "url": "https://royalhill-fukuchiyama.com/spa",
+      "sources": [
+        "https://royalhill-fukuchiyama.com/spa"
+      ],
+      "confidence": "high",
+      "notice": "平日は6:30〜9:00（内湯のみ）と17:00〜23:00",
+      "note": ""
+    },
+    {
+      "name": "福知山温泉 養老の湯",
+      "address": "京都府福知山市字長田81-13",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "一日入泉券1,300円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.fukuchiyamaonsen.com/",
+      "sources": [
+        "https://www.fukuchiyamaonsen.com/system/index.php",
+        "https://www.fukuchiyamaonsen.com/infomation/index.php"
+      ],
+      "confidence": "high",
+      "notice": "11/4メンテナンス休業",
+      "note": "料金表はJSで2025/9/30以降900円表示"
+    },
+    {
+      "name": "たかお温泉 光の湯",
+      "address": "京都府舞鶴市十倉71",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "タワーサウナ",
+      "url": "http://www.hikarinoyu.com/",
+      "sources": [
+        "http://www.hikarinoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "水・木曜休館（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "天橋立ホテル 神々の遊湯",
+      "address": "京都府宮津市文珠310",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "入湯税込",
+      "saunaTypes": [
+        "塩",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "岩塩・黄土サウナ、ロウリュサウナ",
+      "url": "http://www.amanohashidate-htl.co.jp/",
+      "sources": [
+        "http://www.amanohashidate-htl.co.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "火曜は16:00から",
+      "note": ""
+    },
+    {
+      "name": "宇川温泉 よし野の里",
+      "address": "京都府京丹後市丹後町久僧1562",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://ukawaonsen.jp/",
+      "sources": [
+        "https://ukawaonsen.jp/hot_spring",
+        "https://onsen.nifty.com/tango-onsen/onsen003132/"
+      ],
+      "confidence": "high",
+      "notice": "木曜休み（祝日・祝前日は営業）",
+      "note": ""
+    },
+    {
+      "name": "小野小町温泉 セントラーレホテル京丹後",
+      "address": "京都府京丹後市大宮町三坂105-15",
+      "weekdayAdult": 800,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "年末年始・GW・お盆は土日祝料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.centrale.co.jp/",
+      "sources": [
+        "https://www.centrale.co.jp/spring/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "リブマックスリゾート京丹後シーフロント",
+      "address": "京都府京丹後市網野町小浜476",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "タオルなし料金（タオルセット付1,200円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男湯のみ",
+      "url": "https://www.livemax-resort.com/kyoto/kyotango/",
+      "sources": [
+        "https://www.livemax-resort.com/kyoto/kyotango/daytrip/",
+        "https://onsen.nifty.com/tango-onsen/onsen014191/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴 8:00〜11:00・14:00〜24:00（火曜は15:00から）",
+      "note": "サウナ男湯のみ・80℃はニフティ温泉"
+    },
+    {
+      "name": "丹後温泉 はしうど荘",
+      "address": "京都府京丹後市丹後町間人632-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://www.hashiudosou.com/",
+      "sources": [
+        "https://www.hashiudosou.com/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休。日帰り入浴は平日16:00〜、土日祝13:00〜",
+      "note": ""
+    },
+    {
+      "name": "天の橋立 岩滝温泉 クアハウス岩滝",
+      "address": "京都府与謝郡与謝野町字岩滝470",
+      "weekdayAdult": 1210,
+      "holidayAdult": 1210,
+      "saunaFee": 0,
+      "priceNote": "プール・バーデゾーン・健康浴場の料金（健康浴場のみ550円、全館1,650円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "水着エリア（バーデゾーンのサウナ浴・蒸気浴）",
+      "url": "https://www.town.yosano.lg.jp/facility-info/leisure-sightseeing-hotel/leisure-facilities/entry_391/index.html",
+      "sources": [
+        "https://www.town.yosano.lg.jp/facility-info/leisure-sightseeing-hotel/leisure-facilities/entry_391/index.html",
+        "https://www.hashidate-bay-hotel.com/kurhaus/"
+      ],
+      "confidence": "high",
+      "notice": "木曜休館（祝日の場合は翌平日）",
+      "note": "健康浴場（裸の浴場）にサウナがあるかは未確認のためバーデゾーン込み料金を採用"
+    },
+    {
+      "name": "メルキュール京都宮津リゾート＆スパ",
+      "address": "京都府宮津市字田井小字岩本58",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "フェイスタオル付",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://mercure-kyotomiyazu-resortandspa.jp/",
+      "sources": [
+        "https://mercure-kyotomiyazu-resortandspa.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴15:00〜22:00。夏季は日帰り入浴休止",
+      "note": "温泉は露天風呂（大浴場は沸かし湯）"
+    },
+    {
+      "name": "夕日ヶ浦温泉 外湯 花ゆうみ",
+      "address": "京都府京丹後市網野町浜詰256-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/tango-onsen/onsen007203/",
+      "sources": [
+        "https://onsen.nifty.com/tango-onsen/onsen007203/",
+        "https://news.allabout.co.jp/articles/o/122746/",
+        "https://sp.jorudan.co.jp/onsen/details/555/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイト不通。ポータル複数で700円一致"
+    },
+    {
+      "name": "弥栄あしぎぬ温泉",
+      "address": "京都府京丹後市弥栄町木橋1146",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "2026/12/1から730円に改定予定（市議案）",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/tango-onsen/onsen003108/",
+      "sources": [
+        "https://www.city.kyotango.lg.jp/material/files/group/2/gian78.pdf",
+        "https://onsen.nifty.com/tango-onsen/onsen003108/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイト不通。料金は京丹後市条例議案（現行550円）。ニフティは600円で古い。サウナはニフティ・サウナイキタイ"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "京都 山城温泉一休（上方温泉一休 京都本館）",
+      "reason": "2026年7月31日からリニューアルのため休館、再開時期未定"
+    },
+    {
+      "name": "おもてなしの宿 渓山閣",
+      "reason": "公式に日帰り客のサウナ利用の記載なし（日帰り1,200円）"
+    },
+    {
+      "name": "ふじつ温泉",
+      "reason": "2009年3月で一般の日帰り入浴を終了（宿泊・食事客のみ）"
+    },
+    {
+      "name": "ホテルモントレ京都",
+      "reason": "ビジターは入浴＋マッサージのセットのみで日帰り入浴単独不可"
+    },
+    {
+      "name": "京都嵐山温泉 花伝抄",
+      "reason": "休業中"
+    },
+    {
+      "name": "ニコニコプラザ ニコニコ温泉",
+      "reason": "一般入浴料金を公式で確認できず（ポータルの750円は古い可能性）"
+    },
+    {
+      "name": "天橋立温泉 智恵の湯",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "久美浜温泉 湯元館",
+      "reason": "公式にサウナの記載なし"
+    },
+    {
+      "name": "里山の休日 京都・烟河",
+      "reason": "日帰り客が使えるサウナを確認できず（客室サウナのみ）"
+    },
+    {
+      "name": "浅茂川温泉 静の里",
+      "reason": "市の指定管理終了・存廃検討中で営業状況・料金を確認できず"
+    },
+    {
+      "name": "美山町自然文化村 河鹿荘",
+      "reason": "天然温泉か確認できず"
+    },
+    {
+      "name": "わかさぎ温泉 笠置いこいの館",
+      "reason": "閉館"
+    },
+    {
+      "name": "レイクフォレストリゾート クアパレス",
+      "reason": "閉館"
+    },
+    {
+      "name": "夜久野高原温泉 ほっこり館",
+      "reason": "閉館"
+    },
+    {
+      "name": "癒し太閤ねねの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "天然温泉 金閣寺湯",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "京都市内の銭湯で天然温泉は天翔の湯 大門のみ確認（統制料金550円）。ドーミーイン・野乃など市内ホテルの天然温泉は宿泊者限定のため対象外。丹後の旅館（夕日ヶ浦・久美浜・間人など）は日帰りサウナ可否を個別に確認できず未収録。京丹波町・木津川市・亀岡市（渓山閣以外）で該当施設は見つからず。"
+}

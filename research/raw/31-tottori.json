@@ -1,0 +1,422 @@
+{
+  "prefecture": "鳥取県",
+  "prefCode": "31",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "湧くわく天然温泉ラピスパ",
+      "address": "鳥取県米子市淀江町淀江2-38",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "温泉のみ料金（プール付き 平日1,700円/土日祝1,800円）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュサウナはガーデン風呂側",
+      "url": "https://www.rapi-spa.com/",
+      "sources": [
+        "https://www.rapi-spa.com/price_list/",
+        "https://www.rapi-spa.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎週木曜定休"
+    },
+    {
+      "name": "皆生温泉 おーゆ・ランド",
+      "address": "鳥取県米子市皆生温泉1丁目18番1号",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "サウナ付料金（サウナなし550円）",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ou-kaike.co.jp/",
+      "sources": [
+        "https://www.ou-kaike.co.jp/ou-land/guide"
+      ],
+      "confidence": "high",
+      "notice": "第3月曜は正午から営業",
+      "note": "サウナ種類はニフティ温泉の掲載による"
+    },
+    {
+      "name": "皆生日帰り温泉 オーシャン",
+      "address": "鳥取県米子市新開3-2-46",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "タオル・館内着付",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "1F岩風呂・2F海風呂それぞれにサウナとミストサウナ",
+      "url": "https://www.ocean-g.com/",
+      "sources": [
+        "https://www.ocean-g.com/price.html",
+        "https://www.ocean-g.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "白鳳の里 淀江ゆめ温泉",
+      "address": "鳥取県米子市淀江町福岡1547",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温ドライサウナ（檜）",
+      "url": "https://www.hakuhou.jp/onsen",
+      "sources": [
+        "https://www.hakuhou.jp/onsen",
+        "https://onsen.nifty.com/yonago-onsen/onsen003570/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4水曜休館（祝日の場合翌日）",
+      "note": "住所・休館日はニフティ温泉の掲載による"
+    },
+    {
+      "name": "みなと温泉 ほのかみ",
+      "address": "鳥取県境港市竹内団地255-5",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://honokami.com/",
+      "sources": [
+        "http://honokami.com/index.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3火曜休館（祝日の場合翌日）"
+    },
+    {
+      "name": "天然温泉 夕凪の湯 御宿 野乃境港",
+      "address": "鳥取県境港市大正町216",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "昼風呂（15:00〜18:00）料金。朝風呂（6:00〜10:00）800円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://dormy-hotels.com/dormyinn/hotels/nono_sakaiminato/",
+      "sources": [
+        "https://dormy-hotels.com/dormyinn/hotels/nono_sakaiminato/spa/",
+        "https://dormy-hotels.com/dormyinn/hotels/nono_sakaiminato/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は昼風呂15:00〜18:00（土曜は昼風呂なし）。繁忙日は休止の場合あり"
+    },
+    {
+      "name": "鳥取ぽかぽか温泉",
+      "address": "鳥取県鳥取市古海570番地 カインズモール鳥取内",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ミスト"
+      ],
+      "saunaNote": "高温スタジアムサウナ・塩ミストサウナ・熱風炉サウナ",
+      "url": "http://www.souyu.co.jp/tottori/index.php",
+      "sources": [
+        "http://www.souyu.co.jp/tottori/index.php",
+        "https://www.souyu.co.jp/shisetsu-news/tottori_pokapoka/news/%e6%96%99%e9%87%91%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85.php"
+      ],
+      "confidence": "high",
+      "notice": "毎月第2火曜休館",
+      "note": "2026/8/5料金改定（平日800→850円、土日祝900→950円）"
+    },
+    {
+      "name": "温泉館ホットピア鹿野",
+      "address": "鳥取県鳥取市鹿野町今市418-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.shikano-net.com/2012/06/post.html",
+      "sources": [
+        "https://www.shikano-net.com/2012/06/post.html"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1木曜休館（祝日の場合第2木曜）"
+    },
+    {
+      "name": "関金温泉 せきがね湯命館",
+      "address": "鳥取県倉吉市関金町関金宿1139",
+      "weekdayAdult": 820,
+      "holidayAdult": 820,
+      "saunaFee": 0,
+      "priceNote": "倉吉市民は510円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yumeikan.com/",
+      "sources": [
+        "https://yumeikan.com/%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8/fee/"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休"
+    },
+    {
+      "name": "河原湯谷温泉 湯谷荘",
+      "address": "鳥取県鳥取市河原町湯谷249",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 1000,
+      "priceNote": "鳥取市民以外の料金（市民370円）。サウナは入浴料に+1,000円",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "水着エリア（男女共用のフィンランド式サウナ、水着着用必須）",
+      "url": "https://www.nkt-tv.co.jp/plan/entry/26167.html",
+      "sources": [
+        "https://www.nkt-tv.co.jp/plan/entry/26167.html",
+        "https://onsen.nifty.com/tottori-onsen/onsen003532/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜定休（祝日の場合翌日）",
+      "note": "公式サイトなし（SNSのみ）。地元テレビ局の紹介ページで確認"
+    },
+    {
+      "name": "ゆアシス東郷 龍鳳閣",
+      "address": "鳥取県東伯郡湯梨浜町引地560-7",
+      "weekdayAdult": 1070,
+      "holidayAdult": 1070,
+      "saunaFee": 0,
+      "priceNote": "全館利用料金（中国風呂のみ450円はサウナなし）",
+      "saunaTypes": [
+        "遠赤外線",
+        "ミスト"
+      ],
+      "saunaNote": "バーデゾーンのサウナ（約95℃）・ミストサウナ",
+      "url": "http://www.ryuhoukaku.jp/yuashisutop.html",
+      "sources": [
+        "http://www.ryuhoukaku.jp/ryoukin.html",
+        "http://www.ryuhoukaku.jp/yuashisutop.html"
+      ],
+      "confidence": "high",
+      "notice": "第4火曜休館（祝日の場合翌日）",
+      "note": "休館日はニフティ温泉の掲載による。料金は令和7年4月1日改定の料金表"
+    },
+    {
+      "name": "木島温泉",
+      "address": "鳥取県鳥取市吉方温泉1-320",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.torican.jp/spot/detail_1110.html",
+      "sources": [
+        "https://www.torican.jp/spot/detail_1110.html",
+        "https://onsen.nifty.com/tottori-onsen/onsen003523/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休（祝日は営業）。営業は16:00〜22:00",
+      "note": "観光公式サイトは見出しにサウナとあるが本文に明記なし。ニフティ温泉にサウナ掲載"
+    },
+    {
+      "name": "皆生温泉 汐の湯",
+      "address": "鳥取県米子市皆生温泉4-21-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "2026/11/21から土日祝料金改定（金額未確認）。早朝6〜10時は平日400円/土日祝500円（サウナ不可）",
+      "saunaTypes": [],
+      "saunaNote": "男女別サウナ。韓国式低温サウナ「汗溌房」は別料金（平日1,400円/土日祝1,500円）",
+      "url": "https://kaikehotel.com/onsen/",
+      "sources": [
+        "https://kaikehotel.com/onsen/",
+        "https://kaikehotel.com/"
+      ],
+      "confidence": "high",
+      "notice": "早朝（6:00〜10:00）はサウナ・水風呂利用不可",
+      "note": "ベイサイドスクエア皆生ホテルの日帰り温泉"
+    },
+    {
+      "name": "皆生風雅",
+      "address": "鳥取県米子市皆生温泉3-16-1",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "タオル別200円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女各大浴場にバレルサウナ（セルフロウリュは休止中）",
+      "url": "https://www.kaike-fuga.com/",
+      "sources": [
+        "https://www.kaike-fuga.com/hotspring"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は15:00〜21:00。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "大江戸温泉物語 かいけ",
+      "address": "鳥取県米子市皆生温泉4-29-11",
+      "weekdayAdult": 700,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,200円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/kaike/",
+      "sources": [
+        "https://www.ooedoonsen.jp/kaike/day_trip/",
+        "https://onsen.nifty.com/yonago-onsen/onsen024940/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は7:00〜10:00・15:00〜24:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "サウナの有無はニフティ温泉の掲載による（公式の日帰りページに記載なし）。旧かいけ彩朝楽"
+    },
+    {
+      "name": "なかやま温泉 ゆーゆー倶楽部ナスパル",
+      "address": "鳥取県西伯郡大山町赤坂708",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://rurubu.jp/andmore/spot/80033036",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80033036"
+      ],
+      "confidence": "medium",
+      "notice": "第2月曜休館（祝日の場合翌日）",
+      "note": "公式サイトを見つけられず。るるぶの掲載による"
+    },
+    {
+      "name": "岸本温泉 ゆうあいパル",
+      "address": "鳥取県西伯郡伯耆町大殿1010",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "入浴のみ料金（温水プール込み630円）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.houki-town.jp/new2/5/3/2/",
+      "sources": [
+        "https://www.houki-town.jp/new2/5/3/2/"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜休館（祝日の場合翌日）"
+    },
+    {
+      "name": "大山火の神岳温泉 豪円湯院",
+      "address": "鳥取県西伯郡大山町大山25番地",
+      "weekdayAdult": 790,
+      "holidayAdult": 790,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://goenyuin.com/",
+      "sources": [
+        "https://onsen.nifty.com/daisen-onsen/onsen016484/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休",
+      "note": "公式サイトに料金・サウナの記載なし。ニフティ温泉の掲載による"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "吉岡温泉会館 一ノ湯",
+      "reason": "サウナは完全予約制・貸切のテントサウナ（季節限定）のみ"
+    },
+    {
+      "name": "ホテルモナーク鳥取",
+      "reason": "サウナは宿泊者向けで日帰り入浴時間（12:30〜17:00）外の運転"
+    },
+    {
+      "name": "岩井温泉 明石家",
+      "reason": "サウナは予約制の貸切プライベートサウナのみ"
+    },
+    {
+      "name": "依山楼岩崎",
+      "reason": "ミストサウナは宿泊者向け（日帰りで使えるとの記載なし）"
+    },
+    {
+      "name": "三朝温泉 旅館大橋",
+      "reason": "公式サイトでサウナの有無を確認できず"
+    },
+    {
+      "name": "三朝温泉 渓泉閣",
+      "reason": "日帰り入浴の料金・サウナ利用可否を確認できず"
+    },
+    {
+      "name": "シャトー・おだか 夢の湯",
+      "reason": "2021年10月から休館。再開を確認できず（公式サイト接続不可）"
+    },
+    {
+      "name": "GOOD BLESS GARDEN",
+      "reason": "天然温泉を使っているか公式で確認できず"
+    },
+    {
+      "name": "かいけ彩朝楽",
+      "reason": "大江戸温泉物語 かいけと同一所在地（重複）"
+    },
+    {
+      "name": "湖泉閣 養生館",
+      "reason": "休館中"
+    },
+    {
+      "name": "浜村温泉館 気多の湯",
+      "reason": "休館中"
+    },
+    {
+      "name": "みさき屋 ともの湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "皆生温泉 ホテルウェルネスほうき路",
+      "reason": "閉館"
+    },
+    {
+      "name": "八東ふる里の森",
+      "reason": "キャンプ場の予約制サウナで温泉浴場ではない"
+    },
+    {
+      "name": "リバーサイドひの",
+      "reason": "キャンプ場のサウナで温泉浴場ではない"
+    },
+    {
+      "name": "HOTEL星取テラスせきがね",
+      "reason": "サウナ運転（15〜25時・5〜9時）が日帰り入浴時間（11〜16時）とほぼ重ならない"
+    },
+    {
+      "name": "はわい温泉 千年亭",
+      "reason": "サウナは客室付きのみ"
+    },
+    {
+      "name": "南部町 総合福祉センターしあわせ",
+      "reason": "温泉・料金を確認できず"
+    }
+  ],
+  "notes": "皆生（華水亭・芙蓉・天水・白扇・游月）、三朝（斉木別館・三朝館）、東郷・はわい（望湖楼・グランレイク）の旅館ホテルは日帰り可否・日帰り客のサウナ利用が確認できず未収録。大山・日野郡・八頭郡の小規模公共浴場は取りこぼしの可能性あり。"
+}

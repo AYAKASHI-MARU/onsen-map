@@ -1,0 +1,586 @@
+{
+  "prefecture": "富山県",
+  "prefCode": "16",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "神通峡岩稲温泉 楽今日館",
+      "address": "富山県富山市岩稲26-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線"
+      ],
+      "saunaNote": "2つの浴場で高温サウナ／遠赤外線サウナ",
+      "url": "https://www.rakkyokan.com/",
+      "sources": [
+        "https://www.rakkyokan.com/price.html",
+        "https://www.rakkyokan.com/hotsprings.html"
+      ],
+      "confidence": "high",
+      "notice": "1月1日休館"
+    },
+    {
+      "name": "八尾ゆめの森 ゆうゆう館",
+      "address": "富山県富山市八尾町下笹原678-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.uu-kan.com/",
+      "sources": [
+        "https://www.uu-kan.com/news/250227news/",
+        "https://www.uu-kan.com/news/20260929/",
+        "https://sauna-ikitai.com/saunas/1121"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は水曜休"
+    },
+    {
+      "name": "大沢野ウェルネスリゾート ウィンディ",
+      "address": "富山県富山市春日96-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "入浴のみ料金（プール・バーデゾーン込みは高校生以上1,540円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "大浴場にサウナ。バーデゾーン（水着エリア）にフィンランド式・ミストサウナ",
+      "url": "https://www.windy.cc/",
+      "sources": [
+        "https://www.windy.cc/guide/",
+        "https://www.windy.cc/spa/",
+        "https://www.windy.cc/bade/"
+      ],
+      "confidence": "high",
+      "notice": "第2・4火曜休館。プール・バーデゾーンは12/10〜12/19休業"
+    },
+    {
+      "name": "神通峡春日温泉 富の環",
+      "address": "富山県富山市春日96-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "立ち寄り温泉は現金のみ",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "サウナ利用は10:30〜21:00",
+      "url": "https://tominowa.jp/",
+      "sources": [
+        "https://tominowa.jp/onsen/",
+        "https://onsen.nifty.com/tateyamakurobearupenrutoshuuhen-onsen/onsen001824/",
+        "https://sauna-ikitai.com/saunas/1129"
+      ],
+      "confidence": "low",
+      "notice": "立ち寄りは土曜10:30〜16:00、木曜15:00〜。不定休",
+      "note": "公式に料金記載なし。ニフティ900円・サウナイキタイ850円で食い違い"
+    },
+    {
+      "name": "牛岳温泉健康センター",
+      "address": "富山県富山市山田赤目谷31-28",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ushidake.com/kenkou/",
+      "sources": [
+        "https://ushidake.com/kenkou/"
+      ],
+      "confidence": "high",
+      "notice": "火曜休館（祝日は営業）"
+    },
+    {
+      "name": "鯰温泉",
+      "address": "富山県富山市今市3339",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.namazu-onsen.com/",
+      "sources": [
+        "http://www.namazu-onsen.com/onsen.htm",
+        "https://sauna-ikitai.com/saunas/1006"
+      ],
+      "confidence": "high",
+      "notice": "第2・第4月曜と翌火曜休"
+    },
+    {
+      "name": "天然温泉 剱の湯 御宿 野乃富山",
+      "address": "富山県富山市総曲輪3-9-2",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "昼風呂15:00〜21:00料金（朝風呂900円）。2026/12/5から土日祝・大型連休1,500円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男女ともドライ＋ミスト（スチーム）サウナ",
+      "url": "https://dormy-hotels.com/dormyinn/hotels/nono_toyama/",
+      "sources": [
+        "https://dormy-hotels.com/dormyinn/hotels/nono_toyama/spa",
+        "https://dormy-hotels.com/dormyinn/hotels/nono_toyama/news/article/1725"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "舟橋・立山天然温泉 湯めごこち",
+      "address": "富山県中新川郡舟橋村古海老江256-1",
+      "weekdayAdult": 1080,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "一般料金（会員980円）。土日祝・繁忙期は5時間以上の滞在で+200円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男子サウナにオートロウリュ導入工事中（10月末まで）",
+      "url": "https://www.yumegokochi.co.jp/",
+      "sources": [
+        "https://www.yumegokochi.co.jp/"
+      ],
+      "confidence": "high",
+      "notice": "改装のため2026/10/27〜10/31休館。木曜定休（祝日は営業）"
+    },
+    {
+      "name": "つるぎふれあい館 アルプスの湯",
+      "address": "富山県中新川郡上市町湯上野8",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kamiichimachi-zaidan.jp/",
+      "sources": [
+        "https://kamiichimachi-zaidan.jp/",
+        "https://sauna-ikitai.com/saunas/1039"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日は翌日）"
+    },
+    {
+      "name": "つるぎ恋月",
+      "address": "富山県中新川郡上市町湯上野1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "入湯税150円別",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.tsurugi-koizuki.com/",
+      "sources": [
+        "https://www.tsurugi-koizuki.com/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴10:00〜18:00（受付17:00まで）。不定休"
+    },
+    {
+      "name": "立山吉峰温泉 ゆ～ランド",
+      "address": "富山県中新川郡立山町吉峰野開12",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yoshimine.or.jp/",
+      "sources": [
+        "https://www.yoshimine.or.jp/?page_id=37"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休"
+    },
+    {
+      "name": "天然温泉 海王",
+      "address": "富山県射水市鏡宮361",
+      "weekdayAdult": 970,
+      "holidayAdult": 1020,
+      "saunaFee": 0,
+      "priceNote": "源泉露天を含む全エリア料金（白湯・炭酸泉のみ平日800円/土日祝850円）。平日早朝5:00〜8:59は750円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "北投石サウナ・ロウリュサービスあり",
+      "url": "http://onsen-kaiou.jp/",
+      "sources": [
+        "http://onsen-kaiou.jp/news_639.html",
+        "http://onsen-kaiou.jp/guide.html"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休（祝日は営業し火曜休）"
+    },
+    {
+      "name": "太閤山温泉 太閤の湯",
+      "address": "富山県射水市黒河5424",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "一般料金（会員900円）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女日替わりでドライ＋薬草スチーム／ドライ＋塩サウナ",
+      "url": "http://taikounoyu.jp/",
+      "sources": [
+        "http://taikounoyu.jp/info",
+        "http://taikounoyu.jp/public_bath"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（メンテナンス等の臨時休業あり）"
+    },
+    {
+      "name": "天然温泉 風の森",
+      "address": "富山県小矢部市西中野1086-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "一般料金（会員50円引）。岩盤浴込みくつろぎプラン平日1,800円/土日祝1,900円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "高温サウナで毎時オートロウリュ",
+      "url": "http://www.tennenonsen-kazenomori.com/",
+      "sources": [
+        "http://www.tennenonsen-kazenomori.com/price/",
+        "http://www.tennenonsen-kazenomori.com/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "桜ヶ池クアガーデン",
+      "address": "富山県南砺市立野原東1514",
+      "weekdayAdult": 1650,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "サウナはプール＆サウナ料金（温泉込み）。温泉のみ700円（サウナなし）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "水着エリア（温泉ジェットプール＆サウナ）にドライサウナ・ハマム",
+      "url": "https://sakuragaike.co.jp/",
+      "sources": [
+        "https://sakuragaike.co.jp/onsen/",
+        "https://sakuragaike.co.jp/naturalspa/pool-sauna/"
+      ],
+      "confidence": "high",
+      "notice": "土日祝の温泉一般営業時間は変更あり（公式で確認）"
+    },
+    {
+      "name": "ゆ～ゆうランド・花椿",
+      "address": "富山県南砺市井口字持掛谷35",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yu-yuuland.com/",
+      "sources": [
+        "https://yu-yuuland.com/guide.html",
+        "https://yu-yuuland.com/"
+      ],
+      "confidence": "high",
+      "notice": "水曜休館（祝日は翌日）"
+    },
+    {
+      "name": "南砺市平ふれあい温泉センター ゆ～楽",
+      "address": "富山県南砺市大崩島96-2",
+      "weekdayAdult": 770,
+      "holidayAdult": 770,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.instagram.com/yuraku_gokayama/",
+      "sources": [
+        "https://gokayama-info.jp/archives/516"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休。平日18:30・土日祝19:30まで"
+    },
+    {
+      "name": "五箇山温泉 国民宿舎 五箇山荘",
+      "address": "富山県南砺市田向333-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.gokasansou.com/",
+      "sources": [
+        "http://www.gokasansou.com/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴13:00〜20:00（受付19:00まで）。水曜定休"
+    },
+    {
+      "name": "くろば温泉",
+      "address": "富山県南砺市上平細島1098",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "大人は高校生以上（中学生300円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.gokayama-kankou.com/contents4.html",
+      "sources": [
+        "http://www.gokayama-kankou.com/contents4.html",
+        "https://rurubu.jp/andmore/spot/80016093"
+      ],
+      "confidence": "high",
+      "notice": "火曜定休（祝日は翌平日）",
+      "note": "サウナの有無は公式に記載なし（るるぶ・サウナイキタイで確認）"
+    },
+    {
+      "name": "金太郎温泉 カルナの館",
+      "address": "富山県魚津市天神野新6000",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "3時間コース料金（1日コース1,300円）。超過は延長料金200円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "http://www.kintarouonsen.co.jp/karuna/",
+      "sources": [
+        "http://www.kintarouonsen.co.jp/karuna/guide.php",
+        "http://www.kintarouonsen.co.jp/karuna/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "name": "みのわ温泉ファミリーハウス",
+      "address": "富山県滑川市蓑輪28",
+      "weekdayAdult": 580,
+      "holidayAdult": 580,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://bunspo-namerikawa.jp/minowa",
+      "sources": [
+        "http://bunspo-namerikawa.jp/minowa"
+      ],
+      "confidence": "high",
+      "notice": "火曜休（祝日は翌日）"
+    },
+    {
+      "name": "黒部川明日温泉元湯 バーデン明日",
+      "address": "富山県下新川郡入善町舟見1677-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.baden-akebi.jp/",
+      "sources": [
+        "http://www.baden-akebi.jp/oneday/",
+        "http://www.baden-akebi.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴10:30〜20:00。火曜休館"
+    },
+    {
+      "name": "黒部・宇奈月温泉 やまのは",
+      "address": "富山県黒部市宇奈月温泉352-7",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "日帰りは男性が大黒部（ドライ）、女性が棚湯（ミスト）",
+      "url": "https://yamanoha.orixhotelsandresorts.com/",
+      "sources": [
+        "https://www.unazuki-yamanoha.jp/",
+        "https://yamanoha.orixhotelsandresorts.com/contents/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "宿泊状況・メンテナンスにより日帰り入浴不可の日あり"
+    },
+    {
+      "name": "氷見温泉郷 総湯",
+      "address": "富山県氷見市北大町25-5",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://himi-banya.jp/onsen/",
+      "sources": [
+        "https://himi-banya.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（臨時休業あり）。土日祝は朝風呂7:00〜"
+    },
+    {
+      "name": "九殿浜温泉 ひみのはな",
+      "address": "富山県氷見市姿400",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "立ち寄り温泉2時間コース料金（1時間550円、3時間750円〜6時間1,050円）",
+      "saunaTypes": [],
+      "saunaNote": "展望サウナ",
+      "url": "https://www.himinohana.jp/",
+      "sources": [
+        "https://www.himinohana.jp/hanadokei.html",
+        "https://www.himinohana.jp/onsen.html"
+      ],
+      "confidence": "high",
+      "notice": "立ち寄り温泉は10:00〜16:30"
+    },
+    {
+      "name": "庄川温泉 となみ野庄川荘 一萬亭",
+      "address": "富山県砺波市庄川町庄4984-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女大浴場にサウナ",
+      "url": "https://breezbay-group.com/tonamino-imt/index.html",
+      "sources": [
+        "https://breezbay-group.com/tonamino-imt/onsen/index.html"
+      ],
+      "confidence": "high",
+      "notice": "宿泊客が多い日は15:00〜18:00の日帰り入浴不可。冬季（12月下旬〜3月中旬）は11:00〜16:00"
+    },
+    {
+      "name": "明日山荘 さか栄",
+      "address": "富山県黒部市宇奈月町土山31",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://sakaei.amebaownd.com/",
+      "sources": [
+        "https://onsen.nifty.com/kurobe-onsen/onsen006985/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトが503で閲覧不可。料金・サウナはニフティ温泉の掲載"
+    },
+    {
+      "name": "日方江温泉",
+      "address": "富山県富山市針日269-20",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "銭湯（富山県公衆浴場の大人料金）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://toyama1010.com/toyama-hikataeonsen.html",
+      "sources": [
+        "http://toyama1010.com/toyama-hikataeonsen.html",
+        "http://toyama1010.com/ryoukin.html",
+        "https://sauna-ikitai.com/toyama?page=6"
+      ],
+      "confidence": "medium",
+      "notice": "水曜定休",
+      "note": "天然温泉は組合公式で確認。サウナはサウナイキタイ掲載のみ"
+    },
+    {
+      "name": "とやま健康パーク（富山県国際健康プラザ）",
+      "address": "富山県富山市友杉151",
+      "weekdayAdult": 740,
+      "holidayAdult": 740,
+      "saunaFee": 0,
+      "priceNote": "セルフコース2時間料金（3時間1,100円/1日1,650円）",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "水着エリア（1階バーデゾーン）にミストサウナ。2階湯治庵のサウナは2026年9月閉鎖",
+      "url": "https://www.toyama-pref-ihc.or.jp/",
+      "sources": [
+        "https://www.toyama-pref-ihc.or.jp/guide/index.html",
+        "https://www.toyama-pref-ihc.or.jp/info/pdf/2026.09.sauna.closed.pdf"
+      ],
+      "confidence": "high",
+      "note": "天然温泉は公式の沿革（温泉井掘削・温泉利用型健康増進施設）とポータルの泉質で確認"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "呉羽ハイツ",
+      "reason": "人工温泉（トロン温泉）のため対象外"
+    },
+    {
+      "name": "かたかごの湯",
+      "reason": "人工温泉のため対象外"
+    },
+    {
+      "name": "陽だまりの湯",
+      "reason": "人工温泉（ナノ水のアルカリ温泉）のため対象外"
+    },
+    {
+      "name": "越乃庭",
+      "reason": "地下水（メタケイ酸含有）とラジウム鉱物泉の薬湯で、温泉法上の天然温泉と確認できず"
+    },
+    {
+      "name": "水橋温泉 ごくらくの湯",
+      "reason": "天然温泉だがサウナなし（公式に明記）"
+    },
+    {
+      "name": "光明石温泉 呉羽の湯・福岡の湯・有磯の湯",
+      "reason": "光明石による人工温泉のため対象外"
+    },
+    {
+      "name": "天竺温泉の郷",
+      "reason": "休業中（2024年以降、再開日不明）"
+    },
+    {
+      "name": "おまき温泉スパガーデン和園",
+      "reason": "休業中（ニフティ温泉で休業表示、再開情報なし）"
+    },
+    {
+      "name": "満天の湯 富山店・魚津店",
+      "reason": "天然温泉ではない（スーパー銭湯）"
+    },
+    {
+      "name": "滑川市民交流プラザ あいらぶ湯",
+      "reason": "海洋深層水風呂で天然温泉ではない"
+    }
+  ],
+  "notes": "ニフティ温泉（富山県264件）・サウナイキタイ（156件）・富山県浴場組合の銭湯一覧を起点に、市町村・観光協会サイトと各公式で確認。富山県の銭湯料金は大人500円（組合公式、令和7年3月現在）。天然温泉の記載が確認できず見送り：いなり鉱泉、ファミリー温泉ひらき、島倉乃湯ほか鉱泉名の銭湯、37BASE、いなみ交流館ラフォーレ、辻わくわくランド、湯屋FUROBAKKA、らくち～の、SPA BALNAGE、下田温泉。天然温泉だがサウナ未確認で見送り：萩の湯、大岩不動の湯、大長谷温泉、ゆのみこ。ホテル・旅館で日帰り客のサウナ利用を確認できず見送り：大江戸温泉物語 宇奈月グランドホテル、ホテルテトラリゾート立山国際、ホテル森の風立山、小川温泉元湯ホテルおがわ。料金不明で見送り：福光温泉、川合田温泉（食事付き日帰りプランのみ確認）。サウナイキタイは途中からアクセス制限で参照不可。2026年は燃料費高騰による料金改定が多く、ポータルの料金は古い可能性あり。"
+}

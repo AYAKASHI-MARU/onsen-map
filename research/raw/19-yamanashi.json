@@ -1,0 +1,1000 @@
+{
+  "prefecture": "山梨県",
+  "prefCode": "19",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "山梨泊まれる温泉 より道の湯",
+      "address": "山梨県都留市つる1-13-31",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "館内着・タオルレンタル300円別",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性サウナで定期ロウリュ熱波。蒸気浴は女性のみ。男子窯風呂はメンテナンスで休止中",
+      "url": "https://yorimichinoyu.jp/",
+      "sources": [
+        "https://yorimichinoyu.jp/price",
+        "https://onsen.nifty.com/tsuru-onsen/onsen016235/"
+      ],
+      "confidence": "high",
+      "note": "11/16館内メンテナンス休館"
+    },
+    {
+      "name": "新湯治場 秋山温泉",
+      "address": "山梨県上野原市秋山2210",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙期（GW・夏休み・正月）1,200円。17時以降600円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男性スチーム・女性ドライ。土日に予約制テントサウナ（別料金）",
+      "url": "https://www.akiyamaonsen.com/",
+      "sources": [
+        "https://www.akiyamaonsen.com/about/",
+        "https://onsen.nifty.com/ootsuki-onsen/onsen002055/"
+      ],
+      "confidence": "high",
+      "note": "月曜休（祝日は営業）"
+    },
+    {
+      "name": "源泉湯 燈屋",
+      "address": "山梨県甲府市上阿原町590-3",
+      "weekdayAdult": 1390,
+      "holidayAdult": 1390,
+      "saunaFee": 0,
+      "priceNote": "ビジター料金（会員880円）。要本人確認書類",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "5段のスタジアムサウナ",
+      "url": "https://akariya.info/",
+      "sources": [
+        "https://akariya.info/service",
+        "https://onsen.nifty.com/koufu-onsen/onsen006421/"
+      ],
+      "confidence": "high",
+      "note": "会員制（ビジター入館可）。水曜休"
+    },
+    {
+      "name": "ヘルシースパ サンロード しもべの湯",
+      "address": "山梨県南巨摩郡身延町上之平1917-3",
+      "weekdayAdult": 1250,
+      "holidayAdult": 1250,
+      "saunaFee": 0,
+      "priceNote": "町外在住者料金・入湯税込（町内750円）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女とも大型ロウリュサウナ（80℃前後）",
+      "url": "https://shimobenoyu.com/",
+      "sources": [
+        "https://shimobenoyu.com/#ryoukin"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "遊・湯ふれあい公園 さくらの里温泉",
+      "address": "山梨県南アルプス市鏡中條3782",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女とも「サウナ風呂」あり（種類の記載なし）",
+      "url": "https://www.shisetsu-tds.jp/yamanashi-minami-alps-yuyu/",
+      "sources": [
+        "https://www.shisetsu-tds.jp/yamanashi-minami-alps-yuyu/fee/",
+        "https://onsen.nifty.com/minamiarupususanroku-onsen/onsen009906/"
+      ],
+      "confidence": "high",
+      "note": "後楽園スポーツクラブ併設。金曜休"
+    },
+    {
+      "name": "富士眺望の湯 ゆらり",
+      "address": "山梨県南都留郡鳴沢村8532-5",
+      "weekdayAdult": 1400,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "19時以降 平日1,200円・土日祝1,500円。春夏・GW・年末年始は土日祝料金。タオル付",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "高温サウナと低温の蒸し風呂",
+      "url": "https://www.fuji-yurari.jp/",
+      "sources": [
+        "https://www.fuji-yurari.jp/charge-plan.html"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 ヘルシースパサンロード",
+      "address": "山梨県甲府市大里町4144-4",
+      "weekdayAdult": 1133,
+      "holidayAdult": 1243,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "大型ロウリュウサウナ（男86℃・女84℃）",
+      "url": "https://spasunroad.com/",
+      "sources": [
+        "https://spasunroad.com/price.php",
+        "https://spasunroad.com/spring.php"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "ホテルマウント富士",
+      "address": "山梨県南都留郡山中湖村山中1360-83",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "日帰り入浴14:00〜18:00",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュサウナ・溶岩ミストサウナは男女とも。キューブサウナ富嶽蒸景は男性のみ",
+      "url": "https://www.mtfuji-hotel.com/",
+      "sources": [
+        "https://www.mtfuji-hotel.com/spa/dayuse.html",
+        "https://www.mtfuji-hotel.com/spa/sauna.html"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "ホテルリブマックスBUDGET甲府",
+      "address": "山梨県甲斐市富竹新田1536-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温ドライサウナ（男女）",
+      "url": "https://www.hotel-livemax.com/yamanashi/kofu/",
+      "sources": [
+        "https://onsen.nifty.com/koufu-onsen/onsen002156/",
+        "https://www.hotel-livemax.com/yamanashi/kofu/"
+      ],
+      "confidence": "medium",
+      "note": "日帰り入浴9-12時・17-22時。10/28-29は設備点検で温泉営業停止"
+    },
+    {
+      "name": "みはらしの丘 みたまの湯",
+      "address": "山梨県西八代郡市川三郷町大塚2608",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "一般料金（町内在住650円）",
+      "saunaTypes": [],
+      "saunaNote": "男女とも浴室にサウナ（種類の記載なし）",
+      "url": "https://www.mitamanoyu.jp/",
+      "sources": [
+        "https://www.mitamanoyu.jp/guide"
+      ],
+      "confidence": "high",
+      "note": "11/16〜19休館"
+    },
+    {
+      "name": "森のなかの温泉 なんぶの湯",
+      "address": "山梨県南巨摩郡南部町内船8106-1",
+      "weekdayAdult": 980,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "町外料金・入湯税込（町内690円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ヒノキのサウナとミストサウナ",
+      "url": "https://www.nanbunoyu.com/",
+      "sources": [
+        "https://www.nanbunoyu.com/floorguide/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "スパティオ小淵沢 延命の湯",
+      "address": "山梨県北杜市小淵沢町2968-1",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市民460円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）。水風呂は地下水",
+      "url": "http://www.spatio.jp/",
+      "sources": [
+        "http://www.spatio.jp/hotspring/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "奥山温泉",
+      "address": "山梨県南巨摩郡南部町福士26842",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "町外料金・入湯税込（町内500円）",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線サウナ・水風呂",
+      "url": "https://www.okuyama-onsen.com/",
+      "sources": [
+        "https://www.okuyama-onsen.com/料金-アクセス/",
+        "https://www.okuyama-onsen.com/温泉/"
+      ],
+      "confidence": "high",
+      "note": "10〜17時。火曜休"
+    },
+    {
+      "name": "湯沢温泉 不二ホテル",
+      "address": "山梨県南巨摩郡身延町上之平1525",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（3時間以内1,000円・3時間以上1,500円、休憩室付）",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女ともフィンランド式ロウリュサウナ（10〜20時）",
+      "url": "https://fuji-hotel.com/",
+      "sources": [
+        "https://fuji-hotel.com/day-use/"
+      ],
+      "confidence": "high",
+      "note": "月曜・第4火曜休"
+    },
+    {
+      "name": "甲斐駒ヶ岳温泉 尾白の湯",
+      "address": "山梨県北杜市白州町白須8077-1",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内410円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男女ともサウナ、ミストサウナは女湯のみ",
+      "url": "https://www.verga.info/",
+      "sources": [
+        "https://www.verga.info/onesen-furo"
+      ],
+      "confidence": "high",
+      "note": "白州・尾白の森名水公園べるが内。水曜休"
+    },
+    {
+      "name": "正徳寺温泉 初花",
+      "address": "山梨県山梨市正徳寺1093-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "3時間料金（延長30分200円）",
+      "saunaTypes": [],
+      "saunaNote": "野外サウナ（種類の記載なし）",
+      "url": "https://hatsuhana.info/",
+      "sources": [
+        "https://hatsuhana.info/",
+        "https://onsen.nifty.com/koufu-onsen/onsen002102/"
+      ],
+      "confidence": "high",
+      "note": "木曜休"
+    },
+    {
+      "name": "のめこい湯",
+      "address": "山梨県北都留郡丹波山村押垣外778-2",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "15時以降700円。近隣市村在住は割引",
+      "saunaTypes": [],
+      "saunaNote": "浴室にサウナ（種類の記載なし）",
+      "url": "https://nomekoiyu.com/",
+      "sources": [
+        "https://nomekoiyu.com/info/",
+        "https://onsen.nifty.com/ootsuki-onsen/onsen002115/"
+      ],
+      "confidence": "high",
+      "note": "木曜休（祝日は営業）"
+    },
+    {
+      "name": "山中湖温泉 紅富士の湯",
+      "address": "山梨県南都留郡山中湖村山中865-776",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "中高生700円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男女ともドライサウナ・ミストサウナ",
+      "url": "http://www.benifuji.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/fujigoko-onsen/onsen002087/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトはメンテナンス中で未確認。火曜休（祝日・夏季等は営業）"
+    },
+    {
+      "name": "多摩源流 小菅の湯",
+      "address": "山梨県北都留郡小菅村3445",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "近隣市村在住550円",
+      "saunaTypes": [],
+      "saunaNote": "男女浴室にサウナ（種類の記載なし）",
+      "url": "http://kosugenoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/ootsuki-onsen/onsen002083/"
+      ],
+      "confidence": "medium",
+      "note": "火曜休（祝日・8月は営業）"
+    },
+    {
+      "name": "源泉かけ流しの湯 湯めみの丘",
+      "address": "山梨県甲斐市下今井2361-11",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://yumemionsen.pepper.jp/",
+      "sources": [
+        "https://onsen.nifty.com/koufu-onsen/onsen005597/"
+      ],
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "name": "国母温泉",
+      "address": "山梨県甲府市国母1-3-4",
+      "weekdayAdult": 470,
+      "holidayAdult": 470,
+      "saunaFee": null,
+      "priceNote": "銭湯統制料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yamanashi.k-o-i.jp/koten/kokuboonsen/",
+      "sources": [
+        "https://www.pref.yamanashi.jp/eisei-ykm/kouyoku-touseigaku.html",
+        "https://yamanashi.k-o-i.jp/koten/kokuboonsen/"
+      ],
+      "confidence": "high",
+      "note": "モール泉かけ流しの銭湯。水曜休"
+    },
+    {
+      "name": "ふじ温泉",
+      "address": "山梨県甲府市住吉4-13-1",
+      "weekdayAdult": 470,
+      "holidayAdult": 470,
+      "saunaFee": null,
+      "priceNote": "銭湯統制料金",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://yamanashi.k-o-i.jp/koten/fujionsen/",
+      "sources": [
+        "https://www.pref.yamanashi.jp/eisei-ykm/kouyoku-touseigaku.html",
+        "https://yamanashi.k-o-i.jp/koten/fujionsen/"
+      ],
+      "confidence": "high",
+      "note": "温泉銭湯。14〜22時。水曜休"
+    },
+    {
+      "name": "石和温泉（銭湯）",
+      "address": "山梨県笛吹市石和町市部1091-2",
+      "weekdayAdult": 470,
+      "holidayAdult": 470,
+      "saunaFee": null,
+      "priceNote": "銭湯統制料金",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yamanashi-kankou.jp/kankou/stay/isawaonsen-sento.html",
+      "sources": [
+        "https://www.yamanashi-kankou.jp/kankou/stay/isawaonsen-sento.html",
+        "https://yamanashi.k-o-i.jp/koten/isawaonsen/"
+      ],
+      "confidence": "high",
+      "note": "自噴温泉の銭湯。15時開店。月曜・第3火曜休"
+    },
+    {
+      "name": "喜久乃湯温泉",
+      "address": "山梨県甲府市朝日5-14-6",
+      "weekdayAdult": 470,
+      "holidayAdult": 470,
+      "saunaFee": null,
+      "priceNote": "銭湯統制料金。2階大広間利用は入浴込み900円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yamanashi.k-o-i.jp/koten/kikunoyu/",
+      "sources": [
+        "https://www.pref.yamanashi.jp/eisei-ykm/kouyoku-touseigaku.html",
+        "https://yamanashi.k-o-i.jp/koten/kikunoyu/"
+      ],
+      "confidence": "high",
+      "note": "源泉かけ流しの銭湯。水曜・第3木曜休"
+    },
+    {
+      "name": "山宮温泉",
+      "address": "山梨県甲府市山宮町2532",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ（4〜5人用、種類の記載なし）",
+      "url": "https://www.yamamiyaonsen.com/",
+      "sources": [
+        "https://www.yamamiyaonsen.com/",
+        "https://onsen.nifty.com/koufu-onsen/onsen008257/"
+      ],
+      "confidence": "high",
+      "note": "第1・第3水曜休"
+    },
+    {
+      "name": "甲府市上九の湯ふれあいセンター",
+      "address": "山梨県甲府市古関町1174",
+      "weekdayAdult": 730,
+      "holidayAdult": 730,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市民310円）。市外17時以降520円",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://www.kamikunoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/koufu-onsen/onsen002088/"
+      ],
+      "confidence": "medium",
+      "note": "木曜休"
+    },
+    {
+      "name": "山中湖平野温泉 石割の湯",
+      "address": "山梨県南都留郡山中湖村平野1450",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "学生700円",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "http://www.ishiwarinoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/fujigoko-onsen/onsen002086/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトはメンテナンス中で未確認。木曜休"
+    },
+    {
+      "name": "源泉かけ流しの湯 桜湯",
+      "address": "山梨県中巨摩郡昭和町西条251",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "http://sakurayu.parallel.jp/",
+      "sources": [
+        "https://onsen.nifty.com/koufu-onsen/onsen006279/"
+      ],
+      "confidence": "medium",
+      "note": ""
+    },
+    {
+      "name": "甲斐大泉温泉 パノラマの湯",
+      "address": "山梨県北杜市大泉町西井出8240-1",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内410円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "約90℃のサウナ、外気浴スペースあり",
+      "url": "https://www.panoramanoyu-izumisou.com/",
+      "sources": [
+        "https://www.panoramanoyu-izumisou.com/guide/",
+        "https://www.panoramanoyu-izumisou.com/facilities/"
+      ],
+      "confidence": "high",
+      "note": "第2・第4火曜休"
+    },
+    {
+      "name": "白州塩沢温泉 フォッサ・マグナの湯",
+      "address": "山梨県北杜市白州町大武川344-19",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "北杜市民割引あり",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://www.yamanashi-kankou.jp/kankou/stay/p5_5018.html",
+      "sources": [
+        "https://www.yamanashi-kankou.jp/kankou/stay/p5_5018.html",
+        "https://onsen.nifty.com/yatsugatake-yamanashi-onsen/onsen002072/"
+      ],
+      "confidence": "medium",
+      "note": "旧公式ページは閉鎖。水曜休"
+    },
+    {
+      "name": "山梨市営活力倍増センター 鼓川温泉",
+      "address": "山梨県山梨市牧丘町牧平262",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "市外料金（山梨市・甲州市在住500円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://www.city.yamanashi.yamanashi.jp/soshiki/17/2290.html",
+      "sources": [
+        "https://www.city.yamanashi.yamanashi.jp/soshiki/17/2290.html",
+        "https://onsen.nifty.com/koufu-onsen/onsen002100/"
+      ],
+      "confidence": "high",
+      "note": "木曜休"
+    },
+    {
+      "name": "甲州市交流保養センター 大菩薩の湯",
+      "address": "山梨県甲州市塩山上小田原730-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "市外・3時間以内料金（1日1,240円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://www.city.koshu.yamanashi.jp/map/info/2021010500166/",
+      "sources": [
+        "https://onsen.nifty.com/katsunuma-onsen/onsen002099/",
+        "https://www.yamanashi-kankou.jp/kankou/stay/p5_5038.html"
+      ],
+      "confidence": "medium",
+      "note": "市ページに2026年4月料金改定の告知あり、改定後の詳細は未確認。火曜休"
+    },
+    {
+      "name": "芭蕉 月待ちの湯",
+      "address": "山梨県都留市戸沢874",
+      "weekdayAdult": 720,
+      "holidayAdult": 720,
+      "saunaFee": 0,
+      "priceNote": "市外料金（都留市・西桂町在住510円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナ風呂あり（種類の記載なし）",
+      "url": "https://www.tsukimachi-onsen.com/",
+      "sources": [
+        "https://www.tsukimachi-onsen.com/time_price/"
+      ],
+      "confidence": "high",
+      "note": "月曜休（祝日は翌日）"
+    },
+    {
+      "name": "富士西湖温泉 いずみの湯",
+      "address": "山梨県南都留郡富士河口湖町西湖987",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "特日（土日祝連休・特定期間）1,200円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "ロウリュなしの乾式（男95℃・女90℃）",
+      "url": "https://izuminoyu.hamayouresort.com/",
+      "sources": [
+        "https://izuminoyu.hamayouresort.com/usage-guide",
+        "https://izuminoyu.hamayouresort.com/facility"
+      ],
+      "confidence": "high",
+      "note": "営業日・時間は月により変動（10〜11月は主に火水休）"
+    },
+    {
+      "name": "やまなみの湯",
+      "address": "山梨県南アルプス市西南湖1299-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（1日900円・夜間600円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "http://www.yamanaminoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/minamiarupususanroku-onsen/onsen002117/"
+      ],
+      "confidence": "medium",
+      "note": "水曜休"
+    },
+    {
+      "name": "甲州鰍沢温泉 かじかの湯",
+      "address": "山梨県南巨摩郡富士川町鳥屋137-1",
+      "weekdayAdult": 730,
+      "holidayAdult": 730,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町内500円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://kajikano-yu.com/",
+      "sources": [
+        "https://onsen.nifty.com/minobu-onsen/onsen002092/"
+      ],
+      "confidence": "medium",
+      "note": "木曜休"
+    },
+    {
+      "name": "いちのみや ももの里温泉",
+      "address": "山梨県笛吹市一宮町金沢387-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内500円）",
+      "saunaTypes": [],
+      "saunaNote": "男女各1のヒノキのサウナ・水風呂",
+      "url": "https://www.city.fuefuki.yamanashi.jp/shiminkatsudo/sports/recreation/shieionnsen/momonosatorenewal.html",
+      "sources": [
+        "https://www.city.fuefuki.yamanashi.jp/shiminkatsudo/sports/recreation/shieionnsen/momonosatorenewal.html"
+      ],
+      "confidence": "high",
+      "note": "2026/4/1リニューアルオープン。木曜休"
+    },
+    {
+      "name": "たかねの湯",
+      "address": "山梨県北杜市高根町箕輪新町下木戸95",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "一般料金・入湯税込（北杜市民410円）",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "サウナ（男女）、ミストサウナは女湯のみ",
+      "url": "https://takanenoyu.com/",
+      "sources": [
+        "https://takanenoyu.com/"
+      ],
+      "confidence": "high",
+      "note": ""
+    },
+    {
+      "name": "まほらの湯",
+      "address": "山梨県南巨摩郡富士川町長沢1757-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町内500円）",
+      "saunaTypes": [],
+      "saunaNote": "男女ともヒノキのバレルサウナ",
+      "url": "https://mahorano-yu.com/",
+      "sources": [
+        "https://onsen.nifty.com/minobu-onsen/onsen002057/",
+        "https://mahorano-yu.com/"
+      ],
+      "confidence": "medium",
+      "note": "火曜休"
+    },
+    {
+      "name": "泉温泉健康センター",
+      "address": "山梨県北杜市大泉町谷戸1880",
+      "weekdayAdult": 830,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "市外料金（北杜市民410円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナ・水風呂あり（種類の記載なし）",
+      "url": "https://izumi-onsen.web.app/",
+      "sources": [
+        "https://onsen.nifty.com/yatsugatake-yamanashi-onsen/onsen002081/"
+      ],
+      "confidence": "medium",
+      "note": "水曜休"
+    },
+    {
+      "name": "湯殿館",
+      "address": "山梨県中央市若宮33-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "http://www.yudenkan.com/",
+      "sources": [
+        "https://onsen.nifty.com/koufu-onsen/onsen002137/"
+      ],
+      "confidence": "medium",
+      "note": "公式の料金表は画像で未確認。第1・第3火曜休"
+    },
+    {
+      "name": "中央市シルク工芸館ふれあい館 シルクふれんどりぃ",
+      "address": "山梨県中央市大鳥居1619-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ・水風呂あり（種類の記載なし）",
+      "url": "https://silknosato.com/",
+      "sources": [
+        "https://silknosato.com/facility/spa/"
+      ],
+      "confidence": "high",
+      "note": "アルカリ性単純温泉。水曜休"
+    },
+    {
+      "name": "甲斐市民温泉 百楽泉",
+      "address": "山梨県甲斐市宇津谷1715-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内400円）",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "女性用ミストサウナ",
+      "url": "https://www.city.kai.yamanashi.jp/",
+      "sources": [
+        "https://onsen.nifty.com/koufu-onsen/onsen002107/"
+      ],
+      "confidence": "medium",
+      "note": "火曜休"
+    },
+    {
+      "name": "いさわふれあいセンター なごみの湯",
+      "address": "山梨県笛吹市石和町下平井578",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内450円）",
+      "saunaTypes": [],
+      "saunaNote": "低温サウナ",
+      "url": "https://www.city.fuefuki.yamanashi.jp/shisetsu/onsen/001.html",
+      "sources": [
+        "https://www.city.fuefuki.yamanashi.jp/shisetsu/onsen/001.html"
+      ],
+      "confidence": "high",
+      "note": "2025/10/1全館リニューアル。水曜休"
+    },
+    {
+      "name": "石笛の湯",
+      "address": "山梨県笛吹市石和町八田490-31",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://onsen.nifty.com/isawaonsen-onsen/onsen024939/",
+      "sources": [
+        "https://onsen.nifty.com/isawaonsen-onsen/onsen024939/"
+      ],
+      "confidence": "medium",
+      "note": "2025年9月開業。源泉かけ流し"
+    },
+    {
+      "name": "笛吹市境川観光交流センター 寺尾の湯",
+      "address": "山梨県笛吹市境川町寺尾1534",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市民400円）",
+      "saunaTypes": [],
+      "saunaNote": "男女浴室にサウナ・水風呂（種類の記載なし）",
+      "url": "https://www.city.fuefuki.yamanashi.jp/shisetsu/onsen/009.html",
+      "sources": [
+        "https://www.city.fuefuki.yamanashi.jp/shisetsu/onsen/009.html"
+      ],
+      "confidence": "high",
+      "note": "水曜休"
+    },
+    {
+      "name": "神明温泉 志麻の湯",
+      "address": "山梨県甲斐市島上条3123",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "市外料金（市内400円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナあり（種類の記載なし）",
+      "url": "https://www.city.kai.yamanashi.jp/page/3813.html",
+      "sources": [
+        "https://www.city.kai.yamanashi.jp/page/3813.html"
+      ],
+      "confidence": "high",
+      "note": "月曜休。水曜は6時開館"
+    },
+    {
+      "name": "勝沼健康福祉センター",
+      "address": "山梨県甲州市勝沼町休息1867-2",
+      "weekdayAdult": 510,
+      "holidayAdult": 510,
+      "saunaFee": 0,
+      "priceNote": "市外料金（甲州市・山梨市在住300円）",
+      "saunaTypes": [],
+      "saunaNote": "小浴場のみサウナ（種類の記載なし）",
+      "url": "https://www.koshushishakyo.or.jp/facility/",
+      "sources": [
+        "https://www.koshushishakyo.or.jp/facility/"
+      ],
+      "confidence": "high",
+      "note": "月曜・祝日休"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ふじやま温泉",
+      "reason": "2026年6月から休館中（地震による損傷で再開未定）"
+    },
+    {
+      "name": "富士山溶岩の湯 泉水",
+      "reason": "天然温泉と確認できず（富士山伏流水・二股炭酸カルシウム温泉(R)）"
+    },
+    {
+      "name": "クア・アンド・ホテル 石和健康ランド",
+      "reason": "公式に天然温泉の浴槽の記載なし（美白の湯は人工温泉）"
+    },
+    {
+      "name": "スパランド ホテル内藤",
+      "reason": "浴場の湯はナノ水で天然温泉の記載なし"
+    },
+    {
+      "name": "フルーツパーク富士屋ホテル",
+      "reason": "日帰りは食事・休憩付きプランのみで日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "自家源泉かけ流しの天然温泉 湯村ホテル",
+      "reason": "日帰り入浴(1,320円)はあるが日帰り客のサウナ利用を明記なし"
+    },
+    {
+      "name": "華やぎの章 慶山",
+      "reason": "日帰り入浴ページにサウナの記載なし"
+    },
+    {
+      "name": "桜庵河口湖ホテル",
+      "reason": "天然温泉の記載なし（富士水源・高濃度炭酸泉）"
+    },
+    {
+      "name": "石和名湯館糸柳",
+      "reason": "公式サイト停止中で日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "シャトレーゼホテル 旅館 富士野屋",
+      "reason": "公式に日帰り入浴料金・サウナの記載なし"
+    },
+    {
+      "name": "大江戸温泉物語 ホテル新光",
+      "reason": "日帰り入浴ページにサウナの記載なし"
+    },
+    {
+      "name": "おいしい学校 香りの湯",
+      "reason": "ハーブ湯で天然温泉の記載なし"
+    },
+    {
+      "name": "グランドメルキュール八ヶ岳リゾート＆スパ",
+      "reason": "公式に日帰り利用不可と記載"
+    },
+    {
+      "name": "ホテル春日居",
+      "reason": "日帰り入浴(1,650円)はあるが日帰り客のサウナ利用を明記なし"
+    },
+    {
+      "name": "石和温泉 ホテルやまなみ",
+      "reason": "日帰り入浴(1,320円)はあるが日帰り客のサウナ利用を明記なし"
+    },
+    {
+      "name": "天空の湯（ぶどうの丘）",
+      "reason": "唯一のサウナ（ミストサウナ）が休止中（ニフティ温泉）"
+    },
+    {
+      "name": "北杜市健康増進施設 健康ランド須玉",
+      "reason": "源泉の湧出がほぼなくなり沸かし湯で営業"
+    },
+    {
+      "name": "十枚荘温泉",
+      "reason": "日帰り入浴料金・日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "道志川温泉 紅椿の湯",
+      "reason": "2026/10/15で運営会社の契約満了により一時休館（再開日未定）"
+    },
+    {
+      "name": "みさかふれあい交流センター みさかの湯",
+      "reason": "2026/4/1から改修工事で約1年休館"
+    },
+    {
+      "name": "かまなしの湯（釜無川レクリエーションセンター）",
+      "reason": "休業中（再開未定）"
+    },
+    {
+      "name": "KOFU SAUNA",
+      "reason": "グループ単位料金の貸切個室サウナ（2026/10開業）"
+    },
+    {
+      "name": "Fuji Sauna",
+      "reason": "グループ単位料金の貸切個室サウナ"
+    },
+    {
+      "name": "CYCL",
+      "reason": "富士山系天然地下水のかけ流しで温泉の記載なし"
+    },
+    {
+      "name": "ホテル スターランド",
+      "reason": "天然温泉の記載なし（人工アルカリ風呂・薬湯）"
+    },
+    {
+      "name": "竜王ラドン温泉 湯〜とぴあ",
+      "reason": "公式・ポータルでサウナ設備を確認できず"
+    },
+    {
+      "name": "AMBIENT 八ヶ岳コテージ",
+      "reason": "公式で日帰り入浴料金・日帰り客のサウナ利用を確認できず"
+    },
+    {
+      "name": "レイクランドホテル みづのさと",
+      "reason": "日帰り入浴を受け付けていない"
+    },
+    {
+      "name": "河口湖温泉 野天風呂 天水",
+      "reason": "公式ドメイン失効、最新の営業状況・料金を確認できず"
+    },
+    {
+      "name": "緑ヶ丘温泉",
+      "reason": "銭湯組合の情報にサウナの記載なく、サウナを確認できず"
+    },
+    {
+      "name": "名取温泉",
+      "reason": "閉館（ニフティ温泉に閉館表示）"
+    },
+    {
+      "name": "富士健康センター",
+      "reason": "閉館（ニフティ温泉に閉館表示）"
+    },
+    {
+      "name": "すみよし温泉ランド",
+      "reason": "閉館（ニフティ温泉に閉館表示）"
+    },
+    {
+      "name": "奥湯村温泉 紅椿の湯",
+      "reason": "閉館（ニフティ温泉に閉館表示）"
+    },
+    {
+      "name": "忍野温泉",
+      "reason": "閉館（ニフティ温泉に閉館表示）"
+    },
+    {
+      "name": "大泉高原 八ヶ岳ロイヤルホテル",
+      "reason": "閉館（ニフティ温泉に閉館表示）"
+    }
+  ],
+  "notes": "ニフティ温泉のサウナあり一覧（山梨137件）を起点に、日帰り可の施設を公式・自治体ページで確認。宿泊専用・グランピング・貸切サウナ施設は対象外として個別記載を省略。銭湯は山梨県統制額470円（2025/4/1施行。組合サイトの430円は旧額）を採用し、サウナ料金は不明のためnull。ホテル・旅館は日帰り客のサウナ利用が公式に明記されたもののみ収録。公式サイトがメンテナンス中（紅富士の湯・石割の湯・ぶどうの丘など）の施設はポータル情報でmedium。サウナ一覧に載らない施設（はやぶさ温泉・やまと天目山温泉・道志の湯・増富の湯など）はサウナを確認できず未収録。韮崎市・南アルプス市西部・早川町は取りこぼしの可能性あり。"
+}

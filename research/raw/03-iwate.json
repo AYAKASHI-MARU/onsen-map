@@ -1,0 +1,1031 @@
+{
+  "prefecture": "岩手県",
+  "prefCode": "03",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然温泉 喜盛の湯",
+      "address": "岩手県盛岡市南仙北1丁目18番50号",
+      "weekdayAdult": 900,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "朝風呂 平日700円・土日祝750円",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "女湯は漢方スチーム塩サウナ、男湯はセルフロウリュのサウナ",
+      "url": "http://kimorinoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/morioka-onsen/onsen008032/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトはSSLエラーで取得不可。2026/8/12リニューアル後のニフティ掲載料金"
+    },
+    {
+      "name": "山桜 桃の湯",
+      "address": "岩手県一関市赤荻字笹谷393-6",
+      "weekdayAdult": 850,
+      "holidayAdult": 1180,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（休日は日・祝の料金。1日フリー1,950円）",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "TV付きサウナ・アジアンサウナ",
+      "url": "https://www.momonoyu.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/ichinoseki-onsen/onsen008990/"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金のテキスト記載なし。土曜の扱いは未確認"
+    },
+    {
+      "name": "湯の杜 ホテル志戸平",
+      "address": "岩手県花巻市湯口字志戸平27-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "お盆・年末年始は休日料金",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "溶岩サウナ・洞窟サウナ（セルフロウリュ）",
+      "url": "https://www.shidotaira.co.jp/",
+      "sources": [
+        "https://www.shidotaira.co.jp/hotspring_spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り受付 11:00〜14:00・18:00〜20:00。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "八幡平ハイツ",
+      "address": "岩手県八幡平市松尾寄木1-590-4",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://8mantai.jp/",
+      "sources": [
+        "http://blog.8mantai.jp/?day=20261024",
+        "https://onsen.nifty.com/hachimantai-iwate-onsen/onsen000431/"
+      ],
+      "confidence": "low",
+      "notice": "月・水・金の9:30〜10:30は清掃で入浴不可",
+      "note": "料金は公式ブログ。サウナはニフティのみ記載で公式に記載なし"
+    },
+    {
+      "name": "山の神温泉 なごみの湯",
+      "address": "岩手県花巻市下シ沢字中野53番地1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女とも",
+      "url": "https://yuukaen.jp/nagomi",
+      "sources": [
+        "https://yuukaen.jp/nagomi"
+      ],
+      "confidence": "high",
+      "notice": "受付10:00〜20:00"
+    },
+    {
+      "name": "盛岡つなぎ温泉 愛真館",
+      "address": "岩手県盛岡市繋字塗沢40-4",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "ドライサウナ・炭サウナ（大浴場、日替わりで男女入替）",
+      "url": "https://www.aishinkan.co.jp/",
+      "sources": [
+        "https://www.aishinkan.co.jp/spa/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り受付 平日11:00〜15:00・土日祝11:00〜14:00、水曜は日帰り休み。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "新安比温泉 静流閣",
+      "address": "岩手県八幡平市叺田43-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女とも大浴場に",
+      "url": "http://www.sinappi.jp/",
+      "sources": [
+        "http://www.sinappi.jp/spa/dayuse/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "焼石クアパーク ひめかゆ",
+      "address": "岩手県奥州市胆沢若柳天沢52-7",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://himekayu.jp/",
+      "sources": [
+        "https://himekayu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "毎週水曜定休。2026/11/9〜11/11は水道工事のため臨時休業"
+    },
+    {
+      "name": "安比温泉 白樺の湯",
+      "address": "岩手県八幡平市安比高原605-365",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "タオルレンタル300円",
+      "saunaTypes": [],
+      "saunaNote": "50人収容の大型サウナ",
+      "url": "https://www.appi.co.jp/heal/heal-top/",
+      "sources": [
+        "https://www.appi.co.jp/heal/heal-top/"
+      ],
+      "confidence": "high",
+      "notice": "営業13:00〜22:00"
+    },
+    {
+      "name": "薬師堂温泉",
+      "address": "岩手県奥州市水沢佐倉河薬師堂27",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "公式に800円の表記も混在",
+      "saunaTypes": [],
+      "saunaNote": "サウナ利用は10:00〜21:00",
+      "url": "http://www.yakushido-spa.jp/",
+      "sources": [
+        "http://www.yakushido-spa.jp/day.php"
+      ],
+      "confidence": "low",
+      "note": "公式日帰りページに800円と850円の2つの料金表があり、どちらが現行か不明"
+    },
+    {
+      "name": "新鉛温泉 結びの宿 愛隣館",
+      "address": "岩手県花巻市鉛字西鉛23番地",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "山の湯・森の湯にサウナ（14:00〜22:00ほか）",
+      "url": "https://www.airinkan.com/",
+      "sources": [
+        "https://www.airinkan.com/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り受付 10:00〜12:30・14:00〜18:00（約60分）。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "鉛温泉 藤三旅館",
+      "address": "岩手県花巻市鉛字中平75-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "GW・お盆・年末年始は1,100円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "白糸の湯内「なめとこ山のサウナ」（時間で男女入替）",
+      "url": "https://namari-onsen-ryokan.com/",
+      "sources": [
+        "https://namari-onsen-ryokan.com/spa/",
+        "https://onsen.nifty.com/hanamaki-onsen/onsen005801/"
+      ],
+      "confidence": "medium",
+      "notice": "毎週火曜休業。日帰り客がサウナを使えるかは施設にご確認ください"
+    },
+    {
+      "name": "天台の湯（稲庭交流センター）",
+      "address": "岩手県二戸市浄法寺町野黒沢133-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tendainoyu.co.jp/",
+      "sources": [
+        "https://tendainoyu.co.jp/spa"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4水曜定休"
+    },
+    {
+      "name": "岩手山焼走り温泉 いこいの村岩手",
+      "address": "岩手県八幡平市平笠24-1-4",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場に約90℃のサウナ",
+      "url": "https://www.ikoi-iwate.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/hachimantai-iwate-onsen/onsen024637/",
+        "https://www.ikoi-iwate.co.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴の営業日・時間は施設にご確認ください。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "料金はニフティのみ。公式は2026/10以降も日帰り入浴継続と告知"
+    },
+    {
+      "name": "つなぎ温泉 清温荘",
+      "address": "岩手県盛岡市繋字湯の舘33",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "日帰りでも利用可",
+      "url": "https://seionsou.com/",
+      "sources": [
+        "https://seionsou.com/"
+      ],
+      "confidence": "high",
+      "notice": "営業日・時間は公式の営業カレンダーでご確認ください"
+    },
+    {
+      "name": "須川高原温泉",
+      "address": "岩手県一関市厳美町祭畤山国有林46林班ト",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "大浴場・中浴場・大露天風呂のいずれか1回（共通券1,200円）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "蒸し風呂",
+      "url": "http://www.sukawaonsen.jp/",
+      "sources": [
+        "https://onsen.nifty.com/ichinoseki-onsen/onsen000443/",
+        "http://www.sukawaonsen.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "冬期（11月頃〜春）は休業。営業期間は施設にご確認ください",
+      "note": "料金はニフティのみ"
+    },
+    {
+      "name": "うたたねカフェ さくらの湯",
+      "address": "岩手県奥州市水沢佐倉河字明神堂27",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "フリータイム",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.e-sakuranoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/oshu-onsen/onsen000447/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第1・第3水曜休業",
+      "note": "公式はSSLエラーで取得不可"
+    },
+    {
+      "name": "橋場温泉 新はしばの湯（道の駅雫石あねっこ）",
+      "address": "岩手県岩手郡雫石町橋場坂本118番地10",
+      "weekdayAdult": 620,
+      "holidayAdult": 620,
+      "saunaFee": 0,
+      "priceNote": "雫石町民520円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "乾式サウナ90℃（男女週替わり）",
+      "url": "https://www.anekko.co.jp/",
+      "sources": [
+        "https://www.anekko.co.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "受付19:30まで"
+    },
+    {
+      "name": "悠久の湯 平泉温泉",
+      "address": "岩手県西磐井郡平泉町平泉大沢1-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "3時間以下（3時間超1,000円、19時以降500円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.town.hiraizumi.iwate.jp/index.cfm/25,0,125,271,html",
+      "sources": [
+        "https://onsen.nifty.com/hiraizumi-onsen/onsen000405/"
+      ],
+      "confidence": "medium",
+      "notice": "毎週火曜休業（祝日を除く）",
+      "note": "町公式に料金の記載なし"
+    },
+    {
+      "name": "前沢温泉 舞鶴の湯",
+      "address": "岩手県奥州市前沢字徳沢1-45",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "土日祝は3時間まで（終日1,000円）。18時以降600円",
+      "saunaTypes": [],
+      "saunaNote": "TV付きサウナ",
+      "url": "https://maidurunoyu.com/",
+      "sources": [
+        "https://maidurunoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3月曜休業"
+    },
+    {
+      "name": "花と緑と安らぎの湯 東和温泉",
+      "address": "岩手県花巻市東和町安俵6区135",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.towa-spa.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/hanamaki-onsen/onsen000375/"
+      ],
+      "confidence": "medium",
+      "note": "公式は証明書エラーで取得不可"
+    },
+    {
+      "name": "盛南温泉 開運の湯",
+      "address": "岩手県盛岡市本宮3-8",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 450,
+      "priceNote": "土日祝の早朝600円。サウナ・プル釜は別途450円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "http://www.kaiunnoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/morioka-onsen/onsen016355/",
+        "https://rurubu.jp/andmore/spot/80002498"
+      ],
+      "confidence": "low",
+      "note": "公式ページ本文取得不可。料金はポータルのみ"
+    },
+    {
+      "name": "金ケ崎温泉 駒子の湯",
+      "address": "岩手県胆沢郡金ケ崎町西根和光544番地1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://kanegasaki.oshushi.com/",
+      "sources": [
+        "http://kanegasaki.oshushi.com/",
+        "https://onsen.nifty.com/kitakami-onsen/onsen007595/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式、サウナはニフティ"
+    },
+    {
+      "name": "網張温泉 ありね山荘",
+      "address": "岩手県岩手郡雫石町長山小松倉13-7",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "町民500円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.town.shizukuishi.iwate.jp/docs/2014112600087/",
+      "sources": [
+        "https://www.town.shizukuishi.iwate.jp/docs/2014112600087/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第1月曜休業。冬期（12〜3月）は10:00〜18:00"
+    },
+    {
+      "name": "八幡平温泉館 森乃湯",
+      "address": "岩手県八幡平市松尾寄木第1地割590-280",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女とも",
+      "url": "http://www.hachimantai-ss.co.jp/~morinoyu/",
+      "sources": [
+        "http://www.hachimantai-ss.co.jp/~morinoyu/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3金曜定休"
+    },
+    {
+      "name": "フォックスバーデンスパ・ドーム",
+      "address": "岩手県滝沢市鵜飼笹森41-2",
+      "weekdayAdult": 780,
+      "holidayAdult": 780,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://foxbaden.com/",
+      "sources": [
+        "https://foxbaden.com/"
+      ],
+      "confidence": "high",
+      "notice": "毎月第3水曜定休（11〜3月・8月は無休）"
+    },
+    {
+      "name": "奥中山高原温泉 朝朱の湯",
+      "address": "岩手県二戸郡一戸町奥中山字西田子662-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "サウナ・ミストサウナ",
+      "url": "https://www.okunakayamakogen.jp/hotspring/",
+      "sources": [
+        "https://www.okunakayamakogen.jp/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "4月・11月に整備休館あり"
+    },
+    {
+      "name": "奥中山高原温泉 煌星の湯",
+      "address": "岩手県二戸郡一戸町奥中山字西田子662-1",
+      "weekdayAdult": 680,
+      "holidayAdult": 680,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.okunakayamakogen.jp/hotspring/",
+      "sources": [
+        "https://www.okunakayamakogen.jp/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "4月・11月に整備休館あり",
+      "note": "朝朱の湯と同じ住所表記（高原内の別施設）"
+    },
+    {
+      "name": "夏油高原温泉 兎森の湯",
+      "address": "岩手県北上市和賀町岩崎新田国有林内",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.getokogen.com/green/02onsen/index.html",
+      "sources": [
+        "https://www.getokogen.com/green/02onsen/index.html"
+      ],
+      "confidence": "high",
+      "notice": "営業日限定（2026年秋は週末中心に11/3まで）。冬期は施設にご確認ください",
+      "note": "住所は番地なし（国有林内）"
+    },
+    {
+      "name": "花巻温泉 ホテル紅葉館・ホテル千秋閣・ホテル花巻（大浴場）",
+      "address": "岩手県花巻市湯本1-125",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "特定日は休日料金",
+      "saunaTypes": [],
+      "saunaNote": "各大浴場（紅葉の湯・千秋の湯・花巻の湯）にサウナ",
+      "url": "https://www.hanamakionsen.co.jp/spa/day.php",
+      "sources": [
+        "https://www.hanamakionsen.co.jp/spa/day.php"
+      ],
+      "confidence": "high",
+      "notice": "日帰り 8:00〜10:00・12:00〜21:00（ホテル花巻は8:00〜12:00・14:00〜21:00）",
+      "note": "3ホテルは同一敷地で連結。住所は紅葉館のもの"
+    },
+    {
+      "name": "安比豊畑温泉 フロンティアの湯",
+      "address": "岩手県八幡平市細野435-1",
+      "weekdayAdult": null,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/hachimantai-iwate-onsen/onsen000433/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は土日のみ（土9:00〜20:00・日9:00〜19:00）。臨時休業あり",
+      "note": "公式サイトなし。ニフティのみ"
+    },
+    {
+      "name": "石田食堂ワシントン（水沢石田温泉）",
+      "address": "岩手県奥州市水沢寺領34-5",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "早朝6:30〜8:00は550円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://onsen.nifty.com/oshu-onsen/onsen005788/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトなし。ニフティのみ"
+    },
+    {
+      "name": "スパドーム（金田一温泉）",
+      "address": "岩手県二戸市金田一湯田53",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.city.ninohe.lg.jp/info/342",
+      "sources": [
+        "https://www.city.ninohe.lg.jp/info/342",
+        "https://onsen.nifty.com/appi-onsen/onsen000345/"
+      ],
+      "confidence": "medium",
+      "note": "料金は市公式、サウナはニフティ",
+      "notice": "不定休"
+    },
+    {
+      "name": "ユートランド姫神",
+      "address": "岩手県盛岡市下田字生出893-11",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://yutoland-himekami.com/",
+      "sources": [
+        "https://onsen.nifty.com/morioka-onsen/onsen016222/"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金記載なし。ニフティの料金"
+    },
+    {
+      "name": "大江戸温泉物語Premium 岩手花巻",
+      "address": "岩手県花巻市湯口字佐野21-8",
+      "weekdayAdult": 900,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "繁忙日1,400円。タオル別330円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.ooedoonsen.jp/hanamaki/",
+      "sources": [
+        "https://www.ooedoonsen.jp/hanamaki/day_trip/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り 7:00〜10:00・15:00〜24:00。日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "サウナはニフティ・サウナイキタイで確認"
+    },
+    {
+      "name": "カダルテラス金田一",
+      "address": "岩手県二戸市金田一字湯田41",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "朝風呂6:00〜8:00は500円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kadarterrace.net/",
+      "sources": [
+        "https://kadarterrace.net/onsen/"
+      ],
+      "confidence": "medium",
+      "notice": "月曜は14:00から",
+      "note": "トップに「12/8〜入浴料金改定」のお知らせあり（年不明）。温泉ページの料金を採用"
+    },
+    {
+      "name": "玄武温泉 ロッヂたちばな",
+      "address": "岩手県岩手郡雫石町長山有根3-5",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://lodge-tachibana.lolipop.jp/",
+      "sources": [
+        "https://onsen.nifty.com/shizukuishi-onsen/onsen000454/"
+      ],
+      "confidence": "low",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください",
+      "note": "ニフティのみ"
+    },
+    {
+      "name": "新山根温泉 べっぴんの湯",
+      "address": "岩手県久慈市山根町下戸鎖4-5-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.yamane-onsen.com/",
+      "sources": [
+        "https://onsen.nifty.com/rikuchuukaigan-onsen/onsen000357/"
+      ],
+      "confidence": "medium",
+      "note": "公式に料金記載なし。ニフティの料金"
+    },
+    {
+      "name": "永岡温泉 夢の湯",
+      "address": "岩手県胆沢郡金ケ崎町永沢石持沢6-284",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://yumenoyu.jp/",
+      "sources": [
+        "https://onsen.nifty.com/kitakami-onsen/onsen000402/"
+      ],
+      "confidence": "medium",
+      "notice": "不定休",
+      "note": "公式ページ本文取得不可。ニフティのみ"
+    },
+    {
+      "name": "志賀来温泉 沢内バーデン",
+      "address": "岩手県和賀郡西和賀町沢内大野17地割140",
+      "weekdayAdult": 440,
+      "holidayAdult": 440,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.nishiwaga.biz/hot-spring/sawauchi-baden/",
+      "sources": [
+        "https://www.nishiwaga.biz/hot-spring/sawauchi-baden/",
+        "https://onsen.nifty.com/yuda-iwate-onsen/onsen000401/"
+      ],
+      "confidence": "medium",
+      "notice": "第3水曜定休",
+      "note": "料金は町観光サイト、サウナはニフティ"
+    },
+    {
+      "name": "岩手山焼走り国際交流村 焼走りの湯",
+      "address": "岩手県八幡平市平笠24-728",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://iwatetabi.jp/spots/60148/",
+      "sources": [
+        "https://onsen.nifty.com/hachimantai-iwate-onsen/onsen000451/"
+      ],
+      "confidence": "medium",
+      "note": "ニフティのみ"
+    },
+    {
+      "name": "千貫石温泉 湯元東館",
+      "address": "岩手県胆沢郡金ケ崎町西根二枚橋5-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.azumakanyumoto.com/senganishionsen",
+      "sources": [
+        "https://www.azumakanyumoto.com/senganishionsen",
+        "https://onsen.nifty.com/kitakami-onsen/onsen011358/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式、サウナはニフティ・サウナイキタイ"
+    },
+    {
+      "name": "東八幡平温泉 なかやま温泉館",
+      "address": "岩手県八幡平市松尾寄木2-512",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.hachimantai-ss.co.jp/~nakayamasou/",
+      "sources": [
+        "https://www.hachimantai-ss.co.jp/~nakayamasou/",
+        "https://onsen.nifty.com/hachimantai-iwate-onsen/onsen012314/"
+      ],
+      "confidence": "medium",
+      "notice": "第1・第3月曜定休",
+      "note": "料金は公式、サウナはニフティ"
+    },
+    {
+      "name": "おらほの温泉",
+      "address": "岩手県八幡平市大更18-88-208",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://orahono-onsen.net/",
+      "sources": [
+        "https://orahono-onsen.net/",
+        "https://onsen.nifty.com/hachimantai-iwate-onsen/onsen018683/"
+      ],
+      "confidence": "medium",
+      "note": "料金は公式（ニフティは500円で古い）。サウナはニフティ"
+    },
+    {
+      "name": "大谷温泉",
+      "address": "岩手県九戸郡洋野町種市74-137-14",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.ooyaonsen.com/",
+      "sources": [
+        "https://onsen.nifty.com/rikuchuukaigan-onsen/onsen016499/"
+      ],
+      "confidence": "medium",
+      "note": "公式は証明書エラーで取得不可。ニフティのみ"
+    },
+    {
+      "name": "リバーパークにいさと 湯ったり館",
+      "address": "岩手県宮古市茂市8-53",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.miyakoyuttari.jp/higaeri/index.html",
+      "sources": [
+        "https://onsen.nifty.com/rikuchuukaigan-onsen/onsen000373/"
+      ],
+      "confidence": "medium",
+      "note": "公式は証明書エラーで取得不可。ニフティのみ"
+    },
+    {
+      "name": "ラ・フランス温泉館",
+      "address": "岩手県紫波郡紫波町小屋敷字新在家90番地",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.lafrance.co.jp/",
+      "sources": [
+        "https://onsen.nifty.com/morioka-onsen/onsen000360/",
+        "https://www.lafrance.co.jp/"
+      ],
+      "confidence": "medium",
+      "notice": "毎月第3水曜休業。2026/11/19は日帰り入浴15:00〜21:00",
+      "note": "公式の料金表は画像で読めず、料金はニフティ"
+    },
+    {
+      "name": "しゃくなげの湯っこ 五葉温泉",
+      "address": "岩手県大船渡市日頃市町字赤坂西風山1-5",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80002669"
+      ],
+      "confidence": "low",
+      "notice": "火曜定休",
+      "note": "公式サイト見当たらず。料金はるるぶ（ポータルにより700円の表記もあり）。泉質はアルカリ性単純冷鉱泉"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "SPA銭湯 ゆっこ盛岡",
+      "reason": "公式に天然温泉・泉質の記載がなく天然温泉を確認できない"
+    },
+    {
+      "name": "KANAN SPA（HOTEL MAZARIUM）",
+      "reason": "天然温泉ではない（炭酸泉と普通湯）"
+    },
+    {
+      "name": "たかむろ水光園",
+      "reason": "公式に天然温泉の記載なし（角閃石風呂）"
+    },
+    {
+      "name": "夏虫のお湯っこ",
+      "reason": "人工温泉（ヘルストン温泉）"
+    },
+    {
+      "name": "アグリパークおおさわ",
+      "reason": "人工温泉（ヘルストン温泉）"
+    },
+    {
+      "name": "三陸四季湯彩 ますと乃湯",
+      "reason": "天然水の風呂で温泉ではない"
+    },
+    {
+      "name": "おおの健康の湯",
+      "reason": "漢方薬湯で天然温泉ではない"
+    },
+    {
+      "name": "休暇村 陸中宮古",
+      "reason": "人工泉（ラヂウム鉱砂）"
+    },
+    {
+      "name": "ホテル森の風鶯宿",
+      "reason": "日帰り入浴が2026年5月末で終了との情報があり、継続を公式で確認できない"
+    },
+    {
+      "name": "つなぎ温泉 ホテル紫苑",
+      "reason": "2025/6から日帰りは「ひとりじめの湯」のみで、日帰り客が使えるサウナを確認できない"
+    },
+    {
+      "name": "亀の井ホテル 一関",
+      "reason": "日帰り入浴でのサウナの有無を確認できない"
+    },
+    {
+      "name": "ひづめゆ",
+      "reason": "公式に温泉・泉質の記載がなく天然温泉を確認できない"
+    },
+    {
+      "name": "盛岡市余熱利用健康増進センター ゆぴあす",
+      "reason": "余熱利用施設で、天然温泉を公式で確認できない（公式サイト接続不可）"
+    },
+    {
+      "name": "田代平高原 七時雨山荘",
+      "reason": "温泉ではなく天然水の風呂・薪サウナ"
+    },
+    {
+      "name": "ふれあい宿舎 グリーンテージ",
+      "reason": "天然温泉・日帰り料金を公式で確認できない"
+    },
+    {
+      "name": "久慈サウナ",
+      "reason": "天然温泉を確認できない（男性専用サウナ）"
+    },
+    {
+      "name": "ゆこたんの森",
+      "reason": "サウナなし"
+    },
+    {
+      "name": "うみねこ温泉 湯らっくす",
+      "reason": "人工温泉"
+    },
+    {
+      "name": "岩泉龍泉洞ホテル 龍のすみか（旧 龍泉洞温泉ホテル）",
+      "reason": "温泉ではない（公式に「温泉ではありません」）"
+    },
+    {
+      "name": "国民宿舎 えぼし荘",
+      "reason": "公式に天然温泉の記載がなく確認できない"
+    },
+    {
+      "name": "古戦場（一関）",
+      "reason": "天然温泉を確認できない"
+    },
+    {
+      "name": "おふろランド北上",
+      "reason": "天然温泉を確認できない"
+    },
+    {
+      "name": "温泉café ぷらね",
+      "reason": "天然温泉・料金を公式で確認できない"
+    },
+    {
+      "name": "二戸シティホテル",
+      "reason": "日帰り入浴の有無・料金を確認できない"
+    },
+    {
+      "name": "蔵ホテル一関",
+      "reason": "日帰り入浴・天然温泉・サウナを公式で確認できない"
+    },
+    {
+      "name": "陸中海岸グランドホテル",
+      "reason": "日帰り入浴の有無・料金を確認できない"
+    },
+    {
+      "name": "鶯宿温泉 ホテル加賀助",
+      "reason": "日帰り料金・日帰り客のサウナ利用を公式で確認できない"
+    },
+    {
+      "name": "ホテルベルンドルフ ぶどうの湯",
+      "reason": "公式ページが見つからず、料金・サウナを確認できない"
+    },
+    {
+      "name": "山王山温泉 瑞泉郷",
+      "reason": "サウナの有無を確認できない"
+    },
+    {
+      "name": "久慈健康ランド 古墳ノゆ",
+      "reason": "営業状況を確認できない（ポータルに休業中の記載、公式サイト消滅）"
+    },
+    {
+      "name": "マースやはばパストラルバーデン",
+      "reason": "閉館"
+    },
+    {
+      "name": "赤湯温泉健康ランド",
+      "reason": "閉館"
+    },
+    {
+      "name": "金田一温泉センター ゆうゆうゆ～らく",
+      "reason": "閉館"
+    },
+    {
+      "name": "マース北上",
+      "reason": "閉館"
+    },
+    {
+      "name": "ぬくもりの里NUC",
+      "reason": "閉館"
+    },
+    {
+      "name": "御所湖温泉 ホテル花の湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "宮古湾温泉 MARS",
+      "reason": "閉館"
+    },
+    {
+      "name": "けんじワールド銀河温泉 森のしずく",
+      "reason": "閉館"
+    },
+    {
+      "name": "峠山パークランド・オアシス館",
+      "reason": "休業中"
+    },
+    {
+      "name": "マリンサイドスパたねいち",
+      "reason": "公式に天然温泉・サウナの記載がなく確認できない"
+    },
+    {
+      "name": "グリーンピア三陸みやこ",
+      "reason": "光明石温泉（人工温泉）"
+    },
+    {
+      "name": "湯川温泉 高繁旅館",
+      "reason": "公式サイト取得不可で日帰り料金・日帰り客のサウナ利用を確認できない"
+    },
+    {
+      "name": "平庭山荘 しらかばの湯",
+      "reason": "サウナの有無・現行料金を確認できない"
+    },
+    {
+      "name": "ふるさとの湯っこ（九戸村）",
+      "reason": "料金・天然温泉を確認できない"
+    },
+    {
+      "name": "岩手の名湯 侍の湯 おぼない",
+      "reason": "日帰り料金・サウナを確認できない"
+    },
+    {
+      "name": "ホテル羅賀荘",
+      "reason": "日帰り入浴の料金・サウナ利用可否を確認できない"
+    },
+    {
+      "name": "綿帽子温泉館 あずみの湯",
+      "reason": "基準日時点で沸かし湯営業（天然温泉ではない）"
+    }
+  ],
+  "notes": "ニフティ温泉の日帰り一覧・サウナ一覧とサウナイキタイの岩手県一覧（158件）から候補を洗い出し、公式サイトで確認。公式に料金のテキストがない施設はニフティ等の料金でmedium。三陸沿岸のホテル（釜石・宮古・大槌・田野畑など）と安比・八幡平のリゾートホテルは日帰り入浴の可否を確認しきれず未収録。サウナイキタイ・ニフティの個別ページは一部取得不可（405）。"
+}

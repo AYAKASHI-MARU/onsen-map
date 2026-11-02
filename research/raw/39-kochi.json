@@ -1,0 +1,401 @@
+{
+  "prefecture": "高知県",
+  "prefCode": "39",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "天然の湯 ながおか温泉",
+      "address": "高知県南国市下末松106",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "遠赤外線サウナ（90〜100℃）・アロマスチームサウナ（50〜55℃）",
+      "url": "https://www.nagaokaonsen.com/",
+      "sources": [
+        "https://www.nagaokaonsen.com/use",
+        "https://www.nagaokaonsen.com/bath"
+      ],
+      "confidence": "high",
+      "notice": "第2水曜休み（祝日の場合は第3水曜）"
+    },
+    {
+      "name": "姫若子の湯",
+      "address": "高知県高知市海老ノ丸12-2",
+      "weekdayAdult": 900,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "大人は12歳以上",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯：遠赤外線高温サウナ（毎時30分オートロウリュ）・窯風呂（スチーム）／女湯：遠赤外線・窯風呂・塩サウナ",
+      "url": "https://www.himewako.jp/",
+      "sources": [
+        "https://www.himewako.jp/",
+        "https://www.himewako.jp/sauna/"
+      ],
+      "confidence": "high",
+      "notice": "第2火曜は17:00から営業"
+    },
+    {
+      "name": "天然温泉 はるのの湯",
+      "address": "高知県高知市春野町西分3546",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ風呂・水風呂",
+      "url": "https://www.harunonoyu.co.jp/",
+      "sources": [
+        "https://www.harunonoyu.co.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "女湯の露天風呂は一時利用休止中（2026年10月時点）"
+    },
+    {
+      "name": "天然温泉 高知ぽかぽか温泉",
+      "address": "高知県高知市北川添8-20",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ・塩サウナ",
+      "url": "https://www.souyu.co.jp/shisetsu/kouchi_pokapoka",
+      "sources": [
+        "https://www.souyu.co.jp/shisetsu/kouchi_pokapoka"
+      ],
+      "confidence": "high",
+      "notice": "第3火曜休み"
+    },
+    {
+      "name": "天然湧出温泉 土佐ぽかぽか温泉",
+      "address": "高知県高知市神田1197-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "スチーム"
+      ],
+      "saunaNote": "サウナ・塩サウナ・蒸しサウナ（足湯付き）",
+      "url": "https://www.souyu.co.jp/shisetsu/tosa_pokapoka",
+      "sources": [
+        "https://www.souyu.co.jp/shisetsu/tosa_pokapoka"
+      ],
+      "confidence": "high",
+      "notice": "第3木曜休み"
+    },
+    {
+      "name": "アシズリテルメ",
+      "address": "高知県土佐清水市足摺岬東畑1433-3",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://ashizurithermae.jp/",
+      "sources": [
+        "https://ashizurithermae.jp/facility/hot_spring.php"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは15:00〜21:00（札止め20:30）"
+    },
+    {
+      "name": "ホテル松葉川温泉",
+      "address": "高知県高岡郡四万十町日野地605-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "町外料金（四万十町在住者500円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.matsubakawa.jp/",
+      "sources": [
+        "https://www.matsubakawa.jp/hotsprings/"
+      ],
+      "confidence": "high",
+      "notice": "水曜は16:00から。設備点検等で臨時休業あり"
+    },
+    {
+      "name": "オーベルジュ土佐山",
+      "address": "高知県高知市土佐山東川661",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.orienthotel.jp/tosayama/",
+      "sources": [
+        "https://www.orienthotel.jp/tosayama/stay/",
+        "https://www.orienthotel.jp/tosayama/"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは10:30〜20:30（毎週火曜は15:00から）"
+    },
+    {
+      "name": "道の駅木の香 木の香温泉",
+      "address": "高知県吾川郡いの町桑瀬225-16",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://konokaonsen.jp/",
+      "sources": [
+        "https://konokaonsen.jp/facility/natural_hot_spring.php"
+      ],
+      "confidence": "high",
+      "notice": "火曜休み"
+    },
+    {
+      "name": "高知黒潮ホテル 黒潮温泉 龍馬の湯",
+      "address": "高知県香南市野市町東野1630",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "檜張りサウナ",
+      "url": "https://ryusei-family.com/spa/",
+      "sources": [
+        "https://ryusei-family.com/spa/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "name": "ホテル星羅四万十",
+      "address": "高知県四万十市西土佐用井1100",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "男湯ドライサウナ・女湯ミストサウナ",
+      "url": "https://www.seirashimanto.com/",
+      "sources": [
+        "https://www.seirashimanto.com/spa.htm",
+        "https://rurubu.jp/andmore/spot/80037329"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは7:00〜9:00・16:00〜22:00（土日祝は11:00〜14:00も）",
+      "note": "用井温泉（温泉法第2条該当・冷泉加温）はるるぶ等で確認"
+    },
+    {
+      "name": "宿毛リゾート 椰子の湯",
+      "address": "高知県宿毛市大島17-27",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "2026/6/1改定料金",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://yashinoyu.com/",
+      "sources": [
+        "https://yashinoyu.com/onsen.html",
+        "https://yashinoyu.com/guide.html"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り客がサウナを使えるかは施設にご確認ください。日帰りは6:00〜8:30・12:00〜20:00",
+      "note": "館内案内にサウナあり。温泉ページにサウナの記載なし"
+    },
+    {
+      "name": "四万十いやしの里 四万十の宿（四万十いやしの湯）",
+      "address": "高知県四万十市下田3370",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナ・水風呂",
+      "url": "https://www.shimantonoyado.co.jp/",
+      "sources": [
+        "https://www.shimantonoyado.co.jp/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは6:30〜21:00（4〜10月は6:00から）"
+    },
+    {
+      "name": "雲の上の温泉",
+      "address": "高知県高岡郡檮原町太郎川3799-3",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町内500円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.kumonouegroup.com/onsen-pool",
+      "sources": [
+        "https://www.kumonouegroup.com/onsen-pool"
+      ],
+      "confidence": "high",
+      "notice": "月曜休み（祝日の場合は翌日）。火曜は15:00から"
+    },
+    {
+      "name": "たのたの温泉",
+      "address": "高知県安芸郡田野町636-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "乾式サウナ",
+      "url": "http://usui-kai.com/tanotano/",
+      "sources": [
+        "https://onsen.nifty.com/aki-onsen/onsen012076/",
+        "http://usui-kai.com/tanotano/index.html"
+      ],
+      "confidence": "medium",
+      "notice": "木曜休み（祝日は営業）",
+      "note": "公式に料金の記載なし。料金はニフティ温泉"
+    },
+    {
+      "name": "吾北むささび温泉",
+      "address": "高知県吾川郡いの町小川東津賀才53-1",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/susaki-onsen/onsen011200/",
+      "sources": [
+        "https://onsen.nifty.com/susaki-onsen/onsen011200/"
+      ],
+      "confidence": "medium",
+      "notice": "木曜休み",
+      "note": "公式サイトなし。ニフティ温泉の料金（2026/3の口コミで2025年から800円と言及）"
+    },
+    {
+      "name": "土佐佐賀温泉 こぶしのさと",
+      "address": "高知県幡多郡黒潮町拳ノ川2161",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://kobushinosato-kuroshio.jp/",
+      "sources": [
+        "https://onsen.nifty.com/shimanto-onsen/onsen011147/"
+      ],
+      "confidence": "medium",
+      "notice": "水曜・第2第4火曜休み",
+      "note": "公式サイトはJS描画で本文を取得できず。料金はニフティ温泉"
+    },
+    {
+      "name": "高知三翠園 天然温泉 湯殿水哉閣",
+      "address": "高知県高知市鷹匠町1-3-35",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.sansuien.co.jp/",
+      "sources": [
+        "https://rurubu.jp/andmore/spot/80037123",
+        "https://onsen.nifty.com/kouchi-onsen/onsen004011/"
+      ],
+      "confidence": "low",
+      "notice": "日帰りは10:00〜16:00",
+      "note": "公式サイトに接続できず。るるぶ・ニフティは1,200円、じゃらんは1,100円で食い違い"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "城西館",
+      "reason": "公式に温泉・泉質の記載がなく天然温泉と確認できない"
+    },
+    {
+      "name": "土佐御苑",
+      "reason": "沸かし湯（温泉ではない）と公式に明記"
+    },
+    {
+      "name": "リゾートホテル海辺の果樹園",
+      "reason": "公式に温泉の記載がなく天然温泉と確認できない"
+    },
+    {
+      "name": "四万十源流の里",
+      "reason": "地下水と源流水のブレンドの鉱泉で温泉法上の温泉と確認できない。日帰りは土曜のみ"
+    },
+    {
+      "name": "天然の湯宿 龍河温泉",
+      "reason": "サウナなしと公式に明記"
+    },
+    {
+      "name": "中津渓谷 ゆの森",
+      "reason": "公式の温泉案内にサウナの記載なし"
+    },
+    {
+      "name": "土佐和紙工芸村 QRAUD",
+      "reason": "日帰り料金・泉質を確認できない"
+    },
+    {
+      "name": "SAUNA グリンピア",
+      "reason": "貸切個室サウナ施設で、温泉浴槽を確認できない"
+    },
+    {
+      "name": "シレストむろと",
+      "reason": "海洋深層水の施設で温泉ではない"
+    },
+    {
+      "name": "高砂湯",
+      "reason": "銭湯。天然温泉と確認できない"
+    },
+    {
+      "name": "清水湯",
+      "reason": "銭湯。天然温泉と確認できない"
+    },
+    {
+      "name": "べふ峡温泉",
+      "reason": "休業中（再開日未定）"
+    },
+    {
+      "name": "よさこい温泉 ロイヤルホテル土佐",
+      "reason": "閉館"
+    },
+    {
+      "name": "ファミリー温泉 湯川",
+      "reason": "閉館"
+    },
+    {
+      "name": "四万十温泉 平和な湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "千舞温泉",
+      "reason": "閉館"
+    },
+    {
+      "name": "中追温泉",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "ニフティ温泉の高知県サウナ一覧（47件）と全施設一覧（日帰り可）を基に確認。馬路温泉・北川村温泉・黒潮本陣・土佐龍温泉など日帰り温泉の多くはサウナの記載がなく対象外。ホテルの宿泊者専用サウナは対象外"
+}

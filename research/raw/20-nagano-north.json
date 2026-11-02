@@ -1,0 +1,960 @@
+{
+  "prefecture": "長野県",
+  "prefCode": "20",
+  "area": "北信・東信",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "name": "権堂温泉テルメDOME",
+      "address": "長野県長野市権堂町1437-5",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "低温サウナは女湯のみ",
+      "url": "https://gondo-onsen.com/",
+      "sources": [
+        "https://gondo-onsen.com/guide/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "川中島温泉テルメDOME",
+      "address": "長野県長野市川中島町今井1780-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "別館ミュージックロウリュウサウナ・岩盤浴は+650円",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.kawanakajimaonsen.com/",
+      "sources": [
+        "https://www.kawanakajimaonsen.com/guide/",
+        "https://onsen.nifty.com/ueda-onsen/onsen012677/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 まめじま湯ったり苑",
+      "address": "長野県長野市大豆島1641",
+      "weekdayAdult": 900,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "低温サウナは男湯、塩サウナは女湯のみ",
+      "url": "https://www.yuttarien.com/mamejima/",
+      "sources": [
+        "https://www.yuttarien.com/mamejima/open/",
+        "https://www.yuttarien.com/mamejima/guide/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "裾花峡天然温泉宿 うるおい館",
+      "address": "長野県長野市妻科98",
+      "weekdayAdult": 800,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "特別期間（年末年始・GW・お盆等）1,000円",
+      "saunaTypes": [],
+      "saunaNote": "15歳未満は利用不可。種類は未確認",
+      "url": "https://uruoikan.com/",
+      "sources": [
+        "https://uruoikan.com/guide/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "大室温泉 まきばの湯",
+      "address": "長野県長野市松代町大室4108-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ用ウェアのリース700円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "着衣（Tシャツ・パンツ等）で利用。裸での利用不可",
+      "url": "https://makibanoyu.com/",
+      "sources": [
+        "https://makibanoyu.com/price/",
+        "https://makibanoyu.com/spa/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日は月・火曜（祝日は営業）",
+      "note": "サウナ利用料の有無は未確認"
+    },
+    {
+      "name": "豊野温泉りんごの湯",
+      "address": "長野県長野市豊野町石417",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://ringonoyu.co.jp/",
+      "sources": [
+        "https://ringonoyu.co.jp/price/",
+        "https://ringonoyu.co.jp/hot-spring/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "コトリの湯",
+      "address": "長野県長野市松代町東条2832",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "巣ごもり（16時までの入場・上限6時間）。ひとっぷろ90分 650/700円。連休期間は別料金",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://kotorinoyu.jp/",
+      "sources": [
+        "https://kotorinoyu.jp/information/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は木曜（祝日の場合は翌平日）",
+      "note": "冷鉱泉（皆神温泉・松代城下温泉の混合泉）"
+    },
+    {
+      "name": "温湯温泉 湯～ぱれあ",
+      "address": "長野県長野市若穂綿内1330-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライは北側浴室、ミストは南側浴室（男女入替制）",
+      "url": "https://www.u-parea.jp/",
+      "sources": [
+        "https://www.u-parea.jp/wordpress/guide/",
+        "https://www.u-parea.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第2・第4木曜",
+      "note": ""
+    },
+    {
+      "name": "中尾山温泉 松仙閣",
+      "address": "長野県長野市篠ノ井小松原2475",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "サウナはポータル情報",
+      "url": "https://www.shyosenkaku.co.jp/",
+      "sources": [
+        "https://www.shyosenkaku.co.jp/page1",
+        "https://onsen.nifty.com/naganoshuuhen-onsen/onsen007236/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は13～20時。火・水曜は休み",
+      "note": ""
+    },
+    {
+      "name": "天然温泉 ホテルリブマックスPREMIUM長野駅前",
+      "address": "長野県長野市大字栗田2145",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "入湯税100円別",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://www.hotel-livemax.com/nagano/naganost/",
+      "sources": [
+        "https://onsen.nifty.com/naganoshuuhen-onsen/onsen016678/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "運び湯。料金はポータル情報"
+    },
+    {
+      "name": "メルキュール 長野松代 リゾート＆スパ",
+      "address": "長野県長野市松代町西寺尾1372-1",
+      "weekdayAdult": 2500,
+      "holidayAdult": null,
+      "saunaFee": 0,
+      "priceNote": "ラウンジ・タオル込み",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ。種類は未確認",
+      "url": "https://mercure-naganomatsushiro-resortandspa.jp/",
+      "sources": [
+        "https://mercure-naganomatsushiro-resortandspa.jp/news/higaerionsen/"
+      ],
+      "confidence": "medium",
+      "notice": "日帰り入浴は平日15～22時のみ（土日祝・特定日は不可）",
+      "note": "日帰り客のサウナ利用はポータル（サウナイキタイ）情報"
+    },
+    {
+      "name": "湯のさと ちくま 白鳥園",
+      "address": "長野県千曲市大字戸倉2254",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://www.hakuchoen.jp/",
+      "sources": [
+        "https://hakuchoen.jp/#price"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第2・第4火曜",
+      "note": ""
+    },
+    {
+      "name": "湯の華銭湯 瑞祥 上山田本館",
+      "address": "長野県千曲市上山田温泉2-18-8",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "22時以降+100円",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://zuisho.com/",
+      "sources": [
+        "https://zuisho.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第3火曜",
+      "note": "源泉掛け流し"
+    },
+    {
+      "name": "天然温泉付 ホテル プラトン",
+      "address": "長野県千曲市上山田温泉3-12-2",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "2025/4/1に500円から改定。入湯税150円別（ポータル情報）",
+      "saunaTypes": [],
+      "saunaNote": "2人用の低温サウナ（ポータル情報）",
+      "url": "http://www.hotel-platon.jp/",
+      "sources": [
+        "http://www.hotel-platon.jp/",
+        "https://onsen.nifty.com/naganoshuuhen-onsen/onsen013490/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "湯っ蔵んど",
+      "address": "長野県須坂市大字仁礼7",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "平日17時以降550円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "臥竜の湯に塩・高温、鎌田の湯にスチーム・高温（種類はポータル情報）",
+      "url": "http://www.yukkuland.jp/",
+      "sources": [
+        "http://www.yukkuland.jp/floor/index.php",
+        "http://www.yukkuland.jp/topics/index.php"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "湯の駅 ぽんぽこ",
+      "address": "長野県中野市間山956",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://ryuoo.com/ponpoko",
+      "sources": [
+        "https://ryuoo.com/ponpoko"
+      ],
+      "confidence": "high",
+      "notice": "定休日は木曜（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "豊田温泉公園 もみじ荘",
+      "address": "長野県中野市大字上今井3460-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "2025/10/1改定",
+      "saunaTypes": [],
+      "saunaNote": "サウナ付浴室（種類は未確認）",
+      "url": "https://www.city.nakano.nagano.jp/docs/2017042000040/",
+      "sources": [
+        "https://www.city.nakano.nagano.jp/docs/2017042000040/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は水曜（祝日は営業）",
+      "note": "湯ノ入温泉"
+    },
+    {
+      "name": "小布施温泉 あけびの湯",
+      "address": "長野県上高井郡小布施町雁田1311",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "GW・お盆・年末年始は800円",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://obuse-akebinoyu.co.jp/",
+      "sources": [
+        "https://obuse-akebinoyu.co.jp/day-trip/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "おぶせ温泉 穴観音の湯",
+      "address": "長野県上高井郡小布施町雁田1194",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.obuseonsen.sakura.ne.jp/",
+      "sources": [
+        "http://www.obuseonsen.sakura.ne.jp/",
+        "http://www.obuseonsen.sakura.ne.jp/plan.html"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": ""
+    },
+    {
+      "name": "まだらおの湯",
+      "address": "長野県中野市永江8156-649",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "室内サウナ・バレルサウナ（ポータル情報）",
+      "url": "https://madaraonoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/iiyama-nagano-onsen/onsen002372/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日は火曜（祝日は営業）",
+      "note": "公式の料金は画像のみで未確認"
+    },
+    {
+      "name": "むれ温泉 天狗の館",
+      "address": "長野県上水内郡飯綱町川上2755-345",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "サウナ室（種類は未確認）",
+      "url": "https://tengunoyakata.com/",
+      "sources": [
+        "https://tengunoyakata.com/onsen",
+        "https://tengunoyakata.com/reservation"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第3火曜（祝日の場合は翌日）。11月に臨時休館日あり",
+      "note": "泉質は冷鉱泉"
+    },
+    {
+      "name": "湯田中温泉大浴場 吉の湯（ホテルゆだなか）",
+      "address": "長野県下高井郡山ノ内町平穏3246-2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女各1室",
+      "url": "https://www.yudanaka.com/",
+      "sources": [
+        "https://www.yudanaka.com/hot_spring"
+      ],
+      "confidence": "high",
+      "notice": "日帰りは11～21時（水曜は15時から）",
+      "note": ""
+    },
+    {
+      "name": "傳習館 とらやの湯",
+      "address": "長野県下高井郡山ノ内町佐野2592-22",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男女別にサウナ（種類は未確認）",
+      "url": "http://denshukan.com/",
+      "sources": [
+        "http://denshukan.com/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日は水曜（祝日の場合は翌日）",
+      "note": ""
+    },
+    {
+      "name": "野沢温泉スパリーナ",
+      "address": "長野県下高井郡野沢温泉村豊郷6748",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "冬季はリフト1日券提示で100円引き",
+      "saunaTypes": [],
+      "saunaNote": "男女別サウナ（種類は未確認）",
+      "url": "https://nozawaski.com/spa/",
+      "sources": [
+        "https://nozawaski.com/spa/about/",
+        "https://nozawaski.com/spa/onsen-pool/"
+      ],
+      "confidence": "high",
+      "notice": "11/9～11/20はメンテナンス休館。定休日は水曜（スキーシーズン等は無休）",
+      "note": ""
+    },
+    {
+      "name": "SBCリゾート木島平",
+      "address": "長野県下高井郡木島平村上木島3878-2",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "大浴場にサウナ（種類は未確認）",
+      "url": "https://resortkijimadaira.jp/",
+      "sources": [
+        "https://resortkijimadaira.jp/facility/publicbath/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "天然温泉であることはポータル情報のみ"
+    },
+    {
+      "name": "斑尾高原ホテル",
+      "address": "長野県飯山市斑尾高原11492-321",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "4～11月の料金。12～3月は1,500円",
+      "saunaTypes": [],
+      "saunaNote": "サウナは15～23時",
+      "url": "https://www.madarao.jp/hotel/",
+      "sources": [
+        "https://www.madarao.jp/hotel/hot-spring"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "タングラム斑尾温泉（ホテルタングラム）",
+      "address": "長野県上水内郡信濃町古海3575-8",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "レンタルタオル・入湯税込",
+      "saunaTypes": [],
+      "saunaNote": "サウナは15時から",
+      "url": "https://www.tangram.jp/",
+      "sources": [
+        "https://www.tangram.jp/green/facility/facility/hotspring.php"
+      ],
+      "confidence": "high",
+      "notice": "火曜は15時から（特別清掃）",
+      "note": "ホテルハーヴェスト斑尾と同一住所の大浴場。運び湯（延徳温泉）"
+    },
+    {
+      "name": "地蔵温泉 十福の湯",
+      "address": "長野県上田市真田町傍陽9097-70",
+      "weekdayAdult": 900,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "平日17時以降700円。繁忙期1,000円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女各1室（ひのきの薪サウナ）",
+      "url": "https://zippuku.net/",
+      "sources": [
+        "https://zippuku.net/information"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "UUueda（ユーユーウエダ）",
+      "address": "長野県上田市住吉79-12",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙期は1,000円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ・セルフロウリュの2種",
+      "url": "https://uu-ueda.jp/",
+      "sources": [
+        "https://uu-ueda.jp/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "name": "武石温泉 うつくしの湯",
+      "address": "長野県上田市上武石1454-3",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "大浴場は週替わりで男女入替",
+      "url": "http://www.unkeiso.com/utukushi.html",
+      "sources": [
+        "http://www.unkeiso.com/utukushi.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日は水曜",
+      "note": ""
+    },
+    {
+      "name": "室賀温泉 ささらの湯",
+      "address": "長野県上田市上室賀1232-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（5～8時）350円",
+      "saunaTypes": [],
+      "saunaNote": "男女各1室（種類は未確認）",
+      "url": "https://www.city.ueda.nagano.jp/nosei/tanoshimu/onsen/sasara/",
+      "sources": [
+        "https://www.city.ueda.nagano.jp/soshiki/nosei/3412.html",
+        "https://www.city.ueda.nagano.jp/nosei/tanoshimu/onsen/sasara/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第2・第4木曜（祝日の場合は翌金曜）",
+      "note": ""
+    },
+    {
+      "name": "湯楽里館",
+      "address": "長野県東御市和3875",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "2026/4/1改定",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "http://www.tomi-kosya.com/yurarikan/yurarikan.html",
+      "sources": [
+        "http://www.tomi-kosya.com/yurarikan/yurarikan.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日は水曜（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "信州布引温泉 御牧乃湯",
+      "address": "長野県東御市布下35-4",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "2026/4/1改定",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "http://www.tomi-kosya.com/mimakinoyu/mimakinoyu.html",
+      "sources": [
+        "http://www.tomi-kosya.com/mimakinoyu/mimakinoyu.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日は木曜",
+      "note": ""
+    },
+    {
+      "name": "ゆぅふるtanaka",
+      "address": "長野県東御市田中278-18",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://yufuru-tanaka.com/",
+      "sources": [
+        "https://onsen.nifty.com/komoro-onsen/onsen002229/",
+        "http://www.tomi-kosya.com/mimakinoyu/mimakinoyu.html"
+      ],
+      "confidence": "medium",
+      "notice": "定休日は火曜",
+      "note": "料金はポータル情報（東御市温泉4施設は2026/4/1に料金改定）"
+    },
+    {
+      "name": "あぐりの湯こもろ",
+      "address": "長野県小諸市大字大久保1145-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://agri-yu.com/",
+      "sources": [
+        "https://agri-yu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第2・第4火曜（祝日の場合は翌日）",
+      "note": ""
+    },
+    {
+      "name": "平尾温泉 みはらしの湯",
+      "address": "長野県佐久市下平尾2682",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://www.hiraoonsen.jp/",
+      "sources": [
+        "https://www.hiraoonsen.jp/info/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "冷鉱泉"
+    },
+    {
+      "name": "佐久一萬里温泉ホテル",
+      "address": "長野県佐久市中込3150-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "サウナと低温（ミスト）サウナ",
+      "url": "https://breezbay-group.com/saku-ichimanri/",
+      "sources": [
+        "https://breezbay-group.com/saku-ichimanri/bath/index.html"
+      ],
+      "confidence": "high",
+      "notice": "男性浴場のサウナは設備故障のため休止中。11/16・17は全館休館",
+      "note": ""
+    },
+    {
+      "name": "布施温泉",
+      "address": "長野県佐久市布施1228",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライとミストを日替わりで男女交代",
+      "url": "https://www.shinkou-saku.or.jp/fuse/",
+      "sources": [
+        "https://www.shinkou-saku.or.jp/fuse/archives/information"
+      ],
+      "confidence": "high",
+      "notice": "定休日は水曜、第2・第4金曜",
+      "note": ""
+    },
+    {
+      "name": "日帰り温泉 八風温泉（ルグラン軽井沢ホテル＆リゾート）",
+      "address": "長野県北佐久郡軽井沢町発地864-4",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "GW・夏期・年末年始・連休は1,800円",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://www.legrand-karuizawaresort.jp/happu_onsen/",
+      "sources": [
+        "https://www.legrand-karuizawaresort.jp/happu_onsen/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "近隣住民向けの会員割引あり"
+    },
+    {
+      "name": "星野温泉 トンボの湯",
+      "address": "長野県北佐久郡軽井沢町星野",
+      "weekdayAdult": 1550,
+      "holidayAdult": 1550,
+      "saunaFee": 0,
+      "priceNote": "4～11月・年末年始の料金。12～3月は1,350円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "ボナサウナ（20分ごとにオートロウリュ）",
+      "url": "https://www.hoshino-area.jp/tombo-no-yu/",
+      "sources": [
+        "https://www.hoshino-area.jp/tombo-no-yu/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "公式の住所表記に番地なし"
+    },
+    {
+      "name": "立ち寄りの湯 軽井沢千ヶ滝温泉",
+      "address": "長野県北佐久郡軽井沢町千ヶ滝温泉",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1350,
+      "saunaFee": 0,
+      "priceNote": "特別日（紅葉期の週末など）1,550円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "低温の遠赤外線サウナ",
+      "url": "https://www.princehotels.co.jp/sengataki/",
+      "sources": [
+        "https://www.princehotels.co.jp/sengataki/hours/",
+        "https://www.princehotels.co.jp/sengataki/facilities/"
+      ],
+      "confidence": "high",
+      "notice": "11/10～11/12はメンテナンス休業",
+      "note": "公式の住所表記に番地なし"
+    },
+    {
+      "name": "長門温泉 やすらぎの湯",
+      "address": "長野県小県郡長和町古町2436-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "小学生以下は利用不可。種類は未確認",
+      "url": "https://nagawamachi.com/yasuragi/",
+      "sources": [
+        "https://nagawamachi.com/yasuragi/access-y/",
+        "https://nagawamachi.com/yasuragi/bath/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は火曜（祝日は営業）",
+      "note": ""
+    },
+    {
+      "name": "びんぐし湯さん館",
+      "address": "長野県埴科郡坂城町大字網掛2002-4",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "20時以降400円",
+      "saunaTypes": [],
+      "saunaNote": "種類は未確認",
+      "url": "https://yusankan.co.jp/",
+      "sources": [
+        "https://yusankan.co.jp/guide/",
+        "https://yusankan.co.jp/facility/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は第4水曜",
+      "note": ""
+    },
+    {
+      "name": "北八ヶ岳松原湖温泉 八峰の湯（ヤッホーの湯）",
+      "address": "長野県南佐久郡小海町大字豊里5918-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "平日は割引で600円（GW・お盆・年末年始は700円）",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "http://www.yahho-onsen.jp/",
+      "sources": [
+        "http://www.yahho-onsen.jp/"
+      ],
+      "confidence": "high",
+      "notice": "11/4・11/5はメンテナンス休館",
+      "note": ""
+    },
+    {
+      "name": "南相木温泉 滝見の湯",
+      "address": "長野県南佐久郡南相木村5633-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "高温サウナとミストサウナ（週替わり）",
+      "url": "http://www.takiminoyu.com/",
+      "sources": [
+        "http://takiminoyu.com/information/",
+        "http://takiminoyu.com/facility/"
+      ],
+      "confidence": "high",
+      "notice": "定休日は火曜（祝日等は営業）",
+      "note": ""
+    },
+    {
+      "name": "白樺リゾート 池の平ホテル 湖天の湯",
+      "address": "長野県北佐久郡立科町芦田八ケ野1596",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "特別期間（GW・夏休み・年末年始等）2,500円。タオル・湯あみ着付き",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "男女の内湯にオートロウリュ。展望サウナは水着エリア",
+      "url": "https://www.shirakabaresort.jp/ikenotaira-hotel/hot-spring/",
+      "sources": [
+        "https://www.shirakabaresort.jp/ikenotaira-hotel/hot-spring/"
+      ],
+      "confidence": "high",
+      "notice": "12/7～12/16は休業",
+      "note": ""
+    },
+    {
+      "name": "湯元ホテル 和泉館",
+      "address": "長野県南佐久郡南牧村海ノ口933",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "低温サウナ（ポータル情報では温水で壁を温める方式）",
+      "url": "https://izumikan.com/",
+      "sources": [
+        "https://onsen.nifty.com/saku-onsen/onsen006641/",
+        "https://izumikan.com/spa.html"
+      ],
+      "confidence": "medium",
+      "notice": "露天風呂は設備不具合のため休止中",
+      "note": "料金はポータル情報"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "広徳の湯",
+      "reason": "公式に天然温泉の記載なし（トルマリン風呂）"
+    },
+    {
+      "name": "アソビーバ・ナガノパーク",
+      "reason": "公式に天然温泉の記載なし（山麓清水の浴場）"
+    },
+    {
+      "name": "信州健康村",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "湯あそびひろば ぶらっと稲田",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "湯あそびひろば ぶらっと若里店",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "滝の湯（長野市）",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "あさしな温泉 穂の香乃湯",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "洞源湖温泉 クアハウス佐久",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "マウントビューホテル朝日館",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "戸倉上山田温泉 西乃館",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "塩沢温泉 高林閣",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "軽井沢ホットスプリング",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "八ヶ岳海尻温泉 灯明の湯",
+      "reason": "閉館（ニフティ温泉の表示）"
+    },
+    {
+      "name": "春日温泉 かすがの森",
+      "reason": "休業中（ニフティ温泉の表示）"
+    },
+    {
+      "name": "The TOJIBA松川館",
+      "reason": "リニューアルのため休業中（ニフティ温泉の表示）"
+    },
+    {
+      "name": "菱野温泉 常盤館",
+      "reason": "サウナは完全予約制の別棟TOJIBA（4,800円）のみで浴場設備ではない"
+    },
+    {
+      "name": "佐久平プラザ21",
+      "reason": "天然温泉ではない（トゴールスパシステムの沸かし湯）"
+    },
+    {
+      "name": "AQUAIGNIS GARDEN SPA（軽井沢）",
+      "reason": "公式に天然温泉の記載なし（薬草湯）"
+    },
+    {
+      "name": "八ヶ岳グレイスホテル",
+      "reason": "大浴場は八ヶ岳の伏流水（天然温泉と確認できず）。日帰りは平日のみ"
+    }
+  ],
+  "notes": "北信・東信の日帰り温泉（サウナ付き）をニフティ温泉のサウナ条件一覧（市町村別）とサウナイキタイで洗い出し、公式サイトで確認。未収録（日帰り料金または日帰り客のサウナ利用を公式で確認できず）: 長野市の保科温泉・若槻温泉・あずまの湯、千曲市の上山田ホテル・清風園・福寿草、山ノ内町の志賀高原・湯田中のホテル群（志賀サンバレー、アルペンブルク、ホテルセラン、水明館など）、上田市のふれあいさなだ館・別所温泉の旅館、東御市の明神館・湯の丸高原ホテル、小諸市の小諸グランドキャッスルホテル（伊東園公式がメンテナンス中）、佐久市の春日温泉もちづき荘、立科町の蓼科レイクリゾート、小海町のガトーキングダム小海（サウナは予約制の屋外サウナで浴場内か不明）。青木村・小川村・川上村・北相木村・栄村・高山村（松川館は休業中）は該当施設を見つけられず。中信・南信は対象外。"
+}
