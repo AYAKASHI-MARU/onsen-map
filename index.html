@@ -36,8 +36,13 @@
         <button id="about-open" class="icon-btn" type="button" aria-label="このアプリについて">?</button>
       </div>
       <div class="search">
-        <input id="q" type="search" placeholder="温泉名・地名で検索" autocomplete="off" enterkeyhint="search" />
+        <input id="q" type="search" placeholder="施設名・地名で検索" autocomplete="off" enterkeyhint="search" />
         <ul id="results" class="results" hidden></ul>
+      </div>
+      <div id="kinds" class="kinds" role="group" aria-label="種類で絞り込み" hidden>
+        <button type="button" class="chip" data-kind="onsen" aria-pressed="true"><i class="dot kind-onsen"></i>天然温泉</button>
+        <button type="button" class="chip" data-kind="sento" aria-pressed="true"><i class="dot kind-sento"></i>銭湯</button>
+        <button type="button" class="chip" data-kind="super" aria-pressed="true"><i class="dot kind-super"></i>スーパー銭湯</button>
       </div>
     </header>
 
@@ -57,7 +62,7 @@
 
     <dialog id="about" class="about">
       <h2>全国温泉マップについて</h2>
-      <p>日帰り入浴ができる<strong>天然温泉</strong>のうち、<strong>サウナ</strong>のある施設を地図に表示しています。</p>
+      <p>日帰り入浴ができる<strong>天然温泉</strong>と<strong>銭湯・スーパー銭湯</strong>のうち、<strong>サウナ</strong>のある施設を地図に表示しています。上のボタンで種類ごとに表示を切り替えられます（温泉の銭湯は「天然温泉」に含みます）。</p>
       <h3>料金の見かた</h3>
       <p>大人（中学生以上）1名の通常の入浴料金です。平日＝月〜金（祝日を除く）、休日＝土日祝。会員料金や割引は含みません。サウナが別料金の施設は、その旨を表示しています。</p>
       <h3>移動時間</h3>

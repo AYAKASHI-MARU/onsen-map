@@ -28,3 +28,30 @@
 | S2 兵庫 再確認 | 28-hyogo.json の medium 施設を公式サイトで再確認し、料金・サウナを更新して high にする | 完了（high 28件昇格・5件追加、71→76件） |
 | S3 青森 料金確認 | 02-aomori.json の low 施設（主に温泉銭湯の480円）の現行料金を確認する | 完了（31件確認・1件除外＋よこはま温泉を除外） |
 | S4 千葉 銭湯 | 千葉県の天然温泉の銭湯（サウナ付き）を調べて 12-chiba.json に追加する | 完了（条件に合う銭湯なし・追加0件） |
+
+## 段階8: 銭湯・スーパー銭湯（2026-11-03 から・範囲B）
+
+天然温泉ではないサウナ付きの銭湯（sento）とスーパー銭湯（super）。指示は `research/AGENT_PROMPT_SENTO.md`、ルールは README の「銭湯・スーパー銭湯」の節。上から順に起動する。
+
+| 担当 | 範囲 | 出力ファイル | 状態 |
+|---|---|---|---|
+| B1 | 東京23区 東部（足立・葛飾・江戸川・墨田・江東・荒川・台東・北・板橋） | 13-tokyo-23ku-east-sento | 実行中 |
+| B2 | 東京23区 西部・都心（千代田・中央・港・新宿・文京・品川・目黒・大田・世田谷・渋谷・中野・杉並・豊島・練馬） | 13-tokyo-23ku-west-sento | 実行中 |
+| B3 | 大阪市 | 27-osaka-city-sento | 実行中 |
+| B4 | 大阪府（大阪市以外） | 27-osaka-other-sento | 未着手 |
+| B5 | 神奈川県 | 14-kanagawa-sento | 未着手 |
+| B6 | 埼玉県 | 11-saitama-sento | 未着手 |
+| B7 | 千葉県 | 12-chiba-sento | 未着手 |
+| B8 | 東京都 多摩・島しょ | 13-tokyo-tama-sento | 未着手 |
+| B9 | 茨城・栃木・群馬 | 08-ibaraki-sento, 09-tochigi-sento, 10-gunma-sento | 未着手 |
+| B10 | 北海道 | 01-hokkaido-sento | 未着手 |
+| B11 | 東北6県 | 02-aomori-sento, 03-iwate-sento, 04-miyagi-sento, 05-akita-sento, 06-yamagata-sento, 07-fukushima-sento | 未着手 |
+| B12 | 新潟・富山・石川・福井・長野 | 15-niigata-sento, 16-toyama-sento, 17-ishikawa-sento, 18-fukui-sento, 20-nagano-sento | 未着手 |
+| B13 | 山梨・静岡・岐阜 | 19-yamanashi-sento, 22-shizuoka-sento, 21-gifu-sento | 未着手 |
+| B14 | 愛知・三重 | 23-aichi-sento, 24-mie-sento | 未着手 |
+| B15 | 京都・滋賀・奈良 | 26-kyoto-sento, 25-shiga-sento, 29-nara-sento | 未着手 |
+| B16 | 兵庫・和歌山 | 28-hyogo-sento, 30-wakayama-sento | 未着手 |
+| B17 | 中国5県（鳥取・島根・岡山・広島・山口） | 31-tottori-sento, 32-shimane-sento, 33-okayama-sento, 34-hiroshima-sento, 35-yamaguchi-sento | 未着手 |
+| B18 | 四国4県 | 36-tokushima-sento, 37-kagawa-sento, 38-ehime-sento, 39-kochi-sento | 未着手 |
+| B19 | 九州北部（福岡・佐賀・長崎・大分） | 40-fukuoka-sento, 41-saga-sento, 42-nagasaki-sento, 44-oita-sento | 未着手 |
+| B20 | 九州南部・沖縄（熊本・宮崎・鹿児島・沖縄） | 43-kumamoto-sento, 45-miyazaki-sento, 46-kagoshima-sento, 47-okinawa-sento | 未着手 |

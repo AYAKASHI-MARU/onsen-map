@@ -38,3 +38,6 @@
 | S2 兵庫 再確認 | 28-hyogo | abb3be198db436bd4 | 完了 |
 | S3 青森 料金確認 | 02-aomori | a5020c6324bb877ae | 完了 |
 | S4 千葉 銭湯 | 12-chiba | ada7b2a7d6c27123a | 完了 |
+| B1 東京23区東部 | 13-tokyo-23ku-east-sento | afe723369428ffa85 | 実行中 |
+| B2 東京23区西部 | 13-tokyo-23ku-west-sento | a270f35c3d14a5cf2 | 実行中 |
+| B3 大阪市 | 27-osaka-city-sento | aef84a6c344eb3cb4 | 実行中 |

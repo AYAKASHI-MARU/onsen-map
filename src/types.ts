@@ -1,8 +1,12 @@
 export type Confidence = 'high' | 'medium' | 'low';
 
+// 施設の種類: 天然温泉 / 銭湯（一般公衆浴場）/ スーパー銭湯など（天然温泉ではないもの）
+export type Kind = 'onsen' | 'sento' | 'super';
+
 // public/data/onsen.json の1施設分（scripts/build-data.mjs が生成する）
 export interface Onsen {
   id: string;
+  kind: Kind;
   name: string;
   pref: string;
   address: string;

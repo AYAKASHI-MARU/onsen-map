@@ -27,6 +27,9 @@ const PREFS = [
 ];
 const prefCodeOf = (name) => String(PREFS.indexOf(name) + 1).padStart(2, '0');
 const SAUNA_TYPES = new Set(['ドライ', 'スチーム', 'ミスト', '塩', '遠赤外線', 'ロウリュ可', 'その他']);
+// 施設の種類: 天然温泉 / 銭湯（一般公衆浴場）/ スーパー銭湯など。kind が無い温泉データは onsen 扱い
+const KINDS = new Set(['onsen', 'sento', 'super']);
+const KIND_LABEL = { onsen: '天然温泉', sento: '銭湯', super: 'スーパー銭湯' };
 
 const warnings = [];
 const warn = (file, name, msg) => warnings.push({ file, name, msg });
@@ -213,10 +216,20 @@ for (const file of files) {
     const saunaTypes = (Array.isArray(f.saunaTypes) ? f.saunaTypes : []).filter((t) => SAUNA_TYPES.has(t));
     const confidence = ['high', 'medium', 'low'].includes(f.confidence) ? f.confidence : 'medium';
     const sources = (Array.isArray(f.sources) ? f.sources : []).filter(isUrl);
+    let kind = KINDS.has(f.kind) ? f.kind : null;
+    if (!kind) {
+      // 銭湯の調査ファイルで種類が無いものは、取り違えを避けるため入れない
+      if (file.includes('-sento')) {
+        warn(file, name, `kind が無い・不正なので除外: ${f.kind}`);
+        continue;
+      }
+      kind = 'onsen';
+    }
     if (!sources.length && !isUrl(f.url)) warn(file, name, '出典URLがない');
 
     candidates.push({
       file,
+      kind,
       name,
       pref,
       address,
@@ -295,13 +308,16 @@ for (const c of located) {
     continue;
   }
   warn(c.file, c.name, `重複（${dup.file} と同じ施設）`);
-  if (rank[c.confidence] > rank[dup.confidence]) kept[kept.indexOf(dup)] = c;
+  // 種類が違う重複は調査済みの天然温泉を残す。同じ種類なら信頼度の高いほう
+  const better = dup.kind !== c.kind ? c.kind === 'onsen' : rank[c.confidence] > rank[dup.confidence];
+  if (better) kept[kept.indexOf(dup)] = c;
 }
 
 // ---- 出力 ----
 kept.sort((a, b) => prefCodeOf(a.pref).localeCompare(prefCodeOf(b.pref)) || a.address.localeCompare(b.address, 'ja'));
 const facilities = kept.map((c) => ({
   id: `${prefCodeOf(c.pref)}-${fnv1a(`${c.name}|${c.address}`)}`,
+  kind: c.kind,
   name: c.name,
   pref: c.pref,
   address: c.address,
@@ -333,6 +349,7 @@ const lines = [
   ``,
   `- 生成: ${new Date().toISOString()}`,
   `- 収録: **${facilities.length}件**（候補 ${candidates.length}件 / 調査時の除外 ${excludedCount}件）`,
+  `- 種類: ${[...KINDS].map((k) => `${KIND_LABEL[k]} ${facilities.filter((f) => f.kind === k).length}`).join(' / ')}`,
   `- 信頼度: high ${conf.high ?? 0} / medium ${conf.medium ?? 0} / low ${conf.low ?? 0}`,
   `- 座標: 地理院 ${byHow.gsi ?? 0} / OSM施設名 ${byHow.nominatim ?? 0} / 市区町村どまり ${byHow['gsi-coarse'] ?? 0} / 手動 ${byHow.override ?? 0}`,
   ``,

@@ -3,7 +3,7 @@ import 'leaflet/dist/leaflet.css';
 import 'leaflet.markercluster';
 import 'leaflet.markercluster/dist/MarkerCluster.css';
 import './style.css';
-import type { LatLng, Onsen, OnsenData } from './types';
+import type { Kind, LatLng, Onsen, OnsenData } from './types';
 import {
   NoRouteError,
   formatDistance,
@@ -20,6 +20,16 @@ const ONSEN_SVG =
   '<path d="M12 2.5c-1.3 1.4-1.3 2.6 0 4s1.3 2.6 0 4"/>' +
   '<path d="M16.5 3.5c-1.3 1.4-1.3 2.6 0 4s1.3 2.6 0 4"/>' +
   '<path d="M4.5 13.5c-.9 3.6 2.8 7 7.5 7s8.4-3.4 7.5-7"/></svg>';
+
+// 銭湯・スーパー銭湯は浴槽のアイコン（天然温泉は ♨）
+const BATH_SVG =
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+  '<path d="M6 11V5.5a2 2 0 0 1 3.6-1.2"/>' +
+  '<path d="M3 11h18v2.5a5.5 5.5 0 0 1-5.5 5.5h-7A5.5 5.5 0 0 1 3 13.5z"/>' +
+  '<path d="M7 19l-1 2M17 19l1 2"/></svg>';
+
+const KINDS: Kind[] = ['onsen', 'sento', 'super'];
+const KIND_LABEL: Record<Kind, string> = { onsen: '天然温泉', sento: '銭湯', super: 'スーパー銭湯' };
 
 const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
 const sheet = $<HTMLElement>('sheet');
@@ -55,18 +65,18 @@ const std = L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.pn
 L.control.layers({ 淡色地図: pale, 標準地図: std }, undefined, { position: 'bottomleft' }).addTo(map);
 L.control.zoom({ position: 'bottomright', zoomInTitle: '拡大', zoomOutTitle: '縮小' }).addTo(map);
 
-const pinIcon = L.divIcon({
-  className: 'onsen-pin',
-  html: `<span>${ONSEN_SVG}</span>`,
-  iconSize: [32, 32],
-  iconAnchor: [16, 16],
-});
-const selectedIcon = L.divIcon({
-  className: 'onsen-pin is-selected',
-  html: `<span>${ONSEN_SVG}</span>`,
-  iconSize: [44, 44],
-  iconAnchor: [22, 22],
-});
+// 種類ごとに色・形・アイコンを変える（天然温泉=丸と♨、銭湯=角丸と浴槽、スーパー銭湯=丸と浴槽）
+function pinIcon(kind: Kind, selected = false): L.DivIcon {
+  const size = selected ? 44 : 32;
+  return L.divIcon({
+    className: `onsen-pin kind-${kind}${selected ? ' is-selected' : ''}`,
+    html: `<span>${kind === 'onsen' ? ONSEN_SVG : BATH_SVG}</span>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+  });
+}
+const icons = Object.fromEntries(KINDS.map((k) => [k, pinIcon(k)])) as Record<Kind, L.DivIcon>;
+const selectedIcons = Object.fromEntries(KINDS.map((k) => [k, pinIcon(k, true)])) as Record<Kind, L.DivIcon>;
 
 const cluster = L.markerClusterGroup({
   chunkedLoading: true,
@@ -186,8 +196,11 @@ function saunaLine(o: Onsen): string {
 
 function openSheet(o: Onsen) {
   selectedId = o.id;
-  if (selectedMarker) selectedMarker.setLatLng([o.lat, o.lng]);
-  else selectedMarker = L.marker([o.lat, o.lng], { icon: selectedIcon, zIndexOffset: 1000, interactive: false }).addTo(map);
+  if (selectedMarker) selectedMarker.setLatLng([o.lat, o.lng]).setIcon(selectedIcons[o.kind]);
+  else
+    selectedMarker = L.marker([o.lat, o.lng], { icon: selectedIcons[o.kind], zIndexOffset: 1000, interactive: false }).addTo(
+      map,
+    );
 
   const official = o.url
     ? `<a class="btn" href="${escapeAttr(o.url)}" target="_blank" rel="noopener">公式サイト</a>`
@@ -198,6 +211,7 @@ function openSheet(o: Onsen) {
     .join(' ');
 
   sheetBody.innerHTML = `
+    <p class="kind-tag"><i class="dot kind-${o.kind}"></i>${KIND_LABEL[o.kind]}</p>
     <h2 class="name">${escapeHtml(o.name)}</h2>
     <p class="addr">${escapeHtml(o.address)}</p>
     ${o.notice ? `<p class="notice">お知らせ：${escapeHtml(o.notice)}</p>` : ''}
@@ -317,7 +331,7 @@ searchInput.addEventListener('input', () => {
     ? hits
         .map(
           ({ o }) =>
-            `<li><button type="button" data-id="${o.id}"><span class="r-name">${escapeHtml(o.name)}</span><span class="r-addr">${escapeHtml(o.address)}</span></button></li>`,
+            `<li><button type="button" data-id="${o.id}"><span class="r-name">${escapeHtml(o.name)}</span><span class="r-addr">${KIND_LABEL[o.kind]}・${escapeHtml(o.address)}</span></button></li>`,
         )
         .join('')
     : '<li class="empty">見つかりませんでした</li>';
@@ -332,6 +346,12 @@ results.addEventListener('click', (e) => {
   if (!o || !m) return;
   results.hidden = true;
   searchInput.blur();
+  // 非表示にしている種類の施設を選んだら、その種類を表示に戻す
+  if (!visibleKinds.has(o.kind)) {
+    visibleKinds.add(o.kind);
+    saveKinds();
+    applyKinds();
+  }
   map.setView([o.lat, o.lng], Math.max(map.getZoom(), 14));
   cluster.zoomToShowLayer(m, () => openSheet(o));
 });
@@ -362,23 +382,70 @@ function escapeHtml(s: string): string {
 }
 const escapeAttr = escapeHtml;
 
+// ---- 種類の絞り込み ----
+const kindsEl = $<HTMLElement>('kinds');
+const KINDS_KEY = 'onsen-map:kinds';
+let visibleKinds = new Set<Kind>(KINDS);
+try {
+  const saved: unknown = JSON.parse(localStorage.getItem(KINDS_KEY) ?? 'null');
+  if (Array.isArray(saved)) visibleKinds = new Set(KINDS.filter((k) => saved.includes(k)));
+} catch {
+  // 保存できない環境では、すべて表示で始める
+}
+let asOfLabel = '';
+
+function saveKinds() {
+  try {
+    localStorage.setItem(KINDS_KEY, JSON.stringify([...visibleKinds]));
+  } catch {
+    // 保存できなくても表示の切り替えはできる
+  }
+}
+
+function applyKinds() {
+  for (const b of kindsEl.querySelectorAll<HTMLButtonElement>('button[data-kind]')) {
+    b.setAttribute('aria-pressed', String(visibleKinds.has(b.dataset.kind as Kind)));
+  }
+  const shown = facilities.filter((o) => visibleKinds.has(o.kind));
+  cluster.clearLayers();
+  cluster.addLayers(shown.map((o) => markers.get(o.id)!));
+  countEl.textContent = `サウナ付き ${shown.length.toLocaleString('ja-JP')}件・${asOfLabel}時点`;
+}
+
+kindsEl.addEventListener('click', (e) => {
+  const b = (e.target as HTMLElement).closest<HTMLButtonElement>('button[data-kind]');
+  if (!b) return;
+  const k = b.dataset.kind as Kind;
+  if (visibleKinds.has(k)) visibleKinds.delete(k);
+  else visibleKinds.add(k);
+  saveKinds();
+  applyKinds();
+});
+
 // ---- データ読み込み ----
 async function load() {
   try {
     const res = await fetch('./data/onsen.json', { cache: 'no-cache' });
     const data = (await res.json()) as OnsenData;
     facilities = data.facilities;
-    const list: L.Marker[] = [];
     for (const o of facilities) {
-      const m = L.marker([o.lat, o.lng], { icon: pinIcon, title: o.name, keyboard: false });
+      // 種類の無い古いデータは天然温泉として扱う
+      if (!KINDS.includes(o.kind)) o.kind = 'onsen';
+      const m = L.marker([o.lat, o.lng], { icon: icons[o.kind], title: o.name, keyboard: false });
       m.on('click', () => openSheet(o));
       markers.set(o.id, m);
-      list.push(m);
     }
-    cluster.addLayers(list);
-    searchIndex = facilities.map((o) => ({ o, text: norm(`${o.name}${o.address}`) }));
+    searchIndex = facilities.map((o) => ({ o, text: norm(`${o.name}${o.address}${KIND_LABEL[o.kind]}`) }));
+    // データに2種類以上あるときだけ絞り込みボタンを出す
+    const present = new Set(facilities.map((o) => o.kind));
+    for (const b of kindsEl.querySelectorAll<HTMLButtonElement>('button[data-kind]')) {
+      b.hidden = !present.has(b.dataset.kind as Kind);
+    }
+    kindsEl.hidden = present.size < 2;
+    if (present.size < 2) visibleKinds = new Set(KINDS);
     const [y, mo, d] = data.asOf.split('-').map(Number);
-    countEl.textContent = `サウナ付き温泉 ${facilities.length.toLocaleString('ja-JP')}件・${y}年${mo}月${d}日時点`;
+    asOfLabel = `${y}年${mo}月${d}日`;
+    applyKinds();
   } catch (e) {
     console.error(e);
     countEl.textContent = 'データを読み込めませんでした';
