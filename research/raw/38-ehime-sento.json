@@ -1,0 +1,511 @@
+{
+  "prefecture": "愛媛県",
+  "prefCode": "38",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "新開温泉",
+      "address": "愛媛県松山市雄郡1-6-16",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=89",
+      "sources": [
+        "http://1010ehime.com/cms/?p=89",
+        "https://yuru-to.net/detail.php?oid=18008",
+        "https://sauna-ikitai.com/ehime/%E6%9D%BE%E5%B1%B1%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月10・25日",
+      "note": "愛媛県浴場組合（松山支部）掲載。組合サイトは証明書エラーで直接取得できず検索結果で確認。サウナは口コミ（100℃のストロングサウナ・スチーム・電気サウナ、2025〜2026/1）とサウナイキタイ一覧による"
+    },
+    {
+      "kind": "sento",
+      "name": "清水湯",
+      "address": "愛媛県松山市清水町2-14-5",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=39",
+      "sources": [
+        "http://1010ehime.com/cms/?p=39",
+        "https://yuru-to.net/detail.php?oid=18002"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3月曜",
+      "note": "愛媛県浴場組合（松山支部）掲載。乾式サウナは口コミ（2024〜2026/6）による"
+    },
+    {
+      "kind": "sento",
+      "name": "水晶湯",
+      "address": "愛媛県松山市柳井町1-8-13",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=100",
+      "sources": [
+        "http://1010ehime.com/cms/?p=100",
+        "https://yuru-to.net/detail.php?oid=18005",
+        "https://sauna-ikitai.com/ehime/%E6%9D%BE%E5%B1%B1%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "愛媛県浴場組合掲載（検索結果の抜粋に「水湯がとても冷たいのでサウナが人気」）。サウナイキタイ一覧で男110℃・女100℃。定休日はゆる～とで月・火・木（要確認）"
+    },
+    {
+      "kind": "sento",
+      "name": "白泉湯",
+      "address": "愛媛県松山市南斎院町1154-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男湯のみ",
+      "url": "http://1010ehime.com/cms/?p=68",
+      "sources": [
+        "http://1010ehime.com/cms/?p=68",
+        "https://yuru-to.net/detail.php?oid=18011",
+        "https://sauna-ikitai.com/ehime/%E6%9D%BE%E5%B1%B1%E5%B8%82?page=3"
+      ],
+      "confidence": "low",
+      "notice": "営業は16:00〜21:00。定休日：毎月6・16・26日",
+      "note": "愛媛県浴場組合掲載。サウナはサウナイキタイ一覧（男90℃、女なし、サ活3件）のみで確認が弱い"
+    },
+    {
+      "kind": "sento",
+      "name": "谷町リゾート ゆとりあ温泉",
+      "address": "愛媛県松山市谷町172-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.fuji-ko.jp/yutoria/",
+      "sources": [
+        "https://onsen.nifty.com/matsuyama-onsen/onsen003972/",
+        "https://yuru-to.net/detail.php?oid=9539"
+      ],
+      "confidence": "medium",
+      "notice": "大浴場は12:00〜翌10:00",
+      "note": "公式サイトは接続できず。ニフティで「大衆浴場450円」（改定前の統制額）、ゆる～と・口コミ（2026/2）で500円。家族風呂（有料）を併設。天然温泉と確認できず（口コミでは沸かし湯）"
+    },
+    {
+      "kind": "sento",
+      "name": "鯉池温泉",
+      "address": "愛媛県今治市鯉池町2-1-7",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=125",
+      "sources": [
+        "https://www.city.imabari.ehime.jp/fukusis/riyouken/nyuyoku.html",
+        "http://1010ehime.com/cms/?p=125",
+        "https://sauna-ikitai.com/ehime/%E4%BB%8A%E6%B2%BB%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月8・18・28日",
+      "note": "今治市の入浴助成の対象浴場（令和8年3月1日現在、組合今治支部）。組合サイトの抜粋に「サウナもあります」。サウナイキタイ一覧で男90℃・女86℃"
+    },
+    {
+      "kind": "sento",
+      "name": "白鷺温泉",
+      "address": "愛媛県今治市立花町1-10-21",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=145",
+      "sources": [
+        "https://www.city.imabari.ehime.jp/fukusis/riyouken/nyuyoku.html",
+        "http://1010ehime.com/cms/?p=145",
+        "https://sauna-ikitai.com/ehime/%E4%BB%8A%E6%B2%BB%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜、第3木曜の翌日",
+      "note": "今治市の入浴助成の対象浴場（令和8年3月1日現在）。サウナはサウナイキタイ一覧（男88℃・女86℃）とゆる～と設備欄による"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯（今治市）",
+      "address": "愛媛県今治市本町6-4-9",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=161",
+      "sources": [
+        "https://www.city.imabari.ehime.jp/fukusis/riyouken/nyuyoku.html",
+        "https://sauna-ikitai.com/ehime/%E4%BB%8A%E6%B2%BB%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月6・16・26日",
+      "note": "今治市の入浴助成の対象浴場（令和8年3月1日現在）。サウナはサウナイキタイ一覧（男88℃・女100℃）による"
+    },
+    {
+      "kind": "sento",
+      "name": "本町温泉",
+      "address": "愛媛県今治市本町5丁目6-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=152",
+      "sources": [
+        "https://www.city.imabari.ehime.jp/fukusis/riyouken/nyuyoku.html",
+        "https://sauna-ikitai.com/ehime/%E4%BB%8A%E6%B2%BB%E5%B8%82",
+        "https://www.mapion.co.jp/phonebook/M09017/38202/23830064223/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜・木曜",
+      "note": "今治市の入浴助成の対象浴場（令和8年3月1日現在）。定休日は組合サイトの抜粋による。サウナはサウナイキタイ一覧（男94℃・女88℃）による"
+    },
+    {
+      "kind": "sento",
+      "name": "光温泉",
+      "address": "愛媛県新居浜市久保田町1丁目10-28",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=115",
+      "sources": [
+        "http://1010ehime.com/cms/?p=115",
+        "https://yuru-to.net/detail.php?oid=18033",
+        "https://sauna-ikitai.com/ehime/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜",
+      "note": "組合サイトに「光温泉（非会員）」として掲載。口コミ（2025/8〜2026/3）に高温サウナとスチームサウナ、入浴料450円（改定前）"
+    },
+    {
+      "kind": "sento",
+      "name": "さくら湯",
+      "address": "愛媛県新居浜市中須賀町1丁目4-35",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=110",
+      "sources": [
+        "http://1010ehime.com/cms/?p=110",
+        "https://yuru-to.net/detail.php?oid=18032",
+        "https://sauna-ikitai.com/ehime/%E6%96%B0%E5%B1%85%E6%B5%9C%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：金曜",
+      "note": "愛媛県浴場組合掲載。サウナはサウナイキタイ一覧（男90℃・女92℃、サ活72件）による。口コミの日付は確認できず"
+    },
+    {
+      "kind": "sento",
+      "name": "つるの湯",
+      "address": "愛媛県宇和島市鶴島町1-11",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=163",
+      "sources": [
+        "http://1010ehime.com/cms/?p=163",
+        "https://yuru-to.net/detail.php?oid=18041"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜",
+      "note": "愛媛県浴場組合掲載（抜粋に「サウナ上がりのほてった体を冷ますに最適」の水風呂）。口コミ（2025/7）に「サウナ込みで450円」、2026/4に500円"
+    },
+    {
+      "kind": "sento",
+      "name": "松乃湯",
+      "address": "愛媛県宇和島市泉町1丁目1-26",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010ehime.com/cms/?p=159",
+      "sources": [
+        "http://1010ehime.com/cms/?p=159",
+        "https://sauna-ikitai.com/ehime/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82",
+        "https://www.mapion.co.jp/phonebook/M09017/38203/23830247654/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月1日",
+      "note": "組合サイトでは「松の湯」。サウナはサウナイキタイ一覧（男80℃・女82℃）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯（宇和島市）",
+      "address": "愛媛県宇和島市元結掛2-6-25",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ",
+      "url": "https://yuru-to.net/detail.php?oid=18042",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=18042",
+        "https://sauna-ikitai.com/ehime/%E5%AE%87%E5%92%8C%E5%B3%B6%E5%B8%82"
+      ],
+      "confidence": "low",
+      "notice": "定休日：毎月4・14・24日",
+      "note": "組合サイトの抜粋に掲載。サウナはサウナイキタイ一覧（男60℃、女なし、サ活8件）のみで確認が弱い"
+    },
+    {
+      "kind": "sento",
+      "name": "大正湯+plus",
+      "address": "愛媛県八幡浜市八幡浜1132-13",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "小さめのサウナ",
+      "url": "https://www.facebook.com/taisyoyu/",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=49291",
+        "https://onsen.nifty.com/uchiko-onsen/onsen016962/",
+        "https://www.mapion.co.jp/phonebook/M09017/38204/23830260504/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月・火曜",
+      "note": "宿泊もできる銭湯（ゲストハウス併設）。サウナは口コミ（2025/8〜2026/7）による"
+    },
+    {
+      "kind": "super",
+      "name": "西予市観光交流拠点施設 あけはまーれ しお湯",
+      "address": "愛媛県西予市明浜町高山甲461-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://akehama.com/lodging/akehama-re/",
+      "sources": [
+        "https://akehama.com/lodging/akehama-re/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "海水を引いた塩風呂（公式）。公式にサウナあり、別料金の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "ゆらり内海",
+      "address": "愛媛県南宇和郡愛南町須ノ川286",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "男湯は高温サウナ、女湯は塩サウナ",
+      "url": "https://yurariuchiumi.com/",
+      "sources": [
+        "https://yurariuchiumi.com/price/",
+        "https://yurariuchiumi.com/ofuro/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "ろ過した海水の潮湯（公式）。料金は令和8年7月20日改定後の650円。料金ページにサウナの別料金の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "海洋温浴施設 マーレ・グラッシア大三島",
+      "address": "愛媛県今治市大三島町宮浦5902",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=923",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/119215/",
+        "https://yuru-to.net/detail.php?oid=923"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜、2月の第1火〜木曜",
+      "note": "海水を沸かした潮湯（愛媛県漁協大三島支所の運営）。公式サイトを確認できず。令和7年10月1日改定後700円（AllAbout 2026/5）。サウナは口コミ（2026/2）とサウナイキタイ一覧（98℃・93℃）による"
+    },
+    {
+      "kind": "super",
+      "name": "シーパの湯",
+      "address": "愛媛県松山市北条1180",
+      "weekdayAdult": 700,
+      "holidayAdult": 750,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://sp.jorudan.co.jp/onsen/details/28/",
+      "sources": [
+        "https://sp.jorudan.co.jp/onsen/details/28/",
+        "https://news.allabout.co.jp/articles/o/119231/"
+      ],
+      "confidence": "medium",
+      "notice": "年2日不定休",
+      "note": "海底からくみ上げた海水の潮湯。公式サイトを確認できず、料金はジョルダン（2026/3更新）・AllAbout（2026/5）で一致。ジョルダンは泉質をナトリウム－塩化物強塩冷鉱泉とするが、前回の温泉調査で天然温泉の記載なしとして除外。宿泊（14室）もある"
+    },
+    {
+      "kind": "super",
+      "name": "漢方薬草湯 元気人村",
+      "address": "愛媛県伊予郡松前町北黒田912-12",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://genkijinmura.jp/",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=9575",
+        "https://onsen.nifty.com/matsuyama-onsen/onsen003968/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイトは証明書エラーで取得できず。550円はゆる～と・ニフティ、口コミ（2026/5）。サウナは口コミ（2025/10、約80℃）。天然温泉の記載なし（前回の温泉調査で除外）。定休日はニフティで第3水曜、ゆる～とで無休と食い違い"
+    },
+    {
+      "kind": "onsen",
+      "name": "古川温泉 湯楽",
+      "address": "愛媛県松山市古川西2-8-9",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=9568",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=9568",
+        "https://sauna-ikitai.com/ehime/%E6%9D%BE%E5%B1%B1%E5%B8%82?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第3木曜",
+      "note": "ナトリウム－塩化物温泉（ゆる～と）。既存の温泉データに無い施設。公式サイトを確認できず。口コミ（2026/9）に入浴料500円、サウナ90〜95℃（2025/10）"
+    },
+    {
+      "kind": "onsen",
+      "name": "道前渓温泉",
+      "address": "愛媛県西条市丹原町来見897-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.iyokannet.jp/spot/170",
+      "sources": [
+        "https://www.iyokannet.jp/spot/170",
+        "https://onsen.nifty.com/saijou-onsen/onsen003974/"
+      ],
+      "confidence": "medium",
+      "notice": "営業は15:00〜21:00（水曜は12:00〜）。定休日：火曜",
+      "note": "低張性弱アルカリ性冷鉱泉。既存の温泉データに無い施設。愛媛県の観光サイト（更新日不明）に大人400円とサウナあり。サウナイキタイでは銭湯として掲載"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ナニワサウナ",
+      "reason": "男性専用のサウナ施設"
+    },
+    {
+      "name": "宇和サウナ（宇和パークホテル）",
+      "reason": "男性専用のサウナ施設（ホテル）"
+    },
+    {
+      "name": "SAUNA ALKU・アニキのサウナ",
+      "reason": "サウナが主の施設"
+    },
+    {
+      "name": "インランド・シー・リゾート フェスパ",
+      "reason": "2026年4月から滞在型リゾート（宿泊施設）にリブランド。ホテルの浴場"
+    },
+    {
+      "name": "カンデオホテルズ松山大街道・松山ニューグランドホテル",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "湯の里 小町温泉しこくや・権現温泉",
+      "reason": "旅館（天然温泉）"
+    },
+    {
+      "name": "地域健康スポーツパーク アリーナ土居",
+      "reason": "スポーツ施設"
+    },
+    {
+      "name": "小富士温泉（松山市）",
+      "reason": "2023年1月から休業中"
+    },
+    {
+      "name": "宝来温泉（今治市）",
+      "reason": "休業中（今治市、令和8年3月1日現在）"
+    }
+  ],
+  "notes": "愛媛県公衆浴場業生活衛生同業組合のサイト（1010ehime.com）は証明書エラーで直接取得できず、検索結果の抜粋で加盟銭湯と営業時間を確認した。ほかにサウナイキタイの県一覧（153件）と市別一覧、ニフティ温泉のサウナ一覧（86件）、ゆる～と、Mapionの銭湯一覧、今治市の入浴助成ページ、前回の除外候補で洗い出した。銭湯の入浴料は愛媛県の統制額（2026/4/1から大人500円、県の公式ページ）。寿温泉・星乃岡温泉大浴場は既存の温泉データにあるため除外。大洲市（よしの湯）・松前町（古城温泉）・松山市（小坂温泉）の銭湯はサウナを確認できず未収録。サウナイキタイの施設ページはアクセス制限（405）のため一覧のみ参照。"
+}

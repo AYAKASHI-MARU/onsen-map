@@ -1,0 +1,126 @@
+{
+  "prefecture": "山形県",
+  "prefCode": "06",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "スーパー銭湯テルメ",
+      "address": "山形県山形市南原町1-26-9",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ（男性サウナの土曜ロウリュは休止中）",
+      "url": "https://www.terme-mg.com/",
+      "sources": [
+        "https://www.terme-mg.com/price.html",
+        "https://www.terme-mg.com/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（臨時休館あり）",
+      "note": "天然温泉の記載なし（ゲルマニウム露天・高濃度炭酸泉・ナノ水）。料金表は入館料のみでサウナ別料金なし。65歳以上（平日17時まで）・学割600円"
+    },
+    {
+      "kind": "super",
+      "name": "極楽湯グループ 鷹山の湯",
+      "address": "山形県米沢市中田町若宮491-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 680,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "遠赤外線高温サウナ・低温スチームサウナ",
+      "url": "https://yozan.gokurakuyu.jp/",
+      "sources": [
+        "https://yozan.gokurakuyu.jp/guide/",
+        "https://yozan.gokurakuyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "施設が温泉ではないと明記（温泉調査で除外済み）。料金ページはサウナ別料金の記載なし"
+    },
+    {
+      "kind": "onsen",
+      "name": "なの花温泉 田田",
+      "address": "山形県東田川郡三川町横山堤172-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.iroribinosato.info/denden.html",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=1798",
+        "https://sauna-ikitai.com/yamagata"
+      ],
+      "confidence": "medium",
+      "notice": "第3水曜は17時から営業",
+      "note": "含よう素-ナトリウム-塩化物塩泉。口コミ（2026/6/29）で休日も終日500円"
+    },
+    {
+      "kind": "onsen",
+      "name": "悠々の杜温泉 アイアイひらた",
+      "address": "山形県酒田市山楯南山32-4",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://sakatayuyu.wixsite.com/home",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3572",
+        "https://sauna-ikitai.com/yamagata"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜",
+      "note": "含鉄・よう素-ナトリウム-塩化物強塩泉。ゆる〜と520円、口コミに「サウナも料金に含まれる」（2026年の口コミあり）"
+    },
+    {
+      "kind": "onsen",
+      "name": "おくのほそ道 赤倉ゆけむり館",
+      "address": "山形県最上郡最上町大字富澤817-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://akakurayukemurikan.amebaownd.com",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=50316",
+        "https://sauna-ikitai.com/yamagata"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第2・4水曜",
+      "note": "ナトリウム・カルシウム-硫酸塩泉。ゆる〜と500円（2026/8の口コミあり）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "タスパークホテル長井 SPAゆーぱる",
+      "reason": "ホテル併設の浴場（日帰り770円）"
+    },
+    {
+      "name": "本気サウナ（ガチサウナ）",
+      "reason": "2026年12月開業予定（基準日時点で未開業）"
+    },
+    {
+      "name": "メディカルフィットネス+スパ ラ・ヴィータ",
+      "reason": "フィットネス施設"
+    },
+    {
+      "name": "いきいきランド ぽんぽ館（戸沢村、天然温泉）",
+      "reason": "料金が食い違い（ゆる〜と500円・口コミでプール込み1,000円）確認できず"
+    },
+    {
+      "name": "Private Sauna SOLENA・SAUNA BASE TRIP.・月山湖ダムサウナ・発酵サウナ ほか",
+      "reason": "サウナ専門・貸切サウナ"
+    }
+  ],
+  "notes": "山形県全域。候補はサウナイキタイ山形県一覧（133件）、ゆる〜と（日帰り入浴リスト315件）、sento-candidates.md。天然温泉でないサウナ付きの施設はテルメと鷹山の湯のみで、サウナのある町の銭湯は見つからず。温泉データに無い天然温泉3件を onsen で収録。未確認：小町の湯 やまぼうし（米沢、宿泊施設・口コミなし）。"
+}

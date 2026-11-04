@@ -1,0 +1,99 @@
+{
+  "prefecture": "和歌山県",
+  "prefCode": "30",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "幸福湯",
+      "address": "和歌山県和歌山市北休賀町31",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kofukuyu.com/",
+      "sources": [
+        "https://kofukuyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "天然地下水の銭湯（天然温泉ではない）。公式の料金表にサウナ料金の記載なし（男100度・女85度）"
+    },
+    {
+      "kind": "sento",
+      "name": "山吹温泉",
+      "address": "和歌山県和歌山市山吹丁40",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/wakayama-onsen/onsen018547/",
+      "sources": [
+        "https://onsen.nifty.com/wakayama-onsen/onsen018547/",
+        "https://onsen.nifty.com/wakayama-onsen/onsen018547/kuchikomi/",
+        "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/057/677/071104.pdf"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜日",
+      "note": "公式サイトなし。料金・定休日はニフティ温泉。2026/9の口コミにサウナの記載。和歌山市の外出支援事業の対象浴場（2024/7）"
+    },
+    {
+      "kind": "sento",
+      "name": "古民家銭湯 高野口乃湯",
+      "address": "和歌山県橋本市高野口町名倉950",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": null,
+      "priceNote": "サウナ付きは平日750円・土日800円（入浴込み）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://koyaguchinoyu.com/",
+      "sources": [
+        "https://koyaguchinoyu.com/",
+        "https://onsen.nifty.com/kouya-onsen/onsen024692/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第2・4火曜日",
+      "note": "地下水の銭湯（天然温泉ではない）。料金はニフティ温泉（公式の料金欄は画像で確認できず）"
+    },
+    {
+      "kind": "super",
+      "name": "川辺の湯 安庵",
+      "address": "和歌山県岩出市中島1283-144",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "ミスト",
+        "塩",
+        "その他"
+      ],
+      "saunaNote": "韓国式サウナあり。浴室は1日おきに男女入替",
+      "url": "http://www.yasuda-kousan.com/kawanobe-an.html",
+      "sources": [
+        "http://www.yasuda-kousan.com/kawanobe-an.html",
+        "https://onsen.nifty.com/wakayama-onsen/onsen008154/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：偶数月の第3水曜日",
+      "note": "料金は公式（改定後）。公式にサウナの記載なく、サウナはニフティ温泉・サウナイキタイ（2024年の投稿でサウナ3室・入浴料に含む）による。紀ノ川の伏流水（天然温泉ではない）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "美里の湯 かじか荘",
+      "reason": "宿泊施設（公営の宿）の大浴場で天然温泉でもないため対象外"
+    }
+  ],
+  "notes": "和歌山県の銭湯は大人490円（ニフティ温泉・幸福湯公式。2024/4改定）。和歌山県は浴場組合の公式な銭湯一覧が見つからず、和歌山市の外出支援事業の対象浴場一覧（2024/7、11軒）・ニフティ温泉の和歌山県サウナ一覧と和歌山市一覧・サウナイキタイの和歌山県一覧（128件）で洗い出した。今福湯・神明湯・浜湯温泉・信節温泉・新町温泉・海南市の宝湯などはサウナの記載が無く未収録。スーパー銭湯・日帰り温浴施設はほぼ天然温泉で既存データにあり、天然温泉でないものは安庵のみ。白浜・南紀の宿泊施設のサウナはホテル・旅館のため対象外。"
+}

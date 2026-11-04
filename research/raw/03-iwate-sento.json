@@ -1,0 +1,254 @@
+{
+  "prefecture": "岩手県",
+  "prefCode": "03",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "SPA銭湯 ゆっこ盛岡",
+      "address": "岩手県盛岡市上堂4-10-8",
+      "weekdayAdult": 760,
+      "holidayAdult": 760,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（5:00〜9:30）平日580円・土日祝620円。GW・お盆などの特定日は料金が異なる場合あり",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "url": "https://yukko-morioka.jp/",
+      "sources": [
+        "https://yukko-morioka.jp/information/",
+        "https://onsen.nifty.com/appi-onsen/onsen000350/"
+      ],
+      "confidence": "high",
+      "notice": "不定休",
+      "note": "公式に天然温泉の記載なし（シルク湯・炭酸泉）。サウナ種類はニフティ（ドライ＝遠赤外線・スチーム）。ニフティの土日祝特定日800円は公式の料金表に無い"
+    },
+    {
+      "kind": "super",
+      "name": "古戦場",
+      "address": "岩手県一関市赤荻字堺78-2",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "漢方サウナ・薬草サウナ・溶岩サウナ（セルフロウリュ）",
+      "url": "http://kosenjyo.com/bath/",
+      "sources": [
+        "http://kosenjyo.com/bath/",
+        "http://kosenjyo.com/wp-content/uploads/2026/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-01-27-094112.png"
+      ],
+      "confidence": "high",
+      "note": "人工温泉（炭酸水素イオン泉）。料金は公式の2026/1のチラシ画像（入浴のみ中学生以上900円）"
+    },
+    {
+      "kind": "super",
+      "name": "三陸四季湯彩 ますと乃湯",
+      "address": "岩手県上閉伊郡大槌町大町43-16",
+      "weekdayAdult": 890,
+      "holidayAdult": 890,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式ロウリュサウナ",
+      "url": "https://www.mast-no-yu.com/",
+      "sources": [
+        "https://www.mast-no-yu.com/"
+      ],
+      "confidence": "high",
+      "notice": "月1回休館（公式サイトで確認）",
+      "note": "天然水の風呂・高濃度人工炭酸泉（天然温泉ではない）。公式は入浴料のみでサウナ別料金の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "ひづめゆ",
+      "address": "岩手県紫波郡紫波町日詰西裏23-13",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://hizumeyu.jp/",
+      "sources": [
+        "https://hizumeyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第1月曜",
+      "note": "公式の入浴料金は「サウナ含む」。天然温泉の記載なし（高濃度炭酸泉）"
+    },
+    {
+      "kind": "super",
+      "name": "盛岡市余熱利用健康増進センター ゆぴあす",
+      "address": "岩手県盛岡市上田字小鳥沢148-103",
+      "weekdayAdult": 540,
+      "holidayAdult": 540,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "http://www.yupiasu.com/",
+      "sources": [
+        "http://www.yupiasu.com/UsageFee.html",
+        "http://www.yupiasu.com/service.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：第2火曜（8月は無休）",
+      "note": "ごみ焼却余熱利用の施設（プール・アリーナ併設）。浴場利用料は2026/4/1から大人540円（浴場単独の料金）。浴場にサウナあり、別料金の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "たかむろ水光園",
+      "address": "岩手県遠野市土淵町柏崎7-175-2",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ミスト",
+        "その他"
+      ],
+      "saunaNote": "低温サウナ（約50℃）と霧の湯",
+      "url": "https://www.tono-suikouen.jp/spa/",
+      "sources": [
+        "https://www.tono-suikouen.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "休館日：毎月第4月曜",
+      "note": "角閃石の浴槽（天然温泉の記載なし）。市民60歳以上の割引あり（値は一般料金）"
+    },
+    {
+      "kind": "super",
+      "name": "おおの健康の湯",
+      "address": "岩手県九戸郡洋野町大野58-12-30",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "フィンランド製の低温サウナ",
+      "url": "https://ohnocampus.jp/search_facility/ohno-kenkonoyu/",
+      "sources": [
+        "https://ohnocampus.jp/search_facility/ohno-kenkonoyu/",
+        "https://yuru-to.net/detail.php?oid=2649"
+      ],
+      "confidence": "high",
+      "notice": "休業日：12/31",
+      "note": "漢方薬湯（天然温泉ではない）。住所はおおのキャンパスの所在地。口コミ（2026/7）で500円"
+    },
+    {
+      "kind": "super",
+      "name": "アグリパークおおさわ ごだげの湯",
+      "address": "岩手県九戸郡洋野町種市第69地割16-1",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.agripark.net/",
+      "sources": [
+        "https://www.agripark.net/info/pricelist.html",
+        "https://yuru-to.net/detail.php?oid=12856",
+        "https://sauna-ikitai.com/iwate"
+      ],
+      "confidence": "medium",
+      "note": "人工温泉（ヘルストン温泉）。公式料金表で入浴のみ大人450円。サウナはゆる〜と・サウナイキタイの掲載のみ（公式にサウナの記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "夏虫のお湯っこ",
+      "address": "岩手県大船渡市三陸町越喜来小出59-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3420",
+        "https://sauna-ikitai.com/iwate"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜",
+      "note": "人工温泉（ヘルストン温泉）。公式サイトは閲覧不可（401）。ゆる〜と600円、口コミ（2026/1）あり"
+    },
+    {
+      "kind": "super",
+      "name": "おふろランド北上",
+      "address": "岩手県北上市北鬼柳15地割174-1",
+      "weekdayAdult": 990,
+      "holidayAdult": 990,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://x.com/iifuroiisauna",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=56581",
+        "https://sauna-ikitai.com/iwate"
+      ],
+      "confidence": "medium",
+      "note": "口コミで2026/5は900円、2026/7/9は990円（ゆる〜と・サウナイキタイも990円）。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "久慈健康ランド 古墳ノゆ",
+      "address": "岩手県久慈市長内町35-113-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=2650",
+        "https://sauna-ikitai.com/iwate"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトなし。2026/6〜7の口コミで日帰り入浴500円・サウナあり（ゆる〜とは600円）。温泉調査では営業状況不明で除外されていたが2026年の営業を確認"
+    },
+    {
+      "kind": "super",
+      "name": "綿帽子温泉館 あずみの湯",
+      "address": "岩手県八幡平市細野436-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://azuminoyu.amebaownd.com/",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=1839",
+        "https://sauna-ikitai.com/iwate"
+      ],
+      "confidence": "low",
+      "notice": "定休日：木曜。源泉故障のため沸かし湯で営業",
+      "note": "温泉調査で「基準日時点で沸かし湯営業」として除外。2026/2の口コミに源泉故障で沸かし湯の貼り紙。料金600円は2025/11の口コミ"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "KANAN SPA（HOTEL MAZARIUM・盛岡バスセンター）",
+      "reason": "ホテルの大浴場（日帰り利用可・大人1,100〜1,350円、フィンランド式サウナ）"
+    },
+    {
+      "name": "うみねこ温泉 湯らっくす（山田町）",
+      "reason": "2026/5/11から大浴場を一時休業中（公式、再開日未定）"
+    },
+    {
+      "name": "鳥越健康ランド（一戸町）",
+      "reason": "休業中（ゆる〜と「閉業の可能性あり」）"
+    },
+    {
+      "name": "久慈サウナ",
+      "reason": "男性専用サウナ"
+    },
+    {
+      "name": "グリーンピア三陸みやこ・休暇村 陸中宮古・岩泉龍泉洞ホテル 龍のすみか・国民宿舎えぼし荘 ほか",
+      "reason": "ホテル・宿泊施設の大浴場"
+    },
+    {
+      "name": "FUMOTOサウナ・紫波サウナ・SaunAPPI・HOREISAUNA・牧場サウナ・七時雨山荘 ほか",
+      "reason": "サウナ専門・貸切サウナ"
+    }
+  ],
+  "notes": "岩手県全域。候補はサウナイキタイ岩手県一覧（158件）、ゆる〜と（サウナあり・天然温泉表示なしの施設）、sento-candidates.md。サウナのある一般公衆浴場（町の銭湯）は見つからず、収録はすべて super（人工温泉・炭酸泉・薬湯など）。KANAN SPA（盛岡バスセンター）はホテル内の浴場のため除外（日帰り利用可）。未確認：ふるさとの館 ふるさとの湯っこ（九戸村、公式ページ取得不可・口コミなし）、くずまき交流館プラトー 楽酪の湯（葛巻町、宿泊施設・入浴11〜16時）、マリンサイドスパたねいち（洋野町、宿泊施設・口コミなし）。"
+}

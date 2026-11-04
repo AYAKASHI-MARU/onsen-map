@@ -1,0 +1,1331 @@
+{
+  "prefecture": "愛知県",
+  "prefCode": "23",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "娯楽湯",
+      "address": "愛知県名古屋市千種区春岡2-24-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "ミスト・塩などのサウナ（組合の分類）",
+      "url": "https://aichi1010.jp/page/detail/l/1",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/1"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "平田温泉",
+      "address": "愛知県名古屋市東区相生町38",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/6",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/6"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "大幸温泉",
+      "address": "愛知県名古屋市東区大幸3-15-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/8",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/8"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水・木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "長喜温泉",
+      "address": "愛知県名古屋市北区長喜町2-18",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/10",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/10"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "萩の湯",
+      "address": "愛知県名古屋市北区萩野通2-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 150,
+      "priceNote": "組合の案内は高温サウナ150円・その他サウナ150円",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温サウナとミスト・塩などのサウナ",
+      "url": "http://haginoyu.wixsite.com/mysite",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/11"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "報徳湯",
+      "address": "愛知県名古屋市北区平安2-20-43",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/13",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/13"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "八千代湯",
+      "address": "愛知県名古屋市西区上名古屋1-12-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 180,
+      "priceNote": "入浴＋サウナ730円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "2階に遠赤外線サウナ（23:45まで）",
+      "url": "https://www.yachiyoyu.com/",
+      "sources": [
+        "https://www.yachiyoyu.com/contents2.html",
+        "https://aichi1010.jp/page/detail/l/14"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（祝日も休み）",
+      "note": "公式の「サウナ付き（入浴＋サウナ）730円」と入浴料550円の差額。組合サイトはサウナ150円（古い可能性）"
+    },
+    {
+      "kind": "sento",
+      "name": "比良温泉",
+      "address": "愛知県名古屋市西区清里町337",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 230,
+      "priceNote": "サウナは貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ（閉店30分前まで）",
+      "url": "https://hira8002.stars.ne.jp/",
+      "sources": [
+        "https://hira8002.stars.ne.jp/price.html",
+        "https://aichi1010.jp/page/detail/l/16"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "小田井温泉",
+      "address": "愛知県名古屋市西区上小田井2-122",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 200,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/17",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/17"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜・第2・第4水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "白山温泉",
+      "address": "愛知県名古屋市西区枇杷島1-2-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 200,
+      "priceNote": "サウナは貸タオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "高温サウナとスチームサウナ",
+      "url": "https://www.hakusan-onsen.com/",
+      "sources": [
+        "https://www.hakusan-onsen.com/%E3%81%94%E5%85%A5%E6%B5%B4%E6%96%99%E9%87%91/",
+        "https://aichi1010.jp/page/detail/l/19"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "公式料金ページの「サウナ（貸タオル付）200円(別途入浴料要)」。同ページの「サウナセット730円」・組合サイトの100円とは食い違う"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯",
+      "address": "愛知県名古屋市中村区二ツ橋町2-58",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/22",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/22"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "kind": "sento",
+      "name": "テレビ温泉",
+      "address": "愛知県名古屋市中村区牛田通1-35",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/26",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/26"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "kind": "sento",
+      "name": "楠湯",
+      "address": "愛知県名古屋市中村区中村本町1-35",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/27",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/27"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "日比津温泉",
+      "address": "愛知県名古屋市中村区高道町6-4-16",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/30",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/30"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火・金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "仁王門湯",
+      "address": "愛知県名古屋市中区大須3-37-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/33",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/33"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "永楽湯",
+      "address": "愛知県名古屋市中区大須1-19-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/34",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/34"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "養老温泉",
+      "address": "愛知県名古屋市中区新栄1-32-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "入浴＋サウナ650円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "乾湿高温サウナ（21時まで）",
+      "url": "http://yourou.crayonsite.net/",
+      "sources": [
+        "http://yourou.crayonsite.net/p/2/",
+        "https://aichi1010.jp/page/detail/l/35"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "御嶽温泉",
+      "address": "愛知県名古屋市昭和区御器所3-10-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "ミスト・塩などのサウナ（組合の分類）",
+      "url": "https://aichi1010.jp/page/detail/l/36",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/36"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "広路湯",
+      "address": "愛知県名古屋市昭和区折戸町3-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "サウナ用タオルレンタル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/37",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/37"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜"
+    },
+    {
+      "kind": "sento",
+      "name": "富美の湯",
+      "address": "愛知県名古屋市昭和区鶴羽町3-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/38",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/38"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "八幡湯",
+      "address": "愛知県名古屋市昭和区御器所4-16-12",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/39",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/39"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "川澄湯",
+      "address": "愛知県名古屋市瑞穂区川澄町2-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/40",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/40"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜・第4火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "栄湯",
+      "address": "愛知県名古屋市瑞穂区船原町2-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ（月曜はサウナ休み）",
+      "url": "https://aichi1010.jp/page/detail/l/42",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/42"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "玉の湯",
+      "address": "愛知県名古屋市瑞穂区弥富通5-56-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/44",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/44"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "永徳温泉",
+      "address": "愛知県名古屋市港区野跡1-106",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/50",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/50"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "柴田温泉",
+      "address": "愛知県名古屋市南区元柴田西町1-18-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/56",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/56"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜・第2・第4月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "七福湯",
+      "address": "愛知県名古屋市南区観音町4-13",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/57",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/57"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "三吉温泉",
+      "address": "愛知県名古屋市南区三吉町2-54",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/59",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/59"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "名古屋温泉",
+      "address": "愛知県名古屋市南区城下町1-15",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "男湯は高温サウナ、女湯はミスト・塩などのサウナ",
+      "url": "https://aichi1010.jp/page/detail/l/60",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/60"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水・木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "山田温泉",
+      "address": "愛知県名古屋市南区粕畠町2-25",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/61",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/61"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "ぽかぽか温泉 新守山乃湯",
+      "address": "愛知県名古屋市守山区鳥羽見2-10-10",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 300,
+      "priceNote": "入浴＋サウナ850円（サウナ用タオル付き）、バスタオル付き1,000円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "蒸気ボイラー式の高温サウナ（オートスチーム）",
+      "url": "https://pokapoka1126.jp/",
+      "sources": [
+        "https://pokapoka1126.jp/info/",
+        "https://aichi1010.jp/page/detail/l/62"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "公式の「お風呂+サウナ 850円」と入浴料550円の差額。組合サイトはサウナ100円（古い）"
+    },
+    {
+      "kind": "sento",
+      "name": "鳴海温泉",
+      "address": "愛知県名古屋市緑区鳴海町向田179",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/63",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/63"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "亀崎の湯",
+      "address": "愛知県半田市亀崎北浦町2-31",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温サウナとミスト・塩などのサウナ",
+      "url": "https://aichi1010.jp/page/detail/l/69",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/69"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "kind": "sento",
+      "name": "清水温泉",
+      "address": "愛知県瀬戸市陶原町3-49",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 150,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/71",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/71"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜・第4土曜"
+    },
+    {
+      "kind": "sento",
+      "name": "岩本湯",
+      "address": "愛知県春日井市花長町2-5-9",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://aichi1010.jp/page/detail/l/74",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/74"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜（7・8月は日曜）"
+    },
+    {
+      "kind": "sento",
+      "name": "杉戸浴場",
+      "address": "愛知県一宮市大宮3-3-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "遠赤外線サウナ（貸しタオル付き）",
+      "url": "http://sugitoyokujyou.com/",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/80",
+        "http://sugitoyokujyou.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "人蔘湯",
+      "address": "愛知県豊橋市神明町47",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温サウナとミスト・塩などのサウナ",
+      "url": "https://aichi1010.jp/page/detail/l/85",
+      "sources": [
+        "https://aichi1010.jp/page/detail/l/85"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "杉の湯",
+      "address": "愛知県名古屋市瑞穂区鍵田町1-40",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "",
+      "sources": [
+        "https://meicam.jp/aichi.1010/assets/1010.pdf",
+        "https://sauna-ikitai.com/aichi/sento?page=2"
+      ],
+      "confidence": "medium",
+      "note": "組合主催のあいち銭湯スタンプラリー（2026/9〜10）参加店。組合サイトの一覧には無い。サウナはサウナイキタイの銭湯サウナ一覧で確認（施設ページは取得不可）"
+    },
+    {
+      "kind": "super",
+      "name": "庄内温泉 喜多の湯",
+      "address": "愛知県名古屋市北区西味鋺1-132-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ、塩サウナ（女湯のみ）",
+      "url": "https://super-sentou.com/shop-information/syonai-onsen/",
+      "sources": [
+        "https://super-sentou.com/shop-information/syonai-onsen/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（設備点検の臨時休業あり）",
+      "note": "人工温泉（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "山王温泉 喜多の湯",
+      "address": "愛知県名古屋市中川区山王1-601",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ、熱気房（ケロ材の談話サウナ・瞑想サウナ）",
+      "url": "https://super-sentou.com/shop-information/sanno-onsen/",
+      "sources": [
+        "https://super-sentou.com/shop-information/sanno-onsen/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（設備点検の臨時休業あり）",
+      "note": "人工温泉（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "有松温泉 喜多の湯",
+      "address": "愛知県大府市東新町4-94",
+      "weekdayAdult": 700,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "高温サウナ（遠赤外線のタワーサウナ）",
+      "url": "https://super-sentou.com/shop-information/arimatsu-onsen/",
+      "sources": [
+        "https://super-sentou.com/shop-information/arimatsu-onsen/",
+        "https://super-sentou.com/topics/13954/?from_shop=arimatsu-onsen"
+      ],
+      "confidence": "high",
+      "notice": "2026/12/7〜12/19はボイラー入替工事のため全館臨時休業（12/20から営業）",
+      "note": "人工温泉（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "香流温泉 喜多の湯",
+      "address": "愛知県名古屋市守山区森孝2-902",
+      "weekdayAdult": 800,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://super-sentou.com/shop-information/kanare-onsen/",
+      "sources": [
+        "https://super-sentou.com/shop-information/kanare-onsen/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（設備点検の臨時休業あり）",
+      "note": "人工温泉（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "豊田挙母温泉 おいでんの湯",
+      "address": "愛知県豊田市司町1-1-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（平日8〜10時・土日祝6〜8時）600円。お盆・正月・GWは土日祝料金",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯はアウフグース、女湯はオートロウリュ。別エリアの「さうな広場」は+500円",
+      "url": "https://oiden.info/",
+      "sources": [
+        "https://oiden.info/guide",
+        "https://oiden.info/floor/sauna"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/16〜11/20は休館",
+      "note": "人工温泉（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "湯〜とぴあ宝",
+      "address": "愛知県名古屋市南区前浜通1-9",
+      "weekdayAdult": 2400,
+      "holidayAdult": 2800,
+      "saunaFee": 0,
+      "priceNote": "入館料（タオル・館内着込み）。夕方半額プラン（17時〜）平日1,200円・土日祝1,400円、朝風呂プラン平日900円・土日祝1,000円。深夜2時以降は深夜割増あり",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "7つのサウナ（ロウリュウサウナあり）",
+      "url": "https://www.yu-t.com/",
+      "sources": [
+        "https://www.yu-t.com/guidance/",
+        "https://www.yu-t.com/bath/"
+      ],
+      "confidence": "high",
+      "note": "天然温泉の記載なし（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "スパ＆フィットネス 大泉寺温泉 福の湯",
+      "address": "愛知県春日井市大泉寺町220-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "2026/11/2から平日1,000円・土日祝1,000円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "湿式サウナ（60〜80℃）、蒸気浴",
+      "url": "https://www.fukunoyu.co.jp/",
+      "sources": [
+        "https://www.fukunoyu.co.jp/user_guide/",
+        "https://www.fukunoyu.co.jp/2026/10/15/10719/",
+        "https://www.fukunoyu.co.jp/facility/hot_springs/"
+      ],
+      "confidence": "high",
+      "note": "人工温泉（温泉調査で除外済み）。基準日の料金は料金改定のお知らせの「現行料金」"
+    },
+    {
+      "kind": "super",
+      "name": "湯ごころ ゆるり",
+      "address": "愛知県春日井市松河戸町2-5-4",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（開店〜10時）800円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "サウナ、スチームサウナ（女湯のみ）",
+      "url": "https://yugokoro-yururi.jp/",
+      "sources": [
+        "https://yugokoro-yururi.jp/information/",
+        "https://yugokoro-yururi.jp/bath/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/16〜11/17は休館",
+      "note": "人工温泉（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "いちのみや温泉 楽だの湯",
+      "address": "愛知県一宮市多加木1-28-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "祝前日も休日料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "http://www.rakudanoyu.com/",
+      "sources": [
+        "http://www.rakudanoyu.com/concept1.html",
+        "http://www.rakudanoyu.com/ofuro.html"
+      ],
+      "confidence": "high",
+      "note": "人工温泉・炭酸泉（温泉調査で除外済み）。料金は公式の料金表画像"
+    },
+    {
+      "kind": "super",
+      "name": "稲沢温泉 楽だの湯",
+      "address": "愛知県稲沢市桜木1-10-16",
+      "weekdayAdult": 550,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "祝前日も休日料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "90℃の高温サウナ",
+      "url": "http://rakudanoyu-inazawa.com/",
+      "sources": [
+        "http://rakudanoyu-inazawa.com/concept1.html",
+        "http://rakudanoyu-inazawa.com/ofuro.html"
+      ],
+      "confidence": "high",
+      "note": "天然温泉の記載なし（温泉調査で除外済み）。料金は公式の料金表画像"
+    },
+    {
+      "kind": "super",
+      "name": "桃山の湯",
+      "address": "愛知県名古屋市緑区桃山4-329-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "サウナ",
+      "url": "http://momoyamanoyu.nagoya/",
+      "sources": [
+        "http://momoyamanoyu.nagoya/concept.html"
+      ],
+      "confidence": "high",
+      "note": "「天然温泉とかわらない効能を持つ温泉」との記載で天然温泉ではない。料金は公式の料金表画像。サウナは公式の利用上の注意（サウナ室）で確認、種類は未確認"
+    },
+    {
+      "kind": "super",
+      "name": "名東温泉 花しょうぶ",
+      "address": "愛知県長久手市丁子田17-13",
+      "weekdayAdult": 820,
+      "holidayAdult": 920,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "熱気風炉（高温サウナ・オートロウリュ）",
+      "url": "https://hanashobu.com/meitou/",
+      "sources": [
+        "https://hanashobu.com/meitou/guide/",
+        "https://hanashobu.com/meitou/facilities/"
+      ],
+      "confidence": "high",
+      "note": "天然温泉ではない（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "西尾温泉 茶の湯",
+      "address": "愛知県西尾市下町八幡下34-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "熱茶房（オートロウリュ・男湯はアウフグースも）、深蒸房（女湯のみ、スチーム・塩）",
+      "url": "https://sanoyu.jp/",
+      "sources": [
+        "https://sanoyu.jp/info",
+        "https://sanoyu.jp/spa"
+      ],
+      "confidence": "high",
+      "note": "人工温泉・沸かし湯（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯レッツ高浜",
+      "address": "愛知県高浜市神明町8-19-1",
+      "weekdayAdult": 780,
+      "holidayAdult": 880,
+      "saunaFee": 0,
+      "priceNote": "燃料調整費100円込み（2026/7/1から当面。通常は平日680円・土日祝780円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "サウナ、ミストサウナ",
+      "url": "https://www.k-sgroup.com/onsen/lets-takahama/",
+      "sources": [
+        "https://www.k-sgroup.com/onsen/lets-takahama/"
+      ],
+      "confidence": "high",
+      "note": "白湯（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "ゆのゆ TOYOHASHI",
+      "address": "愛知県豊橋市飯村南2-31-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "特別料金設定期間あり",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ、塩サウナ",
+      "url": "https://yunoyu.jp/",
+      "sources": [
+        "https://yunoyu.jp/info/",
+        "https://yunoyu.jp/healing/"
+      ],
+      "confidence": "high",
+      "note": "沸かし湯（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "ユトリーナ蒲郡",
+      "address": "愛知県蒲郡市西浦町田土山3-4",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "浴室の料金（バーデゾーン共通900円）",
+      "saunaTypes": [],
+      "saunaNote": "浴室（2階）にサウナ",
+      "url": "http://yutrina.heteml.net/",
+      "sources": [
+        "http://yutrina.heteml.net/used/",
+        "http://yutrina.heteml.net/shisetsu/",
+        "http://yutrina.heteml.net/2026/10/04/%e8%87%a8%e6%99%82%e4%bc%91%e9%a4%a8%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-9/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（祝日は直後の平日）。2026/11/9〜11/24は臨時休館",
+      "note": "清掃工場の余熱利用施設（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "大庭園露天風呂 おかざき楽の湯",
+      "address": "愛知県岡崎市庄司田1-14-14",
+      "weekdayAdult": 950,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "繁忙期は特別料金（シーズン料金）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "湿式スタジアムサウナ",
+      "url": "https://rakunoyu.com/okazaki/",
+      "sources": [
+        "https://rakunoyu.com/okazaki/information.html"
+      ],
+      "confidence": "high",
+      "note": "公式に天然温泉の記載なし（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "コロナの湯 豊川店",
+      "address": "愛知県豊川市下長山町上アライ14-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "サウナ（2026/7/16リニューアル）",
+      "url": "https://www.korona.co.jp/onsen/tok/",
+      "sources": [
+        "https://www.korona.co.jp/onsen/basic/tok/456"
+      ],
+      "confidence": "high",
+      "note": "公式に「豊川店は天然温泉ではございません」（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "スパアクアス湯友楽",
+      "address": "愛知県一宮市開明字神明郭5",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯はスタジアムサウナ・瞑想サウナ（オートロウリュ）、女湯はアロマサウナ（オートロウリュ）・バレルサウナ（セルフロウリュ）",
+      "url": "https://www.spaaquas-yuraku.com/",
+      "sources": [
+        "https://www.spaaquas-yuraku.com/facility/",
+        "https://www.spaaquas-yuraku.com/spa_sauna/"
+      ],
+      "confidence": "high",
+      "note": "公式に天然温泉の記載なし（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "極楽湯 豊橋店",
+      "address": "愛知県豊橋市瓜郷町一新替13-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1020,
+      "saunaFee": 0,
+      "priceNote": "繁忙期はシーズン料金",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "ロウリュ可",
+        "その他"
+      ],
+      "saunaNote": "男湯はロウリュウ熱波サウナ、女湯は遠赤外線タワーサウナ。漢方釜風呂（熱気浴）",
+      "url": "https://www.gokurakuyu.ne.jp/gokurakuyu/tempo/toyohashi/",
+      "sources": [
+        "https://onsen.nifty.com/toyohashi-onsen/onsen007085/"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトは調査時メンテナンス中で取得できず。料金はニフティ温泉の記事（2026年7月作成・2026年現在の料金）。天然温泉を確認できず（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "みかんの湯 蒲郡",
+      "address": "愛知県蒲郡市鹿島町浅井新田1-36",
+      "weekdayAdult": 1080,
+      "holidayAdult": 1280,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "タワーサウナ（オートロウリュ）",
+      "url": "https://mikannoyu.jp/",
+      "sources": [
+        "https://mikannoyu.jp/"
+      ],
+      "confidence": "high",
+      "note": "クラスポ蒲郡内。公式に天然温泉の記載なし（温泉調査で除外済み）。2026年7月にプレオープン"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 クアメゾン四季の湯",
+      "address": "愛知県一宮市春明字円光寺65-25",
+      "weekdayAdult": 500,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "サウナ、塩サウナ",
+      "url": "https://www.shikinoyu.co.jp/",
+      "sources": [
+        "https://www.shikinoyu.co.jp/ryokin.html",
+        "https://www.shikinoyu.co.jp/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "kind": "super",
+      "name": "りすぱ豊橋",
+      "address": "愛知県豊橋市東七根町字宝地道10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "浴場の料金",
+      "saunaTypes": [],
+      "saunaNote": "浴場にサウナ",
+      "url": "https://information.konamisportsclub.jp/trust/re-spa-toyohashi/",
+      "sources": [
+        "https://information.konamisportsclub.jp/trust/re-spa-toyohashi/pricing/",
+        "https://information.konamisportsclub.jp/trust/re-spa-toyohashi/facility/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（休日・祝日は翌平日）",
+      "note": "豊橋市資源化センターの余熱利用施設（プール併設）"
+    },
+    {
+      "kind": "super",
+      "name": "ホワイトウェイブ21",
+      "address": "愛知県西尾市吉良町岡山大岩山70",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": 0,
+      "priceNote": "浴室の料金（大人は高校生以上）",
+      "saunaTypes": [],
+      "saunaNote": "浴室にサウナ",
+      "url": "https://whitewave21.com/",
+      "sources": [
+        "https://whitewave21.com/price/",
+        "https://whitewave21.com/information/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（祝日は営業）",
+      "note": "プール併設の公共施設"
+    },
+    {
+      "kind": "super",
+      "name": "すいとぴあ江南",
+      "address": "愛知県江南市草井町西200",
+      "weekdayAdult": 430,
+      "holidayAdult": 430,
+      "saunaFee": 0,
+      "priceNote": "大浴場の料金（小・中学生180円）",
+      "saunaTypes": [],
+      "saunaNote": "展望大浴場にサウナ室",
+      "url": "https://suitopia.jp/",
+      "sources": [
+        "https://suitopia.jp/price/",
+        "https://suitopia.jp/public-bath/"
+      ],
+      "confidence": "high",
+      "note": "ごみ焼却の余熱利用施設"
+    },
+    {
+      "kind": "super",
+      "name": "常滑温泉 マーゴの湯",
+      "address": "愛知県常滑市りんくう町2-20-3",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "遠赤外線サウナ（3段）。毎週金曜にロウリュウ",
+      "url": "https://tokoname-magonoyu.ma-go.co.jp/",
+      "sources": [
+        "https://tokoname-magonoyu.ma-go.co.jp/about/",
+        "https://tokoname-magonoyu.ma-go.co.jp/ofuro/"
+      ],
+      "confidence": "high",
+      "note": "イオンモール常滑内。草津温泉の成分を再現した人工温泉。料金は公式の料金表画像"
+    },
+    {
+      "kind": "super",
+      "name": "サン・ビレッジ衣浦",
+      "address": "愛知県碧南市広見町1-19-1",
+      "weekdayAdult": 440,
+      "holidayAdult": 440,
+      "saunaFee": 0,
+      "priceNote": "お風呂の料金（小・中学生220円）",
+      "saunaTypes": [],
+      "saunaNote": "サウナ（和風・洋風浴室）",
+      "url": "https://www.katch.ne.jp/~kinu-ei/sunvillage/index.html",
+      "sources": [
+        "https://www.katch.ne.jp/~kinu-ei/sunvillage/riyou/index.html",
+        "https://www.katch.ne.jp/~kinu-ei/sunvillage/spa/index.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜・年末年始",
+      "note": "衣浦衛生組合のごみ焼却余熱利用施設（プール併設）"
+    },
+    {
+      "kind": "super",
+      "name": "SOLA SPA 風の湯",
+      "address": "愛知県常滑市セントレア1-1",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "タオル付き1,500円",
+      "saunaTypes": [],
+      "saunaNote": "サウナ",
+      "url": "https://www.centrair.jp/shop-dine/shop/fu-no-yu.html",
+      "sources": [
+        "https://onsen.nifty.com/tokoname-onsen/onsen006738/"
+      ],
+      "confidence": "medium",
+      "note": "中部国際空港内の展望風呂。公式ページは取得できず（403）、料金・サウナはニフティ温泉。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 アサヒ乃湯",
+      "address": "愛知県知立市中町花山28-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "サウナ",
+      "url": "https://www.instagram.com/asahinoyu.chiryu/",
+      "sources": [
+        "https://onsen.nifty.com/okazaki-onsen/onsen010596/"
+      ],
+      "confidence": "medium",
+      "note": "天然温泉の記載なし（温泉調査で除外済み）。料金はニフティ温泉（公式はInstagramのみ）。2026年7月の口コミあり"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯ふろ屋",
+      "address": "愛知県岡崎市洞町西五位原6-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "12時以降の料金（午前8〜12時は平日650円・土日祝700円）",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "遠赤外線サウナ、塩サウナ",
+      "url": "https://ja-jp.facebook.com/furoya/",
+      "sources": [
+        "https://onsen.nifty.com/okazaki-onsen/onsen009591/"
+      ],
+      "confidence": "medium",
+      "note": "天然温泉の記載なし（温泉調査で除外済み）。料金はニフティ温泉（公式はFacebookのみ）。2026年5月の口コミあり"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "桔梗湯",
+      "reason": "休業中（組合サイトに「休業中」）"
+    },
+    {
+      "name": "宮裏温泉",
+      "reason": "休業中（ニフティ温泉に「現在休業中」、組合の一覧から外れている）"
+    },
+    {
+      "name": "炭の湯",
+      "reason": "サウナ休止中（公式に「サウナは現在ご利用いただけません」）"
+    },
+    {
+      "name": "リラクゼーション・スパ アペゼ",
+      "reason": "カプセルホテル併設のサウナ・スパ（サウナが主の施設）"
+    },
+    {
+      "name": "ふれあい銭湯千人風呂",
+      "reason": "組合の一覧に無く、2026年の営業状況・料金・サウナを公式等で確認できず"
+    },
+    {
+      "name": "あいち健康プラザ 天然温泉もりの湯",
+      "reason": "天然温泉だがサウナの記載なし"
+    },
+    {
+      "name": "春日井温泉",
+      "reason": "天然温泉（運び湯）として温泉データ 23-aichi.json に収録済み"
+    }
+  ],
+  "notes": "銭湯の大人料金は2026/4/1からの550円（愛知県の入浴料金統制額）。銭湯は愛知県公衆浴場業生活衛生同業組合の公式サイト（aichi1010.jp、48軒・施設ごとに高温サウナ／その他サウナの料金あり）を全件確認し、サウナ料金が「ー」でないものを収録。組合サイトとサウナイキタイ・ニフティ温泉でサウナ料金が食い違うものが多く、施設の公式サイトがあるもの（八千代湯・白山温泉・比良温泉・養老温泉・ぽかぽか温泉・杉戸浴場・炭の湯）は公式を優先した。組合サイトのサウナ料金は古い可能性があり、公式サイトの無い銭湯は組合の値のまま。組合主催のスタンプラリー（2026/9〜10）参加の杉の湯は組合サイトに無いためサウナイキタイで補った。サウナイキタイの銭湯サウナ一覧（46件）のうち東温泉（あずまおんせん）は所在地・営業を確認できず未収録。スーパー銭湯等はニフティ温泉の愛知県一覧（481件）から日帰り施設を洗い出し、温泉調査で除外した非天然温泉の施設と公共の余熱利用施設を公式で確認。男性専用サウナ・サウナ専門店・個室サウナ・ホテルは対象外。永和温泉みそぎの湯・祖父江ふれあいの郷・飛島村ふれあい温泉・湯の島温泉・一畑山薬師寺御霊泉・サンパーク犬山は未確認（天然温泉の可能性があり、温泉データにも無い）。"
+}

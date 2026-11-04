@@ -1,0 +1,125 @@
+{
+  "prefecture": "宮崎県",
+  "prefCode": "45",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "スパぱうぱう（ホテルマリックス・ラグーン）",
+      "address": "宮崎県宮崎市清水3-105",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "くつろぎ着・タオル付き。岩盤浴セット平日1,400円・土日祝1,500円",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "北欧式サウナ（男女）",
+      "url": "http://www.hotel-marix.co.jp/lagoon/spapawpaw/",
+      "sources": [
+        "http://www.hotel-marix.co.jp/lagoon/spapawpaw/",
+        "https://onsen.nifty.com/miyazaki-onsen/onsen006716/"
+      ],
+      "confidence": "high",
+      "notice": "月1回メンテナンス休館あり。10〜23時",
+      "note": "準天然光明石温泉（人工温泉）。ホテル併設の日帰り温浴施設"
+    },
+    {
+      "kind": "super",
+      "name": "エコクリーン ほがらか湯",
+      "address": "宮崎県宮崎市大瀬町6176-8",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 200,
+      "priceNote": "高温サウナの利用はサウナマット200円が必要。低温サウナ（岩盤浴）はバスタオル500円が必要",
+      "saunaTypes": ["ドライ"],
+      "saunaNote": "高温サウナは奇数日男性・偶数日女性（浴室は日替わり）",
+      "url": "https://www.ecomiyazaki.jp/hogaraka",
+      "sources": [
+        "https://www.ecomiyazaki.jp/hogaraka",
+        "https://onsen.nifty.com/miyazaki-onsen/onsen019592/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は翌日）。10〜20時",
+      "note": "エコクリーンプラザみやざき（ごみ処理施設）の余熱で沸かした湯。料金は2025年改定後（大人は中学生以上）"
+    },
+    {
+      "kind": "super",
+      "name": "ヘルストピア延岡",
+      "address": "宮崎県延岡市長浜町3丁目1954-2",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "大人は高校生以上（小中学生310円）。プール共通830円",
+      "saunaTypes": ["その他"],
+      "saunaNote": "",
+      "url": "https://healthtopia.jp/",
+      "sources": [
+        "https://healthtopia.jp/price/",
+        "https://healthtopia.jp/service/spa/"
+      ],
+      "confidence": "high",
+      "notice": "月曜休館（祝日の場合は翌日）。お風呂10〜21時",
+      "note": "準天然光明石温泉（人工温泉）。公式のお風呂ページにサウナ・水風呂あり（種類の記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "合歓木温泉 広原店",
+      "address": "宮崎県都城市広原町9-11",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "学生（中学生以上）450円",
+      "saunaTypes": ["遠赤外線"],
+      "saunaNote": "",
+      "url": "https://nemunoki-onsen.com/",
+      "sources": ["https://nemunoki-onsen.com/"],
+      "confidence": "high",
+      "notice": "年中無休。5:15〜22:00",
+      "note": "公式に天然温泉・泉質の記載なし（温泉調査で除外済み）。サウナは公式に遠赤外線サウナ（店舗別の記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "合歓木温泉 五十市店",
+      "address": "宮崎県都城市五十町1613",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "学生（中学生以上）450円",
+      "saunaTypes": ["遠赤外線"],
+      "saunaNote": "",
+      "url": "https://nemunoki-onsen.com/",
+      "sources": ["https://nemunoki-onsen.com/"],
+      "confidence": "high",
+      "notice": "年中無休。5:15〜23:00",
+      "note": "公式に天然温泉・泉質の記載なし（温泉調査で除外済み）。サウナは公式に遠赤外線サウナ（店舗別の記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "合歓木温泉 沖水店",
+      "address": "宮崎県都城市金田町2720",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "学生（中学生以上）450円",
+      "saunaTypes": ["遠赤外線"],
+      "saunaNote": "",
+      "url": "https://nemunoki-onsen.com/",
+      "sources": ["https://nemunoki-onsen.com/"],
+      "confidence": "high",
+      "notice": "年中無休。5:15〜22:00",
+      "note": "公式に天然温泉・泉質の記載なし（温泉調査で除外済み）。宿泊併設。サウナは公式に遠赤外線サウナ（ポータルでは70℃・85℃の2室）"
+    }
+  ],
+  "excluded": [
+    { "name": "カプセルルーム&サウナ・マリノーヴァ（ホテルマリックス）", "reason": "カプセル併設のサウナ施設" },
+    { "name": "サウナMIYAZAKI・SAKURA SPA&（宮崎第一ホテル）", "reason": "ホテルのサウナ施設（サウナMIYAZAKIは男性専用）" },
+    { "name": "ふなの湯 サウナ専門店（延岡市）・GRAN SAUNA MIYAZAKI・風SAUNA・宝夢サウナ・サウナロン・Totonou ShinRin Sauna・The earth sauna・茶臼原ひみつのサウナ・SAUNA PARKING ほか", "reason": "サウナ専門店・予約制の個室サウナ" },
+    { "name": "自然休養村センター 綾川荘・てるはの森の宿（綾町）", "reason": "宿泊施設の大浴場（綾川荘は人工の麦飯岩温泉。日帰り料金は2026/4改定後の額を確認できず）" },
+    { "name": "ホテル高千穂・都城グリーンホテル", "reason": "ホテルの大浴場（都城グリーンホテルは大浴場が宿泊者のみ）" },
+    { "name": "和楽笑の湯（都城市）", "reason": "公式情報なし。天然温泉か・料金を確認できず（ポータルのみ）" },
+    { "name": "喜楽湯（延岡市）", "reason": "一般公衆浴場だがサウナの情報なし" },
+    { "name": "SEKINOO POOL SAUNA in Snow Peak MIYAKONOJO", "reason": "予約制のプールサウナ施設" },
+    { "name": "ホリデイスポーツクラブ都城・CALDO宮崎・フィットネスアカデミー ほか", "reason": "スポーツクラブ・ジム" }
+  ],
+  "notes": "宮崎県の銭湯の統制額は2026/4/1から大人450円（県のページ、2026/1/29掲載）。県の公衆浴場一覧（宮崎市を除く、令和8年9月末時点）で一般公衆浴場はえびの市の温泉銭湯7軒・延岡市の喜楽湯のみで、天然温泉でないサウナ付きの町の銭湯は見つからなかった。宮崎市内は一覧の対象外のため、サウナイキタイ（宮崎県123件）・ニフティ温泉の宮崎県サウナ一覧（65件）で洗い出したが、宮崎市にサウナ付きの銭湯の掲載はなかった。日帰り温浴施設の多くは天然温泉で既存データにある。"
+}

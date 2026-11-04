@@ -1,0 +1,171 @@
+{
+  "prefecture": "山口県",
+  "prefCode": "35",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "向洋温泉",
+      "address": "山口県下関市栄町1-9",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。サウナはタオル持参",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=10444",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=10444",
+        "https://www.nap-camp.com/mag/70961",
+        "https://news.yahoo.co.jp/articles/886c24798919642729e4a45c7864929eee6ab8a0"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜日",
+      "note": "入浴料は県の統制額（2026/10/1から大人520円）。サウナ（スチーム式ボナサウナ）は記事（2026/10更新）と口コミ（2025/11）による。水風呂は地下150mの天然水（温泉ではない）"
+    },
+    {
+      "kind": "onsen",
+      "name": "片倉温泉くぼた",
+      "address": "山口県宇部市西岐波5345",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=997",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=997"
+      ],
+      "confidence": "medium",
+      "notice": "無休",
+      "note": "泉質は泉質名なし（低張性弱アルカリ性冷鉱泉・19.3℃）とポータルに記載。サウナは口コミ（2025/10・2026/5・6）による。既存の温泉データに無いため追加"
+    },
+    {
+      "kind": "super",
+      "name": "ヘルシーランド下関",
+      "address": "山口県下関市大字井田",
+      "weekdayAdult": 630,
+      "holidayAdult": 630,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://s-kanrikousha.com/healthytop.html",
+      "sources": [
+        "https://s-kanrikousha.com/healthyryoukin.html",
+        "https://iko-yo.net/facilities/109312",
+        "https://www.nap-camp.com/mag/70961"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜日、12/29〜1/3",
+      "note": "公式の料金表は浴場一般630円のみ（サウナ料金の記載なし）。サウナ（遠赤外線ドライ）はポータル・記事による。女湯にサウナがないとの情報もあり未確認。公式の住所は大字井田・大字小野（番地なし）。公式に温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "フレスパランド カッタの湯",
+      "address": "山口県宇部市海南町1675",
+      "weekdayAdult": 650,
+      "holidayAdult": 700,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "備長炭サウナ・アロマサウナは男女月替わり",
+      "url": "https://yuru-to.net/detail.php?oid=10450",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=10450",
+        "https://www.asoview.com/note/6818/"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休（点検休あり）。26時まで営業",
+      "note": "人工ラジウム温泉・人工炭酸泉（前回の温泉調査）。料金はポータル（口コミ2026/9）"
+    },
+    {
+      "kind": "super",
+      "name": "日の出公園温浴施設 スパ・サンライズ",
+      "address": "山口県岩国市日の出町2-74",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://spa-sunrise.com/",
+      "sources": [
+        "https://onsen.nifty.com/iwakuni-onsen/onsen016690/",
+        "https://yuru-to.net/detail.php?oid=50880"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜日（祝日は営業）・年末年始",
+      "note": "人工ラジウム泉（ニフティ）。公式サイトは本文を取得できず。口コミ（2026/10）あり"
+    },
+    {
+      "kind": "super",
+      "name": "グリーンステイながうら 潮風呂（保養館）",
+      "address": "山口県大島郡周防大島町大字椋野1144-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "1回最大5名・混雑時は10分まで",
+      "url": "http://greenstay-nagaura.com/hoyoukan/",
+      "sources": [
+        "http://greenstay-nagaura.com/hoyoukan/",
+        "https://onsen.nifty.com/yanai-onsen/onsen003812/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎週火曜日（祝日の場合は翌日）",
+      "note": "海水を沸かした潮風呂（天然温泉ではない）。公式に浴室奥のサウナの案内があり、料金表に別料金の記載なし。住所はグリーンステイながうらのもの"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "宇部サウナセンター",
+      "reason": "サウナ専門施設"
+    },
+    {
+      "name": "ホテル アムゼ新山口（サウナ&スパ）",
+      "reason": "男性専用サウナ"
+    },
+    {
+      "name": "福久旅館",
+      "reason": "旅館の浴場"
+    },
+    {
+      "name": "国民宿舎 海峡ビューしものせき",
+      "reason": "宿泊施設の浴場（人工温泉）"
+    },
+    {
+      "name": "岩国シティビューホテル",
+      "reason": "ホテルの浴場（人工ラジウム温泉）"
+    },
+    {
+      "name": "COCOLAND山口・宇部",
+      "reason": "リゾートホテルの浴場（人工温泉）"
+    },
+    {
+      "name": "秋吉台リフレッシュパーク 景清洞トロン温泉",
+      "reason": "宿泊施設併設の人工温泉。料金・サウナを公式で確認できず"
+    },
+    {
+      "name": "プライベートサウナ 垢田の杜 桂月",
+      "reason": "予約制の貸切サウナのみ"
+    }
+  ],
+  "notes": "山口県の浴場組合の銭湯一覧は見つからず。サウナイキタイの山口県一覧（169件）、ゆる～と、記事、前回の除外候補で洗い出した。県の銭湯の大人料金は520円（2026/10/1から。山口新聞の報道。2025/3/1からの480円は県の発表）。日乃出温泉・天然温泉 清水湯・川棚温泉 ぴーすふる青竜泉・ゆーぱーく光は天然温泉として既存データに収録済み。下関市の弁天湯・だるま湯はサウナを確認できず（だるま湯は口コミでサウナなし）対象外。サウナイキタイは一覧ページのみ取得でき、施設ページはアクセス制限（405）のため参照していない。"
+}

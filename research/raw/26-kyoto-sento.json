@@ -1,0 +1,1596 @@
+{
+  "prefecture": "京都府",
+  "prefCode": "26",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "銀座湯",
+      "address": "京都府京都市左京区吉田近衛町26-37",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/%E9%8A%80%E5%BA%A7%E6%B9%AF/",
+      "sources": [
+        "https://1010.kyoto/spot/%E9%8A%80%E5%BA%A7%E6%B9%AF/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "明田湯",
+      "address": "京都府京都市南区東九条明田町10",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/aketayu/",
+      "sources": [
+        "https://1010.kyoto/spot/aketayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "旭湯",
+      "address": "京都府京都市東山区大和大路通五条上ル門脇町182",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/asahiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/asahiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "旭湯",
+      "address": "京都府京都市右京区西院東今田町9-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/asahiyu1/",
+      "sources": [
+        "https://1010.kyoto/spot/asahiyu1/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "旭湯",
+      "address": "京都府京都市南区唐橋羅城門町20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/asahiyu2/",
+      "sources": [
+        "https://1010.kyoto/spot/asahiyu2/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "新シ湯",
+      "address": "京都府京都市東山区古門前通大和大路東入ル3丁目古西町316",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/atarashiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/atarashiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "長者湯",
+      "address": "京都府京都市上京区上長者町通松屋町西入ル須浜東町450",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/choujayu/",
+      "sources": [
+        "https://1010.kyoto/spot/choujayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による。サウナは2023年10月新設"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯",
+      "address": "京都府京都市左京区山端柳ケ坪町16-3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/daikokuyu-2/",
+      "sources": [
+        "https://1010.kyoto/spot/daikokuyu-2/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日・木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯",
+      "address": "京都府京都市東山区大黒町通松原下ル山城町284",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/daikokuyu/",
+      "sources": [
+        "https://1010.kyoto/spot/daikokuyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大徳寺温泉",
+      "address": "京都府京都市北区紫竹西高縄町58",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/daitokujionsen/",
+      "sources": [
+        "https://1010.kyoto/spot/daitokujionsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "栄盛湯",
+      "address": "京都府京都市左京区下鴨膳部町1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/eiseiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/eiseiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "船岡温泉",
+      "address": "京都府京都市北区紫野南舟岡町82-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/funaokaonsen/",
+      "sources": [
+        "https://1010.kyoto/spot/funaokaonsen/",
+        "https://1010.kyoto/how_to_use/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen005787/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で全てのお風呂に入れる）と、ニフティの口コミ（サウナ無料）による"
+    },
+    {
+      "kind": "sento",
+      "name": "銀水湯",
+      "address": "京都府京都市左京区浄土寺下南田町122-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/ginsuiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/ginsuiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "五香湯",
+      "address": "京都府京都市下京区黒門通五条上ル柿本町590-12",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://www.gokouyu.net/",
+      "sources": [
+        "https://1010.kyoto/spot/gokoyu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://www.gokouyu.net/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日・第3火曜日",
+      "note": "公式に「別料金は岩盤浴のみ・普通の銭湯の料金で入浴可」"
+    },
+    {
+      "kind": "sento",
+      "name": "御三軒湯",
+      "address": "京都府京都市上京区上立売通小川西入ル御三軒町38",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/gosankenyu/",
+      "sources": [
+        "https://1010.kyoto/spot/gosankenyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・水・金",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "五色湯",
+      "address": "京都府京都市中京区壬生東大竹町2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/goshikiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/goshikiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "白山湯 六条店",
+      "address": "京都府京都市下京区新町通六条下ル艮町893",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/hakusanyurokujo/",
+      "sources": [
+        "https://1010.kyoto/spot/hakusanyurokujo/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "白山湯 高辻店",
+      "address": "京都府京都市下京区東中筋通松原上ル舟屋町665",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/hakusanyutakatsuji/",
+      "sources": [
+        "https://1010.kyoto/spot/hakusanyutakatsuji/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "花の湯",
+      "address": "京都府京都市中京区西ノ京内畑町20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hananoyu-kyoto.jp/",
+      "sources": [
+        "https://1010.kyoto/spot/hananoyu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://hananoyu-kyoto.jp/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日・第２第4水曜",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "初音湯",
+      "address": "京都府京都市中京区押小路通高倉西入ル左京町143",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/hatsuneyu/",
+      "sources": [
+        "https://1010.kyoto/spot/hatsuneyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜日と毎月最終金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "平安湯",
+      "address": "京都府京都市左京区吉田下大路町22",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/heianyu/",
+      "sources": [
+        "https://1010.kyoto/spot/heianyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "東山湯温泉",
+      "address": "京都府京都市左京区田中門前町27",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/higashiyamayuonsen/",
+      "sources": [
+        "https://1010.kyoto/spot/higashiyamayuonsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "船戸湯",
+      "address": "京都府京都市南区吉祥院里ノ内町76",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/hunatoyu/",
+      "sources": [
+        "https://1010.kyoto/spot/hunatoyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "正月は休み",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "トロン温泉稲荷湯",
+      "address": "京都府京都市中京区三条通神泉苑西入ル下ル今新在家西町4",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/inariyu/",
+      "sources": [
+        "https://1010.kyoto/spot/inariyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "石田湯",
+      "address": "京都府京都市南区東九条南石田町35",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/ishidayu/",
+      "sources": [
+        "https://1010.kyoto/spot/ishidayu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen010356/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": "サウナ料金は組合の案内（550円で全てのお風呂に入れる）と、ニフティの口コミ（サウナ無料）による"
+    },
+    {
+      "kind": "sento",
+      "name": "泉湯",
+      "address": "京都府京都市東山区本町10-192",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/izumiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/izumiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "鴨川湯",
+      "address": "京都府京都市左京区下鴨上川原町56",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kamogawayu/",
+      "sources": [
+        "https://1010.kyoto/spot/kamogawayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "加茂湯",
+      "address": "京都府京都市北区小山西元町45",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kamoonsen/",
+      "sources": [
+        "https://1010.kyoto/spot/kamoonsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第2・第4の火曜日・水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "観月湯",
+      "address": "京都府京都市伏見区向島庚申町45",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kangetuyu/",
+      "sources": [
+        "https://1010.kyoto/spot/kangetuyu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen009204/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で全てのお風呂に入れる）と、ニフティの口コミ（サウナ無料）による"
+    },
+    {
+      "kind": "sento",
+      "name": "勝山湯",
+      "address": "京都府向日市寺戸町中ノ段16",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/katsuyamayu/",
+      "sources": [
+        "https://1010.kyoto/spot/katsuyamayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "桂湯",
+      "address": "京都府京都市西京区桂木ノ下町21-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/katurayu/",
+      "sources": [
+        "https://1010.kyoto/spot/katurayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日・火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "金龍湯",
+      "address": "京都府京都市北区紫野下石龍町1-3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kinryuyu/",
+      "sources": [
+        "https://1010.kyoto/spot/kinryuyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "衣笠温泉",
+      "address": "京都府京都市北区大将軍一条町50",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kinugasaonsen/",
+      "sources": [
+        "https://1010.kyoto/spot/kinugasaonsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "金山湯",
+      "address": "京都府京都市中京区壬生西土居ノ内町44",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kinzanyu/",
+      "sources": [
+        "https://1010.kyoto/spot/kinzanyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "雲母湯",
+      "address": "京都府京都市左京区一乗寺西浦畑町53",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kirarayu/",
+      "sources": [
+        "https://1010.kyoto/spot/kirarayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "小町湯",
+      "address": "京都府京都市下京区西七条市部町43",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/komachiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/komachiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "寿湯",
+      "address": "京都府京都市伏見区弾正町117",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kotobukiyu1/",
+      "sources": [
+        "https://1010.kyoto/spot/kotobukiyu1/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜日・毎月最終金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "寿湯",
+      "address": "京都府京都市右京区山ノ内御堂殿町3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kotobukiyu2/",
+      "sources": [
+        "https://1010.kyoto/spot/kotobukiyu2/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "鞍馬湯",
+      "address": "京都府京都市伏見区大津町730",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "ミストサウナ",
+      "url": "http://www.kuramayu.com/",
+      "sources": [
+        "https://1010.kyoto/spot/kuramayu/",
+        "https://1010.kyoto/how_to_use/",
+        "http://www.kuramayu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日・火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "京極湯",
+      "address": "京都府京都市右京区西京極西川町39-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/kyogokuyu/",
+      "sources": [
+        "https://1010.kyoto/spot/kyogokuyu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen009553/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で全てのお風呂に入れる）と、ニフティの口コミ（サウナ無料）による"
+    },
+    {
+      "kind": "sento",
+      "name": "京都 玉の湯",
+      "address": "京都府京都市中京区押小路通御幸町西入ル亀屋町401",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://kyoto-tamanoyu.com/",
+      "sources": [
+        "https://1010.kyoto/spot/kyototamanoyu/",
+        "https://1010.kyoto/how_to_use/",
+        "http://kyoto-tamanoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "孫橋湯",
+      "address": "京都府京都市左京区新麩屋町通孫橋南入ル法林寺門前町36",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/magobashiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/magobashiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日・第2水曜・木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "松葉湯",
+      "address": "京都府京都市上京区下立売通御前東入ル西東町356",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/matsubayu/",
+      "sources": [
+        "https://1010.kyoto/spot/matsubayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "壬生湯",
+      "address": "京都府京都市中京区壬生辻町3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/mibuyu/",
+      "sources": [
+        "https://1010.kyoto/spot/mibuyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "門前湯",
+      "address": "京都府京都市北区紫野門前町29",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/monzenyu/",
+      "sources": [
+        "https://1010.kyoto/spot/monzenyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "紫野温泉",
+      "address": "京都府京都市北区紫野上門前町16-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/murasakino_onsen/",
+      "sources": [
+        "https://1010.kyoto/spot/murasakino_onsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "むらさき湯",
+      "address": "京都府京都市北区紫野東御所田町15",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/murasakiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/murasakiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "長池湯",
+      "address": "京都府京都市中京区西ノ京池ノ内町24",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/nagaikeyu/",
+      "sources": [
+        "https://1010.kyoto/spot/nagaikeyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "名倉湯",
+      "address": "京都府京都市下京区西七条八幡町33",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/nakurayu/",
+      "sources": [
+        "https://1010.kyoto/spot/nakurayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大宮温泉",
+      "address": "京都府京都市上京区大宮通寺之内上ル4丁目筋違橋町538",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/omiyaonsen/",
+      "sources": [
+        "https://1010.kyoto/spot/omiyaonsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "洛陽湯",
+      "address": "京都府京都市南区唐橋平垣町68-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://rakuyou-yu.jimdo.com/",
+      "sources": [
+        "https://1010.kyoto/spot/rakuyoyu/",
+        "https://1010.kyoto/how_to_use/",
+        "http://rakuyou-yu.jimdo.com/"
+      ],
+      "confidence": "high",
+      "notice": "正月は休み",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "龍宮温泉",
+      "address": "京都府京都市上京区浄福寺通丸太町下ル西入ル主税町1054・1055",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.ny.airnet.ne.jp/ryuguu/",
+      "sources": [
+        "https://1010.kyoto/spot/ryuguonsen/",
+        "https://1010.kyoto/how_to_use/",
+        "http://www.ny.airnet.ne.jp/ryuguu/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "桜湯",
+      "address": "京都府京都市上京区中町通丸太町下ル俵屋町454",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナ",
+      "url": "https://1010.kyoto/spot/sakurayu2/",
+      "sources": [
+        "https://1010.kyoto/spot/sakurayu2/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日・金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "桜湯",
+      "address": "京都府宇治市小倉町南浦21-87",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/sakurayu3/",
+      "sources": [
+        "https://1010.kyoto/spot/sakurayu3/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日・第2第4金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "新地湯",
+      "address": "京都府京都市伏見区南新地4-31",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "ミストサウナ",
+      "url": "https://1010.kyoto/spot/shinchiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/shinchiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日・月曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "神明湯",
+      "address": "京都府宇治市神明宮東97-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/shinmeiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/shinmeiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "東雲湯",
+      "address": "京都府京都市左京区田中里ノ前町20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.sinonomeyu.com/",
+      "sources": [
+        "https://1010.kyoto/spot/sinonomeyu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://www.sinonomeyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "鈴成湯",
+      "address": "京都府京都市左京区一乗寺西杉ノ宮町3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/suzunariyu/",
+      "sources": [
+        "https://1010.kyoto/spot/suzunariyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日・第2火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大成温泉",
+      "address": "京都府宇治市大久保町南ノ口40-4",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/taiseionsen/",
+      "sources": [
+        "https://1010.kyoto/spot/taiseionsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大正湯",
+      "address": "京都府京都市南区西九条院町22",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/taishouyu2/",
+      "sources": [
+        "https://1010.kyoto/spot/taishouyu2/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜・水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "大正湯",
+      "address": "京都府京都市下京区西七条北東野町26",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/taishoyu1/",
+      "sources": [
+        "https://1010.kyoto/spot/taishoyu1/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "宝湯",
+      "address": "京都府京都市伏見区深草大亀谷西久宝寺町18",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/takarayu/",
+      "sources": [
+        "https://1010.kyoto/spot/takarayu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日・土曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "鶴の湯",
+      "address": "京都府京都市伏見区景勝町33-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.turunoyu.com/",
+      "sources": [
+        "https://1010.kyoto/spot/tsurunoyu/",
+        "https://1010.kyoto/how_to_use/",
+        "http://www.turunoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "上野湯",
+      "address": "京都府京都市北区紫野東泉堂町35",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/uenoyu/",
+      "sources": [
+        "https://1010.kyoto/spot/uenoyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "梅湯",
+      "address": "京都府京都市下京区岩滝町175-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/umeyu1/",
+      "sources": [
+        "https://1010.kyoto/spot/umeyu1/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "梅湯",
+      "address": "京都府城陽市寺田垣内後48-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ",
+      "url": "https://1010.kyoto/spot/umeyu2/",
+      "sources": [
+        "https://1010.kyoto/spot/umeyu2/",
+        "https://1010.kyoto/how_to_use/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen009361/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：金曜日",
+      "note": "サウナは男性のみ（組合ページ）。サウナ料金100円はニフティの料金欄による"
+    },
+    {
+      "kind": "sento",
+      "name": "太秦温泉",
+      "address": "京都府京都市右京区太秦多薮町45",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "ミストサウナ",
+      "url": "https://1010.kyoto/spot/uzumasaonsen/",
+      "sources": [
+        "https://1010.kyoto/spot/uzumasaonsen/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・第3水曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "若松湯",
+      "address": "京都府京都市中京区西ノ京左馬寮町11-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/wakamatsuyu/",
+      "sources": [
+        "https://1010.kyoto/spot/wakamatsuyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "山ノ内湯",
+      "address": "京都府京都市右京区山ノ内山ノ下町14-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/yamanoutiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/yamanoutiyu/",
+        "https://1010.kyoto/how_to_use/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen010378/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で全てのお風呂に入れる）と、ニフティの口コミ（サウナ無料）による"
+    },
+    {
+      "kind": "sento",
+      "name": "山城温泉",
+      "address": "京都府京都市上京区仁和寺街道御前西入ル下横町218",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.yamashiro-onsen.com/",
+      "sources": [
+        "https://1010.kyoto/spot/yamashiroonsen/",
+        "https://1010.kyoto/how_to_use/",
+        "http://www.yamashiro-onsen.com/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "社湯",
+      "address": "京都府京都市右京区太秦森ヶ前町19-9",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "http://yashiroyu.d.dooo.jp/",
+      "sources": [
+        "https://1010.kyoto/spot/yashiroyu/",
+        "https://1010.kyoto/how_to_use/",
+        "http://yashiroyu.d.dooo.jp/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水・木曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "弥生湯",
+      "address": "京都府京都市中京区壬生西土居ノ内町25",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://1010.kyoto/spot/yayoiyu/",
+      "sources": [
+        "https://1010.kyoto/spot/yayoiyu/",
+        "https://1010.kyoto/how_to_use/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "湯～とぴあダイゴ",
+      "address": "京都府京都市伏見区石田大受町31-4",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://yutopia-daigo.heteml.net/",
+      "sources": [
+        "https://1010.kyoto/spot/yutopiadaigo/",
+        "https://1010.kyoto/how_to_use/",
+        "http://yutopia-daigo.heteml.net/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "サウナ料金は組合の案内（550円で銭湯内の全てのお風呂に入れる）による"
+    },
+    {
+      "kind": "sento",
+      "name": "都湯 島原",
+      "address": "京都府京都市下京区西新屋敷中堂寺町69",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "priceNote": "サウナ料金 平日100円・土日祝150円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://miyakoyu.jp/pages/shimabara/",
+      "sources": [
+        "https://miyakoyu.jp/pages/shimabara/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen024463/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "組合サイトに掲載なし（都湯膳所の姉妹店）。公式に入浴料550円・サウナ100円（土日祝150円）"
+    },
+    {
+      "kind": "sento",
+      "name": "京乃湯",
+      "address": "京都府京都市右京区梅津南上田町47-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.kyounoyu.jp/",
+      "sources": [
+        "https://www.kyounoyu.jp/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen009570/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": "組合非加盟。公式の料金表にサウナ料金の項目なし（ひのきサウナ）"
+    },
+    {
+      "kind": "sento",
+      "name": "伏見温泉",
+      "address": "京都府京都市伏見区深草ヲカヤ町24-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/kyoutoshinai-onsen/onsen009597/",
+      "sources": [
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen009597/",
+        "https://www.kyo1010.com/fushimi-onsen/"
+      ],
+      "confidence": "low",
+      "notice": "定休日：月曜日",
+      "note": "組合非加盟。ニフティの料金表示は490円（2023年の口コミが最新）。2026年の営業・料金・サウナ料金を確認できず"
+    },
+    {
+      "kind": "super",
+      "name": "明司湯",
+      "address": "京都府京都市北区紫野西藤ノ森町1-2",
+      "weekdayAdult": 880,
+      "holidayAdult": 880,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男女入れ替え制（女性はレディースデイのみ）",
+      "url": "https://meijiyu.jp/",
+      "sources": [
+        "https://meijiyu.jp/",
+        "https://onsen.nifty.com/kyoutoshinai-onsen/onsen024582/"
+      ],
+      "confidence": "high",
+      "notice": "男女入れ替え制。女性はレディースデイ（毎月第2・第4水曜日、780円）",
+      "note": "2025年8月開業。入浴料は統制額を超えるため super とした"
+    },
+    {
+      "kind": "super",
+      "name": "玉光湯 ひじりのね 伏見店",
+      "address": "京都府京都市伏見区羽束師菱川町678",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://hijirinone.com/",
+      "sources": [
+        "https://hijirinone.com/hijirinone/fushimi/index.html",
+        "https://hijirinone.com/hijirinone/fushimi/spa.html"
+      ],
+      "confidence": "high",
+      "notice": "2026年11月16日〜19日は設備点検のため全館休業",
+      "note": "公式に天然温泉の記載なし（炭酸泉）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "天翔の湯 大門（大門湯）",
+      "reason": "天然温泉で既存データ（天然温泉 天翔の湯 大門）にある"
+    },
+    {
+      "name": "ぽて湯（梅小路ポテル京都）",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "サウナ&カプセルホテル ルーマプラザ",
+      "reason": "サウナが主の施設（カプセルホテル併設）"
+    },
+    {
+      "name": "Sakura Sauna & Spa Kyoto",
+      "reason": "男性専用のサウナ施設"
+    },
+    {
+      "name": "FIRST THE SAUNA 京都",
+      "reason": "サウナが主の施設"
+    },
+    {
+      "name": "HOTEL KUU KYOTO",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "もなこの湯（宇治市）",
+      "reason": "閉館"
+    },
+    {
+      "name": "団栗湯",
+      "reason": "閉館"
+    },
+    {
+      "name": "鶴湯・春日湯・常盤湯・菊水湯・弁慶湯ほか（京都市内）",
+      "reason": "閉館（ニフティで閉館表示）"
+    }
+  ],
+  "notes": "京都府浴場組合の公式サイト（1010.kyoto）の加盟銭湯81軒のうち、設備タグに「サウナ」「ミストサウナ」がある74軒を全件確認し、天然温泉で既存データにある大門湯を除く73軒を収録（京都市・宇治市・城陽市・向日市）。入浴料は組合サイトの大人550円（2025/4/1〜の統制額）。組合サイトに「この料金で銭湯内全てのお風呂に入れます」とあり、サウナは0円とした（城陽市の梅湯の男湯サウナ100円のみ例外）。組合非加盟の施設はニフティ温泉の京都府サウナ絞り込み一覧（214件）で洗い出した。サウナイキタイはアクセス制限（405）のため参照していない。京都府北部（舞鶴・福知山・宮津・京丹後など）では天然温泉以外のサウナ付き銭湯・スーパー銭湯を見つけられなかった。2026/10/22に府の入浴料金審議会が開かれたが、改定の有無は確認できず。"
+}

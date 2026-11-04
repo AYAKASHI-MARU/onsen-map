@@ -1,0 +1,539 @@
+{
+  "prefecture": "茨城県",
+  "prefCode": "08",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "極楽湯 水戸店",
+      "address": "茨城県水戸市大塚町1838-1",
+      "weekdayAdult": 950,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.gokurakuyu.ne.jp/tempo/mito/",
+      "sources": [
+        "https://rakuspa.com/tsurumi/news/15322/",
+        "https://onsen.nifty.com/mito-onsen/onsen011978/"
+      ],
+      "confidence": "high",
+      "notice": "不定休（設備点検の休館あり）",
+      "note": "公式サイトは停止中。運営会社が掲載した公式ページのスクリーンショット（2026/10/23）で料金を確認（ニフティの920円は旧料金）。人工温泉・人工炭酸泉"
+    },
+    {
+      "kind": "super",
+      "name": "いちの湯 水戸店",
+      "address": "茨城県水戸市河和田3丁目2300-1",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（7〜10時入館）800円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "url": "https://itinoyu.com/mito/",
+      "sources": [
+        "https://itinoyu.com/mito/price.html",
+        "https://itinoyu.com/mito/furo.html"
+      ],
+      "confidence": "high",
+      "note": "人工炭酸泉。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "いちの湯 古河店",
+      "address": "茨城県古河市坂間185-1",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "朝風呂（平日9〜10時・土日祝7〜10時入館）900円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "url": "https://itinoyu.com/koga/",
+      "sources": [
+        "https://itinoyu.com/koga/price.html",
+        "https://itinoyu.com/koga/furo.html"
+      ],
+      "confidence": "high",
+      "note": "高濃度人工炭酸泉。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "湯楽の里 日立店",
+      "address": "茨城県日立市河原子町1-1-6",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "展望ロウリュウサウナ（オートロウリュ）",
+      "url": "https://www.yurakirari.com/yura/hitachi/",
+      "sources": [
+        "https://www.yurakirari.com/yura/hitachi/fee.html",
+        "https://www.yurakirari.com/yura/hitachi/indoor_bath.html"
+      ],
+      "confidence": "high",
+      "notice": "年数回メンテナンス休館あり",
+      "note": "公式に天然温泉の記載なし（ゲルマニウム温泉・高濃度炭酸泉）。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "湯楽の里 土浦店",
+      "address": "茨城県土浦市真鍋新町20-43",
+      "weekdayAdult": 820,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュウサウナ（オートロウリュ）・塩サウナ",
+      "url": "https://www.yurakirari.com/yura/tsuchiura/",
+      "sources": [
+        "https://www.yurakirari.com/yura/tsuchiura/fee.html",
+        "https://www.yurakirari.com/yura/tsuchiura/indoor_bath.html"
+      ],
+      "confidence": "high",
+      "note": "白湯・人工炭酸泉。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "岩盤温浴リゾート ココプララ",
+      "address": "茨城県東茨城郡茨城町桜の郷1100",
+      "weekdayAdult": 880,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "入浴コースの料金（岩盤浴込み 平日1,580円・土日祝1,680円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "露天エリアの中温サウナ",
+      "url": "https://www.cocoplala.jp/",
+      "sources": [
+        "https://www.cocoplala.jp/",
+        "https://onsen.nifty.com/mito-onsen/onsen016149/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（祝日は営業）",
+      "note": "人工温泉（名湯の湯）・高濃度炭酸泉"
+    },
+    {
+      "kind": "super",
+      "name": "SPA&ごはん ゆるうむ",
+      "address": "茨城県水戸市小吹町2624-1",
+      "weekdayAdult": 1800,
+      "holidayAdult": 1900,
+      "saunaFee": 0,
+      "priceNote": "ゆるうむコース（時間無制限・館内着タオル付）。銭湯コース120分1,350円/90分1,050円（土日祝+100円）、深夜1時以降 平日+2,100円",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "スチーム"
+      ],
+      "saunaNote": "タワーサウナ・ハーブサウナ・ソルトサウナ・ハーブスチームサウナ",
+      "url": "https://yuluumu.co.jp/",
+      "sources": [
+        "https://yuluumu.co.jp/information/",
+        "https://onsen.nifty.com/mito-onsen/onsen018294/"
+      ],
+      "confidence": "high",
+      "note": "公式に天然温泉の記載なし。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 やまの湯",
+      "address": "茨城県水戸市笠原町144-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "中高生 平日750円・土日祝850円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "和風・洋風の浴室が男女日替わり（スチームは和風、塩は洋風）",
+      "url": "http://www.yamanoyu.com/",
+      "sources": [
+        "http://www.yamanoyu.com/guide/index.html",
+        "http://www.yamanoyu.com/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第3月曜（祝日の場合は翌日）"
+    },
+    {
+      "kind": "super",
+      "name": "勝田あかつきの湯",
+      "address": "茨城県ひたちなか市東石川六ツ野3378-17",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "http://acatsuki.co.jp/katsuta/",
+      "sources": [
+        "http://acatsuki.co.jp/katsuta/charge/index.html",
+        "http://acatsuki.co.jp/katsuta/bath/index.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第3木曜（祝日の場合は翌日）"
+    },
+    {
+      "kind": "super",
+      "name": "石岡健康センター",
+      "address": "茨城県石岡市真家2633-3",
+      "weekdayAdult": 1700,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "基本料金（タオル・館内着付）。19時以降850円、深夜24時以降+1,200円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "ガス遠赤外線サウナ",
+      "url": "http://www.ishiokakenkoh.jp/",
+      "sources": [
+        "http://www.ishiokakenkoh.jp/cgi-bin/ishiokakenkoh/siteup.cgi?category=4&page=0",
+        "http://www.ishiokakenkoh.jp/cgi-bin/ishiokakenkoh/siteup.cgi?category=1&page=0"
+      ],
+      "confidence": "high",
+      "note": "光明石の人工温泉。2026/5/1からの料金（公式の料金画像）"
+    },
+    {
+      "kind": "super",
+      "name": "筑西遊湯館",
+      "address": "茨城県筑西市下川島471-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "プール等を含む全施設の料金",
+      "saunaTypes": [],
+      "url": "https://www.tikusei.or.jp/yuyukan/",
+      "sources": [
+        "https://www.tikusei.or.jp/yuyukan/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜（祝日の場合は翌日）",
+      "note": "光明石の人工温泉。2026/10/17〜27は点検で臨時休館、10/28再開"
+    },
+    {
+      "kind": "super",
+      "name": "ホリゾンかみね",
+      "address": "茨城県日立市宮田町3381",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": 0,
+      "priceNote": "浴室・サウナ・和室休憩所・トレーニングルームの利用料金",
+      "saunaTypes": [],
+      "url": "https://kaminepark.or.jp/facility-05.html",
+      "sources": [
+        "https://kaminepark.or.jp/facility-05.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌日。春休み・夏休み期間は営業）",
+      "note": "かみね公園内の市の施設。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "水戸市下入野健康増進センター",
+      "address": "茨城県水戸市下入野町1944-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "温浴施設の一般料金。小学生はサウナ利用不可",
+      "saunaTypes": [],
+      "url": "https://maas.or.jp/pages/127/",
+      "sources": [
+        "https://maas.or.jp/pages/127/"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌平日）。日曜は18時まで",
+      "note": "プール併設の市の施設。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "笠間市いこいの家 はなさか",
+      "address": "茨城県笠間市橋爪586-4",
+      "weekdayAdult": 500,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "url": "https://kasamahanasaka.com/",
+      "sources": [
+        "https://kasamahanasaka.com/about.php"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌平日）・年末年始",
+      "note": "人工温泉・沸かし湯"
+    },
+    {
+      "kind": "super",
+      "name": "さしま健康交流センター 遊楽里",
+      "address": "茨城県坂東市寺久1290",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "浴場券（プール等も使える全館券は700円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライサウナは和風風呂、ミストサウナは洋風風呂",
+      "url": "http://www.sashimayurari.com/",
+      "sources": [
+        "http://www.sashimayurari.com/usage.php",
+        "http://www.sashimayurari.com/spa.php",
+        "http://www.sashimayurari.com/detail.php?id=585"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌平日）。2026/11/16〜11/23はメンテナンス休館",
+      "note": "源泉不足のため2022/2/8から上水道で営業（2026/10に源泉掘削工事中）。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "神栖市ふれあいセンター 湯楽々",
+      "address": "茨城県神栖市奥野谷6283-2",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "url": "https://www.city.kamisu.ibaraki.jp/shisei/p_facility/1002954/1002976/1002980.html",
+      "sources": [
+        "https://www.city.kamisu.ibaraki.jp/shisei/p_facility/1002954/1002976/1002980.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：毎月第3月曜・年末年始",
+      "note": "公式に天然温泉の記載なし（市ページ 2026/10/23更新）"
+    },
+    {
+      "kind": "super",
+      "name": "地域還元施設 みらい交流館",
+      "address": "茨城県小美玉市高崎2006",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男女の浴室を定期的に入れ替え（高温ドライサウナ／中温オートロウリュサウナ）",
+      "url": "https://www.miraikouryukan.jp/",
+      "sources": [
+        "https://www.miraikouryukan.jp/",
+        "https://www.miraikouryukan.jp/facility/"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌日）・12/31〜1/3",
+      "note": "清掃工場の余熱利用施設。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "潮来ヘルスランドさくら",
+      "address": "茨城県潮来市島須1258",
+      "weekdayAdult": 840,
+      "holidayAdult": 840,
+      "saunaFee": 0,
+      "priceNote": "市外の一般料金（市内在住者630円）",
+      "saunaTypes": [],
+      "url": "https://www.city.itako.lg.jp/temporary/page002737.html",
+      "sources": [
+        "https://www.city.itako.lg.jp/temporary/page002737.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は直後の平日）。浴室は11:30〜21:00",
+      "note": "市の施設（2026/8/5更新）。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "フィットネスパーク・きぬ（ほっとランド・きぬ）",
+      "address": "茨城県下妻市中居指1126",
+      "weekdayAdult": 750,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "入浴料金。平日17時以降550円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://hotlandkinu.com/",
+      "sources": [
+        "https://hotlandkinu.com/price.php",
+        "https://hotlandkinu.com/pool.php",
+        "https://hotlandkinu.com/pdf/260715_1.pdf"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌日）",
+      "note": "プール併設の市の施設。トゴール浴（鉱石）の人工温泉。2026/9/1〜10/5は大規模修繕で休園、10/6から通常営業"
+    },
+    {
+      "kind": "super",
+      "name": "あずま健康センター",
+      "address": "茨城県稲敷市東大沼713-1",
+      "weekdayAdult": 1300,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "url": "https://news.allabout.co.jp/articles/o/127238/",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/127238/",
+        "https://onsen.nifty.com/ushiku-onsen/onsen016286/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜（祝日・GW・お盆・年末年始は営業）",
+      "note": "公式サイト（fc2）は取得できず。料金は All About（2026/8/25）。ニフティは1,100円表記。天然温泉ではない（薬湯）"
+    },
+    {
+      "kind": "super",
+      "name": "取手市立かたらいの郷",
+      "address": "茨城県取手市長兵衛新田193-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "市外居住者の料金（市内300円）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.nem-shiteikanri.jp/shisetsu/katarainosato/",
+      "sources": [
+        "https://www.nem-shiteikanri.jp/shisetsu/katarainosato/shisetsu.html",
+        "https://www.nem-shiteikanri.jp/shisetsu/katarainosato/cgi-bin/whatsnew/list.cgi"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌営業日）・12/31〜1/2。入浴は10:00〜16:30（冬期）",
+      "note": "市の施設。天然温泉の記載なし。排水管修繕で2026/10/12〜10/19浴場休止、10/20再開"
+    },
+    {
+      "kind": "super",
+      "name": "いこいの郷 常総",
+      "address": "茨城県守谷市大木1468",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "高校生以上の料金（小中学生310円）",
+      "saunaTypes": [],
+      "url": "https://ikoinosato-joso.com/",
+      "sources": [
+        "https://ikoinosato-joso.com/bath/",
+        "https://ikoinosato-joso.com/"
+      ],
+      "confidence": "high",
+      "notice": "休館日：第2・第4火曜",
+      "note": "常総広域の公共施設（宿泊室・ジム併設）。北投石の湯・ナノバブル炭酸泉で天然温泉ではない"
+    },
+    {
+      "kind": "super",
+      "name": "ふれあいの里 石岡ひまわりの館",
+      "address": "茨城県石岡市大砂10527-6",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナは奇数日が男湯・偶数日が女湯（ミストサウナは休止中）",
+      "url": "https://www.city.ishioka.lg.jp/kenko_fukushi/kenko_iryo/fureainosato/page000503.html",
+      "sources": [
+        "https://www.city.ishioka.lg.jp/kenko_fukushi/kenko_iryo/fureainosato/page000500.html",
+        "https://www.city.ishioka.lg.jp/kenko_fukushi/kenko_iryo/fureainosato/page000503.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は火曜）・年末年始",
+      "note": "市の福祉施設の浴場。天然温泉の記載なし。2026/3のレジオネラ検出による休止から4/7に再開"
+    },
+    {
+      "kind": "onsen",
+      "name": "中郷温泉 通りゃんせ",
+      "address": "茨城県北茨城市中郷町日棚1748",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "16時以降600円。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "http://www.kitaibarakishi-kankokyokai.gr.jp/page/page000064.html",
+      "sources": [
+        "http://www.kitaibarakishi-kankokyokai.gr.jp/page/page000064.html",
+        "https://onsen.nifty.com/kitaibaraki-onsen/onsen000979/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・第3水曜・年末年始",
+      "note": "ナトリウム・カルシウム−硫酸塩温泉（既存の温泉データに無し）。料金は観光協会（2026/9/7更新）。サウナは公式に記載がなく、ニフティ温泉・サウナイキタイの掲載で確認"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "四季健幸館 浅美運輸Spa（小美玉市四季健康館）",
+      "reason": "給湯設備故障で健康風呂（浴場）を休止中、再開未定（2026/10/26市掲載）"
+    },
+    {
+      "name": "夢健康ランド",
+      "reason": "休館中"
+    },
+    {
+      "name": "笠間市ゆかいふれあいセンター",
+      "reason": "浴室の利用料金を確認できず（全館利用700円のみ判明）"
+    },
+    {
+      "name": "美和ささの湯",
+      "reason": "公式にサウナ・温泉の記載がなく確認できず（ポータルのみサウナ表示）"
+    },
+    {
+      "name": "西金砂 湯けむりの郷 金砂の湯",
+      "reason": "サウナを確認できず（ニフティ温泉のサウナ一覧・サウナイキタイに掲載なし）"
+    },
+    {
+      "name": "スパ&サウナ ホテル日立プラザ",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "久慈サンピア日立",
+      "reason": "宿泊施設の大浴場（光明石の人工温泉）"
+    },
+    {
+      "name": "はぎ屋旅館",
+      "reason": "旅館の浴場"
+    },
+    {
+      "name": "お湯処 梅桜（旅館梅屋）",
+      "reason": "旅館の浴場"
+    },
+    {
+      "name": "No.12 Kashima Fan Zone",
+      "reason": "水着着用のサウナ・シャワー施設で浴場なし"
+    },
+    {
+      "name": "MIDORITO SAUNA・THE SAUNA(3UN)・サウナ蓑蒸・niko and ... BASE・MITO SAUNA KOTO・OFF SAUNA・DAIGO SAUNA・KURA SAUNA・HARBORサウナ・Prus Sauna Public 茨城つくば・SAUNA NAYA",
+      "reason": "サウナが主の施設・プライベートサウナ"
+    },
+    {
+      "name": "天然鉱石サンドバス つくばのいずみ",
+      "reason": "砂浴施設"
+    },
+    {
+      "name": "スパ湯〜ワールド・水戸ゆらいや 御老公の湯・おふろの時間ですよ・千代田ラドン温泉センター・あさひ温泉・虚空蔵温泉 遊悠館・ゆららの湯（桜川市）・黄門の湯・ゆとろぎの湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    }
+  ],
+  "notes": "銭湯: 茨城県は組合サイトが見つからず、マップ類（MapFan・Mapion）の銭湯一覧とサウナイキタイの銭湯サウナ絞り込み（茨城県0件）で確認。サウナ付きの銭湯は見つからなかった（日立市の福乃湯などはサウナ情報なし。県の統制額は山梨県資料の2025/2時点の全国一覧で大人350円）。スーパー銭湯・公共の温浴施設はニフティ温泉のサウナ一覧105件とサウナイキタイ茨城県263件（全14ページ）から天然温泉以外を抽出し、公式（施設・自治体）で料金・サウナ・営業状況を確認。市町村の施設は市外（一般）料金。極楽湯 水戸店は公式サイト停止中のため運営会社掲載の公式ページ画像（2026/10/23）を使用。あずま健康センターは公式サイトが消えており All About（2026/8）で medium。天然温泉で既存データに無い中郷温泉 通りゃんせを onsen で追加（サウナはポータルのみ）。サウナイキタイの施設ページは405で閲覧不可（一覧のみ使用）。取りこぼしの可能性: 美和ささの湯・ゆかいふれあいセンター（料金・サウナ未確認で除外）、国民宿舎 水郷・霞浦の湯（サウナ情報なし）。"
+}

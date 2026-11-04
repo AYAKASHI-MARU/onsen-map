@@ -1,0 +1,201 @@
+{
+  "prefecture": "福島県",
+  "prefCode": "07",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "北投の湯 いわき健康センター",
+      "address": "福島県いわき市小浜町中ノ作45-1",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1600,
+      "saunaFee": 0,
+      "priceNote": "タオル付の料金。館内着付1,700円（土日祝1,800円）、平日19時以降1,350円、深夜0時以降は割増",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯で朝ロウリュ開催",
+      "url": "https://www.iwaki-kenkou.com/",
+      "sources": [
+        "https://www.iwaki-kenkou.com/price/",
+        "https://www.iwaki-kenkou.com/"
+      ],
+      "confidence": "high",
+      "notice": "特定日（8/13〜15・12/28〜1/3）は料金が異なる",
+      "note": "薬湯露天風呂など（公式に天然温泉の記載なし、温泉調査で除外済み）。料金ページにサウナ別料金の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 遊湯ランド",
+      "address": "福島県郡山市桑野1-24-20",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.facebook.com/pages/%E9%81%8A%E6%B9%AF%E3%83%A9%E3%83%B3%E3%83%89/149422868423377",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=50450",
+        "https://sauna-ikitai.com/fukushima"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "公式はFacebookのみ。口コミ（2026/7/3）で大人650円。泉質の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "ヘルシーランド福島",
+      "address": "福島県福島市岡部字上川原26",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 500,
+      "priceNote": "大浴場（10〜16時）300円。サウナ（13〜20時）は1回利用券500円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "約95℃の2段サウナ（水風呂・温浴槽あり）",
+      "url": "https://www.f-shinkoukousha.or.jp/h-land/",
+      "sources": [
+        "https://www.f-shinkoukousha.or.jp/h-land/bath",
+        "https://www.f-shinkoukousha.or.jp/h-land/sauna"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/14〜12/5は全館臨時休業。女子サウナは臨時休業中（2026/10/17告知）",
+      "note": "福島市の健康増進施設（プール併設）。大浴場は一般・高校生300円"
+    },
+    {
+      "kind": "super",
+      "name": "三春の里 田園生活館 里の湯",
+      "address": "福島県田村郡三春町西方字石畑487-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://miharu-mk.com/management/miharunosato/spa",
+      "sources": [
+        "https://miharu-mk.com/management/miharunosato/spa",
+        "https://yuru-to.net/detail.php?oid=4122"
+      ],
+      "confidence": "high",
+      "note": "温泉の記載なし（温泉調査で沸かし湯との情報として除外）。口コミに2026年8月から700円（それ以前600円）。公式は1日料金のみでサウナ別料金なし"
+    },
+    {
+      "kind": "super",
+      "name": "只見保養センター ひとっぷろまち湯",
+      "address": "福島県南会津郡只見町只見新屋敷下2508-8",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（口コミでは入浴料に含む）",
+      "saunaTypes": [],
+      "url": "https://www.tadami-net.com/meguru/305/",
+      "sources": [
+        "https://www.tadami-net.com/meguru/305/",
+        "https://yuru-to.net/detail.php?oid=4158"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜",
+      "note": "公式（只見町観光）に「お湯は沸かし湯」。サウナはゆる〜と・口コミ（2026）のみ"
+    },
+    {
+      "kind": "super",
+      "name": "宿泊温浴施設 ほっと大熊",
+      "address": "福島県双葉郡大熊町大川原南平1207-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "http://okumakouryu.jp/hotokuma/",
+      "sources": [
+        "http://okumakouryu.jp/hotokuma/",
+        "https://yuru-to.net/detail.php?oid=52777"
+      ],
+      "confidence": "high",
+      "notice": "毎月第4水曜は14時から営業",
+      "note": "公式に日帰り入浴大人500円、2026/10/8「男子サウナ営業再開」の告知。天然温泉の記載なし。住所の番地はゆる〜と"
+    },
+    {
+      "kind": "super",
+      "name": "南相馬市健康福祉センター ゆらっと",
+      "address": "福島県南相馬市原町区小川町668-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "市外・60歳未満の一般料金（市内60歳以上200円）。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://yuratto.tobu-siteikanri.jp/",
+      "sources": [
+        "https://yuratto.tobu-siteikanri.jp/about/",
+        "https://yuru-to.net/detail.php?oid=57823"
+      ],
+      "confidence": "medium",
+      "notice": "休館日：月曜。入浴は10〜16時",
+      "note": "公式に浴室利用料（中学生以上500円）。サウナはゆる〜との掲載のみ"
+    },
+    {
+      "kind": "super",
+      "name": "北会津保健センター ふれあいの湯",
+      "address": "福島県会津若松市北会津町下荒井字矢倉林1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": null,
+      "priceNote": "料金区分（市内・時間帯）は施設にご確認ください。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "サウナ1室（男湯・女湯は1週間ごとに交代）",
+      "url": "https://awshakyo.or.jp/publics/index/74/",
+      "sources": [
+        "https://awshakyo.or.jp/publics/index/74/",
+        "https://yuru-to.net/detail.php?oid=4066"
+      ],
+      "confidence": "low",
+      "notice": "休館日：月曜（祝日は翌日）",
+      "note": "薬石トロンの浴場（天然温泉ではない）。料金は公式チラシPDF（文字化けで区分不明、310/210/520等の数値）とゆる〜と520円"
+    },
+    {
+      "kind": "onsen",
+      "name": "かわうちの湯",
+      "address": "福島県双葉郡川内村上川内字小山平501",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "高温サウナ・岩塩サウナ",
+      "url": "https://a-kawauchi.com/kawauchi",
+      "sources": [
+        "https://a-kawauchi.com/kawauchi",
+        "https://yuru-to.net/detail.php?oid=493"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜（祝日は水曜）",
+      "note": "pH10.2のアルカリ性の温泉（ゆる〜と：アルカリ性単純温泉）。公式は平日700円・土日祝800円、サウナ別料金の記載なし"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "こおりやま駅前サウナ24・バイパスサウナ・カプセルホテル リフレ いわき駅前店",
+      "reason": "男性専用のサウナ・カプセル"
+    },
+    {
+      "name": "四季の宿 天瑞 たむらの郷 さくらのゆ・福島いこいの村 なみえ・ドーミーインEXPRESS郡山",
+      "reason": "宿泊施設の浴場"
+    },
+    {
+      "name": "星の村ふれあい館（田村市）",
+      "reason": "2026/4/1から休業中（ゆる〜と）"
+    },
+    {
+      "name": "郡山しんきん開成山プール",
+      "reason": "プール（スポーツ施設）"
+    },
+    {
+      "name": "JOBAN SAUNA・サウナ小屋goemon・CHANNEL JOURNEY・サウナ エフトゥーリ ほか",
+      "reason": "サウナ専門・貸切サウナ"
+    }
+  ],
+  "notes": "福島県全域。候補はサウナイキタイ福島県一覧（242件）、ゆる〜と（日帰り入浴リスト438件）、sento-candidates.md。福島県の銭湯統制額は2026/4/1から大人500円だが、サウナのある一般公衆浴場は見つからず、収録は super と onsen（かわうちの湯）。北会津保健センター ふれあいの湯は料金区分を確認できず low。"
+}

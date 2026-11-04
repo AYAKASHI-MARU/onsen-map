@@ -1,0 +1,1285 @@
+{
+  "prefecture": "兵庫県",
+  "prefCode": "28",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば 森温泉",
+      "address": "兵庫県神戸市東灘区森南町1-15-4",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 150,
+      "priceNote": "サウナは貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://morionsen.life.coocan.jp/",
+      "sources": [
+        "https://morionsen.life.coocan.jp/info.html",
+        "https://hyogo1010.com/sento_list/kobe-morionsen/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・3・5火曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "幸福温泉",
+      "address": "兵庫県神戸市東灘区青木5-15-10",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-kohukuonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-kohukuonsen/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "組合の設備欄に「サウナ（高温・有料）」。料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "ふじ温泉",
+      "address": "兵庫県神戸市灘区篠原南町1-6-17",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-fujionsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-fujionsen/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日（祝日は営業）",
+      "note": "組合の設備欄に「サウナ（スチーム・無料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば つかさ湯",
+      "address": "兵庫県神戸市中央区下山手通8-1-24",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男湯のみ",
+      "url": "https://hyogo1010.com/sento_list/kobe-tsukasayu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-tsukasayu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "組合の設備欄に「サウナ（高温・有料）男湯のみ」。料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "湊河湯",
+      "address": "兵庫県神戸市兵庫区東山町2-3-5",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://yutonamisha.com/sento/minatogawayu/",
+      "sources": [
+        "https://yutonamisha.com/sento/minatogawayu/",
+        "https://hyogo1010.com/sento_list/kobe-minatogawayu/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば 芦原温泉",
+      "address": "兵庫県神戸市兵庫区湊川町2-10-11",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "高温サウナは入浴込み700円（貸バスタオル付き760円）。岩盤浴は別料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kobe-ashihara.sakura.ne.jp/",
+      "sources": [
+        "https://kobe-ashihara.sakura.ne.jp/facilities.html",
+        "https://hyogo1010.com/sento_list/kobe-ashiharaonsen/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（14:00〜翌10:00）",
+      "note": "組合の紹介文に「天然温泉露天風呂」とあるが、組合の設備欄・公式に天然温泉の記載なし（露天は日替わり湯）"
+    },
+    {
+      "kind": "sento",
+      "name": "水木湯",
+      "address": "兵庫県神戸市兵庫区水木通2-2-21",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-mizukiyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-mizukiyu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": "組合の紹介文に「サウナ無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば ゆぇ～ぶ・なぐら",
+      "address": "兵庫県神戸市長田区名倉町2-1-27",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "スチームサウナは無料。遠赤外線サウナは別料金（施設にご確認ください）",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-nagurayu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-nagurayu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "組合の設備欄・紹介文。遠赤外線サウナは2022年の口コミで220円"
+    },
+    {
+      "kind": "sento",
+      "name": "宮島温泉",
+      "address": "兵庫県神戸市長田区三番町2-1-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-miyajimaonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-miyajimaonsen/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜日",
+      "note": "組合の設備欄に「サウナ（高温・無料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "菊水温泉",
+      "address": "兵庫県神戸市長田区久保町6-1-15",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "サウナは貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-kikusuionsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-kikusuionsen/",
+        "https://e-sento.com/%E8%8F%8A%E6%B0%B4%E6%B8%A9%E6%B3%89/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜日",
+      "note": "サウナ料金は浴場施工会社のサイト（入浴500円表記に更新済み）による。組合の設備欄に「サウナ（高温・有料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "本庄湯",
+      "address": "兵庫県神戸市長田区本庄町6-4-5",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-honjoyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-honjoyu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "組合の設備欄に「サウナ（高温・無料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "萬歳湯",
+      "address": "兵庫県神戸市長田区腕塚町4-1-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-manzaiyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-manzaiyu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": "組合の設備欄に「サウナ（高温・有料）」。組合ページの「サウナ+入浴540円」は改定前の額とみられ採らない"
+    },
+    {
+      "kind": "sento",
+      "name": "扇港湯",
+      "address": "兵庫県神戸市長田区駒ケ林町2-20-12",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "サウナは男性無料・女性30円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-senkoyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-senkoyu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "組合の紹介文による"
+    },
+    {
+      "kind": "sento",
+      "name": "あさぎり湯",
+      "address": "兵庫県神戸市長田区長尾町2-13-9",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "スチームサウナは無料。高温サウナは別料金（施設にご確認ください。目安 +300円）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kobe-asagiriyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kobe-asagiriyu/",
+        "https://www.city.kobe.lg.jp/a84140/kenko/health/hygiene/sento/shien.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日（祝日は営業）",
+      "note": "組合の設備欄。高温サウナ300円は2023年1月の口コミ"
+    },
+    {
+      "kind": "sento",
+      "name": "八雲温泉",
+      "address": "兵庫県尼崎市西難波町2-4-21",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "スチームサウナは無料。高温サウナは別料金（施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-yakumoonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-yakumoonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "組合の設備欄に「サウナ（スチーム・無料）」「サウナ（高温・有料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "玉乃湯",
+      "address": "兵庫県尼崎市玄番南之町4",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-tamanoyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-tamanoyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "長洲温泉",
+      "address": "兵庫県尼崎市長洲中通3-5-1",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": null,
+      "priceNote": "スチームサウナは無料。高温サウナは別料金（施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-nagasuonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-nagasuonsen/",
+        "https://onsen.nifty.com/takaraduka-onsen/onsen011319/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：不定休（年4日程度）",
+      "note": "入浴料520円はニフティ温泉（県の上限は570円）。組合の設備欄に「サウナ（スチーム・無料）」「サウナ（高温・有料）」。高温サウナは2021年の口コミで100円"
+    },
+    {
+      "kind": "sento",
+      "name": "福寿温泉",
+      "address": "兵庫県尼崎市東園田町5-60-3",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "スチームサウナは無料。高温サウナは別料金（施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-hukujuonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-hukujuonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "組合の設備欄に「サウナ（スチーム・無料）」「サウナ（高温・有料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "白鶴温泉",
+      "address": "兵庫県尼崎市東大物町2-6-10",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-hakutsuruonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-hakutsuruonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：不定休",
+      "note": "組合の設備欄に「サウナ（高温・有料）」"
+    },
+    {
+      "kind": "sento",
+      "name": "光明温泉",
+      "address": "兵庫県尼崎市小中島3-11-28",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-komyoonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-komyoonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "栄町温泉",
+      "address": "兵庫県尼崎市杭瀬北新町3-9-10",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-sakaemachionsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-sakaemachionsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：土曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "ゆ〜もあらんど福栄",
+      "address": "兵庫県尼崎市杭瀬南新町1-2-1",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-fukuei/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-fukuei/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日（祝日は営業）",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "平和湯",
+      "address": "兵庫県尼崎市下坂部2-30-50",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-heiwayu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-heiwayu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "三興湯",
+      "address": "兵庫県尼崎市武庫之里2-30-18",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://bccweb.bai.ne.jp/sankouyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-sankoyu/",
+        "http://bccweb.bai.ne.jp/sankouyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日（祝日を含む）",
+      "note": "サウナの種類は公式（高温・遠赤外線・ラドンスチーム）。無料は組合の設備欄による"
+    },
+    {
+      "kind": "sento",
+      "name": "みのり湯",
+      "address": "兵庫県尼崎市大庄中通3-16",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +170円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-minoriyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-minoriyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "組合の紹介文に「サウナ（別途料金）」。170円は2022年の口コミ"
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば ふくずみ温泉",
+      "address": "兵庫県尼崎市水堂町1-4-8",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 230,
+      "priceNote": "高温サウナは貸バスタオル付き。スチームサウナは無料",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-fukuzumionsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-fukuzumionsen/",
+        "https://onsen.nifty.com/takaraduka-onsen/onsen011058/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第2火曜日（祝日は翌水曜日）",
+      "note": "入浴550円・サウナ230円はニフティ温泉の料金欄（入浴+サウナ780円と併記）"
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば 七松温泉",
+      "address": "兵庫県尼崎市七松町1-20-6",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "スチームサウナは無料。高温サウナは別料金（施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-nanamatsuonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-nanamatsuonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日・第1・3木曜日",
+      "note": "組合の設備欄・紹介文（塩サウナ）。高温サウナは2021年の口コミで150円"
+    },
+    {
+      "kind": "onsen",
+      "name": "湯あそびひろば 元湯・天然温泉 築地戎湯",
+      "address": "兵庫県尼崎市築地2-2-20",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +220円）",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは奇数日・偶数日で男女入替",
+      "url": "https://hyogo1010.com/sento_list/amagasaki-tsukijiebisuyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/amagasaki-tsukijiebisuyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE",
+        "https://onsen.nifty.com/takaraduka-onsen/onsen003331/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日（祝日は営業）",
+      "note": "組合の設備欄に天然温泉・サウナ（高温・有料）。220円はニフティ温泉（入浴490円表記のまま）"
+    },
+    {
+      "kind": "sento",
+      "name": "新湯",
+      "address": "兵庫県西宮市鳴尾町2-10-9",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/nishinomiya-shinyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/nishinomiya-shinyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "今津温泉",
+      "address": "兵庫県西宮市今津社前町2-8",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +140円・大タオル付き）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/nishinomiya-imazuonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/nishinomiya-imazuonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "組合の設備欄に「サウナ（高温・有料）」。140円は2025年3月の口コミ（入浴490円当時）"
+    },
+    {
+      "kind": "sento",
+      "name": "橘温泉",
+      "address": "兵庫県伊丹市桜ケ丘1-3-8",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": 110,
+      "priceNote": "電気サウナは貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://tachibana-onsen.com/",
+      "sources": [
+        "https://tachibana-onsen.com/price.html",
+        "https://hyogo1010.com/sento_list/itami-tachibanaonsen/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "公式の料金表は大人490円（県の上限は2026/1から570円）"
+    },
+    {
+      "kind": "sento",
+      "name": "極楽湯",
+      "address": "兵庫県川西市中央町14-6",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/kawanishi-gokurakuyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/kawanishi-gokurakuyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "西宮市立芦乃湯会館",
+      "address": "兵庫県西宮市森下町8-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 150,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.nishi.or.jp/access/shiminshukai/ashinoyu.html",
+      "sources": [
+        "https://www.nishi.or.jp/access/shiminshukai/ashinoyu.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "市立の共同浴場（料金は2025/7/1からの市の料金）"
+    },
+    {
+      "kind": "sento",
+      "name": "『ふらっと』ふれあいセンター（ぎょうぎ温泉）",
+      "address": "兵庫県伊丹市昆陽南3-8-21",
+      "weekdayAdult": 440,
+      "holidayAdult": 440,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.city.itami.lg.jp/SOSIKI/SHIMIN/JINKENC/furatto-gaiyou/1383904533847.html",
+      "sources": [
+        "https://www.city.itami.lg.jp/SOSIKI/SHIMIN/JINKENC/furatto-gaiyou/1383904533847.html",
+        "https://onsen.nifty.com/takaraduka-onsen/onsen009066/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜日。営業は16:00〜23:00",
+      "note": "伊丹市の共同浴場。市のページにサウナ室の案内あり、料金表にサウナ料金の記載なし。料金は2024/4改定（ページ更新2024/4）"
+    },
+    {
+      "kind": "sento",
+      "name": "ほっこり湯",
+      "address": "兵庫県宝塚市大成町7-15",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.smileway.jp/",
+      "sources": [
+        "http://www.smileway.jp/",
+        "https://news.allabout.co.jp/articles/o/119250/"
+      ],
+      "confidence": "high",
+      "notice": "営業は13:00〜22:00（日曜は12:00から）",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "東湯",
+      "address": "兵庫県明石市大蔵天神町15-18",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/akashi-azumayu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/akashi-azumayu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・3月曜日",
+      "note": "組合の設備欄に「サウナ（スチーム・無料）」、紹介文に「ミストサウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "大福湯",
+      "address": "兵庫県明石市田町2-2-3",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/akashi-daifukuyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/akashi-daifukuyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "三光湯",
+      "address": "兵庫県明石市樽屋町22-6",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/akashi-sankoyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/akashi-sankoyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日・土曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "丸吉湯",
+      "address": "兵庫県淡路市岩屋1587",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/awaji-maruyoshiyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/awaji-maruyoshiyu/",
+        "https://onsen.nifty.com/awajishima-onsen/onsen018166/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：1月1日・月2回不定休",
+      "note": "入浴530円はニフティ温泉（県の上限は570円）。「サウナは毎日無料」は組合ページ"
+    },
+    {
+      "kind": "sento",
+      "name": "東光湯",
+      "address": "兵庫県洲本市本町7-1-43",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.toukouyu.com/",
+      "sources": [
+        "https://www.toukouyu.com/price.php",
+        "https://hyogo1010.com/sento_list/sumoto-tokoyu/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "増田湯",
+      "address": "兵庫県洲本市由良1-9-12",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/sumoto-masudayu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/sumoto-masudayu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日は施設にご確認ください",
+      "note": "組合の休業日欄は「火、土曜日（2025年10月〜2026年5月）」"
+    },
+    {
+      "kind": "sento",
+      "name": "竹乃湯温泉",
+      "address": "兵庫県三木市本町2-17-43",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://takenoyuonsen.com/",
+      "sources": [
+        "https://www.takenoyuonsen.com/",
+        "https://hyogo1010.com/sento_list/miki-takenoyu/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第2・4月曜日",
+      "note": "公式に男女とも遠赤外線サウナ。料金表にサウナ料金の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "千代の湯",
+      "address": "兵庫県加古川市加古川町溝之口120-1",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 150,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://chiyonoyu.jimdofree.com/",
+      "sources": [
+        "https://chiyonoyu.jimdofree.com/%E3%81%94%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（7:00〜23:30）",
+      "note": "組合非加盟"
+    },
+    {
+      "kind": "sento",
+      "name": "森の湯",
+      "address": "兵庫県姫路市南駅前町23",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 180,
+      "priceNote": "サウナは入浴込み750円（サウナ用貸バスタオル付き）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://www.morinoyu.com/",
+      "sources": [
+        "http://www.morinoyu.com/fee.html",
+        "http://www.morinoyu.com/kakakukaitei_26.html",
+        "https://hyogo1010.com/sento_list/himeji-morinoyu/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・3・5水曜日。2026/11/9〜11/22は工事のため臨時休業",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "明和温泉 姫湯",
+      "address": "兵庫県姫路市野里中町6-43",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/himeji-meiwaonsen/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/himeji-meiwaonsen/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば 憩いの湯",
+      "address": "兵庫県姫路市坂田町48",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://ikoinoyuhimeji.wixsite.com/ikoi",
+      "sources": [
+        "https://hyogo1010.com/sento_list/himeji-ikoinoyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（14:00〜翌10:00）",
+      "note": "組合の設備欄に「サウナ（高温・有料）」。ニフティの「サウナ650円（バスタオル付）」は入浴込みか不明で採らない"
+    },
+    {
+      "kind": "sento",
+      "name": "新鶴湯",
+      "address": "兵庫県姫路市広畑区東新町2-21",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://hyogo1010.com/sento_list/himeji-shintsuruyu/",
+      "sources": [
+        "https://hyogo1010.com/sento_list/himeji-shintsuruyu/",
+        "https://hyogo1010.com/about/#BATHING-FEE"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日曜日",
+      "note": ""
+    },
+    {
+      "kind": "sento",
+      "name": "湯ったりハウス",
+      "address": "兵庫県姫路市野里203-1",
+      "weekdayAdult": 570,
+      "holidayAdult": 570,
+      "saunaFee": null,
+      "priceNote": "サウナ付きは600円（入浴込み）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/himeji-onsen/onsen008496/",
+      "sources": [
+        "https://onsen.nifty.com/himeji-onsen/onsen008496/"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休（6:00〜24:00）",
+      "note": "組合非加盟。公式サイトなし。料金はニフティ温泉（570円表記に更新済み）"
+    },
+    {
+      "kind": "super",
+      "name": "SPA専 太平のゆ",
+      "address": "兵庫県神戸市垂水区海岸通2166-2",
+      "weekdayAdult": 900,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "年末年始・お盆・大型連休は休日料金。岩盤浴は別料金",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "女湯はセルフロウリュ、男湯はオートロウリュ",
+      "url": "https://www.sentou.co.jp/",
+      "sources": [
+        "https://www.sentou.co.jp/price/",
+        "https://www.sentou.co.jp/ofuro/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": ""
+    },
+    {
+      "kind": "super",
+      "name": "灘浜ガーデンバーデン",
+      "address": "兵庫県神戸市灘区新在家南町2-25-6",
+      "weekdayAdult": 730,
+      "holidayAdult": 730,
+      "saunaFee": 0,
+      "priceNote": "風呂のみ利用の一般料金（プール・バーデ込みの全館利用は平日1,260円・休日1,470円）",
+      "saunaTypes": [],
+      "saunaNote": "全館利用なら水着エリアのスチーム・低温サウナも使える",
+      "url": "https://www.kobelco.co.jp/nadahama/garden/",
+      "sources": [
+        "https://www.kobelco.co.jp/nadahama/garden/price/index.html",
+        "https://www.kobelco.co.jp/nadahama/garden/profile/index.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第3水曜日。2027/2/1〜3/17は改修工事で休館",
+      "note": "人工炭酸泉・光明石温泉（天然温泉ではない）"
+    },
+    {
+      "kind": "super",
+      "name": "尼崎センタープール前 みずきの湯",
+      "address": "兵庫県尼崎市蓬川町295-3",
+      "weekdayAdult": 880,
+      "holidayAdult": 990,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴（八汗房）は別料金。金・土・祝前日はオールナイト営業",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.mizukinoyu.com/",
+      "sources": [
+        "https://onsen.nifty.com/takaraduka-onsen/onsen010668/",
+        "https://www.mizukinoyu.com/bath.html"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "料金はニフティ温泉（公式の料金は画像で確認できず）。公式に人工温泉・炭酸泉"
+    },
+    {
+      "kind": "super",
+      "name": "SPAキセラ川西",
+      "address": "兵庫県川西市火打1-16-6",
+      "weekdayAdult": 900,
+      "holidayAdult": 1050,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴は別料金（平日+700円・休日+800円）",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "スチーム",
+        "ロウリュ可"
+      ],
+      "saunaNote": "スチームサウナは女湯のみ・瞑想サウナは男湯のみ",
+      "url": "https://spa-kisela-kawanishi.jp/",
+      "sources": [
+        "https://spa-kisela-kawanishi.jp/fee/",
+        "https://spa-kisela-kawanishi.jp/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "kind": "super",
+      "name": "多田ハイグリーン ひらの湯",
+      "address": "兵庫県川西市西畦野南山2",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.hi-green.co.jp/hiranoyu/hiranoyu.html",
+      "sources": [
+        "https://www.hi-green.co.jp/hiranoyu/hiranoyu.html",
+        "https://onsen.nifty.com/takaraduka-onsen/onsen007135/"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "公式は大人700円、ニフティ温泉は750円。天然水（天然温泉ではない）"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 花の湯 姫路飾磨店",
+      "address": "兵庫県姫路市飾磨区恵美酒270",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.hananoyu-himeji.com/",
+      "sources": [
+        "https://www.hananoyu-himeji.com/sauna-spa"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": ""
+    },
+    {
+      "kind": "super",
+      "name": "SAUNA & SPA 花の湯 HANAKITA",
+      "address": "兵庫県姫路市増位新町1-6",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://www.venus-town-himejihanakita.com/institution/hananoyu/",
+      "sources": [
+        "https://www.venus-town-himejihanakita.com/institution/hananoyu/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": ""
+    },
+    {
+      "kind": "super",
+      "name": "野天風呂 あかねの湯 姫路南店",
+      "address": "兵庫県姫路市飾磨区中島2721",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "特定日は休日料金。岩盤浴（大汗房）は別料金690円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://akanenoyu.com/himeji/",
+      "sources": [
+        "https://akanenoyu.com/himeji/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": ""
+    },
+    {
+      "kind": "super",
+      "name": "雁子の湯",
+      "address": "兵庫県南あわじ市津井1475-9",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴は別料金1,000円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://kariko.jp/karikonoyu/",
+      "sources": [
+        "https://kariko.jp/karikonoyu/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・3火曜日",
+      "note": ""
+    },
+    {
+      "kind": "super",
+      "name": "SUNAMERI Spa＆Sauna",
+      "address": "兵庫県淡路市郡家1107-3",
+      "weekdayAdult": 2500,
+      "holidayAdult": 2500,
+      "saunaFee": 0,
+      "priceNote": "水着・タオル・サウナハットのレンタル込み",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "水着エリア（男女共用）",
+      "url": "https://sunameri.frogsfarm.jp/",
+      "sources": [
+        "https://sunameri.frogsfarm.jp/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "2026/7/17開業。男女別の内湯あり。オープンキャンペーン2,000円の記載あり（通常料金を採用）"
+    },
+    {
+      "kind": "onsen",
+      "name": "天然有馬富士温泉 花山乃湯",
+      "address": "兵庫県三田市尼寺835-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.hanayamanoyu.com/",
+      "sources": [
+        "https://www.hanayamanoyu.com/bath"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第3木曜日（祝日は翌日）",
+      "note": "弱アルカリ性単純温泉（公式）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "神田温泉（尼崎市）",
+      "reason": "閉館（ニフティ温泉）。2026/10の尼崎湯めぐり（組合18軒）にも含まれない"
+    },
+    {
+      "name": "ユートピア琴浦（尼崎市）",
+      "reason": "休業中（ニフティ温泉）。組合の一覧にも無い"
+    },
+    {
+      "name": "野天風呂 あかねの湯 加古川店",
+      "reason": "2026/5/25からリニューアル休館（再開は2027年春予定）"
+    },
+    {
+      "name": "南あわじリフレッシュ交流ハウス ゆーぷる",
+      "reason": "2026年2月から長期休館（天然温泉）"
+    },
+    {
+      "name": "サウナリゾートオリエンタル神戸",
+      "reason": "ホテル内のサウナが主の施設"
+    },
+    {
+      "name": "HOTTERS24 西宮上ヶ原店",
+      "reason": "男性専用サウナ"
+    },
+    {
+      "name": "さふぃスパ舞子",
+      "reason": "ホテル（シーサイドホテル舞子ビラ神戸）の施設"
+    },
+    {
+      "name": "たんようウェルネスパーク",
+      "reason": "プール（スポーツ施設）のサウナ"
+    }
+  ],
+  "notes": "兵庫県浴場組合（hyogo1010.com）の銭湯リスト71軒の詳細ページを全件確認し、設備欄・紹介文でサウナが分かるものを収録（天然温泉で既存データにある灘温泉2店・六甲おとめ塚・二宮・朝日・紀の国・第一平和・浜田・クア武庫川・双葉を除く）。組合非加盟の施設はニフティ温泉の兵庫県サウナ一覧（252件）とサウナイキタイの兵庫県一覧（505件）で洗い出した。入浴料は神戸市内が市の補填で大人500円（2026/3〜2027/3）、市外は県の上限570円（2026/1〜）を基本とし、施設の料金が分かるものはその額。サウナ料金は公式・組合ページのほか、入浴料が2026年の額に更新済みのポータルの料金欄を採り、古い口コミの額は priceNote の目安にとどめた。サウナイキタイは詳細ページへのアクセスが制限されたため一覧のみ参照。未確認: サウナイキタイに掲載があるが組合・ニフティでサウナを確認できない鶴の湯（垂水）・御園新温泉・西脇温泉・日の本湯（尼崎）、公営施設の千年の湯（淡路市）・文珠荘（福崎町）・響の湯（神河町）・リフレチョーサ（姫路市）・ゆとりっく（南あわじ市）。"
+}

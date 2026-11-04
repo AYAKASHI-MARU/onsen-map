@@ -1,0 +1,290 @@
+{
+  "prefecture": "滋賀県",
+  "prefCode": "25",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 150,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "",
+      "name": "都湯 膳所本店",
+      "address": "滋賀県大津市馬場3-12-21",
+      "url": "https://miyakoyu.jp/pages/zeze/",
+      "sources": [
+        "https://miyakoyu.jp/pages/zeze/",
+        "https://www.city.otsu.lg.jp/soshiki/021/1441/g/se_eisei/se/pb/1386988182273.html"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 150,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "medium",
+      "notice": "",
+      "note": "入浴550円・サウナ150円はニフティの料金欄（2025/9の口コミでもサウナ別料金150円）",
+      "name": "ゆーゆーらんど大津湯",
+      "address": "滋賀県大津市大門通16-55",
+      "url": "https://www.facebook.com/otsuyusiga",
+      "sources": [
+        "https://onsen.nifty.com/ootsushinai-onsen/onsen010943/",
+        "https://www.city.otsu.lg.jp/soshiki/021/1441/g/se_eisei/se/pb/1386988182273.html"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "medium",
+      "notice": "定休日：月曜日（祝日の場合は翌火曜日）",
+      "note": "2026/9の口コミあり。サウナ100円は2023年以前の口コミの額",
+      "name": "湯～トピアきりしま",
+      "address": "滋賀県大津市中央1-7-27",
+      "url": "https://onsen.nifty.com/ootsushinai-onsen/onsen012470/",
+      "sources": [
+        "https://onsen.nifty.com/ootsushinai-onsen/onsen012470/",
+        "https://www.city.otsu.lg.jp/soshiki/021/1441/g/se_eisei/se/pb/1386988182273.html"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +110円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "low",
+      "notice": "定休日：金曜日",
+      "note": "大津市の銭湯一覧（2025/4）に掲載。ニフティの料金欄は「大人490円 サウナ110円」（改定前）。2026年の営業を確認できず",
+      "name": "神楽湯",
+      "address": "滋賀県大津市中央3-6-4",
+      "url": "https://www.instagram.com/kagurayu_otsu/",
+      "sources": [
+        "https://onsen.nifty.com/ootsushinai-onsen/onsen011129/",
+        "https://www.city.otsu.lg.jp/soshiki/021/1441/g/se_eisei/se/pb/1386988182273.html"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "low",
+      "notice": "定休日：火曜日",
+      "note": "大津市の銭湯一覧（2025/4）に掲載。ニフティの料金欄は「490円 サウナ＋100円」（改定前）。最新の口コミは2024/4",
+      "name": "近江湯",
+      "address": "滋賀県大津市錦織3-12-23",
+      "url": "https://www.city.otsu.lg.jp/soshiki/021/1441/g/se_eisei/se/pb/1386988182273.html",
+      "sources": [
+        "https://onsen.nifty.com/ootsushinai-onsen/onsen009913/",
+        "https://www.city.otsu.lg.jp/soshiki/021/1441/g/se_eisei/se/pb/1386988182273.html"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "low",
+      "notice": "定休日：月曜日",
+      "note": "ニフティでサウナありの表示のみ。最新の口コミは2019年。サウナ料金・2026年の営業を確認できず",
+      "name": "琵琶湖湯",
+      "address": "滋賀県長浜市神前町5-18",
+      "url": "https://onsen.nifty.com/kohoku-onsen/onsen009679/",
+      "sources": [
+        "https://onsen.nifty.com/kohoku-onsen/onsen009679/"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "low",
+      "notice": "休業日：毎月3・8・13・18・23・28日",
+      "note": "公式にサウナあり（料金の記載なし）。ニフティの料金欄はサウナ120円・口コミは150円でいずれも古い",
+      "name": "延命湯",
+      "address": "滋賀県東近江市八日市本町11-9",
+      "url": "https://www.enmeiyu.info/",
+      "sources": [
+        "https://www.enmeiyu.info/",
+        "https://onsen.nifty.com/oumihachiman-onsen/onsen009929/"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "confidence": "low",
+      "notice": "定休日：日曜日",
+      "note": "2021年の紹介記事に「5つの浴槽とサウナ」。サウナ料金・2026年の営業を確認できず（最新の口コミ2022/6）",
+      "name": "さくら湯",
+      "address": "滋賀県草津市大路1-16-6",
+      "url": "https://www.webaminchu.jp/news/8268/",
+      "sources": [
+        "https://www.webaminchu.jp/news/8268/",
+        "https://onsen.nifty.com/kusatsu-shiga-onsen/onsen009967/"
+      ]
+    },
+    {
+      "kind": "super",
+      "name": "水口温泉 つばきの湯",
+      "address": "滋賀県甲賀市水口町水口5572",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://tsubakinoyu.jp/",
+      "sources": [
+        "https://tsubakinoyu.jp/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "人工温泉（長寿の湯）。2026/11の口コミあり"
+    },
+    {
+      "kind": "super",
+      "name": "グリーンパーク山東 美肌の湯（鴨池荘）",
+      "address": "滋賀県米原市池下80-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://greenpark-santo.com/bihadanoyu/",
+      "sources": [
+        "https://greenpark-santo.com/bihadanoyu/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "ナトリウムイオンを含む軟水（天然温泉ではない）。公式に高温サウナ"
+    },
+    {
+      "kind": "super",
+      "name": "極楽湯 彦根店",
+      "address": "滋賀県彦根市西沼波町175-1",
+      "weekdayAdult": 980,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://www.gokurakuyu.ne.jp/tempo/hikone/",
+      "sources": [
+        "https://onsen.nifty.com/hikone-onsen/onsen003082/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイトがメンテナンス中のためニフティの料金欄による。2026/10の口コミあり"
+    },
+    {
+      "kind": "super",
+      "name": "健康パークあざい バーデあざい",
+      "address": "滋賀県長浜市野瀬町828",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.kenkoupark.com/",
+      "sources": [
+        "http://www.kenkoupark.com/bath.html",
+        "http://www.kenkoupark.com/"
+      ],
+      "confidence": "medium",
+      "notice": "休館日：火曜日（祝日の場合は営業）",
+      "note": "公式のバーデバス料金。大人は15歳以上（中学生を除く）。天然温泉ではない（天然鉱石風呂・炭酸泉）。最新の口コミは2023/3"
+    },
+    {
+      "kind": "super",
+      "name": "SAUNA & SPA SOLEIL",
+      "address": "滋賀県長浜市大辰巳町49",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1700,
+      "saunaFee": 0,
+      "priceNote": "フリーコース（館内着・タオル付き）。60分コースあり",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://soleil-sauna.jp/",
+      "sources": [
+        "https://soleil-sauna.jp/guidance/",
+        "https://soleil-sauna.jp/sauna-bath/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "男女とも利用できるサウナと温浴の複合施設。天然温泉の記載なし"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "レストイン多賀",
+      "reason": "高速道路SAの宿泊休憩施設（入浴は1時間制）。公式サイトがメンテナンス中で料金・サウナを確認できず"
+    },
+    {
+      "name": "容輝湯",
+      "reason": "サウナなし（公式）"
+    },
+    {
+      "name": "DOGA SAUNA",
+      "reason": "サウナが主の施設"
+    },
+    {
+      "name": "8Seas sauna HIRA",
+      "reason": "サウナが主の施設"
+    },
+    {
+      "name": "おふろcafé ニューびわこホテル",
+      "reason": "既存データの大津温泉 おふろcaféびわこ座と同じ施設"
+    },
+    {
+      "name": "喜楽湯・びわ湖湯・よじむ湯・草津温泉（銭湯）",
+      "reason": "閉館（ニフティで閉館表示）"
+    }
+  ],
+  "notes": "滋賀県には浴場組合のウェブサイトが見つからず、大津市の銭湯一覧（2025/4更新・7軒）と、ニフティ温泉の滋賀県の全施設一覧（166件）・サウナ絞り込み一覧で候補を洗い出した。入浴料は滋賀県の入浴料金審議会の答申（2026/10/1から大人550円）と、都湯・容輝湯の公式の550円表示により550円とした。サウナ料金は公式（都湯）と、改定後の料金に更新済みのニフティの料金欄（大津湯）のみ saunaFee に入れ、改定前の額は priceNote に目安として書いた。大津市の福井湯、甲賀市の清水湯はサウナの有無を確認できず未収録。彦根市・近江八幡市・守山市などでは天然温泉以外のサウナ付き銭湯を見つけられなかった。サウナイキタイはアクセス制限（405）のため参照していない。"
+}

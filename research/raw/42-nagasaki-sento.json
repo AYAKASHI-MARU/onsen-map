@@ -1,0 +1,116 @@
+{
+  "prefecture": "長崎県",
+  "prefCode": "42",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "高崎湯",
+      "address": "長崎県長崎市茂木町2167",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "サウナは別料金（金額は施設にご確認ください）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/nagasaki-onsen/onsen019733/",
+      "sources": [
+        "https://onsen.nifty.com/nagasaki-onsen/onsen019733/",
+        "https://www.nap-camp.com/mag/77472"
+      ],
+      "confidence": "low",
+      "notice": "定休日：6日・16日・26日",
+      "note": "公式サイトなし。ニフティに「長崎市内にある銭湯」「※サウナ料金あり」。天然温泉かどうかの公式情報はなく、2026年の営業はポータル記事のみで確認"
+    },
+    {
+      "kind": "super",
+      "name": "長崎市健康づくりセンター 阿池姫の湯",
+      "address": "長崎県長崎市布巻町67-1",
+      "weekdayAdult": 310,
+      "holidayAdult": 310,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.oriental-b.co.jp/index.htm",
+      "sources": [
+        "http://www.oriental-b.co.jp/riyou.htm",
+        "https://onsen.nifty.com/nagasaki-onsen/onsen024555/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜日",
+      "note": "光明石温泉（人工温泉）の市の施設。料金・休館日は指定管理者のサイト、サウナはニフティの設備情報"
+    },
+    {
+      "kind": "super",
+      "name": "遊学の里くにみ 遊学の館",
+      "address": "長崎県雲仙市国見町神代丙1230-1",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム",
+        "その他"
+      ],
+      "saunaNote": "ガス遠赤・スチーム（ハーブ）・備長炭サウナ（男女週替わり）",
+      "url": "https://www.yuugakunosato.com/",
+      "sources": [
+        "https://www.yuugakunosato.com/bath",
+        "https://www.yuugakunosato.com/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "薬草湯・鉱石湯の大浴場（天然温泉の記載なし）。休館日は公式に記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "のんのこ温水センター",
+      "address": "長崎県諫早市福田町1184",
+      "weekdayAdult": 520,
+      "holidayAdult": 520,
+      "saunaFee": 0,
+      "priceNote": "風呂・プール共通券730円",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/isahaya-onsen/onsen018018/",
+      "sources": [
+        "https://onsen.nifty.com/isahaya-onsen/onsen018018/",
+        "https://rurubu.jp/andmore/spot/80039499",
+        "https://iko-yo.net/facilities/15579"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "ごみ焼却余熱利用の市の施設（天然温泉ではない）。公式サイト（nonnoco.jp）は接続不可で、料金・サウナはポータル"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "長崎サウナかめやま",
+      "reason": "サウナが主の施設"
+    },
+    {
+      "name": "【男性専用】MINATO SAUNA",
+      "reason": "男性専用サウナ"
+    },
+    {
+      "name": "【男性専用】カプセルホテル・サウナサン",
+      "reason": "男性専用サウナ＆カプセル"
+    },
+    {
+      "name": "五島列島リゾートホテル マルゲリータ・長崎あぐりの丘高原ホテル",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "高島海水温浴施設 いやしの湯",
+      "reason": "閉館（ニフティ）"
+    },
+    {
+      "name": "極楽湯 長崎店",
+      "reason": "閉館（ニフティ）"
+    }
+  ],
+  "notes": "長崎県の銭湯の統制額は大人400円（2023年改定。静岡県資料の都道府県別統制額表（R7.10.1時点）でも400円、2026年の銭湯紹介記事も400円）。長崎県は浴場組合の公式な銭湯一覧が見つからず、ニフティ温泉の長崎県サウナ一覧（82件）・銭湯紹介記事で洗い出した。長崎市の白菊湯・小田湯、佐世保市の徳の湯などはサウナの記載が無く未収録。サウナイキタイに佐世保市の「UKUSAUNA（銭湯）」の掲載があるが、サイトへのアクセスが制限されており詳細を確認できず未収録。日帰り温浴施設の多くは天然温泉で既存データにある。"
+}

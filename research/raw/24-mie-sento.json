@@ -1,0 +1,223 @@
+{
+  "prefecture": "三重県",
+  "prefCode": "24",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "玉の湯",
+      "address": "三重県四日市市中部4-3",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（1階の銭湯と2階のサウナで料金が異なる）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "2階のサウナ施設（男性のみ、最高150℃の高温サウナ）。15:30〜22:30（日祝14:00〜）",
+      "url": "https://www.miesento.com/tamanoyu",
+      "sources": [
+        "https://www.miesento.com/tamanoyu"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "楠温泉",
+      "address": "三重県四日市市楠町南五味塚1308",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "サウナ",
+      "url": "https://www.miesento.com/kusuonsen",
+      "sources": [
+        "https://www.miesento.com/kusuonsen"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "朝日湯",
+      "address": "三重県津市乙部23-20-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "サウナ（日替わりアロマ）・水風呂",
+      "url": "https://www.instagram.com/asahiyu_tsu/",
+      "sources": [
+        "https://www.miesento.com/asahiyu"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水・土曜",
+      "note": "2021年廃業の敷島湯を継業"
+    },
+    {
+      "kind": "sento",
+      "name": "汐湯・おかげ風呂舘 旭湯",
+      "address": "三重県伊勢市神久1-1-16",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 150,
+      "priceNote": "入泉＆遠赤サウナ650円（湯上りバスタオル付き）",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "遠赤外線サウナ（有料）、ラドンスチームバス（サウナ料金なしで利用可）",
+      "url": "https://ise-asahiyu.com/",
+      "sources": [
+        "https://ise-asahiyu.com/annai.shtml",
+        "https://ise-asahiyu.com/furo.shtml",
+        "https://www.miesento.com/ise-asahiyu"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "二見浦の海水を沸かした汐湯で天然温泉ではない（温泉調査で除外済み）。サウナ料金は公式の「入泉＆遠赤サウナ650円」と入浴料500円の差額"
+    },
+    {
+      "kind": "sento",
+      "name": "錦水湯",
+      "address": "三重県伊勢市岩渕3-6-39",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（口コミでは入浴料のみで利用）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "スチームサウナ（約65℃）",
+      "url": "https://www.miesento.com/kinsuiyu",
+      "sources": [
+        "https://www.miesento.com/kinsuiyu",
+        "https://onsen.nifty.com/ise-onsen/onsen016929/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "新町温泉",
+      "address": "三重県名張市新町222",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "サウナは火・土曜のみ",
+      "url": "https://www.miesento.com/shinmachionsen",
+      "sources": [
+        "https://www.miesento.com/shinmachionsen"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（一時的に木曜も休み）"
+    },
+    {
+      "kind": "sento",
+      "name": "春日温泉",
+      "address": "三重県松阪市春日町3-80",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "サウナ",
+      "url": "https://www.miesento.com/kasugaonsen",
+      "sources": [
+        "https://www.miesento.com/kasugaonsen",
+        "https://sauna-ikitai.com/mie/sento"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜",
+      "note": "組合サイトで営業を確認。サウナはサウナイキタイの銭湯サウナ一覧のみ（組合サイトに記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "伊勢 船江温泉 みたすの湯",
+      "address": "三重県伊勢市船江1-471-3",
+      "weekdayAdult": 800,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "高温サウナ、釜風呂（男湯の釜風呂は機器不具合で休止中）",
+      "url": "https://mts-ise.com/yu/",
+      "sources": [
+        "https://mts-ise.com/yu/info/",
+        "https://mts-ise.com/yu/newpost/4821/",
+        "https://mts-ise.com/yu/newpost/4826/"
+      ],
+      "confidence": "high",
+      "notice": "2026/11/16〜11/18は臨時休館",
+      "note": "公式に天然温泉の記載なし（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "本草湯 VISON",
+      "address": "三重県多気郡多気町ヴィソン672-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "VISONサウナ（2025/12リニューアル、10:00〜22:00、中学生以上）",
+      "url": "https://vison.jp/shop/detail.php?id=63",
+      "sources": [
+        "https://vison.jp/shop/detail.php?id=63"
+      ],
+      "confidence": "high",
+      "note": "薬草湯で天然温泉と確認できず（温泉調査で除外済み）。料金表にサウナの別料金なし"
+    },
+    {
+      "kind": "super",
+      "name": "夢古道の湯",
+      "address": "三重県尾鷲市向井12-4",
+      "weekdayAdult": 700,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "ドライサウナ、ミストサウナ",
+      "url": "http://yumekodo.jp/",
+      "sources": [
+        "https://onsen.nifty.com/owase-onsen/onsen008113/"
+      ],
+      "confidence": "medium",
+      "note": "海洋深層水の風呂で天然温泉ではない（温泉調査で除外済み）。公式サイトは取得できず、料金はニフティ温泉（2026年1月の口コミあり）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ゑびす湯（松阪市）",
+      "reason": "廃業（組合サイトの廃湯アーカイブに掲載）"
+    },
+    {
+      "name": "池澤湯",
+      "reason": "廃業（組合サイトの廃湯アーカイブに掲載）"
+    },
+    {
+      "name": "離宮の湯",
+      "reason": "伊勢市の公共浴場。サウナを公式で確認できず"
+    },
+    {
+      "name": "カンデオホテルズ亀山",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "内山温泉 共同浴場",
+      "reason": "サウナなし"
+    }
+  ],
+  "notes": "銭湯の大人料金は2026/1/10からの500円（三重県の入浴料金統制額）。三重県公衆浴場業生活衛生同業組合の「三重銭湯」サイト（miesento.com）で営業中の11軒を確認し、サウナの記載があるものを収録（さくら湯・すえひろ湯・国分湯・一乃湯はサウナの記載なし）。組合サイトにはサウナ料金の記載がなく、公式サイトのある旭湯以外はサウナ料金を確認できなかった（サウナイキタイの施設ページは取得不可）。スーパー銭湯等はニフティ温泉の三重県一覧（399件）から日帰り施設を洗い出し、温泉調査で除外した非天然温泉の施設を確認。サウナ専門店・個室サウナ・ジム・ホテルは対象外。アスピア玉城ふれあいの館・保健福祉センターけやきせせらぎの湯・亀山温泉白鳥の湯・小萬の湯・白龍温泉などの公共浴場は未確認（天然温泉の可能性があり、温泉データにも無い）。"
+}

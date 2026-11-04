@@ -1,0 +1,125 @@
+{
+  "prefecture": "群馬県",
+  "prefCode": "10",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 前橋やすらぎの湯",
+      "address": "群馬県伊勢崎市下触町659-5",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "タオル付き 平日1,300円・土日祝1,400円",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "遠赤外線サウナ・ロウリュサウナ",
+      "url": "https://maebashi-yasuragi.com/",
+      "sources": [
+        "https://maebashi-yasuragi.com/price/",
+        "https://maebashi-yasuragi.com/"
+      ],
+      "confidence": "high",
+      "notice": "不定期にメンテナンス休館あり",
+      "note": "公式に天然温泉の記載なし（炭酸泉等）。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "まえばし赤城の湯",
+      "address": "群馬県前橋市田口町36",
+      "weekdayAdult": 600,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男湯のみ（高温サウナ）",
+      "url": "https://maebashi-akagi.jp/enjoy/relax",
+      "sources": [
+        "https://maebashi-akagi.jp/enjoy/relax"
+      ],
+      "confidence": "high",
+      "notice": "定休日：1/1（年数回の機器点検休業あり）",
+      "note": "道の駅まえばし赤城内。サンゴライトバスソルトの湯で天然温泉ではない"
+    },
+    {
+      "kind": "super",
+      "name": "沼田健康ランド",
+      "address": "群馬県沼田市薄根町2825-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "priceNote": "2時間料金（6〜22時）。金・土・祝前日650円（3連休以上750円）、1日1,100円〜、深夜22時〜翌10時1,300円〜",
+      "saunaTypes": [],
+      "saunaNote": "男女ともサウナあり",
+      "url": "https://rvpark.co.jp/",
+      "sources": [
+        "https://rvpark.co.jp/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業・年中無休",
+      "note": "RV park plus 沼田健康ランド。プール・カプセル併設の健康ランド。天然温泉ではない（温泉調査で除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "東朋産業いずみの杜",
+      "address": "群馬県邑楽郡大泉町朝日4-7-1",
+      "weekdayAdult": 660,
+      "holidayAdult": 660,
+      "saunaFee": 0,
+      "priceNote": "沐浴棟（浴室・プール）の町外一般料金（町内330円）",
+      "saunaTypes": [],
+      "url": "https://izumino-mori.jp/",
+      "sources": [
+        "https://izumino-mori.jp/pages/26/",
+        "https://izumino-mori.jp/pages/23/"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌平日）・12/29〜1/3。沐浴棟は10:30〜20:30",
+      "note": "大泉町勤労複合福祉施設。天然温泉の記載なし"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "高砂湯（太田市）",
+      "reason": "銭湯。サウナイキタイに掲載があるのみで、2026年の営業状況・料金・サウナ料金を確認できず"
+    },
+    {
+      "name": "牛伏ドリームセンター",
+      "reason": "現行の入浴（休憩）料金を公式で確認できず（2021年資料で市外620円）"
+    },
+    {
+      "name": "ナウサ（前橋市）",
+      "reason": "サウナが主の施設（時間制）"
+    },
+    {
+      "name": "男性専用 毎日サウナ前橋本店・温窟サウナかま蔵（伊勢崎店・高崎店）・ニノサ（桐生）",
+      "reason": "男性専用サウナ施設"
+    },
+    {
+      "name": "観音山サウナ蒸寺・CALM・PRIVATE SAUNA ZERO・kanrano sauna・滝つぼサウナ・【整処】サウナ薪・サウナの森水沼ヴィレッジ",
+      "reason": "サウナが主の施設・プライベートサウナ"
+    },
+    {
+      "name": "キャンプ＆温泉＆サウナ LUONTO",
+      "reason": "キャンプ場のサウナ施設"
+    },
+    {
+      "name": "カリビアンビーチ・あずまウォーターランド",
+      "reason": "プール施設"
+    },
+    {
+      "name": "パールホテル太田サウナサバス",
+      "reason": "ホテルのサウナ"
+    },
+    {
+      "name": "風呂一休・ミネラル光明石温泉 華の湯・龍宮の湯・スーパー千湯・かぶら健康センターかのさと・岩櫃城温泉くつろぎの館・鮎川温泉 金井の湯",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    }
+  ],
+  "notes": "銭湯: 組合サイトは見つからず、Mapion の銭湯一覧（前橋・高崎・桐生などの11軒程度）とサウナイキタイの銭湯サウナ絞り込み（太田市の高砂湯1件のみ）で確認。高砂湯は営業状況・料金を確認できず除外したため、銭湯の収録は0件（県の統制額は2023/8/1からの大人450円）。スーパー銭湯・公共施設はニフティ温泉のサウナ一覧149件とサウナイキタイ群馬県299件（全15ページ）から天然温泉以外を抽出し公式で確認。群馬は天然温泉の日帰り施設が大半で、天然温泉ではないサウナ付き施設は少ない。未確認: SUNおのがみ（渋川市、サウナイキタイ掲載・実態不明）、下仁田 荒船の湯（天然温泉・既存データに無いが現況不明）、桐生市新里福祉センター（温泉調査ではサウナなしとして除外されたがサウナイキタイにサウナ付きで掲載）。"
+}

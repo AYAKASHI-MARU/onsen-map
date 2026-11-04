@@ -1,0 +1,553 @@
+{
+  "prefecture": "青森県",
+  "prefCode": "02",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "壽浴場",
+      "address": "青森県八戸市白銀町字田端2-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15248",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "無休",
+      "note": "公式サイトなし。ゆる〜とに530円・サウナあり、口コミ（2026/1）に「湯は温泉ではない」。2026/1の口コミは480円（改定前）"
+    },
+    {
+      "kind": "sento",
+      "name": "双葉湯",
+      "address": "青森県八戸市湊町字大沢28-16",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15244",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第3月曜",
+      "note": "ゆる〜とに泉質の記載なし（天然温泉の表示なし）。2026/3の口コミは480円（改定前）"
+    },
+    {
+      "kind": "sento",
+      "name": "高砂湯",
+      "address": "青森県八戸市白銀町字三島上28-4",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15246",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜",
+      "note": "ゆる〜とに泉質の記載なし。口コミにスチームサウナ。2026/4の口コミは480円（改定前）"
+    },
+    {
+      "kind": "sento",
+      "name": "市の沢浴泉",
+      "address": "青森県八戸市南郷区市野沢字市野沢24-2",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15255",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜",
+      "note": "ゆる〜とに泉質の記載なし、口コミに「温泉ではないような気がします」"
+    },
+    {
+      "kind": "sento",
+      "name": "松の湯",
+      "address": "青森県八戸市大久保字下長根8-3",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15251",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "note": "ゆる〜と・サウナイキタイ一覧（530円）のみで口コミなし。2026年の営業を直接確認できず"
+    },
+    {
+      "kind": "sento",
+      "name": "りんごのゆ 吹上店",
+      "address": "青森県八戸市吹上5-17-12",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3307",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "無休",
+      "note": "口コミ（2026/7/2）に「2026/07/01現在、450円のまま」。泉質の記載なし（日計店の口コミに「温泉ではない」）"
+    },
+    {
+      "kind": "sento",
+      "name": "りんごのゆ 日計店",
+      "address": "青森県八戸市日計5-1-54",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/6の県統制額改定（上限530円）後の料金は未確認",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3284",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "notice": "無休",
+      "note": "口コミ（2026/5）に入浴料450円・ドライサウナ、「銭湯で温泉ではない」。吹上店は7月時点で450円"
+    },
+    {
+      "kind": "sento",
+      "name": "トド湯",
+      "address": "青森県青森市青柳2-7-21",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15001",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜",
+      "note": "口コミに「温泉ではありません」。温泉調査でも真湯の銭湯として除外済み"
+    },
+    {
+      "kind": "sento",
+      "name": "長生湯",
+      "address": "青森県青森市松原2-10-4",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15009",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜",
+      "note": "口コミに地下水をボイラーで加温（2026/2は480円）"
+    },
+    {
+      "kind": "sento",
+      "name": "みちのく浴場",
+      "address": "青森県青森市金沢4-16-8",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15006",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月・金曜",
+      "note": "八戸の「温泉みちのく」とは別施設。泉質の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "湯楽園",
+      "address": "青森県青森市西大野5-24-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=51730",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "口コミに「温度が規定に届かず温泉同様の地下水」（温泉ではない）"
+    },
+    {
+      "kind": "sento",
+      "name": "岩盤風呂 よしの湯",
+      "address": "青森県むつ市海老川町21-1",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3116",
+        "https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/kousyuuyokuzyounyuyokuryoukintouseigakukaitei.html",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：金曜",
+      "note": "泉質の記載なし。口コミ（2026/5）にスチーム系サウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "菊の湯",
+      "address": "青森県むつ市大畑町中島108",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=52844",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "notice": "定休日：月曜",
+      "note": "ゆる〜と・サウナイキタイ一覧のみで口コミなし。2026年の営業を直接確認できず"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯",
+      "address": "青森県十和田市西十三番町26-1",
+      "weekdayAdult": 390,
+      "holidayAdult": 390,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/6の県統制額改定（上限530円）後の料金は未確認",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15204",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "notice": "定休日：月曜",
+      "note": "口コミ（2026/5/14）で大人390円・サウナあり。泉質の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "外ヶ浜町三厩健康増進センター みんまや よしつねの湯",
+      "address": "青森県東津軽郡外ヶ浜町三厩新町100-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=51705",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜",
+      "note": "炭酸カルシウムの人工温泉（天然温泉ではない）。口コミ（2026/5）で400円"
+    },
+    {
+      "kind": "super",
+      "name": "外ヶ浜町総合福祉センター ぽっぽ湯",
+      "address": "青森県東津軽郡外ヶ浜町字下蟹田43-2",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3122",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜（祝日は翌日）",
+      "note": "人工温泉。2024/4/1から400円（口コミ）、2026/1の口コミも400円"
+    },
+    {
+      "kind": "super",
+      "name": "泊地区ふれあいセンター",
+      "address": "青森県上北郡六ヶ所村泊川原66-1",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=56725",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "notice": "定休日：火曜・年末年始",
+      "note": "人工温泉（炭酸カルシウム）。ゆる〜と・サウナイキタイのみで口コミなし"
+    },
+    {
+      "kind": "super",
+      "name": "五所川原市健康増進施設 にこにこ温泉しうら",
+      "address": "青森県五所川原市相内岩井81-385",
+      "weekdayAdult": 350,
+      "holidayAdult": 350,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "男女とも浴室にサウナ室",
+      "url": "",
+      "sources": [
+        "https://www.city.goshogawara.lg.jp/kenkou/kenkou/niconicoshiura.html",
+        "https://yuru-to.net/detail.php?oid=54055"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜（祝日は翌日）",
+      "note": "2025/5/24開業。公式に一般風呂・人工炭酸泉・サウナ室・水風呂（天然温泉ではない）。料金表は入浴券のみでサウナ別料金なし。市民向け割引あり（値は一般料金）"
+    },
+    {
+      "kind": "super",
+      "name": "蓬田村ふれあいセンター よもぎ温泉",
+      "address": "青森県東津軽郡蓬田村郷沢字浜田136-4",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "ヒバ張りのサウナ",
+      "url": "",
+      "sources": [
+        "https://www.vill.yomogita.lg.jp/kankou/shisetsu/yomogi_onsen.html",
+        "https://www.vill.yomogita.lg.jp/kankou/shisetsu/2024-0926-0956-19.html",
+        "https://yuru-to.net/detail.php?oid=3123"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜。源泉ポンプ停止のため沸かし湯で営業中",
+      "note": "本来はナトリウム塩化物強塩泉だが、2024/8/28から源泉ポンプ停止で「源泉なしの沸かし湯のみ」で営業（村の告知、再開の告知なし）。温泉調査でも同じ理由で除外。料金410円は村の施設ページと2026/6の口コミで一致。サウナ別料金の記載なし"
+    },
+    {
+      "kind": "onsen",
+      "name": "湯〜トピア小中野",
+      "address": "青森県八戸市小中野6-6-24",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3297",
+        "https://www.nap-camp.com/mag/77624",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "ナトリウム-塩化物強塩温泉（なっぷ2026/10更新・ゆる〜と）。料金はゆる〜とで530円（なっぷは450円）"
+    },
+    {
+      "kind": "onsen",
+      "name": "八戸銭湯 オールウェイズ",
+      "address": "青森県八戸市新井田松山下野場7-31",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=51539",
+        "https://www.nap-camp.com/mag/77624",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "メタけい酸の項で温泉に該当する冷鉱泉（沸かし湯・軟水化）。ゆる〜と・サウナイキタイ500円。2026/2に臨時休業の口コミ、2026/6の口コミで営業"
+    },
+    {
+      "kind": "onsen",
+      "name": "スパハウスかわむら",
+      "address": "青森県三沢市中央町2-4-27",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナは別料金（目安 +350円）。施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "男湯のみ",
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3201",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1月曜",
+      "note": "ナトリウム-塩化物泉（三沢中央源泉）。口コミ（2026/5・7）で入浴450円、サウナは男性のみ別料金350円"
+    },
+    {
+      "kind": "onsen",
+      "name": "あさひ温泉",
+      "address": "青森県青森市富田3-16-50",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3138",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "温泉調査では営業状況不明で除外。ゆる〜とに2023/10/24営業再開、2026/5の口コミあり。料金はゆる〜と530円（2026/5の口コミは480円）"
+    },
+    {
+      "kind": "onsen",
+      "name": "下田温泉 ゆーらくえん",
+      "address": "青森県上北郡おいらせ町中野平56-7",
+      "weekdayAdult": 420,
+      "holidayAdult": 420,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3255",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "notice": "年中無休",
+      "note": "ナトリウム-塩化物泉。料金420円は2025/6の口コミ・ゆる〜と（2026/6の口コミあり）"
+    },
+    {
+      "kind": "onsen",
+      "name": "桜ヶ丘温泉",
+      "address": "青森県弘前市桜ケ丘4-2-3",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3276",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜",
+      "note": "ナトリウム-塩化物泉。口コミ（2026/5/14）で大人450円。温泉データの「桜温泉」（賀田）とは別"
+    },
+    {
+      "kind": "onsen",
+      "name": "東北町 小川原湖交流センター 宝湖館",
+      "address": "青森県上北郡東北町大字上野南谷地131",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": null,
+      "priceNote": "町外料金（町内230円）。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=51787",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "low",
+      "notice": "定休日：水曜",
+      "note": "ナトリウム-塩化物泉。口コミ（2026/4/25）で町外大人300円。ゆる〜とは330円、サウナイキタイは260円と食い違い"
+    },
+    {
+      "kind": "onsen",
+      "name": "五戸温泉 新たんぼのゆっこ",
+      "address": "青森県三戸郡五戸町筒口川原8-2",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=53977",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：最終水曜",
+      "note": "メタけい酸の項で温泉に該当する冷鉱泉（沸かし湯）。口コミ（2026/5）で450円"
+    },
+    {
+      "kind": "onsen",
+      "name": "タカラの湯",
+      "address": "青森県上北郡野辺地町字笹館72-1",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=15169",
+        "https://sauna-ikitai.com/aomori"
+      ],
+      "confidence": "medium",
+      "notice": "無休",
+      "note": "アルカリ性単純温泉。口コミ（2026/6/17）で480円"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "みさき浴泉（八戸市）",
+      "reason": "2023/12/20から長期休業中（ゆる〜と）"
+    },
+    {
+      "name": "湯野川温泉 濃々園（むつ市）",
+      "reason": "休業中（ゆる〜と・ニフティ）"
+    },
+    {
+      "name": "カプセルイン弘前・アサヒサウナ",
+      "reason": "男性専用のカプセルホテル"
+    },
+    {
+      "name": "UNITED AOMORI37・プライベートサウナりらちる・MINAMIs h・十和田サウナ",
+      "reason": "サウナ専門・個室/貸切サウナ"
+    },
+    {
+      "name": "さんない温泉 三内ヘルスセンター",
+      "reason": "2023/5/7から休業中（ゆる〜と）"
+    }
+  ],
+  "notes": "青森県全域の天然温泉でない銭湯・スーパー銭湯と、温泉データ未収録の天然温泉の銭湯。候補はサウナイキタイ青森県一覧（206件）、ゆる〜と（日帰り入浴リストと詳細ページの泉質欄・日付つき口コミ）、sento-candidates.md、温泉調査の notes の未確認リスト。県の一般公衆浴場統制額は2026/6/1から大人530円（旧480円、県の告示ページ）。統制額は上限で実際の料金は浴場ごとに異なるため、銭湯は原則530円（ゆる〜との表示も530円）とし、2026/6以降の口コミで別の額を確認できたもの（りんごのゆ吹上店450円）や改定後の額が不明なもの（大黒湯390円・りんごのゆ日計店450円）は個別に記載。泉質欄が空で口コミ等から温泉でないと判断したものを sento、泉質（メタけい酸の項に該当する冷鉱泉を含む）が載っているものを onsen とした。県の浴場組合の公式サイトは見つからず、銭湯は公式サイトがないためポータル中心（medium/low）。サウナ料金はほとんど確認できず null（スパハウスかわむらのみ口コミで +350円の目安）。未確認：桂木温泉（青森市、サウナイキタイに銭湯として掲載・泉質不明）、パンション弁慶（八戸、サウナイキタイに男性のみ掲載）。サウナイキタイの施設ページは405で閲覧不可（一覧ページのみ参照）。"
+}

@@ -1,0 +1,206 @@
+{
+  "prefecture": "岡山県",
+  "prefCode": "33",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "SPA&Wellnessぽかぽか",
+      "address": "岡山県岡山市北区青江2-4-15",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "サウナ（お風呂付）料金。入浴のみ480円",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://pokaon.net/",
+      "sources": [
+        "https://pokaon.net/guide/",
+        "https://onsen.nifty.com/okayama-onsen/onsen011992/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第3木曜日（祝日の場合は営業）",
+      "note": "入浴のみの料金は県の銭湯料金と同額。公式に天然温泉の記載なし（前回の温泉調査で除外）"
+    },
+    {
+      "kind": "super",
+      "name": "極楽の里 えびす乃ゆ 河辺店",
+      "address": "岡山県津山市河辺1091-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://tsuyamasentou.wixsite.com/ebisunoyu",
+      "sources": [
+        "https://tsuyamasentou.wixsite.com/ebisunoyu/blank",
+        "https://onsen.nifty.com/tsuyama-onsen/onsen010171/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1火曜日",
+      "note": "公式の料金表画像（院庄店と共通）で大人700円のみ。熱波・アウフグースあり。公式に天然温泉の記載なし。定休日はニフティ"
+    },
+    {
+      "kind": "super",
+      "name": "えびす乃ゆ 院庄店",
+      "address": "岡山県津山市院庄950",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://tsuyamasentou.wixsite.com/ebisunoyu",
+      "sources": [
+        "https://tsuyamasentou.wixsite.com/ebisunoyu/blank",
+        "https://onsen.nifty.com/tsuyama-onsen/onsen010172/"
+      ],
+      "confidence": "high",
+      "notice": "不定休",
+      "note": "公式の料金表画像（河辺店と共通）で大人700円のみ。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "瀬戸大橋スパリゾート",
+      "address": "岡山県倉敷市児島塩生3777",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "2時間コース（超過1時間ごと+200円、上限2,000円）。フルタイム2,000円。深夜0〜5時1,600円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.setoohashi.net/",
+      "sources": [
+        "https://www.setoohashi.net/spa-resort/spa-price/",
+        "https://onsen.nifty.com/setooohashi-onsen/onsen012054/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業（大浴場は2〜5時・7〜9時は利用不可）",
+      "note": "ホテル瀬戸大橋に併設の24時間温浴施設。公式に天然温泉の記載なし（前回の温泉調査で除外）"
+    },
+    {
+      "kind": "super",
+      "name": "後楽温泉 ほのかの湯",
+      "address": "岡山県岡山市北区奥田南町6-27",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "その他"
+      ],
+      "saunaNote": "高濃度水素サウナ（低温）",
+      "url": "https://www.honokanoyu.jp/",
+      "sources": [
+        "https://www.honokanoyu.jp/",
+        "https://onsen.nifty.com/okayama-onsen/onsen007658/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第2火曜日（8月・12月を除く）",
+      "note": "人工温泉（公式）"
+    },
+    {
+      "kind": "super",
+      "name": "岡山ふれあいセンター 桑の湯",
+      "address": "岡山県岡山市中区桑野715-2",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=51882",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=51882",
+        "https://sauna-ikitai.com/okayama/%E5%B2%A1%E5%B1%B1%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第3土曜日・年末年始",
+      "note": "岡山市の福祉施設の一般浴場。料金・サウナはポータルと口コミ（2026/4）による。市民・市外の料金区分は未確認"
+    },
+    {
+      "kind": "super",
+      "name": "岡山市ウェルポートなださき",
+      "address": "岡山県岡山市南区片岡159-1",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=49141",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=49141",
+        "https://sauna-ikitai.com/okayama/%E5%B2%A1%E5%B1%B1%E5%B8%82",
+        "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000051/51414/20230703_nadasakipool.pdf"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第3土曜日。営業は13時から",
+      "note": "岡山市の施設（大浴場・プール・フィットネス）。当日利用券 一般410円は市の2023年の資料と同額。大浴場のサウナは口コミによる"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "サントピア岡山総社",
+      "reason": "宿泊施設の大浴場（2025年2月から人工温泉）"
+    },
+    {
+      "name": "センチュリオンホテル＆スパ倉敷",
+      "reason": "ホテルの浴場（人工ラジウム温泉）"
+    },
+    {
+      "name": "稲荷山健康センター",
+      "reason": "休業中"
+    },
+    {
+      "name": "サウナ＆カプセルイン岡山",
+      "reason": "閉館（サウナ主体の施設）"
+    },
+    {
+      "name": "HOTTERS24 岡山今店",
+      "reason": "男性専用の会員制サウナ施設"
+    },
+    {
+      "name": "健幸プラザ西大寺 永安の湯",
+      "reason": "スポーツ・健康増進施設の浴場（サウナの利用条件を確認できず）"
+    },
+    {
+      "name": "RR Conditioning & SPA",
+      "reason": "プライベートサウナ施設"
+    },
+    {
+      "name": "THE DD SAUNA",
+      "reason": "プライベートサウナ施設"
+    },
+    {
+      "name": "sauna kolme kylä",
+      "reason": "サウナ専門施設"
+    },
+    {
+      "name": "THE TANADA SAUNA OKAYAMA",
+      "reason": "サウナ専門の宿泊施設"
+    },
+    {
+      "name": "岩盤健康革命",
+      "reason": "岩盤浴施設"
+    }
+  ],
+  "notes": "岡山県の浴場組合の銭湯一覧は見つからず。サウナイキタイの岡山県一覧（148件）、ニフティ温泉の岡山県サウナ一覧（65件）・格安一覧、前回の除外候補で洗い出した。県の銭湯の大人料金は480円（2025/8/1から）。岡山市の銭湯（田町温泉・鶴湯・福島温泉）はサウナを確認できず（福島温泉は口コミでサウナなし）、サウナイキタイにも岡山県の銭湯カテゴリの施設はなかったため、sento は0件。湯迫温泉 健康村 白雲閣（岡山市）は天然温泉の可能性があるが未確認のため未収録。ヘルスピア倉敷はスポーツ施設でサウナの利用条件を確認できず未収録。サウナイキタイは一覧ページのみ取得でき、施設ページはアクセス制限（405）のため参照していない。"
+}

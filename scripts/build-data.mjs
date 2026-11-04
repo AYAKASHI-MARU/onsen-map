@@ -90,6 +90,12 @@ async function gsiGeocode(address) {
   return best;
 }
 
+// 京都市の「○○通○○上ル」などの通り名を外した住所を返す（地理院の検索は通り名を解釈できない）
+function stripKyotoStreet(address) {
+  const m = address.match(/^(京都府京都市.+?区)(.*?(?:上ル|下ル|上る|下る|西入ル|東入ル|西入る|東入る|西入|東入))+(.+)$/);
+  return m ? m[1] + m[3].replace(/^d+丁目/, '') : null;
+}
+
 // 地理院の結果が「市区町村」止まり（=役場などの代表点）かどうか
 function isCoarse(title) {
   const rest = norm(title)
@@ -265,7 +271,12 @@ for (const c of candidates) {
     pos = { lat: c.override.lat, lng: c.override.lng };
     how = 'override';
   } else {
-    const g = await gsiGeocode(c.address);
+    let g = await gsiGeocode(c.address);
+    const kyoto = (!g || isCoarse(g.title)) && stripKyotoStreet(c.address);
+    if (kyoto) {
+      const g2 = await gsiGeocode(kyoto);
+      if (g2 && !isCoarse(g2.title)) g = g2;
+    }
     if (g) {
       pos = { lat: g.lat, lng: g.lng };
       how = 'gsi';

@@ -1,0 +1,271 @@
+{
+  "prefecture": "宮城県",
+  "prefCode": "04",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "駒の湯",
+      "address": "宮城県仙台市青葉区国分町1丁目4-19",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "石けん・シャンプーの備え付けなし（番台で販売）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "水風呂なし（水シャワーあり）",
+      "url": "https://komanoyu.crayonsite.com/",
+      "sources": [
+        "https://komanoyu.crayonsite.com/p/2/",
+        "https://www.pref.miyagi.jp/soshiki/shoku-k/kouyoku-ryoukin.html",
+        "https://news.allabout.co.jp/articles/o/117882/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：日・水曜",
+      "note": "2階。公式の料金・利用案内は入浴料（宮城県告示 令和7年12月 大人500円）と物販のみでサウナの別料金の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "鶴の湯",
+      "address": "宮城県仙台市太白区長町4丁目3-24",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "",
+      "sources": [
+        "https://www.nap-camp.com/mag/75111"
+      ],
+      "confidence": "medium",
+      "note": "公式サイトなし。なっぷ（2026/10/1更新）で大人500円・スチームサウナ。サウナイキタイ一覧に銭湯として掲載"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯極楽湯 名取店",
+      "address": "宮城県名取市田高字原463",
+      "weekdayAdult": 750,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯の遠赤外線タワーサウナにオートロウリュ。釜風呂（熱気風呂）あり",
+      "url": "https://natori.gokurakuyu.jp/",
+      "sources": [
+        "https://natori.gokurakuyu.jp/guide/",
+        "https://natori.gokurakuyu.jp/bath/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "人工・天然温泉の記載なし（温泉調査で天然温泉の記載なしとして除外済み）"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯極楽湯 多賀城店",
+      "address": "宮城県多賀城市町前1丁目2-5",
+      "weekdayAdult": 700,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://tagajo.gokurakuyu.jp/",
+      "sources": [
+        "https://tagajo.gokurakuyu.jp/guide/",
+        "https://tagajo.gokurakuyu.jp/bath/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯極楽湯 古川店",
+      "address": "宮城県大崎市古川稲葉字鴻ノ巣184-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://furukawa.gokurakuyu.jp/",
+      "sources": [
+        "https://furukawa.gokurakuyu.jp/guide/",
+        "https://furukawa.gokurakuyu.jp/bath/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休"
+    },
+    {
+      "kind": "super",
+      "name": "ゆ～とぴあ仙台南",
+      "address": "宮城県仙台市太白区西多賀5丁目24-1",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1250,
+      "saunaFee": 0,
+      "priceNote": "朝割（7〜10時）平日950円・土日祝1,100円。貸切バレルサウナは別料金（4,000円〜）",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "ロウリュウサウナ。露天サウナは男湯のみ",
+      "url": "https://ytp-sendaiminami.jp/",
+      "sources": [
+        "https://ytp-sendaiminami.jp/business",
+        "https://ytp-sendaiminami.jp/spa",
+        "https://ytp-sendaiminami.jp/info/779/"
+      ],
+      "confidence": "high",
+      "note": "人工温泉（光明石）・高濃度炭酸泉。10/26おふろの日の告知（平日朝割950円）が現行料金表と一致。ニフティ（950円）・All About 7月（1,000円）は旧料金"
+    },
+    {
+      "kind": "super",
+      "name": "汗蒸幕のゆ",
+      "address": "宮城県仙台市泉区市名坂字南前67-1",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "汗蒸幕・ロッキーサウナ。紫水晶サウナは女湯、黄土サウナは男湯",
+      "url": "https://hanjunmakunoyu.jp/",
+      "sources": [
+        "https://hanjunmakunoyu.jp/price/",
+        "https://hanjunmakunoyu.jp/"
+      ],
+      "confidence": "high",
+      "note": "公式に天然温泉の記載なし（温泉調査で除外済み）。ニフティの1,100円/1,200円は旧料金"
+    },
+    {
+      "kind": "super",
+      "name": "ゆっぽとみや大清水",
+      "address": "宮城県富谷市大清水1-32-3",
+      "weekdayAdult": 820,
+      "holidayAdult": 820,
+      "saunaFee": 0,
+      "priceNote": "20時以降の深夜割770円",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ（塩は200円）",
+      "url": "https://yuppo-tomiya.com/",
+      "sources": [
+        "http://yuppo-tomiya.com/price/",
+        "https://news.allabout.co.jp/articles/o/120573/"
+      ],
+      "confidence": "high",
+      "note": "準天然温泉（トゴール鉱石）。公式のお知らせに「10月7日まで改定前の価格」とあり10月上旬に改定（6月時点は770円）。料金表は「入館料金（お風呂・サウナ）」"
+    },
+    {
+      "kind": "super",
+      "name": "ゆっぽ・白石やすらぎの湯",
+      "address": "宮城県白石市大平森合字森合沖86",
+      "weekdayAdult": 750,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "平日は通常料金（800円）の50円引き",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "男湯はスタジアム式。塩サウナは休止中",
+      "url": "https://yuppo-shiroishi.sub.jp/shiroishi/",
+      "sources": [
+        "https://yuppo-shiroishi.sub.jp/shiroishi/eigyouzikan.htm",
+        "https://yuppo-shiroishi.sub.jp/shiroishi/sauna.htm",
+        "https://news.allabout.co.jp/articles/o/120573/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第3火曜日",
+      "note": "公式は北投石の湯で天然温泉の記載なし。公式（Shift_JIS）とAll About 2026/6（750円/800円）が一致。公式に「お知らせ（毎週火休み）」PDF（画像で読めず）があり定休日が変わった可能性"
+    },
+    {
+      "kind": "super",
+      "name": "wood&Spa や・すまっしぇ",
+      "address": "宮城県刈田郡七ヶ宿町字諏訪原11-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://7kashuku.jp/facility/wood-spa/",
+      "sources": [
+        "https://7kashuku.jp/facility/wood-spa/",
+        "https://news.allabout.co.jp/articles/o/125460/?page=2"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜",
+      "note": "人工炭酸泉と普通浴槽（天然温泉ではない）。公式は入館料のみでサウナ別料金の記載なし。町民割引あり（値は町外の一般料金）"
+    },
+    {
+      "kind": "onsen",
+      "name": "晴れ温泉",
+      "address": "宮城県大崎市鳴子温泉字久田42",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "サウナ（お風呂付き）料金。日帰り湯のみは650円",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "ペレットサウナ（セルフロウリュ）。サウナは11時から",
+      "url": "",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/125584/?page=2"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜",
+      "note": "既存の温泉データに無い天然温泉（100%源泉掛け流しのモール泉）。公式サイト見つからず、All About 2026/8/9 の記事で確認"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "喜代乃湯（仙台市）",
+      "reason": "2025年9月から長期休業（口コミ。再開を確認できず）"
+    },
+    {
+      "name": "駅前人工温泉 とぽす 仙台駅西口",
+      "reason": "男性専用（カプセルホテル）"
+    },
+    {
+      "name": "サウナ&カプセル キュア国分町",
+      "reason": "サウナ主体の男性専用カプセル"
+    },
+    {
+      "name": "ゆ処悠々（ホテルリブマックス多賀城）",
+      "reason": "ホテルの浴場"
+    },
+    {
+      "name": "ホテル松島大観荘・ホテルテトラリゾート仙台岩沼・篝火の湯 緑水亭",
+      "reason": "ホテル・旅館の大浴場（緑水亭は基準日に源泉故障で沸かし湯）"
+    },
+    {
+      "name": "KIBOTCHA（東松島市）",
+      "reason": "大浴場（水素風呂・日帰り550円）にサウナの記載なし、サウナは個室サウナ"
+    },
+    {
+      "name": "牡鹿交流センター ほっとまる",
+      "reason": "プール・トレーニング施設の浴室（全館使用料700円）でスポーツ施設扱い"
+    },
+    {
+      "name": "仙台市葛岡温水プール・七ヶ浜健康スポーツセンター アクアリーナ・スポパーク松森",
+      "reason": "プール・スポーツ施設"
+    },
+    {
+      "name": "LAST SAUNA / KURO SAUNA / CORE SAUNA / KIKUTAN SAUNA / Lita-sauna / sauna KURO ほか",
+      "reason": "サウナ専門・個室サウナ"
+    }
+  ],
+  "notes": "宮城県全域の天然温泉でない銭湯・スーパー銭湯。候補はサウナイキタイの宮城県一覧（全201件、種別「銭湯」「温浴施設」）、ゆる〜とのサウナあり施設、mapfanの銭湯一覧、sento-candidates.md から洗い出し。宮城県の一般公衆浴場の統制額は2025/12/1から大人500円（県の告示ページ）。県の浴場組合の公式サイトは見つからず、仙台の銭湯は駒の湯（公式）・鶴の湯（なっぷ2026/10更新）を収録。気仙沼の鶴亀の湯・友の湯（大人500円、asoview）はサウナの有無を確認できず未収録。豆坂温泉 三峰荘（大崎、源泉かけ流し）はサウナを確認できず未収録。サウナイキタイの施設ページは405で閲覧不可のため一覧ページのみ参照。極楽湯（名取・多賀城・古川）は各店の新サイト（*.gokurakuyu.jp）で確認。"
+}

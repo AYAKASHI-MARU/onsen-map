@@ -1,0 +1,195 @@
+{
+  "prefecture": "奈良県",
+  "prefCode": "29",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 150,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "有料サウナのほかスチームサウナあり",
+      "confidence": "high",
+      "notice": "定休日：金曜日",
+      "note": "人工温泉（公式）。公式に「2026年12月より料金が変更」とあるが2025年12月の誤記とみて530円を採用。スチームサウナはニフティの口コミによる",
+      "name": "ほてい湯",
+      "address": "奈良県奈良市肘塚町7",
+      "url": "https://hoteiyu.iiyudana.net/",
+      "sources": [
+        "https://hoteiyu.iiyudana.net/",
+        "https://onsen.nifty.com/nara-onsen/onsen008847/"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": 370,
+      "priceNote": "サウナ料金は水風呂・露天スペース込み",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "confidence": "high",
+      "notice": "定休日：第2・第4水曜日",
+      "note": "沸かし湯の銭湯（分散型ホテルの銭湯棟）",
+      "name": "GOSE SENTO HOTEL 御所宝湯",
+      "address": "奈良県御所市御国通り2-361-5",
+      "url": "https://takarayu.gosemachi.com/",
+      "sources": [
+        "https://takarayu.gosemachi.com/",
+        "https://onsen.nifty.com/kashihara-onsen/onsen017396/"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "confidence": "medium",
+      "notice": "定休日：水曜日",
+      "note": "ニフティの料金欄は改定後の530円。口コミ（2023年）に炭酸スチームサウナ。サウナ料金の記載なし",
+      "name": "朝日温泉",
+      "address": "奈良県奈良市京終地方東側町20",
+      "url": "https://onsen.nifty.com/nara-onsen/onsen007970/",
+      "sources": [
+        "https://onsen.nifty.com/nara-onsen/onsen007970/"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "confidence": "medium",
+      "notice": "定休日：月曜日・金曜日",
+      "note": "田原本町の観光振興機構のページにスチームサウナ。ニフティの料金欄は改定後の530円。サウナ料金の記載なし",
+      "name": "五光温泉",
+      "address": "奈良県磯城郡田原本町新町203-4",
+      "url": "https://tawaramoton.com/spot/%e4%ba%94%e5%85%89%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://tawaramoton.com/spot/%e4%ba%94%e5%85%89%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/kashihara-onsen/onsen006455/"
+      ]
+    },
+    {
+      "kind": "sento",
+      "weekdayAdult": 530,
+      "holidayAdult": 530,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "confidence": "low",
+      "notice": "定休日：水曜日",
+      "note": "口コミ（2023/12が最新）にスチームサウナ。ニフティの料金欄は440円（旧料金）。2026年の営業を確認できず",
+      "name": "栄温泉",
+      "address": "奈良県橿原市久米町826",
+      "url": "https://onsen.nifty.com/kashihara-onsen/onsen009140/",
+      "sources": [
+        "https://onsen.nifty.com/kashihara-onsen/onsen009140/"
+      ]
+    },
+    {
+      "kind": "super",
+      "name": "生駒山麓公園 ふれあいセンター",
+      "address": "奈良県生駒市俵口町2088",
+      "weekdayAdult": 310,
+      "holidayAdult": 310,
+      "saunaFee": 0,
+      "priceNote": "1回券（1日券470円）。大人は中学生を除く",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://www.ikoma36.jp/fureai/",
+      "sources": [
+        "http://www.ikoma36.jp/fureai/"
+      ],
+      "confidence": "high",
+      "notice": "日帰り入浴は11:00〜18:00。休館日：10月〜5月の火曜日（祝日は開館）、12月27日〜1月5日",
+      "note": "公式の浴場の説明に「サウナを備えた」。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "シルクの杜",
+      "address": "奈良県橿原市川西町855-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "浴場の一般料金。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://shisetsu.mizuno.jp/mss-7163",
+      "sources": [
+        "https://shisetsu.mizuno.jp/mss-7163/guide",
+        "https://shisetsu.mizuno.jp/mss-7163",
+        "https://onsen.nifty.com/kashihara-onsen/onsen019568/"
+      ],
+      "confidence": "medium",
+      "notice": "休館日：火曜日、12月27日〜1月4日",
+      "note": "橿原市のクリーンセンター余熱利用施設（指定管理者の公式に浴場500円、施設にサウナ）。サウナが浴場料金に含まれるか明記なし"
+    },
+    {
+      "kind": "onsen",
+      "name": "ラ・ロイヤル・スパ（奈良ロイヤルホテル）",
+      "address": "奈良県奈良市法華寺町254",
+      "weekdayAdult": 1080,
+      "holidayAdult": 1080,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男性はフィンランド式（ロウリュあり）、女性は遠赤外線のドライ",
+      "url": "https://nara-royal.co.jp/onsen/",
+      "sources": [
+        "https://nara-royal.co.jp/onsen/"
+      ],
+      "confidence": "high",
+      "notice": "不定休。月2回、大浴場の男女入れ替えあり",
+      "note": "天然温泉（ナトリウム-塩化物・炭酸水素塩泉）。既存の温泉データに無いため onsen として収録"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "天川薬湯センター みずはの湯",
+      "reason": "リニューアルのため2025年10月1日から休館中（再開は2026年12月頃予定で日付未定）"
+    },
+    {
+      "name": "カンデオホテルズ奈良橿原",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "花園新温泉・本町松湯・高砂湯・大福共同浴場さくら湯",
+      "reason": "サウナを確認できず（ニフティの設備・口コミにサウナなし）"
+    },
+    {
+      "name": "中央温泉（大和高田市）",
+      "reason": "休業中（ニフティで休業中表示）"
+    },
+    {
+      "name": "大門湯・王寺湯・佐保川温泉",
+      "reason": "閉館"
+    }
+  ],
+  "notes": "奈良県の浴場組合の銭湯一覧は見つからず（県の銭湯一覧PDFはサーバー証明書の期限切れで取得できず）、ニフティ温泉の奈良県の全施設一覧（201件）とサウナ絞り込み一覧（44件）、前回の除外候補で洗い出した。入浴料は奈良県の統制額（2025/12/1から大人530円。県の報道資料の検索結果と、ほてい湯・御所宝湯の公式530円表示による）。サウナ料金は公式で確認できたもの（ほてい湯・御所宝湯）のみ入れた。奈良市・大和高田市・橿原市以外の市町村では、天然温泉以外のサウナ付き銭湯・スーパー銭湯を見つけられなかった。サウナイキタイはアクセス制限（405）のため参照していない。"
+}

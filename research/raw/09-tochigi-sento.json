@@ -1,0 +1,207 @@
+{
+  "prefecture": "栃木県",
+  "prefCode": "09",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "宝湯",
+      "address": "栃木県宇都宮市若草1-9-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "サウナ込み",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://www.pref.tochigi.lg.jp/b05/pref/reiki/kouhou/documents/teiki741.pdf",
+        "https://www.nap-camp.com/mag/77626",
+        "https://sauna-ikitai.com/tochigi/sento"
+      ],
+      "confidence": "medium",
+      "notice": "営業時間 13:00〜23:30",
+      "note": "大人料金は2026/10/1からの県の統制額550円（県告示第463号）。サウナ込みはポータル（なっぷ 2026/10/1更新・旧料金460円表記）。サウナイキタイは550円〜表記。公式サイトなし"
+    },
+    {
+      "kind": "onsen",
+      "name": "長寿の湯",
+      "address": "栃木県那須塩原市南郷屋5-163",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 300,
+      "priceNote": "サウナ別料金300円（一律）",
+      "saunaTypes": [],
+      "url": "https://x.com/choujunoyu",
+      "sources": [
+        "https://www.hokkaido-np.co.jp/article/1354963/",
+        "https://prtimes.jp/main/html/rd/p/000000001.000181808.html",
+        "https://www.pref.tochigi.lg.jp/b05/pref/reiki/kouhou/documents/teiki741.pdf"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜。火〜金 10:00〜23:00、土日 7:00〜23:00",
+      "note": "市の旧温浴施設を（株）ゆつむぎが一般公衆浴場（街の銭湯）として2026/9/2にリニューアル開業。温泉水使用（アルカリ性単純温泉）で既存の温泉データに無し。開業時の大人460円は2026/10/1の統制額改定（550円）前の額で、基準日は統制額を採用（サウナイキタイは入浴+サウナ850円〜表記）"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯コール 宝木之湯",
+      "address": "栃木県宇都宮市細谷町662",
+      "weekdayAdult": 730,
+      "holidayAdult": 830,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "その他"
+      ],
+      "saunaNote": "遠赤外線タワーサウナ・黄土サウナ・水晶サウナ",
+      "url": "http://www.super-sento.com/takaragi/",
+      "sources": [
+        "http://www.super-sento.com/takaragi/price.html",
+        "http://www.super-sento.com/takaragi/bath.html"
+      ],
+      "confidence": "high",
+      "note": "人工温泉（公式）。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "宇都宮市茂原健康交流センター 蝶寿コ・デ・ランネ",
+      "address": "栃木県宇都宮市茂原町777-7",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": 0,
+      "priceNote": "風呂のみの一般料金（風呂とプール620円）",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "浴室ごとにドライ／ミスト。男女は週替わり（月曜休館日の翌日に入替）",
+      "url": "https://mobara.proteck.co.jp/",
+      "sources": [
+        "https://mobara.proteck.co.jp/service/",
+        "https://mobara.proteck.co.jp/facility/bath/"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日の場合は翌平日）・年末年始・点検日",
+      "note": "清掃工場の余熱利用施設。光明石の人工温泉"
+    },
+    {
+      "kind": "super",
+      "name": "YUKALA 小山店",
+      "address": "栃木県小山市大字横倉新田226-13",
+      "weekdayAdult": 750,
+      "holidayAdult": 850,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴は+600円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温サウナ",
+      "url": "https://yukala.jp/",
+      "sources": [
+        "https://yukala.jp/information/",
+        "https://yukala.jp/ofuro/"
+      ],
+      "confidence": "high",
+      "notice": "不定期にメンテナンス休館あり",
+      "note": "公式FAQで天然温泉ではないと明記。温泉調査で除外済み"
+    },
+    {
+      "kind": "super",
+      "name": "ゆうゆう館 天平乃湯",
+      "address": "栃木県下野市小金井789",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "url": "http://www.shimotsuke-syakyo.or.jp/jigyoukatsudou/shitei/yuyukan.html",
+      "sources": [
+        "http://www.shimotsuke-syakyo.or.jp/jigyoukatsudou/shitei/yuyukan.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：火曜（祝日の場合は翌日）・年末年始",
+      "note": "市社会福祉協議会の施設。入浴剤による人工温泉"
+    },
+    {
+      "kind": "super",
+      "name": "上三川いきいきプラザ",
+      "address": "栃木県河内郡上三川町上蒲生127-1",
+      "weekdayAdult": 370,
+      "holidayAdult": 370,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "url": "https://www.town.kaminokawa.lg.jp/reiki_int/reiki_honbun/e114RG00000638.html",
+      "sources": [
+        "https://www.town.kaminokawa.lg.jp/reiki_int/reiki_honbun/e114RG00000638.html",
+        "https://yuru-to.net/detail.php?oid=51623"
+      ],
+      "confidence": "medium",
+      "notice": "休館日：毎月29日〜末日",
+      "note": "町の総合保健福祉センター（プール併設）。浴場使用料は条例の一般340円＋消費税（5円未満切捨て）で370円、ゆるーとの370円と一致。サウナはポータル（ゆるーと・サウナイキタイ）で確認。天然温泉の記載なし"
+    },
+    {
+      "kind": "onsen",
+      "name": "さぷらす",
+      "address": "栃木県日光市小佐越19-5",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "男湯は薪ストーブ・電気ストーブの2室（セルフロウリュ）、女湯は高湿度サウナ（セルフアロマロウリュ）",
+      "url": "https://www.saplus1137.com/",
+      "sources": [
+        "https://www.saplus1137.com/sauna",
+        "https://www.saplus1137.com/",
+        "https://www.saplus1137.com/about"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜",
+      "note": "公式に男湯露天「源泉温泉」とある（泉質の記載なし。女湯の露天・内湯は入浴剤等の日替わり湯）。温泉調査では天然温泉を確認できず除外されていた"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ゆうゆうプラザ 四季彩の湯（栃木市）",
+      "reason": "現行料金・サウナを公式で確認できず（市の情報は2018年の一般300円のみ）"
+    },
+    {
+      "name": "みかもリフレッシュセンター（佐野市）",
+      "reason": "料金・サウナ・温泉の別を公式で確認できず（ポータルのみ）"
+    },
+    {
+      "name": "遊楽々館（栃木市）",
+      "reason": "料金・サウナを公式で確認できず（ポータルのみ）"
+    },
+    {
+      "name": "【男性専用】足利健康センター・ニノサ 佐野店",
+      "reason": "男性専用サウナ施設"
+    },
+    {
+      "name": "WALLOWS sauna & diner・サノサウナクラブ・ウツノミヤサウナクラブ・サステナサウナ・THE PINE private sauna lounge・森の天空サウナ＆露天風呂・TERA PrivateSauna&spa",
+      "reason": "サウナが主の施設・プライベートサウナ"
+    },
+    {
+      "name": "アグリスパ（ろまんちっく村）",
+      "reason": "プール施設のサウナ（水着エリア・プールが主）"
+    },
+    {
+      "name": "カンデオホテルズ宇都宮・カンデオホテルズ佐野",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "野木町健康センター ゆ〜らんど",
+      "reason": "休業中"
+    },
+    {
+      "name": "真岡井頭温泉・塩原ファミリー牧場りんどうの湯・那須烏山温泉 やまびこ温泉・パワー温泉 リフレ鶴田店・ラ・フォンテ・長久温泉",
+      "reason": "閉館（ニフティ温泉で閉館表示）"
+    }
+  ],
+  "notes": "銭湯: 組合サイトは見つからず、Mapion の銭湯一覧とサウナイキタイの銭湯サウナ絞り込み（宝湯・長寿の湯の2件）で確認。大人料金は県告示第463号（2026/9/29）により2026/10/1から550円（旧460円）。宝湯はサウナ込み（ポータル）。長寿の湯は温泉水使用の一般公衆浴場のため onsen とし、統制額550円＋サウナ300円（2026/8の報道）。スーパー銭湯・公共施設はニフティ温泉のサウナ一覧136件とサウナイキタイ栃木県315件（全16ページ）から天然温泉以外を抽出し公式で確認。さぷらすは公式に男湯露天「源泉温泉」とあるため onsen で追加。サウナイキタイの施設ページは閲覧不可。取りこぼしの可能性: 栃木市・佐野市の公共浴場（ゆうゆうプラザ四季彩の湯・遊楽々館・みかもリフレッシュセンター）は公式で料金・サウナを確認できず除外。那須塩原駅前温泉・日光霧降VIVA!ハワイアン（サウナイキタイ掲載）は実態を確認できず未収録。"
+}

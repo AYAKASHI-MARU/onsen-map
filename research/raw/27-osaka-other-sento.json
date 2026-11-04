@@ -1,0 +1,1875 @@
+{
+  "prefecture": "大阪府",
+  "prefCode": "27",
+  "area": "大阪市以外",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "ヘルシーバスニュー栄",
+      "address": "大阪府八尾市植松町8-1-24",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（公式の料金表に「サウナ 760円」）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://www.newsakae.com/",
+      "sources": [
+        "https://osaka268.com/sento/%e3%83%98%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%90%e3%82%b9%e3%83%8b%e3%83%a5%e3%83%bc%e6%a0%84/",
+        "https://www.newsakae.com/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009405/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "公式・ニフティとも「サウナ 760円」で、追加料金か入浴込みか判別できず（2023/6の口コミでは入浴490円・サウナ160円）"
+    },
+    {
+      "kind": "sento",
+      "name": "安中温泉",
+      "address": "大阪府八尾市安中町6-8-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%ae%89%e4%b8%ad%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%ae%89%e4%b8%ad%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen011614/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "low",
+      "notice": "定休日：第2・3・4水曜日",
+      "note": "組合ページの設備表示にサウナなし。ニフティの口コミ（2023/9）にサウナと水風呂の記載のみ。種類・料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "山本新温泉",
+      "address": "大阪府八尾市山本町北8-1-22",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%b1%b1%e6%9c%ac%e6%96%b0%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%b1%b1%e6%9c%ac%e6%96%b0%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009582/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：不定休",
+      "note": "サウナ料金は未確認。ニフティの口コミ（2023/6）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "恩智温泉",
+      "address": "大阪府八尾市恩智中町1-178",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 100,
+      "priceNote": "サウナ料は貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%81%a9%e6%99%ba%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%81%a9%e6%99%ba%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009642/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日",
+      "note": "サウナ料金はニフティの料金欄（600円表記の更新後）"
+    },
+    {
+      "kind": "sento",
+      "name": "豊栄温泉",
+      "address": "大阪府八尾市東山本町1-8-12",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e8%b1%8a%e6%a0%84%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e8%b1%8a%e6%a0%84%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010069/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "ニフティの口コミ（2023/9）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "豊温泉",
+      "address": "大阪府八尾市北本町4-8-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナは有料（料金は施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "サウナは21:00まで",
+      "url": "https://osaka268.com/sento/%e8%b1%8a-%e6%b8%a9-%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e8%b1%8a-%e6%b8%a9-%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009681/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月5・15・25日",
+      "note": "サウナの時間は組合ページ。ニフティの口コミ（2022/3）に「有料サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "七福温泉",
+      "address": "大阪府吹田市泉町4-36",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e4%b8%83-%e7%a6%8f-%e6%b8%a9-%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e4%b8%83-%e7%a6%8f-%e6%b8%a9-%e6%b3%89/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen010688/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2023/12）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "福助温泉",
+      "address": "大阪府吹田市垂水町3-1-34",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +200円）",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%a6%8f%e5%8a%a9%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%a6%8f%e5%8a%a9%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen010305/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週金曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2023/11、入浴490円当時）に「サウナ200円」。種類は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "有楽温泉",
+      "address": "大阪府和泉市府中町7-5-52",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%9c%89%e6%a5%bd%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%9c%89%e6%a5%bd%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen010546/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：基本火曜日（営業する日もあり）",
+      "note": "ニフティの口コミ（2021/6）に「料金表にサウナ無料」、2026/2の口コミにヴィヒタのミストサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "皆様温泉",
+      "address": "大阪府四條畷市塚脇町6-18",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%9a%86%e6%a7%98%e6%b8%a9%e6%b3%89-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%9a%86%e6%a7%98%e6%b8%a9%e6%b3%89-2/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen008739/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "サウナ料金は未確認。ニフティの口コミ（2023/9）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "フォーユー",
+      "address": "大阪府堺市北区東三国ケ丘町5-8-7",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a6%e3%83%bc/",
+      "sources": [
+        "https://osaka268.com/sento/%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a6%e3%83%bc/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen011201/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：金曜日",
+      "note": "ニフティの口コミ（2019/11）に「有料100円」、2023/8に薪の高温サウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "初芝温泉",
+      "address": "大阪府堺市東区日置荘北町1-2-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%88%9d-%e8%8a%9d-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%88%9d-%e8%8a%9d-%e6%b9%af/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen012184/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日・金曜日",
+      "note": "ニフティの口コミ（2017/10）に「スチームサウナ、100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "堺新温泉",
+      "address": "大阪府堺市堺区甲斐町西2-2-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%a0%ba%e6%96%b0%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%a0%ba%e6%96%b0%e6%b8%a9%e6%b3%89/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "奥本温泉",
+      "address": "大阪府堺市北区奥本町1-78-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "スチーム",
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%a5%a5%e6%9c%ac%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%a5%a5%e6%9c%ac%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen009811/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "low",
+      "notice": "定休日：毎週土曜日",
+      "note": "組合ページの設備表示にサウナなし。ニフティの口コミ（2023/11）に「スチームサウナ」「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "安井温泉",
+      "address": "大阪府堺市堺区中安井町1-1-6",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%ae%89%e4%ba%95%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%ae%89%e4%ba%95%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen011432/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "ニフティの口コミ（2021/12・2022/6）に「無料のサウナ」「サウナ込み」"
+    },
+    {
+      "kind": "sento",
+      "name": "旭湯",
+      "address": "大阪府堺市東区日置荘西町3-8-7",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +100円・バスタオル付き）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%97%ad-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%97%ad-%e6%b9%af/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen010607/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "ニフティの口コミ（2025/3、値上げ前）に「サウナは100円・バスタオル付き」、2023/9にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "湊潮湯",
+      "address": "大阪府堺市堺区出島海岸通1-2-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +150円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%b9%8a-%e6%bd%ae-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%b9%8a-%e6%bd%ae-%e6%b9%af/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen006394/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "ニフティの口コミ（2023/6）に「サウナ別料金150円」"
+    },
+    {
+      "kind": "sento",
+      "name": "金岡温泉",
+      "address": "大阪府堺市北区北長尾町1-7-16",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 バスタオル持参で無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e9%87%91%e5%b2%a1%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e9%87%91%e5%b2%a1%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen009276/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日・水曜日",
+      "note": "ニフティの口コミ（2021/7）に「バスタオル持参で無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "宮方温泉",
+      "address": "大阪府大東市大野1-5-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "バスタオル持参でサウナ無料（貸バスタオルは有料）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%ae%ae%e6%96%b9%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%ae%ae%e6%96%b9%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen011133/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "組合ページに設備表示なし。サウナ無料はニフティの料金欄（600円表記）、スチームサウナは口コミ（2026/10）"
+    },
+    {
+      "kind": "sento",
+      "name": "扇温泉",
+      "address": "大阪府大東市幸町6-27",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 200,
+      "priceNote": "サウナ料はバスタオル付き",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%89%87%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%89%87%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010088/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日",
+      "note": "サウナ200円はニフティの口コミ（2026/2）"
+    },
+    {
+      "kind": "sento",
+      "name": "大宮温泉",
+      "address": "大阪府守口市大宮通4-2-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "スチーム",
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%a4%a7%e5%ae%ae%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%a4%a7%e5%ae%ae%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009016/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月9・19・29日（土日祝は営業）",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2023/9）に「スチームサウナ」「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "新小春温泉",
+      "address": "大阪府守口市小春町5-31",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（料金は施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%96%b0%e5%b0%8f%e6%98%a5%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%96%b0%e5%b0%8f%e6%98%a5%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010922/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火・木曜日",
+      "note": "ニフティの料金欄（490円表記の旧情報）に「サウナ200円（男湯のみ）」、口コミ（2020/11）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "新町湯",
+      "address": "大阪府守口市大久保町5-10-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +50円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%96%b0-%e7%94%ba-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%96%b0-%e7%94%ba-%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010832/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月6・16・26日",
+      "note": "ニフティの口コミ（2021/10）に「50円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "日の本湯",
+      "address": "大阪府守口市八雲西町4-20-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%97%a5%e3%81%ae%e6%9c%ac%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%97%a5%e3%81%ae%e6%9c%ac%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010107/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日・金曜日",
+      "note": "ニフティの口コミ（2021/3）に「スチームサウナ、無料サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "清滝温泉",
+      "address": "大阪府守口市滝井元町3-8-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%b7%b8%e6%bb%9d%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%b7%b8%e6%bb%9d%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009294/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "組合ページの表記は「淸滝温泉」。設備表示なし。ニフティの口コミ（2023/5）に「無料サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "藤田温泉",
+      "address": "大阪府守口市藤田町5-34-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e8%97%a4%e7%94%b0%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e8%97%a4%e7%94%b0%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen011422/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週金曜日（祝日も休み）",
+      "note": "サウナ料金は未確認。ニフティの口コミ（2023/11）に脱衣所のサウナは休止中との記載"
+    },
+    {
+      "kind": "sento",
+      "name": "勝温泉",
+      "address": "大阪府寝屋川市池田旭町12-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%8b%9d-%e6%b8%a9-%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%8b%9d-%e6%b8%a9-%e6%b3%89/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第2・4・5月曜日",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "成田温泉",
+      "address": "大阪府寝屋川市美井元町7-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%88%90%e7%94%b0%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%88%90%e7%94%b0%e6%b8%a9%e6%b3%89/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月8・18・28日",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "新町温泉",
+      "address": "大阪府寝屋川市萱島東2-2-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%96%b0%e7%94%ba%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%96%b0%e7%94%ba%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009332/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "ニフティの口コミ（2023/2）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "白菊温泉",
+      "address": "大阪府寝屋川市仁和寺町24-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%99%bd%e8%8f%8a%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%99%bd%e8%8f%8a%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010638/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "サウナ料金は未確認。ニフティの口コミ（2022/1）にラドンスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "春木新温泉",
+      "address": "大阪府岸和田市加守町4-11-29",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%98%a5%e6%9c%a8%e6%96%b0%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%98%a5%e6%9c%a8%e6%96%b0%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/sennan-onsen/onsen011504/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2023/5）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "ヘルシーバス千里丘",
+      "address": "大阪府摂津市香露園27-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e3%83%98%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%90%e3%82%b9%e5%8d%83%e9%87%8c%e4%b8%98/",
+      "sources": [
+        "https://osaka268.com/sento/%e3%83%98%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%90%e3%82%b9%e5%8d%83%e9%87%8c%e4%b8%98/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen010130/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2022/10）にラドンスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "八戸ノ里温泉",
+      "address": "大阪府東大阪市御厨南1-1-27",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%85%ab%e6%88%b8%e3%83%8e%e9%87%8c%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%85%ab%e6%88%b8%e3%83%8e%e9%87%8c%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009224/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "ニフティの口コミ（2018/2）に「入浴料金にサウナが含まれる」"
+    },
+    {
+      "kind": "sento",
+      "name": "加賀温泉",
+      "address": "大阪府東大阪市稲田新町1-23-51",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 バスタオル持参で無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%8a%a0%e8%b3%80%e6%b8%a9%e6%b3%89-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%8a%a0%e8%b3%80%e6%b8%a9%e6%b3%89-2/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010661/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3月曜日",
+      "note": "ニフティの口コミ（2018/11）に「バスタオルを持参すれば無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "宝徳湯",
+      "address": "大阪府東大阪市永和2-16-29",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 バスタオル持参で無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%ae%9d-%e5%be%b3-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%ae%9d-%e5%be%b3-%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009348/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2022/12）に「バスタオル持参すれば無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "宝来湯",
+      "address": "大阪府東大阪市瓜生堂1-20-12",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 バスタオル持参で無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%ae%9d-%e6%9d%a5-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%ae%9d-%e6%9d%a5-%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010184/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "ニフティの口コミ（2018/3）に「バスタオル持参で無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "永盛温泉",
+      "address": "大阪府東大阪市小若江1-17-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%b0%b8%e7%9b%9b%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%b0%b8%e7%9b%9b%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010106/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：隔週月曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2022/7）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "永和湯",
+      "address": "大阪府東大阪市永和2-19-12",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "バスタオル持参でサウナ無料（貸バスタオルあり）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%b0%b8-%e5%92%8c-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%b0%b8-%e5%92%8c-%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009347/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第3火曜日",
+      "note": "ニフティの口コミ（2026/3）に「バスタオル持ち込みでサウナ無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "生駒湯",
+      "address": "大阪府東大阪市御厨南2-2-22",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%94%9f-%e9%a7%92-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%94%9f-%e9%a7%92-%e6%b9%af/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "第二寿湯",
+      "address": "大阪府東大阪市長堂2-17-21",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://dai2kotobukiyu.sakura.ne.jp",
+      "sources": [
+        "https://osaka268.com/sento/%e7%ac%ac%e4%ba%8c%e5%af%bf%e6%b9%af/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "サウナ料金は未確認。公式サイトの料金は旧料金（490円）のまま"
+    },
+    {
+      "kind": "sento",
+      "name": "蓬莱温泉",
+      "address": "大阪府東大阪市衣摺2-14-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +50円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e8%93%ac%e8%8e%b1%e6%b8%a9%e6%b3%89-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e8%93%ac%e8%8e%b1%e6%b8%a9%e6%b3%89-2/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009392/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週金曜日",
+      "note": "ニフティの口コミ（2022/1）に「サウナは50円」"
+    },
+    {
+      "kind": "sento",
+      "name": "鴻之湯",
+      "address": "大阪府東大阪市鴻池町2-8-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +50円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e9%b4%bb-%e4%b9%8b-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e9%b4%bb-%e4%b9%8b-%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen011739/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日",
+      "note": "ニフティの口コミ（2023/7）に「50円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "平和温泉",
+      "address": "大阪府枚方市南中振2-12-7",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%b9%b3%e5%92%8c%e6%b8%a9%e6%b3%89-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%b9%b3%e5%92%8c%e6%b8%a9%e6%b3%89-2/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen010136/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3・5月曜日",
+      "note": "ニフティの口コミ（2023/1・2023/2）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "中央温泉",
+      "address": "大阪府柏原市河原町1-94",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "バスタオル持参で乾式サウナ無料（貸バスタオル付きは+100円）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e4%b8%ad%e5%a4%ae%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e4%b8%ad%e5%a4%ae%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009085/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3水曜日",
+      "note": "サウナ料金はニフティの料金欄（600円表記の更新後）。口コミ（2025/5）にも貸バスタオル利用で計700円"
+    },
+    {
+      "kind": "sento",
+      "name": "新柏原温泉",
+      "address": "大阪府柏原市大正1-3-21",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 100,
+      "priceNote": "サウナ料は貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%96%b0%e6%9f%8f%e5%8e%9f%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%96%b0%e6%9f%8f%e5%8e%9f%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen007143/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3・5月曜日（祝日の場合は翌日）",
+      "note": "サウナ料金はニフティの料金欄（600円表記の更新後）"
+    },
+    {
+      "kind": "sento",
+      "name": "五月湯",
+      "address": "大阪府池田市槻木町5-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +200円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e4%ba%94-%e6%9c%88-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e4%ba%94-%e6%9c%88-%e6%b9%af/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen011445/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日",
+      "note": "ニフティの口コミ（2021/10）に「200円サウナ」、2024/7に「サウナタオル付いてくる」"
+    },
+    {
+      "kind": "sento",
+      "name": "城南温泉",
+      "address": "大阪府池田市城南1-2-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +200円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%9f%8e%e5%8d%97%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%9f%8e%e5%8d%97%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen010228/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "ニフティの口コミ（2021/2）に「サウナは200円」"
+    },
+    {
+      "kind": "sento",
+      "name": "平和温泉",
+      "address": "大阪府池田市石橋1-1-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 200,
+      "priceNote": "サウナ料はバスタオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://heiwaonsen.com",
+      "sources": [
+        "https://osaka268.com/sento/%e5%b9%b3%e5%92%8c%e6%b8%a9%e6%b3%89-3/",
+        "http://heiwaonsen.com",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎週月曜日",
+      "note": "公式の料金表。大人は高校生以上600円（中学生400円）"
+    },
+    {
+      "kind": "sento",
+      "name": "なごみ湯",
+      "address": "大阪府泉佐野市笠松1-3-23",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナは有料（目安 +150円・施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e3%81%aa%e3%81%94%e3%81%bf%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e3%81%aa%e3%81%94%e3%81%bf%e6%b9%af/",
+        "https://onsen.nifty.com/sennan-onsen/onsen010250/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週金曜日",
+      "note": "ニフティの料金欄に「サウナ（有料）」、口コミ（2023/10）に「サウナ150円」"
+    },
+    {
+      "kind": "sento",
+      "name": "松之浜温泉",
+      "address": "大阪府泉大津市松之浜町2-7-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%9d%be%e4%b9%8b%e6%b5%9c%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%9d%be%e4%b9%8b%e6%b5%9c%e6%b8%a9%e6%b3%89/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週金曜日",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "桃の湯",
+      "address": "大阪府藤井寺市林3-9-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%a1%83%e3%81%ae%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%a1%83%e3%81%ae%e6%b9%af/",
+        "https://onsen.nifty.com/kawauchi-onsen/onsen009643/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日（祝日も休み）",
+      "note": "組合ページに設備表示なし。ニフティの設備欄と口コミ（2022/11）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "藤井寺温泉",
+      "address": "大阪府藤井寺市藤井寺1-2-20",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 220,
+      "priceNote": "遠赤外線サウナ・岩盤浴は貸バスタオル付き+220円",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e8%97%a4%e4%ba%95%e5%af%ba%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e8%97%a4%e4%ba%95%e5%af%ba%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/kawauchi-onsen/onsen008453/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "サウナ料金はニフティの料金欄（600円表記の更新後）。口コミ（2023/3）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "鶴の湯",
+      "address": "大阪府藤井寺市沢田3-5-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e9%b6%b4-%e3%81%ae-%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e9%b6%b4-%e3%81%ae-%e6%b9%af/",
+        "https://onsen.nifty.com/kawauchi-onsen/onsen011086/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2022/11）にスチームサウナ"
+    },
+    {
+      "kind": "sento",
+      "name": "夢の公衆浴場五色",
+      "address": "大阪府豊中市庄内栄町3-24-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 200,
+      "priceNote": "サウナ料は貸バスタオル付き",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.goshiki.co.jp",
+      "sources": [
+        "https://osaka268.com/sento/%e5%a4%a2%e3%81%ae%e5%85%ac%e8%a1%86%e6%b5%b4%e5%a0%b4%e4%ba%94%e8%89%b2/",
+        "http://www.goshiki.co.jp/access/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業（月曜6〜11時は設備点検で休止）",
+      "note": "公式の料金表。大人は高校生以上600円（中学生400円）"
+    },
+    {
+      "kind": "sento",
+      "name": "幸福温泉",
+      "address": "大阪府豊中市蛍池南町3-3-3",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%b9%b8%e7%a6%8f%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%b9%b8%e7%a6%8f%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen011555/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "ニフティの口コミ（2017/9）に「サウナ無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "極楽温泉",
+      "address": "大阪府豊中市服部寿町2-14-5",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（目安 +200円・施設にご確認ください）",
+      "saunaTypes": [
+        "スチーム",
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%a5%b5%e6%a5%bd%e6%b8%a9%e6%b3%89-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%a5%b5%e6%a5%bd%e6%b8%a9%e6%b3%89-2/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen009235/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第2・4火曜日",
+      "note": "ニフティの口コミ（2022/10）に「スチームサウナ」「2階は200円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "露天風呂たこ湯",
+      "address": "大阪府豊中市曽根東町6-7-15",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 150,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e9%9c%b2%e5%a4%a9%e9%a2%a8%e5%91%82%e3%81%9f%e3%81%93%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e9%9c%b2%e5%a4%a9%e9%a2%a8%e5%91%82%e3%81%9f%e3%81%93%e6%b9%af/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen009015/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日・第3水曜日（祝日は営業）",
+      "note": "組合ページに設備表示なし。サウナ150円・遠赤外線サウナはニフティの料金欄・設備欄（600円表記の更新後）"
+    },
+    {
+      "kind": "sento",
+      "name": "みやの湯",
+      "address": "大阪府門真市宮野町13-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e3%81%bf%e3%82%84%e3%81%ae%e6%b9%af/",
+      "sources": [
+        "https://osaka268.com/sento/%e3%81%bf%e3%82%84%e3%81%ae%e6%b9%af/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009608/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "ニフティの口コミ（2023/1）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "ナショナル温泉",
+      "address": "大阪府門真市栄町6-14",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e3%83%8a%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e3%83%8a%e3%82%b7%e3%83%a7%e3%83%8a%e3%83%ab%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009260/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3・5木曜日",
+      "note": "ニフティの口コミ（2023/9、入浴490円当時）に「サウナ100円」"
+    },
+    {
+      "kind": "sento",
+      "name": "喜楽温泉",
+      "address": "大阪府門真市野里町34-13",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "乾式サウナは有料（料金は施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%96%9c%e6%a5%bd%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%96%9c%e6%a5%bd%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009695/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日",
+      "note": "ニフティの口コミ（2023/8）に「有料サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "大一温泉",
+      "address": "大阪府門真市石原町39-27",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 200,
+      "priceNote": "サウナ付き入浴は800円（高校生以上・バスタオル付き。3階ロイヤルサウナは22:30まで）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www5c.biglobe.ne.jp/~moritaka/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%a4%a7%e2%88%92%e6%b8%a9%e6%b3%89/",
+        "http://www5c.biglobe.ne.jp/~moritaka/sub34.htm",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第2・3月曜日",
+      "note": "公式の料金表（2025/4/1〜）にサウナ入浴料金800円"
+    },
+    {
+      "kind": "sento",
+      "name": "巣本温泉",
+      "address": "大阪府門真市巣本町5-20",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%b7%a3%e6%9c%ac%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%b7%a3%e6%9c%ac%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009125/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "ニフティの口コミ（2024/3）に「入浴料にサウナ代も含まれて」。公式サイトは取得不可（403）"
+    },
+    {
+      "kind": "sento",
+      "name": "常盤温泉",
+      "address": "大阪府門真市常盤町20-10",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e5%b8%b8%e7%9b%a4%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e5%b8%b8%e7%9b%a4%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009054/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "ニフティの口コミ（2022/3）に「100円サウナ（塩サウナ）」"
+    },
+    {
+      "kind": "sento",
+      "name": "梅月温泉",
+      "address": "大阪府門真市千石東町38-27",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "ドライサウナは男湯のみ",
+      "url": "https://osaka268.com/sento/%e6%a2%85%e6%9c%88%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%a2%85%e6%9c%88%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009165/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "組合ページに設備表示なし。ニフティの口コミ（2026/4）に「ドライサウナが男性にしかない」、2018/8に「サウナは無料」"
+    },
+    {
+      "kind": "sento",
+      "name": "皆様温泉",
+      "address": "大阪府門真市石原町11-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +30円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%9a%86%e6%a7%98%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%9a%86%e6%a7%98%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen008937/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週日曜日",
+      "note": "ニフティの口コミ（2022/12）に「30円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "摂津温泉",
+      "address": "大阪府高槻市寿町1-2-22",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%91%82%e6%b4%a5%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%91%82%e6%b4%a5%e6%b8%a9%e6%b3%89/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：不定休",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "湯乃華温泉",
+      "address": "大阪府高槻市栄町2-21-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e6%b9%af%e4%b9%83%e8%8f%af%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e6%b9%af%e4%b9%83%e8%8f%af%e6%b8%a9%e6%b3%89/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "サウナ料金は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "生駒湯",
+      "address": "大阪府高槻市永楽町7-8",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 +100円）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%94%9f-%e9%a7%92-%e6%b9%af-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%94%9f-%e9%a7%92-%e6%b9%af-2/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen011098/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日",
+      "note": "ニフティの口コミ（2023/5）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "錦温泉",
+      "address": "大阪府高槻市上田辺町3-30",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナは有料（目安 +100円・施設にご確認ください）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e9%8c%a6%e6%b8%a9%e6%b3%89-2/",
+      "sources": [
+        "https://osaka268.com/sento/%e9%8c%a6%e6%b8%a9%e6%b3%89-2/",
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen018109/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3水曜日",
+      "note": "ニフティの口コミ（2023/9）に「100円サウナ」"
+    },
+    {
+      "kind": "sento",
+      "name": "美津和温泉",
+      "address": "大阪府高石市綾園町7-5-60",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 バスタオル持参で無料）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://osaka268.com/sento/%e7%be%8e%e6%b4%a5%e5%92%8c%e6%b8%a9%e6%b3%89/",
+      "sources": [
+        "https://osaka268.com/sento/%e7%be%8e%e6%b4%a5%e5%92%8c%e6%b8%a9%e6%b3%89/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen011298/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週火曜日",
+      "note": "ニフティの口コミ（2023/10）に「バスタオル持参すれば無料」"
+    },
+    {
+      "kind": "super",
+      "name": "八尾温泉 喜多の湯",
+      "address": "大阪府八尾市二俣1-8",
+      "weekdayAdult": 900,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "夏季・冬季の一部期間は特別料金",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://super-sentou.com/shop-information/yao-onsen/",
+      "sources": [
+        "https://super-sentou.com/shop-information/yao-onsen/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "人工温泉（公式に温泉成分を配合したお湯と記載）"
+    },
+    {
+      "kind": "super",
+      "name": "湯快のゆ 門真店",
+      "address": "大阪府門真市三ツ島6-21-9",
+      "weekdayAdult": 940,
+      "holidayAdult": 1040,
+      "saunaFee": 0,
+      "priceNote": "年末年始は特別料金",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://yukainoyu.jp/kadoma/",
+      "sources": [
+        "https://yukainoyu.jp/kadoma/price/",
+        "https://yukainoyu.jp/kadoma/hotspring/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "一般料金（会員は平日880円・土日祝980円）。人工ラジウム泉・超炭酸風呂"
+    },
+    {
+      "kind": "super",
+      "name": "泉の湯",
+      "address": "大阪府枚方市津田山手1-24-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.yoshiizumi.jp/izumiyu/",
+      "sources": [
+        "https://www.yoshiizumi.jp/izumiyu/fee/",
+        "https://www.yoshiizumi.jp/izumiyu/onyoku/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第3木曜日",
+      "note": "旧スパバレイ枚方南。公式に温泉の記載なし（オートロウリュのサウナ）"
+    },
+    {
+      "kind": "super",
+      "name": "源気温泉 八尾おゆば",
+      "address": "大阪府八尾市柏村町2-65-1",
+      "weekdayAdult": 850,
+      "holidayAdult": 900,
+      "saunaFee": 0,
+      "priceNote": "年末年始・GW・お盆は土日祝料金",
+      "saunaTypes": [
+        "その他",
+        "塩"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "http://oyuba.com/yao/",
+      "sources": [
+        "http://oyuba.com/yao/",
+        "http://oyuba.com/yao/?page_id=2203"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "公式に温泉の記載なし（炭酸泉）。男女のサウナの種類は公式に記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "なにわ健康ランド 湯〜トピア",
+      "address": "大阪府東大阪市長堂3-4-21",
+      "weekdayAdult": 1500,
+      "holidayAdult": 1500,
+      "saunaFee": 0,
+      "priceNote": "深夜1〜6時の滞在は+1,650円（燃料調整費120円込みの料金）",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "塩サウナは女湯のみ",
+      "url": "https://naniwa-utopia.com/",
+      "sources": [
+        "https://naniwa-utopia.com/price",
+        "https://naniwa-utopia.com/sauna"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "延寿湯温泉は薬湯（天然温泉ではない）"
+    },
+    {
+      "kind": "super",
+      "name": "湯源郷 太平のゆ 忠岡店",
+      "address": "大阪府泉北郡忠岡町忠岡北1-11-41",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.taiheinoyu.jp/tadaoka/indexn.html",
+      "sources": [
+        "http://www.taiheinoyu.jp/tadaoka/eigyounogoannai.html",
+        "http://www.taiheinoyu.jp/tadaoka/ofuronogoannai.html"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "一般料金（会員700円）。ニフティの口コミ（2025/9・2026/10）に温泉ではないとの記載"
+    },
+    {
+      "kind": "super",
+      "name": "京町湯屋 SOKOTOTO",
+      "address": "大阪府岸和田市岸の丘町1-32-1",
+      "weekdayAdult": 1080,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "2026/10/16から陶板浴込みの料金。年末年始・お盆は土日祝料金",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://whatawon.co.jp/floor_sokototospa/",
+      "sources": [
+        "https://whatawon.co.jp/floor_sokototospa/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "複合施設ワタワン内。フィンランド式サウナ（オートロウリュ）。温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "岬町健康ふれあいセンター ピアッツァ5 ゆう湯うゾーン",
+      "address": "大阪府泉南郡岬町多奈川谷川495-1",
+      "weekdayAdult": 410,
+      "holidayAdult": 410,
+      "saunaFee": 0,
+      "priceNote": "大人は12歳以上",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://www.town.misaki.osaka.jp/soshiki/shiawase/tiikifukushi/piazza/623.html",
+      "sources": [
+        "https://www.town.misaki.osaka.jp/soshiki/shiawase/tiikifukushi/piazza/624.html",
+        "https://www.town.misaki.osaka.jp/soshiki/shiawase/tiikifukushi/piazza/623.html"
+      ],
+      "confidence": "high",
+      "notice": "営業13:00〜20:30。休館日：月曜日（祝日の場合は翌日）・年末年始",
+      "note": "町の施設。料金表にサウナの別料金なし（入浴料に含むと判断）"
+    },
+    {
+      "kind": "sento",
+      "name": "湯あそびひろば ぽんぽこ温泉",
+      "address": "大阪府東大阪市西岩田4-4-46",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "サウナのあるロイヤルゾーンは無料",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩"
+      ],
+      "saunaNote": "男女の浴場は日替わり",
+      "url": "https://onsen.nifty.com/higashioosaka-onsen/onsen009222/",
+      "sources": [
+        "https://onsen.nifty.com/higashioosaka-onsen/onsen009222/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "組合非加盟。料金（大人600円・中人200円・小人100円）とロイヤルゾーン無料はニフティの料金欄。口コミは2026/7まであり"
+    },
+    {
+      "kind": "sento",
+      "name": "昭和湯（島本町）",
+      "address": "大阪府三島郡島本町大寺1-9-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "https://onsen.nifty.com/hokusetsu-onsen/onsen010437/",
+      "sources": [
+        "https://onsen.nifty.com/hokusetsu-onsen/onsen010437/",
+        "https://osaka268.com/price"
+      ],
+      "confidence": "low",
+      "notice": "定休日：火曜日・水曜日",
+      "note": "組合非加盟。ニフティの料金欄は550円（旧料金）。サウナは設備欄と口コミ（2022/10）で確認。2026年の営業は未確認"
+    },
+    {
+      "kind": "onsen",
+      "name": "楽天風呂 祥福乃湯",
+      "address": "大阪府堺市西区浜寺船尾町東3-301",
+      "weekdayAdult": 880,
+      "holidayAdult": 990,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "遠赤外線",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "http://www.syofukunoyu.com/honten/",
+      "sources": [
+        "http://www.syofukunoyu.com/honten/kannai/bath/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen006954/",
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen006954/kuchikomi/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "2022年に天然温泉（ナトリウム-塩化物泉）を導入し露天・一部内湯で使用（ニフティの口コミ2022〜2023、公式に泉質の記載なし）。料金はニフティの料金欄（公式の料金表は画像）"
+    },
+    {
+      "kind": "onsen",
+      "name": "極楽湯 堺泉北店",
+      "address": "大阪府堺市南区豊田825",
+      "weekdayAdult": 900,
+      "holidayAdult": 980,
+      "saunaFee": 0,
+      "priceNote": "公衆入浴（600円）はサウナ・露天を利用不可",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://www.gokurakuyu.ne.jp/gokurakuyu/tempo/sakaisenboku/",
+      "sources": [
+        "https://onsen.nifty.com/sakai-osaka-onsen/onsen005657/",
+        "https://www.mapple.net/original/523587/"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "公式サイトは停止中（メンテナンス）。露天の自家源泉の天然温泉はニフティ・まっぷるの記載。料金はニフティの料金欄"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "エンゼル温泉（東大阪市俊徳町）",
+      "reason": "休業中（組合サイトに休業中と表示）"
+    },
+    {
+      "name": "桃の湯（東大阪市岸田堂北）",
+      "reason": "休業中（組合サイトに休業中と表示）"
+    },
+    {
+      "name": "長瀬温泉（東大阪市吉松）",
+      "reason": "休業中（組合サイトに休業中と表示）"
+    },
+    {
+      "name": "七福温泉（豊中市大黒町）",
+      "reason": "休業中（組合サイトに休業中と表示）"
+    },
+    {
+      "name": "共栄温泉（池田市）",
+      "reason": "組合ページの設備表示にサウナなし（サウナの口コミは2020年以前）"
+    },
+    {
+      "name": "久米田バスセンター（岸和田市）",
+      "reason": "組合の一覧から外れ、2026年の営業とサウナを確認できず"
+    },
+    {
+      "name": "ねぼけ温泉（茨木市）",
+      "reason": "長期休館中"
+    },
+    {
+      "name": "スパヒルズ（大阪狭山市）",
+      "reason": "2020年3月から長期休業中"
+    },
+    {
+      "name": "和泉市立 小栗の湯",
+      "reason": "サウナ休止中（2023年の口コミ）で、現在のサウナを確認できず"
+    },
+    {
+      "name": "堺市立のびやか健康館",
+      "reason": "スポーツ施設（ジム・プール等）の浴場"
+    },
+    {
+      "name": "CORE SAUNA 江坂御堂筋店・堺東駅前店",
+      "reason": "サウナ専門店"
+    },
+    {
+      "name": "個室・貸切サウナ各店（貸切サウナととのうと、隠れ屋サウナ 椿と蓮、サウナサロン後悔、大坂屋～縁～、金剛テラス バレルサウナ）",
+      "reason": "個室・貸切サウナのみ"
+    },
+    {
+      "name": "ホテルの大浴場（カンデオホテルズ大阪枚方・大阪岸辺、レフ関空泉佐野、河内長野荘など）",
+      "reason": "ホテル・旅館の大浴場"
+    }
+  ],
+  "notes": "大阪市以外の全市町村。大阪府公衆浴場組合サイト（osaka268.com）のサイトマップと市町村検索で大阪市以外の加盟銭湯89軒の詳細ページを全件確認し、設備アイコンにサウナがある銭湯と、アイコンが空欄でもニフティの設備欄・口コミでサウナを確認できた銭湯を収録（休業中4軒と、天然温泉で既存データにある新マネキ温泉を除く）。組合非加盟の施設は、ニフティ温泉の大阪府（大阪市以外）の全エリア一覧とサウナ絞り込み一覧で洗い出した。入浴料は組合の料金ページ（大人600円・68号券 2026/10/1〜）。サウナ料金は公式とニフティの料金欄（600円表記に更新済みのもの）を採り、2025年4月の値上げ前の口コミの額は saunaFee に入れず priceNote に目安として書いた。組合加盟の銭湯が無い市町村（茨木市・箕面市・貝塚市・泉南市・羽曳野市・富田林市・河内長野市など）は、天然温泉以外のサウナ付き施設を見つけられなかった。サウナイキタイは参照していないため、非加盟の小規模施設に取りこぼしがあり得る。"
+}

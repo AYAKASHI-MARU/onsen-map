@@ -1,0 +1,1415 @@
+{
+  "prefecture": "北海道",
+  "prefCode": "01",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "円山温泉",
+      "address": "北海道札幌市中央区南6条西23丁目5-2",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/102-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/102-2/",
+        "https://www.kita-no-sento.com/8828/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・木曜",
+      "note": "名称に温泉とあるが組合・ニフティとも泉質の記載なし。組合ページにサウナ料金の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "喜楽湯",
+      "address": "北海道札幌市中央区南4条西10丁目1010",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/103-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/103-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火・金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "大豊湯",
+      "address": "北海道札幌市白石区北郷3条3丁目1-9",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.taihouyu.com/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/130-2/",
+        "https://www.taihouyu.com/sento.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜",
+      "note": "公式の銭湯案内は入浴料のみ（改定前の500円表記）でサウナ料金の記載なし。家族風呂あり"
+    },
+    {
+      "kind": "sento",
+      "name": "松竹湯",
+      "address": "北海道札幌市豊平区美園7条3丁目3-13",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/%e6%9d%be%e7%ab%b9%e6%b9%af/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/%e6%9d%be%e7%ab%b9%e6%b9%af/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水・土曜"
+    },
+    {
+      "kind": "sento",
+      "name": "千成湯",
+      "address": "北海道札幌市豊平区平岸2条2丁目2-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/136-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/136-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜、第1・3月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "藤の湯",
+      "address": "北海道札幌市手稲区手稲本町2条2丁目2-15",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/149-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/149-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "大照湯",
+      "address": "北海道札幌市豊平区西岡4条1丁目13-43",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/138-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/138-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "真駒内湯",
+      "address": "北海道札幌市南区真駒内上町3丁目2-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/141-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/141-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火・金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "扇の湯",
+      "address": "北海道札幌市西区琴似3条4丁目1-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/142-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/142-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "文の湯",
+      "address": "北海道札幌市西区山の手5条2丁目2-24",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/144-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/144-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "琴似温泉",
+      "address": "北海道札幌市西区八軒7条東1丁目1-11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/146-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/146-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・金曜",
+      "note": "名称に温泉とあるが組合・ニフティとも泉質の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "美春湯",
+      "address": "北海道札幌市白石区南郷通7丁目北5-16",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "男湯ドライ・女湯スチーム",
+      "url": "http://www.nakazawa-bldg.com/pb_miharuyu/",
+      "sources": [
+        "http://www.nakazawa-bldg.com/pb_miharuyu/",
+        "https://www.kita-no-sento.com/sento/129-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "公式のご案内は料金が入浴料（大人550円）のみでサウナは設備として記載。地下水使用。家族風呂あり"
+    },
+    {
+      "kind": "sento",
+      "name": "福の湯",
+      "address": "北海道札幌市北区新琴似7条6丁目6-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "http://www.fukunoyu.net/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/172-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "奥の湯",
+      "address": "北海道札幌市北区北31条西3丁目4-15",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "http://okunoyu-sentou.com/",
+      "sources": [
+        "http://okunoyu-sentou.com/",
+        "https://www.kita-no-sento.com/sento/170-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜（日曜は朝風呂6:00〜11:00あり）",
+      "note": "公式に「サウナ無料」。公式の入浴料は改定前の500円表記のため統制額550円を採用。地下水・薪沸かし"
+    },
+    {
+      "kind": "sento",
+      "name": "北都湯",
+      "address": "北海道札幌市北区北27条西7丁目2-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/166-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/166-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "あけぼの湯",
+      "address": "北海道札幌市手稲区曙6条1丁目1-28",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/150-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/150-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "東豊湯",
+      "address": "北海道札幌市豊平区豊平8条8丁目1-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/119-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/119-2/",
+        "https://www.kita-no-sento.com/9449/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "検索で廃業と出る件は組合が誤情報と告知（2026/11/2）"
+    },
+    {
+      "kind": "sento",
+      "name": "川沿湯",
+      "address": "北海道札幌市南区川沿4条3丁目2-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/116-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/116-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "鶴の湯",
+      "address": "北海道札幌市中央区南19条西7丁目3-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/114-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/114-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜、第2・4金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "末広湯",
+      "address": "北海道札幌市中央区南11条西12丁目1-12",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/111-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/111-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜、第1・3木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "さつき湯",
+      "address": "北海道札幌市中央区北5条西24丁目3-11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/105-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/105-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火・金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "こうしんの湯",
+      "address": "北海道札幌市東区北30条東19丁目1-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.e-furo-koushin.jp/",
+      "sources": [
+        "https://www.e-furo-koushin.jp/post-203/",
+        "https://www.e-furo-koushin.jp/bath/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第3水曜",
+      "note": "公式：2026/10/1から大人550円。浴室案内でサウナは男女とも設備として記載、有料品（ロッカー・ドライヤー）の案内にサウナ料金なし。人工炭酸泉（天然温泉ではない）"
+    },
+    {
+      "kind": "sento",
+      "name": "清美湯",
+      "address": "北海道江別市あけぼの町14-13",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/179-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/179-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜"
+    },
+    {
+      "kind": "sento",
+      "name": "朝日湯",
+      "address": "北海道小樽市緑2丁目2-10",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/%e6%9c%9d%e6%97%a5%e6%b9%af/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/%e6%9c%9d%e6%97%a5%e6%b9%af/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "公園湯",
+      "address": "北海道苫小牧市泉町1丁目2-10",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "http://www.kouenyu.com/",
+      "sources": [
+        "http://www.kouenyu.com/",
+        "http://www.kouenyu.com/sta5660/index.html",
+        "https://www.kita-no-sento.com/sento/503-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・火曜",
+      "note": "公式に「10月1日より大人料金が550円に改定」。料金案内（回数券・子ども料金まで記載）にサウナ料金なし、サウナは設備として記載"
+    },
+    {
+      "kind": "sento",
+      "name": "大豊湯 沼ノ端",
+      "address": "北海道苫小牧市沼ノ端中央4丁目4-19",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://www.taihouyu-n.com/",
+      "sources": [
+        "https://www.taihouyu-n.com/銭湯/",
+        "https://www.kita-no-sento.com/sento/502-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（祝日の場合は翌日）",
+      "note": "公式の銭湯ページは大人550円のみでサウナ料金の記載なし（乾式サウナは設備として記載）。家族風呂あり"
+    },
+    {
+      "kind": "sento",
+      "name": "政吾湯",
+      "address": "北海道浦河郡浦河町堺町東1丁目11-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ利用は大人1,000円（入浴料込みか別料金かは施設にご確認ください）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "http://www9.plala.or.jp/masagoyu/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/508-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜",
+      "note": "組合ページは「サウナ料金 大人1000円・中人500円」とあり、込みの額か追加額か不明。公式サイトは接続不可"
+    },
+    {
+      "kind": "sento",
+      "name": "港湯",
+      "address": "北海道函館市港町1丁目20-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/316-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/316-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "桐の湯",
+      "address": "北海道函館市松陰町10-12",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/307-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/307-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "田家の湯",
+      "address": "北海道函館市田家町5-11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/337-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/337-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "桜成浴場",
+      "address": "北海道函館市上新川町5-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/317-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/317-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：火曜",
+      "note": "水道水使用（組合）"
+    },
+    {
+      "kind": "sento",
+      "name": "虹の湯",
+      "address": "北海道旭川市永山6条15丁目6-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "オートロウリュ",
+      "url": "https://www.kita-no-sento.com/sento/824-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/824-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜"
+    },
+    {
+      "kind": "sento",
+      "name": "いこい湯",
+      "address": "北海道旭川市5条通24丁目",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/808-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/808-2/",
+        "https://www.kita-no-sento.com/8285/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜",
+      "note": "2026/6/12に営業再開（組合告知）。住所は組合掲載のとおり番地なし"
+    },
+    {
+      "kind": "sento",
+      "name": "大黒湯",
+      "address": "北海道旭川市3条通17丁目右2号",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 110,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/806-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/806-2/"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "kind": "sento",
+      "name": "フタバ湯",
+      "address": "北海道旭川市春光7条5丁目2-22",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式・セルフロウリュ",
+      "url": "https://www.kita-no-sento.com/sento/820-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/820-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜",
+      "note": "人工ラジウム温泉（天然温泉ではない）"
+    },
+    {
+      "kind": "sento",
+      "name": "菊水湯",
+      "address": "北海道旭川市6条西6丁目1-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 100,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/804-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/804-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜"
+    },
+    {
+      "kind": "sento",
+      "name": "菊の湯",
+      "address": "北海道旭川市神楽5条14丁目2-17",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 200,
+      "priceNote": "サウナは専用リストバンド着用",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "フィンランド式・セルフロウリュ",
+      "url": "https://www.kita-no-sento.com/sento/802-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/802-2/"
+      ],
+      "confidence": "high",
+      "notice": "不定休（日曜は9:00から営業）"
+    },
+    {
+      "kind": "sento",
+      "name": "湯らん銭",
+      "address": "北海道旭川市忠和3条7丁目2-10",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 120,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "url": "https://yu-ransen.com/",
+      "sources": [
+        "https://yu-ransen.com/",
+        "https://www.kita-no-sento.com/sento/826-2/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "公式は「サウナ別途120円」（組合ページは100円表記のため公式を採用）。別府温泉の天然エキス入りの湯（天然温泉ではない）。家族風呂あり"
+    },
+    {
+      "kind": "sento",
+      "name": "栄湯",
+      "address": "北海道釧路市新栄町1-20",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "http://sakaeyu946.com/",
+      "sources": [
+        "http://sakaeyu946.com/",
+        "https://www.kita-no-sento.com/sento/911-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜",
+      "note": "公式の料金案内は入浴料のみ（改定前の500円表記）でサウナ料金の記載なし。水風呂は地下水"
+    },
+    {
+      "kind": "sento",
+      "name": "晴の湯",
+      "address": "北海道釧路市武佐2丁目28-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/903-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/903-2/",
+        "https://www.nap-camp.com/mag/75958"
+      ],
+      "confidence": "high",
+      "notice": "不定休"
+    },
+    {
+      "kind": "sento",
+      "name": "みなと湯",
+      "address": "北海道根室市海岸町2-6",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/1002-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/1002-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜",
+      "note": "温泉鉱石の準天然温泉（天然温泉ではない）"
+    },
+    {
+      "kind": "sento",
+      "name": "高栄湯",
+      "address": "北海道北見市高栄西町7丁目5-4",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/1303-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/1303-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・3月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "月見湯",
+      "address": "北海道札幌市豊平区月寒東2条11丁目11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "saunaNote": "ロウリュイベントあり",
+      "url": "https://9056899086.amebaownd.com/",
+      "sources": [
+        "https://9056899086.amebaownd.com/",
+        "https://onsen.nifty.com/sapporo-onsen/onsen019230/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：火曜",
+      "note": "組合の一覧に無い。公式に料金の記載なし、料金はニフティ（2026/10口コミあり）"
+    },
+    {
+      "kind": "sento",
+      "name": "冨士乃湯",
+      "address": "北海道札幌市東区北15条東5丁目1-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://onsen.nifty.com/sapporo-onsen/onsen019233/",
+      "sources": [
+        "https://onsen.nifty.com/sapporo-onsen/onsen019233/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：月曜",
+      "note": "組合の一覧に無い。ニフティのみ（口コミなし）。サウナの種類はサ活投稿による"
+    },
+    {
+      "kind": "sento",
+      "name": "湯めごこち 南郷の湯",
+      "address": "北海道札幌市白石区南郷通14丁目北3-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "男100℃・女90℃",
+      "url": "https://nango.chuo-bus.co.jp/",
+      "sources": [
+        "https://nango.chuo-bus.co.jp/price/",
+        "https://nango.chuo-bus.co.jp/spa/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "公式の料金表は入浴料とアメニティのみでサウナ料金なし。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "湯処 花ゆづき",
+      "address": "北海道札幌市西区二十四軒3条1丁目19",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴は別途400円",
+      "saunaTypes": [],
+      "url": "https://www.hanayuzuki.jp/",
+      "sources": [
+        "https://www.hanayuzuki.jp/price/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "高濃度炭酸泉（天然温泉ではない）"
+    },
+    {
+      "kind": "super",
+      "name": "湯の郷 絢ほのか 札幌清田",
+      "address": "北海道札幌市清田区清田2条3丁目2-26",
+      "weekdayAdult": 1450,
+      "holidayAdult": 1650,
+      "saunaFee": 0,
+      "priceNote": "湯着またはタオルセット付。深夜1〜5時は割増（日〜木+1,500円・金土祝前+2,100円）",
+      "saunaTypes": [
+        "ドライ",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "バレルサウナは男湯",
+      "url": "https://yudokoro-honoka.jp/kiyota/",
+      "sources": [
+        "https://yudokoro-honoka.jp/kiyota/fee/",
+        "https://onsen.nifty.com/sapporo-onsen/onsen010092/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業（3〜6時は清掃で入浴不可）",
+      "note": "2026/10/19料金改定後の額。天然温泉ではない（ニフティに明記）"
+    },
+    {
+      "kind": "super",
+      "name": "湯処 ほのか（北広島）",
+      "address": "北海道北広島市虹ヶ丘1丁目8-6",
+      "weekdayAdult": 1150,
+      "holidayAdult": 1300,
+      "saunaFee": 0,
+      "priceNote": "湯着またはタオルセット付",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "熱波師のロウリュイベントあり",
+      "url": "https://yudokoro-honoka.jp/kitahiro/",
+      "sources": [
+        "https://yudokoro-honoka.jp/kitahiro/fee/",
+        "https://yudokoro-honoka.jp/kitahiro/"
+      ],
+      "confidence": "high",
+      "notice": "年中無休",
+      "note": "2026/10/19料金改定後の額。高濃度炭酸泉（天然温泉の記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "こみちの湯 ほのか（女性専用）",
+      "address": "北海道札幌市中央区南3条西2丁目15-5",
+      "weekdayAdult": 2000,
+      "holidayAdult": 2000,
+      "saunaFee": 0,
+      "priceNote": "湯着・タオル付。3時間コース1,500円（5〜24時）。深夜0〜5時は割増",
+      "saunaTypes": [
+        "ドライ",
+        "その他"
+      ],
+      "saunaNote": "女性専用。汗蒸幕（韓国式）あり",
+      "url": "https://yudokoro-honoka.jp/komichi/",
+      "sources": [
+        "https://yudokoro-honoka.jp/komichi/fee/",
+        "https://yudokoro-honoka.jp/komichi/"
+      ],
+      "confidence": "high",
+      "notice": "女性専用・24時間営業。2026/11/27 9〜16時は電気点検で休館",
+      "note": "2026/10/19料金改定後の額。天然温泉の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "千歳乃湯 えん",
+      "address": "北海道千歳市真々地3丁目1-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "高温・低温の2室",
+      "url": "http://www.e-fujiya.com/html/sensai_top.html",
+      "sources": [
+        "http://www.e-fujiya.com/html/sensai_top.html",
+        "https://onsen.nifty.com/chitose-onsen/onsen009334/"
+      ],
+      "confidence": "high",
+      "note": "公式の料金案内は入浴料（大人550円）・回数券のみでサウナ料金なし。2026/10/1に500→550円（ニフティ口コミ）。天然温泉の記載なし"
+    },
+    {
+      "kind": "sento",
+      "name": "松の湯",
+      "address": "北海道室蘭市栄町1丁目2-4",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/403-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/403-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜",
+      "note": "組合の一覧はサウナ×表示だが個別ページの設備にサウナ（湿）"
+    },
+    {
+      "kind": "sento",
+      "name": "萬石湯",
+      "address": "北海道旭川市旭町1条9丁目",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 60,
+      "priceNote": "サウナ料金はバスタオル付",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/815-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/815-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：金曜、第1・3木曜",
+      "note": "住所は組合掲載のとおり番地なし"
+    },
+    {
+      "kind": "sento",
+      "name": "みつわ湯",
+      "address": "北海道旭川市末広5条1丁目6-11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "priceNote": "サウナはバスタオル着用",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/818-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/818-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜"
+    },
+    {
+      "kind": "sento",
+      "name": "檜湯",
+      "address": "北海道旭川市永山2条21丁目3-14",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/823-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/823-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "sento",
+      "name": "松の湯（美瑛町）",
+      "address": "北海道上川郡美瑛町西町1丁目8-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/828-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/828-2/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜"
+    },
+    {
+      "kind": "super",
+      "name": "高砂温泉",
+      "address": "北海道旭川市高砂台8丁目235-1-5",
+      "weekdayAdult": 850,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "平日午前は650円",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.takasagoonsen.com/",
+      "sources": [
+        "https://www.takasagoonsen.com/spa/",
+        "https://www.takasagoonsen.com/news/%e3%80%90%e4%be%a1%e6%a0%bc%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91/"
+      ],
+      "confidence": "high",
+      "note": "公式に「サウナの別料金なし」「大浴場は地下水を利用し天然温泉ではありません」（家族風呂のみ天然温泉）。2026/4/1改定後の額。宿泊棟あり"
+    },
+    {
+      "kind": "super",
+      "name": "SPA&SAUNA オスパー",
+      "address": "北海道旭川市宮下通16丁目4155-16",
+      "weekdayAdult": 1450,
+      "holidayAdult": 1450,
+      "saunaFee": 0,
+      "priceNote": "通常入館料金（オスパーコース1,480円・80分以内980円）。23〜5時入館で3時間以上は深夜料金",
+      "saunaTypes": [
+        "遠赤外線",
+        "ロウリュ可"
+      ],
+      "saunaNote": "セルフロウリュ室あり",
+      "url": "https://osper-sauna.com/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen010882/"
+      ],
+      "confidence": "medium",
+      "notice": "24時間営業",
+      "note": "男女利用可の大浴場・食事処・客室を備えた温浴施設（カプセルの記載なし）。天然温泉の記載なし（水風呂のみ地下水）。公式は動的表示で料金を取得できずニフティの値（2026/8口コミあり）"
+    },
+    {
+      "kind": "super",
+      "name": "杜のSPA神楽",
+      "address": "北海道旭川市神楽3条12丁目1-5",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "岩盤浴セットは別途300円",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "url": "http://www.morinospa-kagura.com/index.html",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen010413/",
+        "https://www.nap-camp.com/mag/68115"
+      ],
+      "confidence": "medium",
+      "note": "公式は画像のみで文字情報なし。料金はニフティ・2026/10/1更新の記事。天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "キトウシの森 きとろん",
+      "address": "北海道上川郡東川町西4号北46",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "大浴場・サウナ料金。町民料金あり",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "フィンランド式",
+      "url": "https://www.higashikawa-kitoron.jp/",
+      "sources": [
+        "https://www.higashikawa-kitoron.jp/guide/",
+        "https://www.higashikawa-kitoron.jp/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：水曜",
+      "note": "公式に「本浴場は温泉ではありません。ボイラーによる加温方式」"
+    },
+    {
+      "kind": "super",
+      "name": "遊湯ぴっぷ",
+      "address": "北海道上川郡比布町北7線16号",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://yuyupippu.com/",
+      "sources": [
+        "https://onsen.nifty.com/asahikawa-onsen/onsen010419/",
+        "https://yuyupippu.com/?news=2841"
+      ],
+      "confidence": "medium",
+      "notice": "高温風呂は2026/6/1から当面休止",
+      "note": "料金はニフティ（公式に料金の記載なし）。サウナは公式告知で通常営業。前回調査で人工温泉と判定。住所はニフティ表記「北7千16号」を北7線16号と解釈"
+    },
+    {
+      "kind": "super",
+      "name": "当麻ヘルシーシャトー",
+      "address": "北海道上川郡当麻町6条西4丁目",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "町外料金（町内600円）",
+      "saunaTypes": [],
+      "url": "http://healthy-chateau.jp/",
+      "sources": [
+        "http://healthy-chateau.jp/",
+        "https://onsen.nifty.com/asahikawa-onsen/onsen010418/"
+      ],
+      "confidence": "high",
+      "notice": "不定休",
+      "note": "公式は料金表と並べて「サウナあり」と記載（サウナ別料金の記載なし）。二股温泉ラジウム鉱石で温泉を再現した湯（天然温泉ではない）"
+    },
+    {
+      "kind": "super",
+      "name": "くつろぎ湯処 紋太の湯",
+      "address": "北海道紋別市幸町4丁目1-1",
+      "weekdayAdult": 650,
+      "holidayAdult": 650,
+      "saunaFee": 0,
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "url": "https://tic.mombetsu.net/tourist-facilities/montanoyu/",
+      "sources": [
+        "https://tic.mombetsu.net/tourist-facilities/montanoyu/",
+        "https://onsen.nifty.com/monbetsu-onsen/onsen009522/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1水曜",
+      "note": "紋別観光案内のページに大人650円・「温泉ではありません」（伏流水）。サウナ別料金の記載なし。サウナの種類はニフティ。オホーツク氷紋の駅内"
+    },
+    {
+      "kind": "sento",
+      "name": "サンアリーナしらぬか しらぬかの湯",
+      "address": "北海道白糠郡白糠町東2条北3-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://okamotopbc.jp/shiranuka-pool/floor/shiranuka-no-yu/",
+      "sources": [
+        "https://okamotopbc.jp/shiranuka-pool/",
+        "https://okamotopbc.jp/shiranuka-pool/2026/09/30/%e5%85%a5%e6%b5%b4%e6%96%99%e9%87%91%e5%80%a4%e4%b8%8a%e3%81%92%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜（祝日の場合は翌日）",
+      "note": "公式：道の公衆浴場料金改定に伴い10月から入浴当日券500→550円。設備に「サウナ完備」、サウナ料金の記載なし。天然鉱石風呂（天然温泉ではない）"
+    },
+    {
+      "kind": "sento",
+      "name": "鶴の湯（苫小牧市）",
+      "address": "北海道苫小牧市音羽町1丁目8-11",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "遠赤外線"
+      ],
+      "url": "https://www.turunoyu.net/",
+      "sources": [
+        "https://www.turunoyu.net/",
+        "https://www.city.tomakomai.hokkaido.jp/kurashi/sonota/koshu/riyo/koshuyokujo.html",
+        "https://www.nap-camp.com/mag/74021"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜",
+      "note": "組合の一覧に無いが苫小牧市の公衆浴場一覧に掲載（2026/10/1から550円）。公式の浴室紹介にサウナ。種類は記事による"
+    },
+    {
+      "kind": "sento",
+      "name": "ニュー銭湯豊川",
+      "address": "北海道苫小牧市豊川町4丁目7-7",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "遠赤外線",
+        "スチーム"
+      ],
+      "url": "https://www.city.tomakomai.hokkaido.jp/kurashi/sonota/koshu/riyo/koshuyokujo.html",
+      "sources": [
+        "https://www.city.tomakomai.hokkaido.jp/kurashi/sonota/koshu/riyo/koshuyokujo.html",
+        "https://onsen.nifty.com/tomakomai-onsen/onsen019256/",
+        "https://www.nap-camp.com/mag/74021"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜",
+      "note": "市の公衆浴場一覧で営業と料金550円を確認。サウナはニフティ・記事（2026/10/1更新）のみ"
+    },
+    {
+      "kind": "sento",
+      "name": "湯けむりパーク 湯らん銭（苫小牧市）",
+      "address": "北海道苫小牧市日新町2丁目7-26",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://www.city.tomakomai.hokkaido.jp/kurashi/sonota/koshu/riyo/koshuyokujo.html",
+      "sources": [
+        "https://www.city.tomakomai.hokkaido.jp/kurashi/sonota/koshu/riyo/koshuyokujo.html",
+        "https://www.nap-camp.com/mag/74021"
+      ],
+      "confidence": "medium",
+      "note": "市の公衆浴場一覧で営業と料金550円を確認。サウナは記事（2026/10/1更新）のみ。冷鉱泉を加温（温泉法上の温泉かは未確認）。旭川の湯らん銭とは別経営とみられる"
+    },
+    {
+      "kind": "sento",
+      "name": "丹頂湯",
+      "address": "北海道釧路市鳥取大通3丁目12-24",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム"
+      ],
+      "url": "https://www.kita-no-sento.com/sento/901-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/901-2/",
+        "https://www.nap-camp.com/mag/75958"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜",
+      "note": "組合ページに設備の記載なし（一覧はサウナ×）。サウナは記事（2026/10/1更新、釧路の多くの銭湯はサウナ追加料金なしとの記述）による"
+    },
+    {
+      "kind": "sento",
+      "name": "望洋湯",
+      "address": "北海道釧路市春採6丁目4-5",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [],
+      "url": "https://www.kita-no-sento.com/sento/908-2/",
+      "sources": [
+        "https://www.kita-no-sento.com/sento/908-2/",
+        "https://www.nap-camp.com/mag/75958"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：木曜",
+      "note": "組合ページに設備の記載なし（一覧はサウナ×）。サウナは記事（2026/10/1更新）による"
+    },
+    {
+      "kind": "sento",
+      "name": "さくら湯（釧路市）",
+      "address": "北海道釧路市入江町12-3",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [],
+      "url": "https://onsen.nifty.com/kushiro-onsen/onsen019306/",
+      "sources": [
+        "https://onsen.nifty.com/kushiro-onsen/onsen019306/",
+        "https://yuru-to.net/detail.php?oid=50918"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3火曜",
+      "note": "組合の一覧に無い。ニフティ（550円表記）と口コミサイトのみ。サウナ（テレビ付き・約90℃）は口コミによる"
+    },
+    {
+      "kind": "sento",
+      "name": "おふろぱーく登別",
+      "address": "北海道登別市新川町2丁目2-1",
+      "weekdayAdult": 550,
+      "holidayAdult": 550,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 無料）",
+      "saunaTypes": [],
+      "url": "https://www.instagram.com/ofuroparku_noboribetu/",
+      "sources": [
+        "https://onsen.nifty.com/noboribetsu-onsen/onsen024750/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜",
+      "note": "組合の一覧に無い。ニフティのみ（公式はInstagram）。泉質の記載なく天然温泉と確認できない。口コミ（2026/5）に「サウナありで500円」（改定前）"
+    },
+    {
+      "kind": "super",
+      "name": "いきいき健康センター 入浴施設ぷらっと",
+      "address": "北海道士別市西2条3-1924-3",
+      "weekdayAdult": 490,
+      "holidayAdult": 490,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://www.city.shibetsu.lg.jp/soshikikarasagasu/kaigohokenka/ikiikikenkosenta/612.html",
+      "sources": [
+        "https://www.city.shibetsu.lg.jp/soshikikarasagasu/kaigohokenka/ikiikikenkosenta/612.html"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜。2027/3/31で廃止予定（設備故障で早まる場合あり）",
+      "note": "市公式（2026/10/15更新）。「サウナ施設完備」、料金は入浴料のみ。温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "朝日地域交流施設 和が舎",
+      "address": "北海道士別市朝日町中央4039",
+      "weekdayAdult": 480,
+      "holidayAdult": 480,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://www.city.shibetsu.lg.jp/soshikikarasagasu/chiikiseikatsuka/chiikishinkokakari/1364.html",
+      "sources": [
+        "https://www.city.shibetsu.lg.jp/soshikikarasagasu/chiikiseikatsuka/chiikishinkokakari/1364.html"
+      ],
+      "confidence": "high",
+      "note": "市公式（2026/7/14更新）。設備にサウナ室、料金は入浴料のみ。温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "いきいき元気村 いきいき館",
+      "address": "北海道雨竜郡雨竜町第10町内",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://www.town.uryu.hokkaido.jp/docs/genkimura.html?cat=/vis/26/126/",
+      "sources": [
+        "https://www.town.uryu.hokkaido.jp/docs/genkimura.html?cat=/vis/26/126/",
+        "https://onsen.nifty.com/asahikawa-onsen/onsen019398/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第4月曜",
+      "note": "町公式に「沸かし湯、サウナ」・大人400円（ページ更新日は2022年表記）。ニフティに2026/7の口コミあり"
+    },
+    {
+      "kind": "super",
+      "name": "和寒町保養センター",
+      "address": "北海道上川郡和寒町西町166",
+      "weekdayAdult": 300,
+      "holidayAdult": 300,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "サウナは土日のみ",
+      "url": "https://www.town.wassamu.hokkaido.jp/residents/collection/recreation-center/",
+      "sources": [
+        "https://www.town.wassamu.hokkaido.jp/residents/collection/recreation-center/",
+        "https://onsen.nifty.com/furano-onsen/onsen019525/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月・金曜。営業は夕方から（3〜10月16:30〜21:30、11〜2月16:00〜21:00）",
+      "note": "町公式に「サウナ料金はかかりません。但し、土日のみ利用可能」。温泉の記載なし"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "望月湯（札幌市豊平区）",
+      "reason": "2026/10/30から休業（再開未定・組合告知）"
+    },
+    {
+      "name": "伏見温泉（札幌市中央区）",
+      "reason": "2026/7/25閉店（組合告知）"
+    },
+    {
+      "name": "滝の湯（札幌市西区発寒）",
+      "reason": "休業中のまま2026/10末で廃業（組合告知）"
+    },
+    {
+      "name": "金栄湯（旭川市）",
+      "reason": "2026年6月末で廃業（組合告知）"
+    },
+    {
+      "name": "松の湯（苫小牧市浜町）",
+      "reason": "2026/6/14で廃業（組合告知）"
+    },
+    {
+      "name": "ルスツリゾート サウスウイング大浴場",
+      "reason": "リゾートホテルの大浴場（対象外）。天然温泉でもない"
+    },
+    {
+      "name": "道の駅しらぬか 恋問館 海の見えるサウナ",
+      "reason": "サウナ専用施設（対象外）"
+    },
+    {
+      "name": "みどりヶ丘温泉 サウナビジネスホテル（帯広市）",
+      "reason": "サウナ主体のビジネスホテル（対象外）"
+    }
+  ],
+  "notes": "北海道全域の天然温泉でない銭湯・スーパー銭湯。北海道浴場組合（kita-no-sento.com）の銭湯一覧90件を起点に、天然温泉の銭湯（既存の温泉データ収録分）を除いて個別ページを確認。組合一覧の「サウナ×」表示は不正確（檜湯・萬石湯・みつわ湯・美瑛の松の湯・室蘭の松の湯は個別ページにサウナあり）なため、×表示の銭湯も個別ページを確認した。北海道の銭湯統制額は2026/10/1から大人550円（組合 kita-no-sento.com/8828/、苫小牧市の公衆浴場一覧でも確認）。旭川の組合ページはサウナ料金まで掲載（改定後の550円表記）。札幌の組合ページはサウナ料金の記載がなく、公式で確認できない札幌・江別・小樽・函館・北見・根室の銭湯は saunaFee null。釧路は2026/10/1更新の記事に「多くの銭湯はサウナ追加料金なし」とあり目安 無料と記載。サウナイキタイの施設ページは405で閲覧不可のため使っていない。組合以外は札幌・旭川・苫小牧・釧路・紋別・士別のニフティ一覧と市町村の公式ページで補った。未収録・要確認: 東の湯（江別、組合一覧はサウナ○だが個別ページに設備記載なし）、神宮温泉（札幌、組合一覧サウナ×・ニフティはサウナ表示）、末広湯（千歳、非加盟・公式はInstagramのみ）、サンホールはぴねす（情報なし）、ぬくもりの湯（安平町、料金・営業を確認できず）、士別inn翠月（ホテル）。天然温泉の取りこぼし候補（温泉データ側）: 山花温泉リフレ（釧路、料金の食い違い）、宮の森楽々温泉（室蘭）。温泉データ側の要確認: 旭川高砂台 万葉の湯は記事（nap-camp 2026/10/1更新）で「二股ラジウム温泉の鉱石を使用した天然ミネラル水のお風呂」と紹介されている。"
+}

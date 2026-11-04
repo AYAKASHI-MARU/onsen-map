@@ -1,0 +1,81 @@
+{
+  "prefecture": "鹿児島県",
+  "prefCode": "46",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "まちの湯ひとっ風呂",
+      "address": "鹿児島県枕崎市東本町60",
+      "weekdayAdult": 460,
+      "holidayAdult": 460,
+      "saunaFee": null,
+      "priceNote": "2026/11/1から500円（県の統制料金改定）。サウナ料金は施設にご確認ください",
+      "saunaTypes": ["塩"],
+      "saunaNote": "岩塩サウナ",
+      "url": "https://www.kagoshima-onsen1010.net/sento-map/makurazaki/post-60.php",
+      "sources": [
+        "https://www.kagoshima-onsen1010.net/sento-map/makurazaki/post-60.php",
+        "https://www.kagoshima-onsen1010.net/info/post-106.php"
+      ],
+      "confidence": "high",
+      "notice": "木曜定休。10〜22時",
+      "note": "組合ページで泉質は「冷鉱泉（天然地下水）」、設備にサウナ（岩塩サウナ）・水風呂。温泉データには未収録。料金は県の統制料金（基準日460円）"
+    },
+    {
+      "kind": "super",
+      "name": "あすぱる温泉（セントロランド 道の駅くにの松原おおさき）",
+      "address": "鹿児島県曽於郡大崎町神領2419",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "priceNote": "家族風呂1時間2,200円",
+      "saunaTypes": ["その他"],
+      "saunaNote": "",
+      "url": "https://asuparu.jp/facility-information/",
+      "sources": [
+        "https://asuparu.jp/facility-information/",
+        "https://onsen.nifty.com/oosumihantou-onsen/onsen004760/"
+      ],
+      "confidence": "high",
+      "notice": "月曜定休（祝日の場合は営業、連休明け休み）。13:00〜21:30",
+      "note": "公式に「天然温泉ではなく、水道水の沸かし湯」。ホテル・道の駅併設の日帰り入浴施設で大浴場にサウナあり（種類の記載なし）。ニフティの500円は旧料金"
+    },
+    {
+      "kind": "super",
+      "name": "ふれ愛の郷 ふれ愛の湯",
+      "address": "鹿児島県奄美市笠利町中金久45",
+      "weekdayAdult": null,
+      "holidayAdult": null,
+      "saunaFee": null,
+      "priceNote": "料金は施設にご確認ください（目安 520円）",
+      "saunaTypes": ["その他"],
+      "saunaNote": "",
+      "url": "https://www.city.amami.lg.jp/kkenko/shisetsu/fukushi/014.html",
+      "sources": [
+        "https://www.city.amami.lg.jp/kkenko/shisetsu/fukushi/014.html",
+        "https://sauna-ikitai.com/kagoshima?page=8",
+        "https://www.pref.kagoshima.jp/ae06/kenko-fukushi/kenko-iryo/kenko/eiyo/ouenten/documents/71275_20200220195904-1.pdf"
+      ],
+      "confidence": "low",
+      "notice": "",
+      "note": "奄美市の高齢者保健福祉支援センターの浴場（天然温泉の記載なし）。市のページで2026/9/13ボイラー故障→9/28営業再開。サウナは県の資料（2020年）とサウナイキタイ。料金はサウナイキタイ一覧の「520円〜」のみで公式未確認"
+    }
+  ],
+  "excluded": [
+    { "name": "亀乃湯（鹿児島市三和町）", "reason": "人工温泉の銭湯（サウナあり）。機械故障のため休業中で再開未定（組合のお知らせ 2026/10/5）" },
+    { "name": "奄美体験交流館（奄美市住用町）", "reason": "浴場（薬草風呂・サウナ）がボイラー室の機械故障で2026/10/21から臨時休業、再開未定（運営NPOのサイト）" },
+    { "name": "ホテルニューニシノ（ニューニシノサウナ&天然温泉）", "reason": "男性専用のサウナ施設（温泉は掘削中）" },
+    { "name": "繋がるサウナ THE BARREL・サウナ・24 宝乃湯", "reason": "男性専用のサウナ施設" },
+    { "name": "エクセルサウナタイセイ・SAUNA&STAY", "reason": "カプセルホテル・サウナ施設" },
+    { "name": "よろんとサウナ・HOCO RASHA SAUNA・綯-NAU-屋久島 SAUNA・夢サウナ・478 MARINE BASE ほか", "reason": "予約制の個室・貸切サウナ" },
+    { "name": "志布志湾 大黒リゾートホテル・ホテルビッグマリン奄美・ホテル レクストン鹿児島・おきえらぶフローラルホテル・ビジネスホテル舞鶴館・奄美ポートタワーホテル・奄美山羊島ホテル", "reason": "ホテルの大浴場" },
+    { "name": "地域福祉センター やけうちの里（宇検村）", "reason": "公式情報なし。料金・サウナ・営業状況をポータルでしか確認できず" },
+    { "name": "龍郷町健康保険センター どぅくさぁや館", "reason": "サウナイキタイで休業・短縮営業の表示。公式情報なし" },
+    { "name": "ひかりの郷（出水市）", "reason": "公式情報なし。天然温泉か・料金を確認できず（ポータルのみ）" },
+    { "name": "太田鉱泉（日置市）", "reason": "加熱した冷鉱泉の銭湯だが、組合ページにサウナの記載なし" },
+    { "name": "与論島B&G海洋センター・セイカスポーツクラブ・フィットイージー ほか", "reason": "体育施設・スポーツクラブ" }
+  ],
+  "notes": "鹿児島県の銭湯の統制料金は基準日時点で大人460円（2023/12/25改定）、2026/11/1から500円（組合のお知らせ）。組合サイト（kagoshima-onsen1010.net）の13支部の銭湯一覧を確認したところ、ほぼすべて天然温泉で、天然温泉でないものは亀乃湯（人工温泉・休業中）・まちの湯ひとっ風呂（冷鉱泉の天然地下水）のみ。太田鉱泉・黄金の湯岩戸はサウナの記載なし。スーパー銭湯・公共の浴場はサウナイキタイ鹿児島県一覧（294件・15ページ）・ニフティ温泉で洗い出した。県内の日帰り施設はほぼ天然温泉。奄美・徳之島・沖永良部・与論の島しょ部は公共の浴場が少なく、公式情報が乏しい（やけうちの里など未確認）。"
+}

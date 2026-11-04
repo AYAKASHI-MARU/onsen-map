@@ -1,0 +1,283 @@
+{
+  "prefecture": "秋田県",
+  "prefCode": "05",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "ユーランドホテル八橋",
+      "address": "秋田県秋田市八橋イサノ2-16-29",
+      "weekdayAdult": 800,
+      "holidayAdult": 850,
+      "saunaFee": null,
+      "priceNote": "フリータイム（清掃後〜24時）。深夜2時間コース900円。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://youland.jp/",
+      "sources": [
+        "https://youland.jp/pg3057511.html",
+        "https://youland.jp/_src/65092550/img20250221104623939077.jpg",
+        "https://yuru-to.net/detail.php?oid=3506"
+      ],
+      "confidence": "high",
+      "notice": "年中無休（午前に清掃時間あり）",
+      "note": "24時間営業の健康ランド型（ホテル併設）。公式の新料金表（2/21〜、2025年の画像）。天然鉱石の手作り温泉（天然温泉ではない）。サウナあり（ゆる〜と）、料金表にサウナ別料金の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "道の駅てんのう くららの湯",
+      "address": "秋田県潟上市天王字江川上谷地109-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "saunaNote": "低温・高温の2種類",
+      "url": "https://michinoeki-tenno.jp/spa/",
+      "sources": [
+        "https://michinoeki-tenno.jp/spa/",
+        "https://yuru-to.net/detail.php?oid=569"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第2月曜（祝日は翌日）。源泉停止中のため沸かし湯で営業",
+      "note": "本来は含よう素-ナトリウム-塩化物強塩泉だが、公式に「源泉停止中のため当面の間白湯（沸かし湯）での営業」。温泉調査でも同じ理由で除外。料金表にサウナ別料金なし"
+    },
+    {
+      "kind": "super",
+      "name": "ゆりの里交流センター ゆりえもん",
+      "address": "秋田県由利本荘市前郷字御伊勢下39-2",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://www.city.yurihonjo.lg.jp/shisetsu/1002012/1002037/1006491.html",
+      "sources": [
+        "https://www.city.yurihonjo.lg.jp/shisetsu/1002012/1002037/1006491.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：火曜（祝日は営業）・12/31・1/1",
+      "note": "天然カルシウム原石の人工的な湯（天然温泉ではない）。市の施設ページ（令和8年4月1日現在の料金）。65歳以上500円"
+    },
+    {
+      "kind": "super",
+      "name": "平鹿町ゆとり館",
+      "address": "秋田県横手市平鹿町浅舞字蒋沼289",
+      "weekdayAdult": 310,
+      "holidayAdult": 310,
+      "saunaFee": 0,
+      "saunaTypes": [],
+      "url": "https://www.city.yokote.lg.jp/shisetsu/1006093/1006292.html",
+      "sources": [
+        "https://www.city.yokote.lg.jp/shisetsu/1006093/1006292.html"
+      ],
+      "confidence": "high",
+      "notice": "休館日：火曜・8/13・12/31・1/1",
+      "note": "市の施設ページに「当館浴場は温泉ではありません」。大浴場・サウナ・ジェットバス。毎月26日は半額"
+    },
+    {
+      "kind": "super",
+      "name": "秋田県中央老人福祉総合エリア",
+      "address": "秋田県秋田市御所野下堤5丁目1-1",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "15時以降350円（休憩料金・入浴込み）",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "約70℃の蒸気サウナ",
+      "url": "http://www.silverarea.jp/chuou/",
+      "sources": [
+        "http://www.silverarea.jp/chuou/stay/bath",
+        "https://yuru-to.net/detail.php?oid=3517"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日は翌日）",
+      "note": "一般利用可の休憩・入浴施設。トゴール鉱石の人工温泉（口コミに沸かし湯）。料金は「休憩料金」大人全日700円"
+    },
+    {
+      "kind": "super",
+      "name": "秋田県南部老人福祉総合エリア",
+      "address": "秋田県横手市大森町字菅生田245-34",
+      "weekdayAdult": 690,
+      "holidayAdult": 690,
+      "saunaFee": 0,
+      "priceNote": "15時以降350円（休憩入浴料金）",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "乾式サウナ",
+      "url": "http://www.silverarea.jp/nanbu/",
+      "sources": [
+        "http://www.silverarea.jp/nanbu/stay/stay",
+        "https://yuru-to.net/detail.php?oid=3536"
+      ],
+      "confidence": "high",
+      "notice": "休館日：月曜（祝日は翌日）",
+      "note": "ラジウム鉱砂を入れた浴場（天然温泉ではない）。休憩入浴料金 一般 日中690円。屋内温水プール併設（別料金）"
+    },
+    {
+      "kind": "super",
+      "name": "にしめ湯っ娘ランド",
+      "address": "秋田県由利本荘市西目町沼田字新道下1112-1",
+      "weekdayAdult": 600,
+      "holidayAdult": 600,
+      "saunaFee": null,
+      "priceNote": "2026/4/1に料金改定。サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://nishimeyukkolandyou.wixsite.com/nishime-yukkoland",
+      "sources": [
+        "https://news.allabout.co.jp/articles/o/123814/?page=2",
+        "https://nishimeyukkolandyou.wixsite.com/nishime-yukkoland",
+        "https://yuru-to.net/detail.php?oid=3533"
+      ],
+      "confidence": "medium",
+      "notice": "24時間営業（深夜1〜5時は大浴場・サウナの清掃で入浴不可）",
+      "note": "公式に2026/4/1から入館料金変更の告知（金額は画像で未確認）。All About 2026/7/16で大人600円。泉質の記載なし（薬湯）。ゆる〜との700円は改定前"
+    },
+    {
+      "kind": "onsen",
+      "name": "河辺岩見温泉交流センター",
+      "address": "秋田県秋田市河辺三内字外川原101-1",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=564",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第4月曜",
+      "note": "ナトリウム-塩化物泉。口コミ（2026/1）で日帰り500円・サウナ・水風呂あり"
+    },
+    {
+      "kind": "onsen",
+      "name": "かしわ温泉",
+      "address": "秋田県由利本荘市西目町西目釜ヶ沢96-5",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=36135",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第1・3水曜、年末年始",
+      "note": "メタけい酸の項で温泉に該当する冷鉱泉。口コミ（2026/8/4）で日帰り450円"
+    },
+    {
+      "kind": "onsen",
+      "name": "鹿角市大湯温泉保養センター 湯都里",
+      "address": "秋田県鹿角市十和田大湯桂ノ沢1-3",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=46115",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "medium",
+      "notice": "年末年始休み",
+      "note": "ナトリウム-塩化物泉。口コミ（2026/5/6）で大人450円"
+    },
+    {
+      "kind": "onsen",
+      "name": "沼館温泉会館 ぬまだてのゆっこ",
+      "address": "秋田県大館市沼館藤蕪82",
+      "weekdayAdult": 450,
+      "holidayAdult": 450,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3450",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "medium",
+      "notice": "不定休（年3回）",
+      "note": "ナトリウム・カルシウム-硫酸塩・塩化物温泉。口コミ（2026/5/25）で450円"
+    },
+    {
+      "kind": "onsen",
+      "name": "にかほ市老人憩の家 午ノ浜温泉",
+      "address": "秋田県にかほ市三森字午ノ浜144-1",
+      "weekdayAdult": 400,
+      "holidayAdult": 400,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=36136",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：水曜・年末年始",
+      "note": "冷鉱泉。ゆる〜と400円（口コミ2025/2で400円・サウナ・水風呂、2026/3の口コミあり）"
+    },
+    {
+      "kind": "onsen",
+      "name": "鹿角市 湯瀬ふれあいセンター",
+      "address": "秋田県鹿角市八幡平湯瀬湯端50",
+      "weekdayAdult": 210,
+      "holidayAdult": 210,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=561",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "medium",
+      "notice": "年末年始休み",
+      "note": "アルカリ性単純温泉。口コミ（2025/10）で210円、2026/4の口コミあり"
+    },
+    {
+      "kind": "onsen",
+      "name": "桜温泉 さくらさくら",
+      "address": "秋田県秋田市桜2-92",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください",
+      "saunaTypes": [],
+      "url": "https://sakura-golf.com/",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=3510",
+        "https://sauna-ikitai.com/akita"
+      ],
+      "confidence": "low",
+      "notice": "定休日：第3木曜",
+      "note": "含よう素-ナトリウム-塩化物強塩温泉。ゆる〜と・サウナイキタイは800円だが2025/12の口コミは700円（食い違い）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "サンライフ秋田・秋田テルサ",
+      "reason": "スポーツ・勤労者福祉施設（体育施設のスポーツサウナ）"
+    },
+    {
+      "name": "リフレッシュ・スパクォード（ホテルクォードインyokote）",
+      "reason": "ホテルの浴場（かまくら型サウナ）"
+    },
+    {
+      "name": "ユフォーレ・きみまち阪 いちのくら・おおもり温泉 さくら荘",
+      "reason": "宿泊施設の浴場（ゆる〜とで「日帰り入浴可の宿」）。未確認"
+    },
+    {
+      "name": "サウナカフェumikko・デトサウナ・白神ロウリュウ・URATENGU ほか",
+      "reason": "サウナ主体・貸切サウナ"
+    }
+  ],
+  "notes": "秋田県全域。候補はサウナイキタイ秋田県一覧（166件）、ゆる〜と（日帰り入浴リスト248件）、sento-candidates.md。サウナのある一般公衆浴場（町の銭湯）は確認できず、天然温泉でない施設は super。温泉データに無い天然温泉（河辺岩見・かしわ・湯都里・沼館・午ノ浜・湯瀬ふれあいセンター・桜温泉さくらさくら）は onsen としてゆる〜との日付つき口コミで収録。未確認：定住促進センター国花苑・プラザの湯（サウナイキタイに銭湯として掲載、詳細不明）、ひまわりセンター（三種町）・井川町老人福祉センター ゆうゆう（口コミなし）、日帰り天然温泉 緑風荘（湯沢、泉質不明）。"
+}

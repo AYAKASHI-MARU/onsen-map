@@ -1,0 +1,537 @@
+{
+  "prefecture": "広島県",
+  "prefCode": "34",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "sento",
+      "name": "瀬戸の湯",
+      "address": "広島県広島市中区舟入川口町13-24",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 100,
+      "priceNote": "2026/11/1から大人550円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://onsen.nifty.com/hiroshima-onsen/onsen010914/",
+        "https://www.nap-camp.com/mag/75608"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月4・14・24日（日祝は営業）",
+      "note": "組合の一覧で営業を確認。サウナ+100円はニフティと記事（2026/10更新）による。サウナの種類は未確認"
+    },
+    {
+      "kind": "sento",
+      "name": "いなり湯",
+      "address": "広島県広島市南区宇品海岸2-5-2",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "サウナ用タオル付き。2026/11/1から大人550円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "http://www.inariyu.com/",
+      "sources": [
+        "http://www.inariyu.com/content2.html",
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://onsen.nifty.com/hiroshima-onsen/onsen003761/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：毎月第3木曜日",
+      "note": "公式の料金ページはサウナ200円（入浴料は旧額480円のまま）"
+    },
+    {
+      "kind": "sento",
+      "name": "泉湯",
+      "address": "広島県広島市西区楠木町2-3-16",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 0,
+      "priceNote": "2026/11/1から大人550円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://yuru-to.net/detail.php?oid=10241"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週水曜日",
+      "note": "組合の紹介文に「スチームサウナ」。追加料金なしは2025年の複数の口コミ（ゆる～と）による"
+    },
+    {
+      "kind": "sento",
+      "name": "ちどり湯",
+      "address": "広島県広島市西区南観音3-6-6",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 200,
+      "priceNote": "サウナは貸バスタオル付き。2026/11/1から大人550円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "https://www.facebook.com/tidoriyu",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://onsen.nifty.com/hiroshima-onsen/onsen016367/",
+        "https://yuru-to.net/detail.php?oid=10260"
+      ],
+      "confidence": "medium",
+      "notice": "不定休",
+      "note": "サウナ+200円はニフティ。2026/7の口コミでサウナ込み700円"
+    },
+    {
+      "kind": "sento",
+      "name": "明神湯",
+      "address": "広島県呉市東中央1-4-20",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/11/1から大人550円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "男女日替わりで、サウナのある浴室は日によって入れ替わる（口コミ）",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://yuru-to.net/detail.php?oid=10297",
+        "https://www.nap-camp.com/mag/78114"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月3・13・23日",
+      "note": "サウナの有無・種類はポータルと口コミ（2026/3・5）による"
+    },
+    {
+      "kind": "onsen",
+      "name": "天然温泉 そてつ湯（蘇鉄湯）",
+      "address": "広島県呉市和庄登町14-9",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/11/1から大人550円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://yuru-to.net/detail.php?oid=10304",
+        "https://www.nap-camp.com/mag/78114"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月第3水曜日",
+      "note": "組合加盟の銭湯（統制料金）。泉質は単純弱放射能冷鉱泉（ポータル・記事）。サウナの種類は未確認。定休日はポータルでは火曜日"
+    },
+    {
+      "kind": "sento",
+      "name": "ゆーとぴあ",
+      "address": "広島県呉市本通2-8-29",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/11/1から大人550円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://yuru-to.net/detail.php?oid=10302"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第2・4月曜日",
+      "note": "サウナはポータルと口コミ（2025年）による"
+    },
+    {
+      "kind": "sento",
+      "name": "まちかど湯活サロン 赤ビルの湯",
+      "address": "広島県呉市中通2-4-5",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": 250,
+      "priceNote": "サウナは平日250円・土日祝350円。2026/11/1から大人550円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://yuru-to.net/detail.php?oid=10299",
+        "https://www.nap-camp.com/mag/78114"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：第3水曜日",
+      "note": "組合の一覧では「赤ビル温泉」。サウナ料金はポータル（ゆる～と）による"
+    },
+    {
+      "kind": "sento",
+      "name": "栗原温泉",
+      "address": "広島県尾道市三軒家町4-19",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください（目安 サウナ利用700円）。2026/11/1から大人550円",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "サウナは2階の浴室",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://yuru-to.net/detail.php?oid=10247"
+      ],
+      "confidence": "high",
+      "notice": "定休日：月曜日",
+      "note": "組合の紹介文に「1階浴室2階サウナ」。天然温泉ではない（ポータル）"
+    },
+    {
+      "kind": "sento",
+      "name": "だいご湯",
+      "address": "広島県福山市吉野上町3-4",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/11/1から大人550円",
+      "saunaTypes": [
+        "スチーム"
+      ],
+      "saunaNote": "",
+      "url": "http://1010hiroshima.jp/newpage1.htm",
+      "sources": [
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://sauna-ikitai.com/hiroshima/%E7%A6%8F%E5%B1%B1%E5%B8%82"
+      ],
+      "confidence": "medium",
+      "notice": "",
+      "note": "組合の一覧で営業を確認。サウナはサウナイキタイの銭湯一覧と口コミ（2025/4「蒸気のような感覚」）による"
+    },
+    {
+      "kind": "sento",
+      "name": "銭湯 遊湯",
+      "address": "広島県福山市今津町4-8-4",
+      "weekdayAdult": 500,
+      "holidayAdult": 500,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。2026/11/1から大人550円",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://yuyu-esthetic.jp/bathyuyu",
+      "sources": [
+        "https://yuyu-esthetic.jp/bathyuyu",
+        "http://1010hiroshima.jp/newpage1.htm",
+        "https://onsen.nifty.com/fukuyama-onsen/onsen016457/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週月曜日（祝日の場合は翌火曜日）",
+      "note": "公式で営業を確認（サウナの記載なし）。ミストサウナはニフティと口コミ（2026/10）による"
+    },
+    {
+      "kind": "super",
+      "name": "スパシーレ祇園",
+      "address": "広島県広島市安佐南区祇園3-2-2",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "特別期間1,200円。基本入浴のみ（サウナ・露天不可）の料金は2026/11/1に改定",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://spaseare-gion.jp/",
+      "sources": [
+        "https://spaseare-gion.jp/charge",
+        "https://spaseare-gion.jp/news/2164.html"
+      ],
+      "confidence": "high",
+      "notice": "イオンモール広島祇園内。不定休（メンテナンス休館あり）",
+      "note": "入館料に基本入浴・サウナ・露天風呂を含む。11/1の改定は公衆浴場料金（基本入浴）とタオルのみ。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "Spa Seare YAMATO（スパシーレヤマト）",
+      "address": "広島県呉市宝町2-50",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "特別期間1,200円。基本入浴のみはサウナ不可",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "和風・洋風の浴室を男女週替わり",
+      "url": "https://spaseare-yamato.jp/",
+      "sources": [
+        "https://spaseare-yamato.jp/about",
+        "https://onsen.nifty.com/kure-onsen/onsen024874/"
+      ],
+      "confidence": "high",
+      "notice": "ゆめタウン呉レクレ館5・6F。定休日：毎月第1水・木曜日",
+      "note": "公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "アジアンリゾートスパ シーレ",
+      "address": "広島県安芸郡坂町平成ヶ浜3-2-11",
+      "weekdayAdult": 1200,
+      "holidayAdult": 1200,
+      "saunaFee": 0,
+      "priceNote": "会員1,000円。深夜1〜5時 +1,000円。基本入浴のみはサウナ不可",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://www.seare.jp/",
+      "sources": [
+        "https://www.seare.jp/charge",
+        "https://www.seare.jp/"
+      ],
+      "confidence": "high",
+      "notice": "24時間営業（浴室清掃8〜10時）",
+      "note": "公式に天然温泉の記載なし。オートロウリュ・アロマサウナあり（ポータル）"
+    },
+    {
+      "kind": "super",
+      "name": "お湯処 美福",
+      "address": "広島県福山市曙町5-2-27",
+      "weekdayAdult": 970,
+      "holidayAdult": 970,
+      "saunaFee": 0,
+      "priceNote": "サウナ利用は「ロイヤルコースA」（2026/10/1改定後）。入浴のみ700円",
+      "saunaTypes": [
+        "ドライ",
+        "スチーム",
+        "塩",
+        "ロウリュ可"
+      ],
+      "saunaNote": "塩サウナは女湯のみ（ポータル情報）",
+      "url": "https://mifuku-yu.co.jp/",
+      "sources": [
+        "https://mifuku-yu.co.jp/?page_id=2",
+        "https://mifuku-yu.co.jp/",
+        "https://onsen.nifty.com/fukuyama-onsen/onsen009561/"
+      ],
+      "confidence": "high",
+      "notice": "",
+      "note": "公式お知らせ（2026/9/7）で10/1から大人680→700円、サウナ利用のロイヤルコースAも改定。公式に天然温泉の記載なし（高濃度炭酸泉）"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯ゆらら",
+      "address": "広島県福山市南本庄1-12-22",
+      "weekdayAdult": 950,
+      "holidayAdult": 950,
+      "saunaFee": 0,
+      "priceNote": "サウナコース（タオル・バスタオル付）。入浴のみ550円",
+      "saunaTypes": [
+        "塩",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://yurara.ichifujinetwork.co.jp/",
+      "sources": [
+        "https://yurara.ichifujinetwork.co.jp/information",
+        "https://onsen.nifty.com/fukuyama-onsen/onsen008263/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎週木曜日（祝日の場合は翌日）",
+      "note": "値は公式の現行表示（11/4確認）。ニフティでは入浴500円・サウナコース880円で、11/1の県の銭湯料金改定に合わせて変わった可能性があり、基準日時点の額は未確認"
+    },
+    {
+      "kind": "super",
+      "name": "スーパー銭湯 雲母の里",
+      "address": "広島県東広島市黒瀬町兼広885-6",
+      "weekdayAdult": 900,
+      "holidayAdult": 1000,
+      "saunaFee": 0,
+      "priceNote": "サウナ料金（基本・露天のみは平日700円・土日祝800円）。繁忙期は1,000円",
+      "saunaTypes": [
+        "ドライ",
+        "ロウリュ可"
+      ],
+      "saunaNote": "",
+      "url": "https://unmonosato.jp/",
+      "sources": [
+        "https://unmonosato.jp/",
+        "https://onsen.nifty.com/takehara-onsen/onsen016672/"
+      ],
+      "confidence": "high",
+      "notice": "定休日：第1・3木曜日（月により第2・3木曜日）",
+      "note": "お湯はブラックシリカを使用（天然温泉の記載なし）"
+    },
+    {
+      "kind": "super",
+      "name": "満天の湯 可部店",
+      "address": "広島県広島市安佐北区可部7-4-13",
+      "weekdayAdult": 1100,
+      "holidayAdult": 1100,
+      "saunaFee": 0,
+      "priceNote": "満天入浴プラン（露天・サウナ利用可）。基本入浴プラン（内風呂のみ）480円",
+      "saunaTypes": [
+        "ドライ",
+        "塩"
+      ],
+      "saunaNote": "",
+      "url": "https://www.manten-no-yu.com/",
+      "sources": [
+        "https://onsen.nifty.com/hiroshima-onsen/onsen016172/",
+        "https://www.nap-camp.com/mag/75608",
+        "https://www.manten-no-yu.com/furo/"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月第2水曜日（祝日の場合は翌日）",
+      "note": "料金はニフティと記事（2026/10更新）。サウナイキタイの一覧は950円〜で食い違いあり。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "湯処ふかわの湯",
+      "address": "広島県広島市安佐北区小河原町199",
+      "weekdayAdult": 800,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "一般コース サウナ付き。入浴のみ600円。終日フリー入浴券1,100円",
+      "saunaTypes": [
+        "ドライ",
+        "ミスト"
+      ],
+      "saunaNote": "",
+      "url": "https://fukawayu.com/",
+      "sources": [
+        "https://fukawayu.com/",
+        "https://onsen.nifty.com/hiroshima-onsen/onsen003762/"
+      ],
+      "confidence": "medium",
+      "notice": "年中無休",
+      "note": "値は公式の現行表示（11/4確認）。ニフティ・記事ではサウナ付き700円で、基準日時点の額は未確認。公式に天然温泉の記載なし"
+    },
+    {
+      "kind": "super",
+      "name": "安芸の湯",
+      "address": "広島県安芸郡府中町みくまり3-15-28",
+      "weekdayAdult": 1000,
+      "holidayAdult": 1000,
+      "saunaFee": null,
+      "priceNote": "サウナ料金は施設にご確認ください。基本入浴コース500円あり",
+      "saunaTypes": [
+        "塩",
+        "遠赤外線"
+      ],
+      "saunaNote": "",
+      "url": "https://yuru-to.net/detail.php?oid=1470",
+      "sources": [
+        "https://yuru-to.net/detail.php?oid=1470",
+        "https://sauna-ikitai.com/hiroshima?page=2"
+      ],
+      "confidence": "low",
+      "notice": "定休日：第3火曜日",
+      "note": "公式サイトを見つけられず。ゆる～とは大人1,000円（基本入浴500円）、サウナイキタイの一覧は800円〜で食い違い。口コミ（2026/4）で営業を確認。天然温泉かは未確認"
+    },
+    {
+      "kind": "onsen",
+      "name": "天然温泉・クアハウス 神田山荘",
+      "address": "広島県広島市東区牛田新町1-16-1",
+      "weekdayAdult": 750,
+      "holidayAdult": 750,
+      "saunaFee": null,
+      "priceNote": "入湯税込み。サウナ料金は施設にご確認ください",
+      "saunaTypes": [
+        "ドライ"
+      ],
+      "saunaNote": "",
+      "url": "https://kandasansou.jp/",
+      "sources": [
+        "https://dive-hiroshima.com/explore/3777/",
+        "https://www.walkerplus.com/spot/ar0834s78391/data.html",
+        "https://www.nap-camp.com/mag/75608"
+      ],
+      "confidence": "medium",
+      "notice": "定休日：毎月第2水曜日（全館休館）",
+      "note": "泉質は含弱放射能-Na・Ca-塩化物温泉（ウォーカープラス・2026/6時点）。料金は大浴場・バーデゾーン（水着）込み。サウナがどちらにあるかは未確認。公式サイトは証明書エラーで取得できず"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "大学湯",
+      "reason": "2026/9/27でサウナ営業廃止（組合サイト）"
+    },
+    {
+      "name": "土橋湯（土橋温泉）",
+      "reason": "サウナ休止中との口コミ（2025/8・2026/6）。サウナの営業を確認できず"
+    },
+    {
+      "name": "丁字湯",
+      "reason": "2026年4月廃業（組合サイト）"
+    },
+    {
+      "name": "寿温泉（府中市）",
+      "reason": "廃業（組合サイト）"
+    },
+    {
+      "name": "観音湯",
+      "reason": "組合の一覧（2026年5月）に無く、営業を確認できず"
+    },
+    {
+      "name": "ホテルグランティア福山 スーパー健康ランド華のゆ",
+      "reason": "改装のため2026/5/15〜2027/4/30休館"
+    },
+    {
+      "name": "ベネトレ広島店",
+      "reason": "サウナ・フィットネスの複合施設（時間制・会員制、浴槽の記載なし）"
+    },
+    {
+      "name": "ここから（仙酔島 江戸風呂）",
+      "reason": "蒸し風呂（江戸風呂）が主体の宿泊施設の付帯施設"
+    },
+    {
+      "name": "MACHI:SAUNA HIROSHIMA",
+      "reason": "サウナ専門施設"
+    },
+    {
+      "name": "SAUNA WABI-SABI",
+      "reason": "サウナ専門施設"
+    },
+    {
+      "name": "Hiki stargazing sauna",
+      "reason": "サウナ専門施設"
+    },
+    {
+      "name": "サウナなごみ",
+      "reason": "サウナ専門施設"
+    },
+    {
+      "name": "グランドサウナ広島",
+      "reason": "男性専用サウナ"
+    },
+    {
+      "name": "広島カプセルホテル&サウナ ニュージャパンEX",
+      "reason": "男性専用カプセル&サウナ"
+    },
+    {
+      "name": "カプセル&サウナ日本",
+      "reason": "男性専用カプセル&サウナ"
+    },
+    {
+      "name": "広島パシフィックホテル サウナ 亀の家",
+      "reason": "ホテルのサウナ施設（サウナが主）"
+    }
+  ],
+  "notes": "広島県公衆浴場業生活衛生同業組合のサイト（1010hiroshima.jp、2026年5月現在22軒）の銭湯一覧を全件確認し、サウナイキタイの広島県一覧（224件）とニフティ温泉の広島県サウナ一覧（116件）、前回の除外候補で洗い出した。入浴料は基準日時点の県の統制額（2025/8/1から大人500円）。2026/11/1から550円に改定（県告示2026/10/22・組合サイト）のため priceNote に記載。組合の一覧でサウナの記載がない銭湯は、サウナイキタイの銭湯一覧・ゆる～と・ニフティでサウナを確認した。吉島湯・三本松湯・日の出湯（ボイラー故障で休業中）・オリーブ湯・大宮湯・大栄湯・松乃湯はサウナを確認できず対象外。サウナ料金はいなり湯のみ公式で確認、他はポータル・口コミ。鶴乃湯・音戸温泉は天然温泉として既存データに収録済み。天然温泉で既存データに無いもののうち、県民の浜 やすらぎの館（呉市蒲刈・ラドン泉）、はらだの湯（尾道市）、天然ラドン温泉 龍頭の湯（北広島町）、大衆演劇せら温泉（世羅町）は未確認のため未収録。サウナイキタイは一覧ページのみ取得でき、施設ページはアクセス制限（405）のため参照していない。"
+}

@@ -1,0 +1,67 @@
+{
+  "prefecture": "佐賀県",
+  "prefCode": "41",
+  "area": "",
+  "researchedAt": "2026-10-29",
+  "facilities": [
+    {
+      "kind": "super",
+      "name": "本庄の湯",
+      "address": "佐賀県佐賀市本庄町大字袋260-5",
+      "weekdayAdult": 700,
+      "holidayAdult": 800,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [
+        "ミスト"
+      ],
+      "saunaNote": "サウナルーム、ミストサウナ（女性のみ）",
+      "url": "https://honjyounoyu.fitness-isports.com/",
+      "sources": [
+        "https://honjyounoyu.fitness-isports.com/",
+        "https://honjyounoyu.fitness-isports.com/images/index/price.jpg"
+      ],
+      "confidence": "high",
+      "notice": "定休日：木曜日",
+      "note": "公式は「天然水」（天然温泉ではない）。スポーツクラブ（アイスポーツ佐賀南店）併設で一般も利用可"
+    },
+    {
+      "kind": "super",
+      "name": "野田の湯 やすらぎ荘",
+      "address": "佐賀県唐津市浜玉町東山田2201",
+      "weekdayAdult": 700,
+      "holidayAdult": 700,
+      "saunaFee": 0,
+      "priceNote": "",
+      "saunaTypes": [],
+      "saunaNote": "",
+      "url": "http://nodanoyu-yasuragisou.jp/",
+      "sources": [
+        "http://nodanoyu-yasuragisou.jp/",
+        "https://onsen.nifty.com/karatsu-onsen/onsen009485/"
+      ],
+      "confidence": "low",
+      "notice": "定休日：第3木曜日",
+      "note": "料金・定休日は公式（2026）。サウナはニフティの設備情報のみで公式では未確認。地下水の沸かし湯との口コミ（天然温泉と確認できず）"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "呼子台場の湯",
+      "reason": "ラジウム温浴剤の浴場。サウナの有無を公式で確認できず（口コミも食い違い）"
+    },
+    {
+      "name": "おんくり唐津",
+      "reason": "ホテルの大浴場"
+    },
+    {
+      "name": "JIN6SAUNA（中尾甚六HOTEL）・漢専用サウナTUNING",
+      "reason": "サウナが主の施設"
+    },
+    {
+      "name": "極楽湯 佐賀店",
+      "reason": "閉店"
+    }
+  ],
+  "notes": "佐賀県の銭湯の統制額は大人450円（令和6年3月1日施行の県告示）。佐賀県は浴場組合の公式な銭湯一覧が見つからず、ニフティ温泉の佐賀県サウナ一覧（55件）・スーパー銭湯まとめで洗い出した。日帰り温浴施設はほぼ天然温泉で既存データにあり、天然温泉でないサウナ付き施設は本庄の湯・野田の湯のみ。サウナ付きの一般公衆浴場（町の銭湯）は見つからなかった。"
+}

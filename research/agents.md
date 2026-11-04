@@ -38,6 +38,23 @@
 | S2 兵庫 再確認 | 28-hyogo | abb3be198db436bd4 | 完了 |
 | S3 青森 料金確認 | 02-aomori | a5020c6324bb877ae | 完了 |
 | S4 千葉 銭湯 | 12-chiba | ada7b2a7d6c27123a | 完了 |
-| B1 東京23区東部 | 13-tokyo-23ku-east-sento | afe723369428ffa85 | 実行中 |
-| B2 東京23区西部 | 13-tokyo-23ku-west-sento | a270f35c3d14a5cf2 | 実行中 |
-| B3 大阪市 | 27-osaka-city-sento | aef84a6c344eb3cb4 | 実行中 |
+| B1 東京23区東部 | 13-tokyo-23ku-east-sento | afe723369428ffa85 | 完了 |
+| B2 東京23区西部 | 13-tokyo-23ku-west-sento | a270f35c3d14a5cf2 | 完了 |
+| B3 大阪市 | 27-osaka-city-sento | aef84a6c344eb3cb4 | 完了 |
+| B4 大阪府（市外） | 27-osaka-other-sento | a78987cc4a21b70f6 | 完了 |
+| B5 神奈川 | 14-kanagawa-sento | a3b9c420b31ee2db3 | 完了 |
+| B6 埼玉 | 11-saitama-sento | a9ccf596ebeec098c | 完了 |
+| B7 千葉 | 12-chiba-sento | a3fc27028214222d7 | 完了 |
+| B8 東京多摩・島しょ | 13-tokyo-tama-sento | a5a28dbc4543fda81 | 完了 |
+| B9 茨城・栃木・群馬 | 08/09/10-*-sento | a18cd5b2bd757dec6 | 完了 |
+| B10 北海道 | 01-hokkaido-sento | ad0426023e7385d69 | 完了 |
+| B11 東北6県 | 02〜07-*-sento | a574ee980d7b97440 | 完了 |
+| B12 新潟・北陸・長野 | 15/16/17/18/20-*-sento | acb5d4a9bc235a073 | 完了 |
+| B13 山梨・静岡・岐阜 | 19/22/21-*-sento | ac1bd7a76f97efa0e | 完了 |
+| B14 愛知・三重 | 23/24-*-sento | ac0423af3bf542f4c | 完了 |
+| B15 京都・滋賀・奈良 | 26/25/29-*-sento | a3f3c4f6f945e8da5 | 完了 |
+| B16 兵庫・和歌山 | 28/30-*-sento | a68cf195d2f2bcc59 | 完了 |
+| B17 中国5県 | 31〜35-*-sento | a5171aa8a001ce9e8 | 完了 |
+| B18 四国4県 | 36〜39-*-sento | a501e2f455434c86b | 完了 |
+| B19 九州北部 | 40/41/42/44-*-sento | a619fb1c901a66ee4 | 完了 |
+| B20 九州南部・沖縄 | 43/45/46/47-*-sento | a72cdf1c0f4d8283c | 完了 |
