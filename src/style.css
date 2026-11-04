@@ -603,6 +603,25 @@ body.sheet-open .fab {
   margin-top: 18px;
   width: 100%;
 }
+/* 施設の種類の定義（説明欄） */
+.kind-defs {
+  display: grid;
+  gap: 8px;
+  margin: 0 0 8px;
+}
+.kind-defs dt {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 700;
+}
+.kind-defs dd {
+  margin: 2px 0 0 16px;
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--muted);
+}
 
 /* ---- Leaflet の調整 ---- */
 .leaflet-control-attribution {

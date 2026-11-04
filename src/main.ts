@@ -358,7 +358,11 @@ results.addEventListener('click', (e) => {
 
 // ---- このアプリについて ----
 const about = $<HTMLDialogElement>('about');
-$<HTMLButtonElement>('about-open').addEventListener('click', () => about.showModal());
+$<HTMLButtonElement>('about-open').addEventListener('click', () => {
+  about.showModal();
+  // 閉じるボタンに焦点が移ると末尾までスクロールするので、先頭から読めるように戻す
+  about.scrollTop = 0;
+});
 $<HTMLButtonElement>('about-close').addEventListener('click', () => about.close());
 about.addEventListener('click', (e) => {
   if (e.target === about) about.close();
